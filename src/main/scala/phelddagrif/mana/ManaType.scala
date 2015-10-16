@@ -7,7 +7,12 @@ import phelddagrif.colors.Color.Color
 // 106.1b There are six types of mana: white, blue, black, red, green, and
 //        colorless.
 
-sealed trait ManaType {
+sealed trait ManaType
+
+case object Colorless extends ManaType
+case class Colored(color: Color) extends ManaType
+
+object ManaType {
   // Create shortcuts for the five colored mana types.
   val White = Colored(Color.White)
   val Blue = Colored(Color.Blue)
@@ -15,6 +20,3 @@ sealed trait ManaType {
   val Red = Colored(Color.Red)
   val Green = Colored(Color.Green)
 }
-
-case object Colorless extends ManaType
-case class Colored(color: Color) extends ManaType
