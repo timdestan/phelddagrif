@@ -1,5 +1,4 @@
 package phelddagrif
-package mana
 
 // 106.4. When an effect produces mana, that mana goes into a player’s mana
 //        pool. From there, it can be used to pay costs immediately, or it can

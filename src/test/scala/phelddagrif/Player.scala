@@ -1,6 +1,5 @@
 import org.scalatest._
-import phelddagrif.game.Player
-import phelddagrif.mana.ManaPool
+import phelddagrif._
 
 class PlayerSpec extends FlatSpec with Matchers {
   "Player.apply" should "produce a player with 20 life." in {

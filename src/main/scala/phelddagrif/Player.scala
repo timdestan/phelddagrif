@@ -1,7 +1,4 @@
 package phelddagrif
-package game
-
-import phelddagrif.mana.ManaPool
 
 // 102.1. A player is one of the people in the game. The active player is the
 //        player whose turn it is. The other players are nonactive players.

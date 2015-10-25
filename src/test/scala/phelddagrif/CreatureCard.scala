@@ -1,6 +1,5 @@
 import org.scalatest._
-import phelddagrif.card._
-import phelddagrif.mana._
+import phelddagrif._
 
 class CreatureCardSpec extends FlatSpec with Matchers {
   "Creature cards" should "have creature card type" in {

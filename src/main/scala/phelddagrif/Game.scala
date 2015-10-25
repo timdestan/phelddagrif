@@ -1,5 +1,4 @@
 package phelddagrif
-package game
 
 // This class represents a game. TODO: Flesh this out.
 

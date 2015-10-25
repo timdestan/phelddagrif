@@ -1,5 +1,4 @@
 package phelddagrif
-package card
 
 // 205.2a The card types are artifact, creature, enchantment, instant, land,
 //        phenomenon, plane, planeswalker, scheme, sorcery, tribal, and

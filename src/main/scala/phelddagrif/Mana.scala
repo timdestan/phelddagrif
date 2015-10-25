@@ -1,5 +1,4 @@
 package phelddagrif
-package mana
 
 // 106.1. Mana is the primary resource in the game. Players spend mana to pay
 //        costs, usually when casting spells and activating abilities.

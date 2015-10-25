@@ -1,8 +1,6 @@
 package phelddagrif
-package mana
 
-import phelddagrif.colors.Color
-import phelddagrif.colors.Color.Color
+import phelddagrif.Color.Color
 
 // 106.1b There are six types of mana: white, blue, black, red, green, and
 //        colorless.

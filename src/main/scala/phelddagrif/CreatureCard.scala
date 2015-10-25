@@ -1,7 +1,4 @@
 package phelddagrif
-package card
-
-import phelddagrif.mana.Mana
 
 class CreatureCard(name: String,
                    manaCost: Mana,
