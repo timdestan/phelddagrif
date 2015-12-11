@@ -6,7 +6,9 @@ package phelddagrif
 //        end of each step and phase.
 
 case class ManaPool(mana: Set[Mana]) {
-  def add(m: Mana): ManaPool = new ManaPool(mana + m)
+  def add(m: Mana): ManaPool = ManaPool(mana + m)
+  def add(number: Int, manaType: ManaType): ManaPool =
+      ManaPool(mana + Mana(number, manaType))
 
   def simplify: ManaPool = ManaPool(
     mana.groupBy { _.manaType }
