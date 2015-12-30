@@ -7,11 +7,20 @@ package phelddagrif
 // the generic mana indicated in the cost.
 
 class ManaCost(components: Seq[ManaCost.Component]) {
+  def colors: Set[Color] = components.flatMap { _.colors }.toSet
 }
 
 object ManaCost {
   // A single component of a mana cost
-  sealed trait Component
+  sealed trait Component {
+    def colors: Set[Color] = this match {
+      case FixedGeneric(_) => Set.empty
+      case VariableGeneric => Set.empty
+      case Colored(_, c) => Set(c)
+      case Hybrid(l, r) => l.colors union r.colors
+      case Phyrexian(c) => Set(c)
+    }
+  }
 
   // 107.4b Numeral symbols (such as {1}) and variable symbols (such as {X})
   // represent generic mana in costs. Generic mana in costs can be paid with
@@ -29,7 +38,7 @@ object ManaCost {
   // with either white or blue mana, and a monocolored hybrid symbol such as
   // {2/B} can be paid with either one black mana or two mana of any type. A
   // hybrid mana symbol is all of its component colors.
-  case class Hybrid(left: Color, right: Color) extends Component
+  case class Hybrid(left: Component, right: Component) extends Component
 
   // 107.4f Phyrexian mana symbols are colored mana symbols: {W/P} is white,
   // {U/P} is blue, {B/P} is black, {R/P} is red, and {G/P} is green. A
@@ -44,4 +53,7 @@ object ManaCost {
   // ----------------------------------------------- //
 
   def apply(components: Component*):ManaCost = new ManaCost(components.toVector)
+
+  // The zero mana cost.
+  val Zero:ManaCost = ManaCost(FixedGeneric(0))
 }
