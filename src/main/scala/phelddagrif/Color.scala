@@ -3,7 +3,7 @@ package phelddagrif
 // 105.1. There are five colors in the Magic game: white, blue, black, red, and
 //        green.
 
-abstract trait Color
+sealed trait Color
 
 object Color {
   case object White extends Color
