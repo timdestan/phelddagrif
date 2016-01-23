@@ -14,28 +14,28 @@ class ManaCostSpec extends FreeSpec with Matchers {
       }
       "Single mana costs should be their own color" in {
         ManaCost(
-          ManaCost.Colored(1, White)
+          ManaCost.Colored(White)
         ).colors should be (Set(White))
       }
       "Mana costs with multiple colors should be all those colors" in {
         ManaCost(
           ManaCost.FixedGeneric(1),
-          ManaCost.Colored(1, White),
-          ManaCost.Colored(1, Green),
-          ManaCost.Colored(1, Blue)
+          ManaCost.Colored(White),
+          ManaCost.Colored(Green),
+          ManaCost.Colored(Blue)
         ).colors should be (Set(White, Green, Blue))
       }
       "Hybrid costs should be all their colors" in {
         ManaCost(
           ManaCost.Hybrid(
-            ManaCost.Colored(1, Black),
-            ManaCost.Colored(2, Blue)
+            ManaCost.Colored(Black),
+            ManaCost.Colored(Blue)
           )
         ).colors should be (Set(Blue, Black))
         ManaCost(
           ManaCost.Hybrid(
             ManaCost.FixedGeneric(4),
-            ManaCost.Colored(2, Red)
+            ManaCost.Colored(Red)
           )
         ).colors should be (Set(Red))
       }

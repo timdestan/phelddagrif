@@ -16,7 +16,7 @@ object ManaCost {
     def colors: Set[Color] = this match {
       case FixedGeneric(_) => Set.empty
       case VariableGeneric => Set.empty
-      case Colored(_, c) => Set(c)
+      case Colored(c) => Set(c)
       case Hybrid(l, r) => l.colors union r.colors
       case Phyrexian(c) => Set(c)
     }
@@ -30,7 +30,7 @@ object ManaCost {
 
   // 107.4a ... Colored mana in costs can be paid only with the appropriate
   // color of mana. ...
-  case class Colored(amount: Int, color: Color) extends Component
+  case class Colored(color: Color) extends Component
 
   // 107.4e Hybrid mana symbols are also colored mana symbols. Each one
   // represents a cost that can be paid in one of two ways, as represented by
