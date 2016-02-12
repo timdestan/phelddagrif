@@ -6,5 +6,15 @@ scalaVersion := "2.11.7"
 
 scalacOptions += "-feature"
 
-libraryDependencies += "io.spray" %%  "spray-json" % "1.3.2"
-libraryDependencies += "org.scalatest" %% "scalatest" % "2.2.4" % "test"
+resolvers += Resolver.sonatypeRepo("snapshots")
+
+
+libraryDependencies ++= Seq(
+  "io.circe" %% "circe-core" % "0.3.0-SNAPSHOT",
+  "io.circe" %% "circe-generic" % "0.3.0-SNAPSHOT",
+  "io.circe" %% "circe-parser" % "0.3.0-SNAPSHOT",
+
+  "org.typelevel" %% "cats" % "0.4.1",
+
+  "org.scalatest" %% "scalatest" % "2.2.4" % "test"
+)

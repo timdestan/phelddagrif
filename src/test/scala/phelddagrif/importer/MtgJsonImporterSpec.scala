@@ -1,3 +1,4 @@
+import cats.data.Xor
 import org.scalatest._
 import phelddagrif.importer._
 
@@ -54,24 +55,24 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
   "MtgJsonImporter.importCard" - {
     "should be able to import a card" in {
       MtgJsonImporter.importCard(SampleJson.airElemental) should be(
-        MtgJsonCard(
+        Xor.Right(MtgJsonCard(
           "Air Elemental",
           Some("{3}{U}{U}"),
           Vector("Creature"),
           Some(Vector("Elemental")),
           None,
-          Some("Flying")))
+          Some("Flying"))))
     }
 
     "should be able to import a land" in {
       MtgJsonImporter.importCard(SampleJson.plateau) should be(
-        MtgJsonCard(
+        Xor.Right(MtgJsonCard(
           "Plateau",
           None,
           Vector("Land"),
           Some(Vector("Mountain", "Plains")),
           None,
-          Some("({T}: Add {R} or {W} to your mana pool.)")))
+          Some("({T}: Add {R} or {W} to your mana pool.)"))))
     }
   }
 }

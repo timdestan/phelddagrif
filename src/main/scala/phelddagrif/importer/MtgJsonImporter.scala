@@ -1,6 +1,9 @@
 package phelddagrif.importer
 
-import spray.json._
+import cats.data.Xor
+import io.circe.Error
+import io.circe.generic.auto._
+import io.circe.jawn.JawnParser
 
 // Representation of the parts of the MtgJson data that we currently care about.
 case class MtgJsonCard(
@@ -11,13 +14,10 @@ case class MtgJsonCard(
   supertypes: Option[Vector[String]],
   text: Option[String]) {}
 
-object MtgJsonCardProtocol extends DefaultJsonProtocol {
-  implicit val MtgCardJsonFormat = jsonFormat6(MtgJsonCard)
-}
-import MtgJsonCardProtocol._
-
 // Importer to read in Magic card data in the format provided by mtgjson.com
 object MtgJsonImporter {
-  def importCard(json: String): MtgJsonCard =
-    json.parseJson.convertTo[MtgJsonCard]
+  lazy val parser = new JawnParser()
+
+  def importCard(json: String): Xor[Error, MtgJsonCard] =
+    parser.decode[MtgJsonCard](json)
 }
