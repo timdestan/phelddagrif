@@ -255,7 +255,9 @@ object SpellType {
   case object Trap extends SpellType
 }
 
-sealed trait EnchantmentType
+sealed trait EnchantmentType {
+  def asSubtype:Subtype = Subtype.Enchantment(this)
+}
 
 object EnchantmentType {
   case object Aura extends EnchantmentType
