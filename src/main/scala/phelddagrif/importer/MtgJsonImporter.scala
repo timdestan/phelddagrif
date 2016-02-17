@@ -18,6 +18,6 @@ case class MtgJsonCard(
 object MtgJsonImporter {
   lazy val parser = new JawnParser()
 
-  def importCard(json: String): Xor[Error, MtgJsonCard] =
+  def importCard(json: String): Error Xor MtgJsonCard =
     parser.decode[MtgJsonCard](json)
 }
