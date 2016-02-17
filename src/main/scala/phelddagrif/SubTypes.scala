@@ -1,6 +1,19 @@
 package phelddagrif
 
-sealed trait CreatureType
+sealed trait Subtype
+
+object Subtype {
+  case class Creature(subtype: CreatureType) extends Subtype
+  case class Spell(subtype: SpellType) extends Subtype
+  case class Enchantment(subtype: EnchantmentType) extends Subtype
+  case class Land(subtype: LandType) extends Subtype
+  case class Artifact(subtype: ArtifactType) extends Subtype
+  case class Planeswalker(subtype: PlaneswalkerType) extends Subtype
+}
+
+sealed trait CreatureType {
+  def asSubtype:Subtype = Subtype.Creature(this)
+}
 
 object CreatureType {
   case object Advisor extends CreatureType
@@ -233,7 +246,9 @@ object CreatureType {
   case object Zubera extends CreatureType
 }
 
-sealed trait SpellType
+sealed trait SpellType {
+  def asSubtype:Subtype = Subtype.Spell(this)
+}
 
 object SpellType {
   case object Arcane extends SpellType
@@ -250,6 +265,8 @@ object EnchantmentType {
 
 sealed trait LandType {
   import LandType._
+
+  def asSubtype:Subtype = Subtype.Land(this)
 
   // Whether the land type is one of the five basic land types.
   def isBasic: Boolean = this match {
@@ -290,7 +307,9 @@ object LandType {
   case object Locus extends LandType
 }
 
-sealed trait ArtifactType
+sealed trait ArtifactType {
+  def asSubtype:Subtype = Subtype.Artifact(this)
+}
 
 object ArtifactType {
   case object Contraption extends ArtifactType
@@ -298,7 +317,9 @@ object ArtifactType {
   case object Fortification extends ArtifactType
 }
 
-sealed trait PlaneswalkerType
+sealed trait PlaneswalkerType {
+  def asSubtype:Subtype = Subtype.Planeswalker(this)
+}
 
 object PlaneswalkerType {
   case object Ajani extends PlaneswalkerType
