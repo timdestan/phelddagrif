@@ -7,7 +7,7 @@ class CreatureCardSpec extends FlatSpec with Matchers {
     val bird =
       new CreatureCard("Birds of Paradise",
         ManaCost(ManaCost.Colored(Color.Green)),
-        Seq(CreatureType.Bird.asSubtype), /* abilities: */ Seq(), 0, 1)
+        Seq(CreatureType.Bird.asSubtype), Seq(Flying), 0, 1)
     bird.cardType should be(Seq(CardType.Creature))
   }
 }
