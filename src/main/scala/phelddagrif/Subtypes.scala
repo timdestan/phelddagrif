@@ -2,18 +2,7 @@ package phelddagrif
 
 sealed trait Subtype
 
-object Subtype {
-  case class Creature(subtype: CreatureType) extends Subtype
-  case class Spell(subtype: SpellType) extends Subtype
-  case class Enchantment(subtype: EnchantmentType) extends Subtype
-  case class Land(subtype: LandType) extends Subtype
-  case class Artifact(subtype: ArtifactType) extends Subtype
-  case class Planeswalker(subtype: PlaneswalkerType) extends Subtype
-}
-
-sealed trait CreatureType {
-  def asSubtype: Subtype = Subtype.Creature(this)
-}
+sealed trait CreatureType extends Subtype
 
 object CreatureType {
   case object Advisor extends CreatureType
@@ -246,18 +235,14 @@ object CreatureType {
   case object Zubera extends CreatureType
 }
 
-sealed trait SpellType {
-  def asSubtype: Subtype = Subtype.Spell(this)
-}
+sealed trait SpellType extends Subtype
 
 object SpellType {
   case object Arcane extends SpellType
   case object Trap extends SpellType
 }
 
-sealed trait EnchantmentType {
-  def asSubtype: Subtype = Subtype.Enchantment(this)
-}
+sealed trait EnchantmentType extends Subtype
 
 object EnchantmentType {
   case object Aura extends EnchantmentType
@@ -265,10 +250,8 @@ object EnchantmentType {
   case object Shrine extends EnchantmentType
 }
 
-sealed trait LandType {
+sealed trait LandType extends Subtype {
   import LandType._
-
-  def asSubtype: Subtype = Subtype.Land(this)
 
   // Whether the land type is one of the five basic land types.
   def isBasic: Boolean = this match {
@@ -309,9 +292,7 @@ object LandType {
   case object Locus extends LandType
 }
 
-sealed trait ArtifactType {
-  def asSubtype: Subtype = Subtype.Artifact(this)
-}
+sealed trait ArtifactType extends Subtype
 
 object ArtifactType {
   case object Contraption extends ArtifactType
@@ -319,9 +300,7 @@ object ArtifactType {
   case object Fortification extends ArtifactType
 }
 
-sealed trait PlaneswalkerType {
-  def asSubtype: Subtype = Subtype.Planeswalker(this)
-}
+sealed trait PlaneswalkerType extends Subtype
 
 object PlaneswalkerType {
   case object Ajani extends PlaneswalkerType
