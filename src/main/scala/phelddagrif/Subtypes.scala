@@ -12,7 +12,7 @@ object Subtype {
 }
 
 sealed trait CreatureType {
-  def asSubtype:Subtype = Subtype.Creature(this)
+  def asSubtype: Subtype = Subtype.Creature(this)
 }
 
 object CreatureType {
@@ -247,7 +247,7 @@ object CreatureType {
 }
 
 sealed trait SpellType {
-  def asSubtype:Subtype = Subtype.Spell(this)
+  def asSubtype: Subtype = Subtype.Spell(this)
 }
 
 object SpellType {
@@ -256,7 +256,7 @@ object SpellType {
 }
 
 sealed trait EnchantmentType {
-  def asSubtype:Subtype = Subtype.Enchantment(this)
+  def asSubtype: Subtype = Subtype.Enchantment(this)
 }
 
 object EnchantmentType {
@@ -268,26 +268,26 @@ object EnchantmentType {
 sealed trait LandType {
   import LandType._
 
-  def asSubtype:Subtype = Subtype.Land(this)
+  def asSubtype: Subtype = Subtype.Land(this)
 
   // Whether the land type is one of the five basic land types.
   def isBasic: Boolean = this match {
-    case Forest => true
-    case Mountain => true
-    case Swamp => true
-    case Island => true
-    case Plains => true
-    case _ => false
+    case Forest   ⇒ true
+    case Mountain ⇒ true
+    case Swamp    ⇒ true
+    case Island   ⇒ true
+    case Plains   ⇒ true
+    case _        ⇒ false
   }
 
   // Get color if this is a basic land type.
   def color: Option[Color] = this match {
-    case Forest => Some(Color.Green)
-    case Mountain => Some(Color.Red)
-    case Swamp => Some(Color.Black)
-    case Island => Some(Color.Blue)
-    case Plains => Some(Color.White)
-    case _ => None
+    case Forest   ⇒ Some(Color.Green)
+    case Mountain ⇒ Some(Color.Red)
+    case Swamp    ⇒ Some(Color.Black)
+    case Island   ⇒ Some(Color.Blue)
+    case Plains   ⇒ Some(Color.White)
+    case _        ⇒ None
   }
 }
 
@@ -310,7 +310,7 @@ object LandType {
 }
 
 sealed trait ArtifactType {
-  def asSubtype:Subtype = Subtype.Artifact(this)
+  def asSubtype: Subtype = Subtype.Artifact(this)
 }
 
 object ArtifactType {
@@ -320,7 +320,7 @@ object ArtifactType {
 }
 
 sealed trait PlaneswalkerType {
-  def asSubtype:Subtype = Subtype.Planeswalker(this)
+  def asSubtype: Subtype = Subtype.Planeswalker(this)
 }
 
 object PlaneswalkerType {

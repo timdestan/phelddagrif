@@ -9,15 +9,15 @@ class ManaPoolSpec extends FlatSpec with Matchers {
 
   "simplify" should "combine like mana types" in {
     ManaPool.of(
-        (1, Green),
-        (2, Green),
-        (3, Blue),
-        (5, Red),
-        (2, Blue)
-    ).simplify should be (ManaPool.of(
+      (1, Green),
+      (2, Green),
+      (3, Blue),
+      (5, Red),
+      (2, Blue)
+    ).simplify should be(ManaPool.of(
         (3, Green),
         (5, Blue),
         (5, Red)
-    ))
+      ))
   }
 }

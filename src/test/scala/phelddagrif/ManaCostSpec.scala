@@ -1,6 +1,6 @@
 import org.scalatest._
 import phelddagrif._
-import phelddagrif.Color.{White,Blue,Black,Red,Green}
+import phelddagrif.Color.{ White, Blue, Black, Red, Green }
 
 class ManaCostSpec extends FreeSpec with Matchers {
   "ManaCost" - {
@@ -15,7 +15,7 @@ class ManaCostSpec extends FreeSpec with Matchers {
       "Single mana costs should be their own color" in {
         ManaCost(
           ManaCost.Colored(White)
-        ).colors should be (Set(White))
+        ).colors should be(Set(White))
       }
       "Mana costs with multiple colors should be all those colors" in {
         ManaCost(
@@ -23,7 +23,7 @@ class ManaCostSpec extends FreeSpec with Matchers {
           ManaCost.Colored(White),
           ManaCost.Colored(Green),
           ManaCost.Colored(Blue)
-        ).colors should be (Set(White, Green, Blue))
+        ).colors should be(Set(White, Green, Blue))
       }
       "Hybrid costs should be all their colors" in {
         ManaCost(
@@ -31,18 +31,18 @@ class ManaCostSpec extends FreeSpec with Matchers {
             ManaCost.Colored(Black),
             ManaCost.Colored(Blue)
           )
-        ).colors should be (Set(Blue, Black))
+        ).colors should be(Set(Blue, Black))
         ManaCost(
           ManaCost.Hybrid(
             ManaCost.FixedGeneric(4),
             ManaCost.Colored(Red)
           )
-        ).colors should be (Set(Red))
+        ).colors should be(Set(Red))
       }
       "Phyrexian costs should be their color" in {
         ManaCost(
           ManaCost.Phyrexian(Red)
-        ).colors should be (Set(Red))
+        ).colors should be(Set(Red))
       }
     }
   }

@@ -61,7 +61,9 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
           Vector("Creature"),
           Some(Vector("Elemental")),
           None,
-          Some("Flying"))))
+          Some("Flying")
+        ))
+      )
     }
 
     "should be able to import a land" in {
@@ -72,7 +74,9 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
           Vector("Land"),
           Some(Vector("Mountain", "Plains")),
           None,
-          Some("({T}: Add {R} or {W} to your mana pool.)"))))
+          Some("({T}: Add {R} or {W} to your mana pool.)")
+        ))
+      )
     }
   }
 }

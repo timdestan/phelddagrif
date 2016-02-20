@@ -8,11 +8,11 @@ object ManaCost {
   // A single component of a mana cost
   sealed trait ManaSymbol {
     def colors: Set[Color] = this match {
-      case FixedGeneric(_) => Set.empty
-      case VariableGeneric => Set.empty
-      case Colored(c) => Set(c)
-      case Hybrid(l, r) => l.colors union r.colors
-      case Phyrexian(c) => Set(c)
+      case FixedGeneric(_) ⇒ Set.empty
+      case VariableGeneric ⇒ Set.empty
+      case Colored(c)      ⇒ Set(c)
+      case Hybrid(l, r)    ⇒ l.colors union r.colors
+      case Phyrexian(c)    ⇒ Set(c)
     }
   }
 
@@ -24,8 +24,8 @@ object ManaCost {
 
   // TODO: Support for snow mana costs
 
-  def apply(symbols: ManaSymbol*):ManaCost = new ManaCost(symbols)
+  def apply(symbols: ManaSymbol*): ManaCost = new ManaCost(symbols)
 
   // The zero mana cost.
-  val Zero:ManaCost = ManaCost(FixedGeneric(0))
+  val Zero: ManaCost = ManaCost(FixedGeneric(0))
 }
