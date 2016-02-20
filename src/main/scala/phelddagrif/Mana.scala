@@ -1,8 +1,5 @@
 package phelddagrif
 
-// 106.1. Mana is the primary resource in the game. Players spend mana to pay
-//        costs, usually when casting spells and activating abilities.
-
 case class Mana(amount: Int, manaType: ManaType)
 
 object Mana {
