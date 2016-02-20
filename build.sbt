@@ -10,9 +10,9 @@ resolvers += Resolver.sonatypeRepo("snapshots")
 
 
 libraryDependencies ++= Seq(
-  "io.circe" %% "circe-core" % "0.3.0-SNAPSHOT",
-  "io.circe" %% "circe-generic" % "0.3.0-SNAPSHOT",
-  "io.circe" %% "circe-parser" % "0.3.0-SNAPSHOT",
+  "io.circe" %% "circe-core" % "0.3.0",
+  "io.circe" %% "circe-generic" % "0.3.0",
+  "io.circe" %% "circe-parser" % "0.3.0",
 
   "org.typelevel" %% "cats" % "0.4.1",
 
