@@ -6,9 +6,6 @@ scalaVersion := "2.11.7"
 
 scalacOptions += "-feature"
 
-resolvers += Resolver.sonatypeRepo("snapshots")
-
-
 libraryDependencies ++= Seq(
   "io.circe" %% "circe-core" % "0.3.0",
   "io.circe" %% "circe-generic" % "0.3.0",
