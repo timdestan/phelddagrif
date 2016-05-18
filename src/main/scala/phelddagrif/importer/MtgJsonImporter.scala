@@ -1,4 +1,5 @@
-package phelddagrif.importer
+package phelddagrif
+package importer
 
 import cats.data.Xor
 import io.circe.Error
@@ -13,12 +14,38 @@ case class MtgJsonCard(
   subtypes:   Option[Vector[String]],
   supertypes: Option[Vector[String]],
   text:       Option[String]
-) {}
+)
 
 // Importer to read in Magic card data in the format provided by mtgjson.com
 object MtgJsonImporter {
   lazy val parser = new JawnParser()
 
-  def importCard(json: String): Error Xor MtgJsonCard =
-    parser.decode[MtgJsonCard](json)
+  def importCard(text: String): Error Xor Card =
+    parser.decode[MtgJsonCard](text).flatMap { parseCardParts(_) }
+
+  def parseCardParts(json: MtgJsonCard): Error Xor Card = {
+    val types = json.types.map { CardTypeParser.tryParse(_) }
+      .flatten
+      .toVector
+    val subtypeStrings = json.subtypes.getOrElse(Vector())
+    val subtypes = subtypeStrings
+      .map(CardSubtypeParser.tryParse(_))
+      .flatten.toVector
+    val rulesText =
+      json.text.map(RulesTextParser.parse(_))
+        .getOrElse(ParsedRulesText.empty)
+    val manaCost = ManaCostParser.tryParse(
+      json.manaCost.getOrElse("")
+    )
+
+    Xor.Right(
+      Card(
+        json.name,
+        types,
+        subtypes,
+        manaCost,
+        rulesText.keywordAbilities
+      )
+    )
+  }
 }

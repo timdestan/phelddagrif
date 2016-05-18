@@ -1,10 +1,9 @@
 package phelddagrif
 
-class Card(
-    val name:      String,
-    val cardType:  Seq[CardType],
-    val subtypes:  Seq[Subtype],
-    val manaCost:  ManaCost,
-    val abilities: Seq[KeywordAbility]
-) {
-}
+case class Card(
+  name:      String,
+  cardType:  Vector[CardType],
+  subtypes:  Vector[Subtype],
+  manaCost:  ManaCost,
+  abilities: Vector[KeywordAbility]
+)

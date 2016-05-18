@@ -1,6 +1,9 @@
 package phelddagrif
 
-class ManaCost(symbols: Seq[ManaCost.ManaSymbol]) {
+// We have a conundrum here, in that we have multiple reasonable ways to
+// represent the zero mana cost that will not compare equal with one another:
+// The {0} symbol, and an empty vector. TODO: Resolve this discrepancy.
+case class ManaCost(symbols: Vector[ManaCost.ManaSymbol]) {
   def colors: Set[Color] = symbols.flatMap { _.colors }.toSet
 }
 
@@ -24,8 +27,8 @@ object ManaCost {
 
   // TODO: Support for snow mana costs
 
-  def apply(symbols: ManaSymbol*): ManaCost = new ManaCost(symbols)
+  def of(symbols: ManaSymbol*) = ManaCost(symbols.toVector)
 
   // The zero mana cost.
-  val Zero: ManaCost = ManaCost(FixedGeneric(0))
+  val Zero: ManaCost = ManaCost.of(FixedGeneric(0))
 }

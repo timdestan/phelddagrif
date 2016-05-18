@@ -1,5 +1,7 @@
 import cats.data.Xor
 import org.scalatest._
+import phelddagrif._
+import phelddagrif.Color.{ White, Blue, Black, Red, Green }
 import phelddagrif.importer._
 
 object SampleJson {
@@ -55,26 +57,29 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
   "MtgJsonImporter.importCard" - {
     "should be able to import a card" in {
       MtgJsonImporter.importCard(SampleJson.airElemental) should be(
-        Xor.Right(MtgJsonCard(
+        Xor.Right(Card(
           "Air Elemental",
-          Some("{3}{U}{U}"),
-          Vector("Creature"),
-          Some(Vector("Elemental")),
-          None,
-          Some("Flying")
+          Vector(CardType.Creature),
+          Vector(CreatureType.Elemental),
+          ManaCost.of(
+            ManaCost.FixedGeneric(3),
+            ManaCost.Colored(Blue),
+            ManaCost.Colored(Blue)
+          ),
+          Vector(Flying)
         ))
       )
     }
 
     "should be able to import a land" in {
       MtgJsonImporter.importCard(SampleJson.plateau) should be(
-        Xor.Right(MtgJsonCard(
+        Xor.Right(Card(
           "Plateau",
-          None,
-          Vector("Land"),
-          Some(Vector("Mountain", "Plains")),
-          None,
-          Some("({T}: Add {R} or {W} to your mana pool.)")
+          Vector(CardType.Land),
+          Vector(LandType.Mountain, LandType.Plains),
+          // Should be able to just say Zero here, but c'est la vie.
+          ManaCost(Vector()),
+          Vector()
         ))
       )
     }

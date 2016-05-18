@@ -12,3 +12,4 @@ ScalariformKeys.preferences := ScalariformKeys.preferences.value
   .setPreference(DoubleIndentClassDeclaration, true)
   .setPreference(DanglingCloseParenthesis, Force)
   .setPreference(RewriteArrowSymbols, true)
+  .setPreference(IndentPackageBlocks, false)
