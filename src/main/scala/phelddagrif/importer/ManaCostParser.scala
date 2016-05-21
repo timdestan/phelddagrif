@@ -1,6 +1,8 @@
 package phelddagrif
 package importer
 
+import phelddagrif.ManaCost.{ White, Blue, Green, Red, Black }
+
 object ManaCostParser {
   def toInt(str: String): Option[Int] = try {
     Some(str.toInt)
@@ -10,11 +12,11 @@ object ManaCostParser {
 
   def tryParseManaSymbol(componentStr: String): Option[ManaCost.ManaSymbol] =
     componentStr.map(_.toUpper) match {
-      case "W"   ⇒ Some(ManaCost.Colored(Color.White))
-      case "U"   ⇒ Some(ManaCost.Colored(Color.Blue))
-      case "G"   ⇒ Some(ManaCost.Colored(Color.Green))
-      case "R"   ⇒ Some(ManaCost.Colored(Color.Red))
-      case "B"   ⇒ Some(ManaCost.Colored(Color.Black))
+      case "W"   ⇒ Some(White)
+      case "U"   ⇒ Some(Blue)
+      case "G"   ⇒ Some(Green)
+      case "R"   ⇒ Some(Red)
+      case "B"   ⇒ Some(Black)
       case other ⇒ toInt(other).map { ManaCost.FixedGeneric(_) }
     }
 

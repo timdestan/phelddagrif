@@ -29,6 +29,13 @@ object ManaCost {
 
   def of(symbols: ManaSymbol*) = ManaCost(symbols.toVector)
 
+  // Shorthand for the colored mana costs.
+  val White = Colored(Color.White)
+  val Blue = Colored(Color.Blue)
+  val Green = Colored(Color.Green)
+  val Red = Colored(Color.Red)
+  val Black = Colored(Color.Black)
+
   // The zero mana cost.
   val Zero: ManaCost = ManaCost.of(FixedGeneric(0))
 }
