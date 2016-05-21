@@ -63,8 +63,8 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
           Vector(CreatureType.Elemental),
           ManaCost.of(
             ManaCost.FixedGeneric(3),
-            ManaCost.Colored(Blue),
-            ManaCost.Colored(Blue)
+            ManaCost.Blue,
+            ManaCost.Blue
           ),
           Vector(Flying)
         ))
