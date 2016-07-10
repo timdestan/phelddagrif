@@ -28,7 +28,7 @@ object ManaCostParser {
       .map { _.toString }
       .map { tryParseManaSymbol(_) }
       .flatten
-      .toVector
+      .toList
     ManaCost(manaSymbols)
   }
 }

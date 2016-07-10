@@ -9,16 +9,16 @@ class ManaCostSpec extends FreeSpec with Matchers {
         ManaCost.Zero.colors shouldBe empty
       }
       "Generic costs should be no color" in {
-        ManaCost.of(ManaCost.FixedGeneric(7)).colors shouldBe empty
-        ManaCost.of(ManaCost.VariableGeneric).colors shouldBe empty
+        ManaCost(ManaCost.FixedGeneric(7)).colors shouldBe empty
+        ManaCost(ManaCost.VariableGeneric).colors shouldBe empty
       }
       "Single mana costs should be their own color" in {
-        ManaCost.of(
+        ManaCost(
           ManaCost.White
         ).colors should be(Set(White))
       }
       "Mana costs with multiple colors should be all those colors" in {
-        ManaCost.of(
+        ManaCost(
           ManaCost.FixedGeneric(1),
           ManaCost.White,
           ManaCost.Green,
@@ -26,13 +26,13 @@ class ManaCostSpec extends FreeSpec with Matchers {
         ).colors should be(Set(White, Green, Blue))
       }
       "Hybrid costs should be all their colors" in {
-        ManaCost.of(
+        ManaCost(
           ManaCost.Hybrid(
             ManaCost.Black,
             ManaCost.Blue
           )
         ).colors should be(Set(Blue, Black))
-        ManaCost.of(
+        ManaCost(
           ManaCost.Hybrid(
             ManaCost.FixedGeneric(4),
             ManaCost.Red
@@ -40,9 +40,17 @@ class ManaCostSpec extends FreeSpec with Matchers {
         ).colors should be(Set(Red))
       }
       "Phyrexian costs should be their color" in {
-        ManaCost.of(
+        ManaCost(
           ManaCost.Phyrexian(Red)
         ).colors should be(Set(Red))
+      }
+    }
+    "Zero" - {
+      "Empty list of symbols should equal zero" in {
+        ManaCost() should be(ManaCost.Zero)
+      }
+      "Single FixedGeneric(0) should equal zero" in {
+        ManaCost(ManaCost.FixedGeneric(0)) should be(ManaCost.Zero)
       }
     }
   }

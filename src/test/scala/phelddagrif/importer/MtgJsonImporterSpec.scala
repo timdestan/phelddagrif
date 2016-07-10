@@ -61,7 +61,7 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
           "Air Elemental",
           Vector(CardType.Creature),
           Vector(CreatureType.Elemental),
-          ManaCost.of(
+          ManaCost(
             ManaCost.FixedGeneric(3),
             ManaCost.Blue,
             ManaCost.Blue
@@ -77,8 +77,7 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
           "Plateau",
           Vector(CardType.Land),
           Vector(LandType.Mountain, LandType.Plains),
-          // Should be able to just say Zero here, but c'est la vie.
-          ManaCost(Vector()),
+          ManaCost.Zero,
           Vector()
         ))
       )
