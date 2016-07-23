@@ -20,16 +20,13 @@ object ManaCost {
 
   object ManaSymbol {
     def parseAsFixed(str: String): Option[ManaSymbol] =
-      try {
-        Some(FixedGeneric(str.toInt))
-      } catch {
-        case e: Exception ⇒ None
-      }
+      Xor.catchNonFatal(FixedGeneric(str.toInt)).toOption
 
     def parseAsColored(str: String): Option[ManaSymbol] =
       Color.parse(str).map(Colored(_))
 
     def parse(text: String): Error Xor ManaSymbol = {
+      // TODO: Handle other symbols.
       def symbol = parseAsFixed(text).orElse(parseAsColored(text))
       Xor.fromOption(
         symbol,

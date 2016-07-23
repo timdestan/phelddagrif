@@ -21,7 +21,7 @@ object MtgJsonImporter {
 
   def importCard(text: String): Error Xor Card =
     parser.decode[MtgJsonCard](text)
-      .leftMap(error ⇒ Error(error.getMessage))
+      .leftMap(Error.fromThrowable)
       .flatMap(json ⇒ parseCardParts(json))
 
   def parseCardParts(json: MtgJsonCard): Error Xor Card = {
