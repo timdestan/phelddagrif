@@ -1,5 +1,7 @@
 package phelddagrif
 
+import cats.data.Xor
+
 sealed trait ManaCost {
   def colors: Set[Color]
 }
@@ -13,6 +15,26 @@ object ManaCost {
       case Colored(c)      ⇒ Set(c)
       case Hybrid(l, r)    ⇒ l.colors union r.colors
       case Phyrexian(c)    ⇒ Set(c)
+    }
+  }
+
+  object ManaSymbol {
+    def parseAsFixed(str: String): Option[ManaSymbol] =
+      try {
+        Some(FixedGeneric(str.toInt))
+      } catch {
+        case e: Exception ⇒ None
+      }
+
+    def parseAsColored(str: String): Option[ManaSymbol] =
+      Color.parse(str).map(Colored(_))
+
+    def parse(text: String): Error Xor ManaSymbol = {
+      def symbol = parseAsFixed(text).orElse(parseAsColored(text))
+      Xor.fromOption(
+        symbol,
+        ifNone = Error("Expected mana symbol. Found " + text)
+      )
     }
   }
 
@@ -33,7 +55,8 @@ object ManaCost {
 
   // Invariant (enforced by apply): symbols is always non-empty. The zero mana
   // cost is represented with a single symbol: FixedGeneric(0).
-  private case class ManaCostImpl(symbols: List[ManaCost.ManaSymbol]) extends ManaCost {
+  private case class ManaCostImpl(symbols: List[ManaCost.ManaSymbol])
+      extends ManaCost {
     def colors: Set[Color] = symbols.flatMap { _.colors }.toSet
   }
 
@@ -43,4 +66,21 @@ object ManaCost {
 
   // The zero mana cost.
   val Zero: ManaCost = ManaCost()
+
+  // Try to parse a mana cost from a string.
+  def parse(str: String): Error Xor ManaCost = {
+    val parsedSymbols =
+      str.replace("[{}]", "")
+        .filter { x ⇒ x != '{' && x != '}' }
+        .map { _.toString }
+        .map(str ⇒ ManaSymbol.parse(str))
+
+    // Fail on the first symbol that failed to parse.
+    parsedSymbols.foldLeft[Error Xor List[ManaSymbol]](Xor.Right(Nil)) {
+      case (e @ Xor.Left(_), _) ⇒ e
+      case (_, e @ Xor.Left(_)) ⇒ e
+      case (Xor.Right(symbolList), Xor.Right(symbol)) ⇒
+        Xor.Right(symbol :: symbolList)
+    }.map(symbols ⇒ ManaCost(symbols.reverse))
+  }
 }

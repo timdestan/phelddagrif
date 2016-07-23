@@ -2,7 +2,6 @@ package phelddagrif
 package importer
 
 import cats.data.Xor
-import io.circe.Error
 import io.circe.generic.auto._
 import io.circe.jawn.JawnParser
 
@@ -21,7 +20,9 @@ object MtgJsonImporter {
   lazy val parser = new JawnParser()
 
   def importCard(text: String): Error Xor Card =
-    parser.decode[MtgJsonCard](text).flatMap { parseCardParts(_) }
+    parser.decode[MtgJsonCard](text)
+      .leftMap(error ⇒ Error(error.getMessage))
+      .flatMap(json ⇒ parseCardParts(json))
 
   def parseCardParts(json: MtgJsonCard): Error Xor Card = {
     val types = json.types.map { CardTypeParser.tryParse(_) }
@@ -34,18 +35,16 @@ object MtgJsonImporter {
     val rulesText =
       json.text.map(RulesTextParser.parse(_))
         .getOrElse(ParsedRulesText.empty)
-    val manaCost = ManaCostParser.tryParse(
-      json.manaCost.getOrElse("")
-    )
 
-    Xor.Right(
-      Card(
-        json.name,
-        types,
-        subtypes,
-        manaCost,
-        rulesText.keywordAbilities
-      )
-    )
+    ManaCost.parse(json.manaCost.getOrElse(""))
+      .map { manaCost ⇒
+        Card(
+          json.name,
+          types,
+          subtypes,
+          manaCost,
+          rulesText.keywordAbilities
+        )
+      }
   }
 }
