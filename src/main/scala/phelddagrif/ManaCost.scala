@@ -10,11 +10,11 @@ object ManaCost {
   // A single component of a mana cost
   sealed trait ManaSymbol {
     def colors: Set[Color] = this match {
-      case FixedGeneric(_) ⇒ Set.empty
-      case VariableGeneric ⇒ Set.empty
-      case Colored(c)      ⇒ Set(c)
-      case Hybrid(l, r)    ⇒ l.colors union r.colors
-      case Phyrexian(c)    ⇒ Set(c)
+      case FixedGeneric(_) => Set.empty
+      case VariableGeneric => Set.empty
+      case Colored(c) => Set(c)
+      case Hybrid(l, r) => l.colors union r.colors
+      case Phyrexian(c) => Set(c)
     }
   }
 
@@ -29,8 +29,8 @@ object ManaCost {
       // TODO: Handle other symbols.
       def symbol = parseAsFixed(text).orElse(parseAsColored(text))
       Xor.fromOption(
-        symbol,
-        ifNone = Error("Expected mana symbol. Found " + text)
+          symbol,
+          ifNone = Error("Expected mana symbol. Found " + text)
       )
     }
   }
@@ -66,18 +66,22 @@ object ManaCost {
 
   // Try to parse a mana cost from a string.
   def parse(str: String): Error Xor ManaCost = {
-    val parsedSymbols =
-      str.replace("[{}]", "")
-        .filter { x ⇒ x != '{' && x != '}' }
-        .map { _.toString }
-        .map(str ⇒ ManaSymbol.parse(str))
+    val parsedSymbols = str
+      .replace("[{}]", "")
+      .filter { x =>
+        x != '{' && x != '}'
+      }
+      .map { _.toString }
+      .map(str => ManaSymbol.parse(str))
 
     // Fail on the first symbol that failed to parse.
-    parsedSymbols.foldLeft[Error Xor List[ManaSymbol]](Xor.Right(Nil)) {
-      case (e @ Xor.Left(_), _) ⇒ e
-      case (_, e @ Xor.Left(_)) ⇒ e
-      case (Xor.Right(symbolList), Xor.Right(symbol)) ⇒
-        Xor.Right(symbol :: symbolList)
-    }.map(symbols ⇒ ManaCost(symbols.reverse))
+    parsedSymbols
+      .foldLeft[Error Xor List[ManaSymbol]](Xor.Right(Nil)) {
+        case (e @ Xor.Left(_), _) => e
+        case (_, e @ Xor.Left(_)) => e
+        case (Xor.Right(symbolList), Xor.Right(symbol)) =>
+          Xor.Right(symbol :: symbolList)
+      }
+      .map(symbols => ManaCost(symbols.reverse))
   }
 }

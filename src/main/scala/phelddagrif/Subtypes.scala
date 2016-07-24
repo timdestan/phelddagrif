@@ -255,22 +255,22 @@ sealed trait LandType extends Subtype {
 
   // Whether the land type is one of the five basic land types.
   def isBasic: Boolean = this match {
-    case Forest   ⇒ true
-    case Mountain ⇒ true
-    case Swamp    ⇒ true
-    case Island   ⇒ true
-    case Plains   ⇒ true
-    case _        ⇒ false
+    case Forest => true
+    case Mountain => true
+    case Swamp => true
+    case Island => true
+    case Plains => true
+    case _ => false
   }
 
   // Get color if this is a basic land type.
   def color: Option[Color] = this match {
-    case Forest   ⇒ Some(Color.Green)
-    case Mountain ⇒ Some(Color.Red)
-    case Swamp    ⇒ Some(Color.Black)
-    case Island   ⇒ Some(Color.Blue)
-    case Plains   ⇒ Some(Color.White)
-    case _        ⇒ None
+    case Forest => Some(Color.Green)
+    case Mountain => Some(Color.Red)
+    case Swamp => Some(Color.Black)
+    case Island => Some(Color.Blue)
+    case Plains => Some(Color.White)
+    case _ => None
   }
 }
 
