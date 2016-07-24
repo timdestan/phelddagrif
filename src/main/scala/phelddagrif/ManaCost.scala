@@ -1,6 +1,7 @@
 package phelddagrif
 
 import cats.data.Xor
+import phelddagrif.parse._
 
 sealed trait ManaCost {
   def colors: Set[Color]
@@ -19,20 +20,23 @@ object ManaCost {
   }
 
   object ManaSymbol {
-    def parseAsFixed(str: String): Option[ManaSymbol] =
-      Xor.catchNonFatal(FixedGeneric(str.toInt)).toOption
+    val parsers = List[Parser[ManaSymbol]](
+      // Parse fixed generic mana costs.
+      new Parser[ManaSymbol] {
+        def parse(str: String): Error Xor ManaSymbol =
+          Error.catchNonFatal(FixedGeneric(str.toInt))
+      },
+      // Parse colored mana costs.
+      Color.parser.map(Colored(_))
+      // TODO: Handle the other types of symbols.
+    )
 
-    def parseAsColored(str: String): Option[ManaSymbol] =
-      Color.parse(str).map(Colored(_))
-
-    def parse(text: String): Error Xor ManaSymbol = {
-      // TODO: Handle other symbols.
-      def symbol = parseAsFixed(text).orElse(parseAsColored(text))
-      Xor.fromOption(
-          symbol,
-          ifNone = Error("Expected mana symbol. Found " + text)
-      )
+    val parser = new UnionParser[ManaSymbol](parsers) {
+      override def error(found: String) : Error =
+          Error(s"Expected mana symbol. Found $found")
     }
+
+    def parse(str: String): Error Xor ManaSymbol = parser.parse(str)
   }
 
   case class FixedGeneric(amount: Int) extends ManaSymbol
