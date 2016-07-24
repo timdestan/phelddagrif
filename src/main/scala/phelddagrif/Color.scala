@@ -12,8 +12,8 @@ object Color {
   case object Green extends Color("G")
 
   val parser = new UnionParser[Color](
-    List(White, Blue, Black, Red, Green)
-        .map(color => new KeywordParser(color, color.symbol))
+      List(White, Blue, Black, Red, Green).map(color =>
+            new KeywordParser(color, color.symbol))
   )
 
   def parse(text: String): Option[Color] = parser.parseOption(text)

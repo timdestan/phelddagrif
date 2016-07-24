@@ -8,7 +8,7 @@ case class KeywordParser[T](result: T, keyword: String) extends Parser[T] {
   override def error(found: String): Error =
     Error(s"Expected keyword but found $found.")
 
-  def parse(str: String) : Error Xor T =
+  def parse(str: String): Error Xor T =
     if (str == keyword)
       Xor.Right(result)
     else

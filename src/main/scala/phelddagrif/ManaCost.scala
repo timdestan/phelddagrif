@@ -21,19 +21,19 @@ object ManaCost {
 
   object ManaSymbol {
     val parsers = List[Parser[ManaSymbol]](
-      // Parse fixed generic mana costs.
-      new Parser[ManaSymbol] {
-        def parse(str: String): Error Xor ManaSymbol =
-          Error.catchNonFatal(FixedGeneric(str.toInt))
-      },
-      // Parse colored mana costs.
-      Color.parser.map(Colored(_))
-      // TODO: Handle the other types of symbols.
+        // Parse fixed generic mana costs.
+        new Parser[ManaSymbol] {
+          def parse(str: String): Error Xor ManaSymbol =
+            Error.catchNonFatal(FixedGeneric(str.toInt))
+        },
+        // Parse colored mana costs.
+        Color.parser.map(Colored(_))
+        // TODO: Handle the other types of symbols.
     )
 
     val parser = new UnionParser[ManaSymbol](parsers) {
-      override def error(found: String) : Error =
-          Error(s"Expected mana symbol. Found $found")
+      override def error(found: String): Error =
+        Error(s"Expected mana symbol. Found $found")
     }
 
     def parse(str: String): Error Xor ManaSymbol = parser.parse(str)
