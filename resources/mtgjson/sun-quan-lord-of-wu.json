@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Sun Quan, Lord of Wu",
+  "manaCost": "{4}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Legendary Creature — Human Soldier",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Creatures you control have horsemanship. (They can't be blocked except by creatures with horsemanship.)",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "sun quan, lord of wu",
+  "colorIdentity": [
+    "U"
+  ]
+}

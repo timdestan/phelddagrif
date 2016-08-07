@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Zombie Master",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Other Zombie creatures have swampwalk. (They can't be blocked as long as defending player controls a Swamp.)\nOther Zombies have \"{B}: Regenerate this permanent.\"",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "zombie master",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "layout": "normal",
+  "name": "Tetsuo Umezawa",
+  "manaCost": "{U}{B}{R}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Black",
+    "Red"
+  ],
+  "type": "Legendary Creature — Human Archer",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Archer"
+  ],
+  "text": "Tetsuo Umezawa can't be the target of Aura spells.\n{U}{B}{B}{R}, {T}: Destroy target tapped or blocking creature.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "tetsuo umezawa",
+  "colorIdentity": [
+    "U",
+    "B",
+    "R"
+  ]
+}

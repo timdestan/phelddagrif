@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Shinen of Fear's Chill",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Shinen of Fear's Chill can't block.\nChannel — {1}{B}, Discard Shinen of Fear's Chill: Target creature can't block this turn.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "shinen of fear's chill",
+  "colorIdentity": [
+    "B"
+  ]
+}

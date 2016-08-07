@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Fog Patch",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Cast Fog Patch only during the declare blockers step.\nAttacking creatures become blocked. (This spell works on creatures that can't be blocked.)",
+  "imageName": "fog patch",
+  "colorIdentity": [
+    "G"
+  ]
+}

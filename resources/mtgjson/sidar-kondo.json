@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Sidar Kondo",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "{3}: Target creature gets +3/+3 until end of turn.",
+  "imageName": "sidar kondo",
+  "hand": -1,
+  "life": 12
+}

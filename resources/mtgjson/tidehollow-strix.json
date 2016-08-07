@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Tidehollow Strix",
+  "manaCost": "{U}{B}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Artifact Creature — Bird",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "tidehollow strix",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

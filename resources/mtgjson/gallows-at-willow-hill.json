@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Gallows at Willow Hill",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{3}, {T}, Tap three untapped Humans you control: Destroy target creature. Its controller puts a 1/1 white Spirit creature token with flying onto the battlefield.",
+  "imageName": "gallows at willow hill"
+}

@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Eldrazi Devastator",
+  "manaCost": "{8}",
+  "cmc": 8,
+  "type": "Creature — Eldrazi",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi"
+  ],
+  "text": "Trample",
+  "power": "8",
+  "toughness": "9",
+  "imageName": "eldrazi devastator"
+}

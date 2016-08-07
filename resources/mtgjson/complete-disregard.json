@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Complete Disregard",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Devoid (This card has no color.)\nExile target creature with power 3 or less.",
+  "imageName": "complete disregard",
+  "colorIdentity": [
+    "B"
+  ]
+}

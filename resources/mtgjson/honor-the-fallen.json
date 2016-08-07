@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Honor the Fallen",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Exile all creature cards from all graveyards. You gain 1 life for each card exiled this way.",
+  "imageName": "honor the fallen",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Heroes' Bane",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Hydra",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hydra"
+  ],
+  "text": "Heroes' Bane enters the battlefield with four +1/+1 counters on it.\n{2}{G}{G}: Put X +1/+1 counters on Heroes' Bane, where X is its power.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "heroes' bane",
+  "colorIdentity": [
+    "G"
+  ]
+}

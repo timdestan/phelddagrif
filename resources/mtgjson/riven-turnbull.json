@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Riven Turnbull",
+  "manaCost": "{5}{U}{B}",
+  "cmc": 7,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Legendary Creature — Human Advisor",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Advisor"
+  ],
+  "text": "{T}: Add {B} to your mana pool.",
+  "power": "5",
+  "toughness": "7",
+  "imageName": "riven turnbull",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Ashenmoor Gouger",
+  "manaCost": "{B/R}{B/R}{B/R}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Elemental Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Warrior"
+  ],
+  "text": "Ashenmoor Gouger can't block.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "ashenmoor gouger",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

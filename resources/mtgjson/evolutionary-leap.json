@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Evolutionary Leap",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{G}, Sacrifice a creature: Reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest on the bottom of your library in a random order.",
+  "imageName": "evolutionary leap",
+  "colorIdentity": [
+    "G"
+  ]
+}

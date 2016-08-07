@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Smoldering Tar",
+  "manaCost": "{2}{B}{R}",
+  "cmc": 4,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, target player loses 1 life.\nSacrifice Smoldering Tar: Smoldering Tar deals 4 damage to target creature. Activate this ability only any time you could cast a sorcery.",
+  "imageName": "smoldering tar",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

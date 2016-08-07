@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Feral Throwback",
+  "manaCost": "{4}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Amplify 2 (As this creature enters the battlefield, put two +1/+1 counters on it for each Beast card you reveal in your hand.)\nProvoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "feral throwback",
+  "colorIdentity": [
+    "G"
+  ]
+}

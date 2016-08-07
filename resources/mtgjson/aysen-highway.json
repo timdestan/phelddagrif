@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Aysen Highway",
+  "manaCost": "{3}{W}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "White creatures have plainswalk. (They can't be blocked as long as defending player controls a Plains.)",
+  "imageName": "aysen highway",
+  "colorIdentity": [
+    "W"
+  ]
+}

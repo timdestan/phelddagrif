@@ -1,0 +1,31 @@
+{
+  "layout": "double-faced",
+  "name": "Kytheon, Hero of Akros",
+  "names": [
+    "Kytheon, Hero of Akros",
+    "Gideon, Battle-Forged"
+  ],
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Creature — Human Soldier",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "At end of combat, if Kytheon, Hero of Akros and at least two other creatures attacked this combat, exile Kytheon, then return him to the battlefield transformed under his owner's control.\n{2}{W}: Kytheon gains indestructible until end of turn.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "kytheon, hero of akros",
+  "colorIdentity": [
+    "W"
+  ]
+}

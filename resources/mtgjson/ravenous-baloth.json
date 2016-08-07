@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ravenous Baloth",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Sacrifice a Beast: You gain 4 life.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "ravenous baloth",
+  "colorIdentity": [
+    "G"
+  ]
+}

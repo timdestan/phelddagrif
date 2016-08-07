@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Roil Spout",
+  "manaCost": "{1}{W}{U}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put target creature on top of its owner's library.\nAwaken 4—{4}{W}{U} (If you cast this spell for {4}{W}{U}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",
+  "imageName": "roil spout",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

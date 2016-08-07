@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Return of the Nightstalkers",
+  "manaCost": "{5}{B}{B}",
+  "cmc": 7,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Return all Nightstalker permanent cards from your graveyard to the battlefield. Then destroy all Swamps you control.",
+  "imageName": "return of the nightstalkers",
+  "colorIdentity": [
+    "B"
+  ]
+}

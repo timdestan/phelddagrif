@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Wilderness Hypnotist",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Wizard"
+  ],
+  "text": "{T}: Target red or green creature gets -2/-0 until end of turn.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "wilderness hypnotist",
+  "colorIdentity": [
+    "U"
+  ]
+}

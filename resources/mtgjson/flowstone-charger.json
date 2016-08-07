@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Flowstone Charger",
+  "manaCost": "{2}{R}{W}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Whenever Flowstone Charger attacks, it gets +3/-3 until end of turn.",
+  "power": "2",
+  "toughness": "5",
+  "imageName": "flowstone charger",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

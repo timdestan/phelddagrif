@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Chief of the Scale",
+  "manaCost": "{W}{B}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "Other Warrior creatures you control get +0/+1.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "chief of the scale",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "King Crab",
+  "manaCost": "{4}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Crab",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Crab"
+  ],
+  "text": "{1}{U}, {T}: Put target green creature on top of its owner's library.",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "king crab",
+  "colorIdentity": [
+    "U"
+  ]
+}

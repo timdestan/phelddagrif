@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Blood Pet",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Thrull",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Thrull"
+  ],
+  "text": "Sacrifice Blood Pet: Add {B} to your mana pool.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "blood pet",
+  "colorIdentity": [
+    "B"
+  ]
+}

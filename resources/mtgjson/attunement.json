@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Attunement",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Return Attunement to its owner's hand: Draw three cards, then discard four cards.",
+  "imageName": "attunement",
+  "colorIdentity": [
+    "U"
+  ]
+}

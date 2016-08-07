@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Geyserfield Stalker",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Menace (This creature can't be blocked except by two or more creatures.)\nLandfall — Whenever a land enters the battlefield under your control, Geyserfield Stalker gets +2/+2 until end of turn.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "geyserfield stalker",
+  "colorIdentity": [
+    "B"
+  ]
+}

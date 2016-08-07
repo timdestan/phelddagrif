@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Zof Shade",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Shade",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Shade"
+  ],
+  "text": "{2}{B}: Zof Shade gets +2/+2 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "zof shade",
+  "colorIdentity": [
+    "B"
+  ]
+}

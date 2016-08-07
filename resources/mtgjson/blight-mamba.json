@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Blight Mamba",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Snake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Snake"
+  ],
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\n{1}{G}: Regenerate Blight Mamba.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "blight mamba",
+  "colorIdentity": [
+    "G"
+  ]
+}

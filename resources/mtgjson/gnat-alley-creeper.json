@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Gnat Alley Creeper",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "Gnat Alley Creeper can't be blocked by creatures with flying.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "gnat alley creeper",
+  "colorIdentity": [
+    "R"
+  ]
+}

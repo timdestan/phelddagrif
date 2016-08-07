@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Blind Phantasm",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Illusion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Illusion"
+  ],
+  "power": "2",
+  "toughness": "3",
+  "imageName": "blind phantasm",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Coral Merfolk",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk"
+  ],
+  "power": "2",
+  "toughness": "1",
+  "imageName": "coral merfolk",
+  "colorIdentity": [
+    "U"
+  ]
+}

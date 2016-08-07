@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Touch of the Void",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Devoid (This card has no color.)\nTouch of the Void deals 3 damage to target creature or player. If a creature dealt damage this way would die this turn, exile it instead.",
+  "imageName": "touch of the void",
+  "colorIdentity": [
+    "R"
+  ]
+}

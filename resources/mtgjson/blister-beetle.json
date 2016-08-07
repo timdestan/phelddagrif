@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Blister Beetle",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "When Blister Beetle enters the battlefield, target creature gets -1/-1 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "blister beetle",
+  "colorIdentity": [
+    "B"
+  ]
+}

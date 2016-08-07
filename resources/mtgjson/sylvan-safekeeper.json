@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Sylvan Safekeeper",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Sacrifice a land: Target creature you control gains shroud until end of turn. (It can't be the target of spells or abilities.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "sylvan safekeeper",
+  "colorIdentity": [
+    "G"
+  ]
+}

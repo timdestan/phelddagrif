@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Cephalid Illusionist",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Cephalid Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cephalid",
+    "Wizard"
+  ],
+  "text": "Whenever Cephalid Illusionist becomes the target of a spell or ability, put the top three cards of your library into your graveyard.\n{2}{U}, {T}: Prevent all combat damage that would be dealt to and dealt by target creature you control this turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "cephalid illusionist",
+  "colorIdentity": [
+    "U"
+  ]
+}

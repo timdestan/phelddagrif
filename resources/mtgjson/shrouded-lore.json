@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Shrouded Lore",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target opponent chooses a card in your graveyard. You may pay {B}. If you do, repeat this process except that opponent can't choose a card already chosen for Shrouded Lore. Then put the last chosen card into your hand.",
+  "imageName": "shrouded lore",
+  "colorIdentity": [
+    "B"
+  ]
+}

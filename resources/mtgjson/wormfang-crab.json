@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Wormfang Crab",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Nightmare Crab",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Nightmare",
+    "Crab"
+  ],
+  "text": "Wormfang Crab can't be blocked.\nWhen Wormfang Crab enters the battlefield, an opponent chooses a permanent you control other than Wormfang Crab and exiles it.\nWhen Wormfang Crab leaves the battlefield, return the exiled card to the battlefield under its owner's control.",
+  "power": "3",
+  "toughness": "6",
+  "imageName": "wormfang crab",
+  "colorIdentity": [
+    "U"
+  ]
+}

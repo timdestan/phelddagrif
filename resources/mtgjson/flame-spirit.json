@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Flame Spirit",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Spirit"
+  ],
+  "text": "{R}: Flame Spirit gets +1/+0 until end of turn.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "flame spirit",
+  "colorIdentity": [
+    "R"
+  ]
+}

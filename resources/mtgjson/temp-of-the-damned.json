@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Temp of the Damned",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Summon — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "When you play Temp of the Damned, roll a six-sided die. Temp of the Damned comes into play with a number of funk counters on it equal to the die roll.\nDuring your upkeep, remove a funk counter from Temp of the Damned or sacrifice Temp of the Damned.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "temp of the damned",
+  "colorIdentity": [
+    "B"
+  ]
+}

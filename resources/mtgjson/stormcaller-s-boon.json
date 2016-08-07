@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Stormcaller's Boon",
+  "manaCost": "{2}{W}{U}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Sacrifice Stormcaller's Boon: Creatures you control gain flying until end of turn.\nCascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)",
+  "imageName": "stormcaller's boon",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

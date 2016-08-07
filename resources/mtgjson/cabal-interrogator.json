@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Cabal Interrogator",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Wizard"
+  ],
+  "text": "{X}{B}, {T}: Target player reveals X cards from his or her hand and you choose one of them. That player discards that card. Activate this ability only any time you could cast a sorcery.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "cabal interrogator",
+  "colorIdentity": [
+    "B"
+  ]
+}

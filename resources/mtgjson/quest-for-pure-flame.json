@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Quest for Pure Flame",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a source you control deals damage to an opponent, you may put a quest counter on Quest for Pure Flame.\nRemove four quest counters from Quest for Pure Flame and sacrifice it: If any source you control would deal damage to a creature or player this turn, it deals double that damage to that creature or player instead.",
+  "imageName": "quest for pure flame",
+  "colorIdentity": [
+    "R"
+  ]
+}

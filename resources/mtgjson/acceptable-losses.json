@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Acceptable Losses",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "As an additional cost to cast Acceptable Losses, discard a card at random.\nAcceptable Losses deals 5 damage to target creature.",
+  "imageName": "acceptable losses",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Stonehorn Chanter",
+  "manaCost": "{5}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Rhino Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rhino",
+    "Cleric"
+  ],
+  "text": "{5}{W}: Stonehorn Chanter gains vigilance and lifelink until end of turn. (Attacking doesn't cause it to tap. Damage dealt by it also causes you to gain that much life.)",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "stonehorn chanter",
+  "colorIdentity": [
+    "W"
+  ]
+}

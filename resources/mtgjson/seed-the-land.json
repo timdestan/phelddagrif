@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Seed the Land",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a land enters the battlefield, its controller puts a 1/1 green Snake creature token onto the battlefield.",
+  "imageName": "seed the land",
+  "colorIdentity": [
+    "G"
+  ]
+}

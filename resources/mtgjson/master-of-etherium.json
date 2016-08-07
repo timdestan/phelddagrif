@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Master of Etherium",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Artifact Creature — Vedalken Wizard",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Vedalken",
+    "Wizard"
+  ],
+  "text": "Master of Etherium's power and toughness are each equal to the number of artifacts you control.\nOther artifact creatures you control get +1/+1.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "master of etherium",
+  "colorIdentity": [
+    "U"
+  ]
+}

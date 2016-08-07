@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Thoughtbind",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell with converted mana cost 4 or less.",
+  "imageName": "thoughtbind",
+  "colorIdentity": [
+    "U"
+  ]
+}

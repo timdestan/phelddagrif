@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rise from the Tides",
+  "manaCost": "{5}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put a 2/2 black Zombie creature token onto the battlefield tapped for each instant and sorcery card in your graveyard.",
+  "imageName": "rise from the tides",
+  "colorIdentity": [
+    "U"
+  ]
+}

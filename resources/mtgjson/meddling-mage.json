@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Meddling Mage",
+  "manaCost": "{W}{U}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "As Meddling Mage enters the battlefield, name a nonland card.\nThe named card can't be cast.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "meddling mage",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

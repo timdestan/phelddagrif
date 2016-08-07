@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Empty the Warrens",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put two 1/1 red Goblin creature tokens onto the battlefield.\nStorm (When you cast this spell, copy it for each spell cast before it this turn.)",
+  "imageName": "empty the warrens",
+  "colorIdentity": [
+    "R"
+  ]
+}

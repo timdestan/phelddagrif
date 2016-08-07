@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Primal Huntbeast",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "primal huntbeast",
+  "colorIdentity": [
+    "G"
+  ]
+}

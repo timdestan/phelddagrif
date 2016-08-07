@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Auriok Glaivemaster",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "As long as Auriok Glaivemaster is equipped, it gets +1/+1 and has first strike.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "auriok glaivemaster",
+  "colorIdentity": [
+    "W"
+  ]
+}

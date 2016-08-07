@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "An-Havva Constable",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human"
+  ],
+  "text": "An-Havva Constable's toughness is equal to 1 plus the number of green creatures on the battlefield.",
+  "power": "2",
+  "toughness": "1+*",
+  "imageName": "an-havva constable",
+  "colorIdentity": [
+    "G"
+  ]
+}

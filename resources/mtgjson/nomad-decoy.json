@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Nomad Decoy",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Nomad",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Nomad"
+  ],
+  "text": "{W}, {T}: Tap target creature.\nThreshold — {W}{W}, {T}: Tap two target creatures. Activate this ability only if seven or more cards are in your graveyard.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "nomad decoy",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Oracle of Dust",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "type": "Creature — Eldrazi Processor",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Processor"
+  ],
+  "text": "Devoid (This card has no color.)\n{2}, Put a card an opponent owns from exile into that player's graveyard: Draw a card, then discard a card.",
+  "power": "3",
+  "toughness": "5",
+  "imageName": "oracle of dust",
+  "colorIdentity": [
+    "U"
+  ]
+}

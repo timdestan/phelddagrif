@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Serene Heart",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy all Auras.",
+  "imageName": "serene heart",
+  "colorIdentity": [
+    "G"
+  ]
+}

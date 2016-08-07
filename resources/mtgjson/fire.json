@@ -1,0 +1,23 @@
+{
+  "layout": "split",
+  "name": "Fire",
+  "names": [
+    "Fire",
+    "Ice"
+  ],
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Fire deals 2 damage divided as you choose among one or two target creatures and/or players.",
+  "imageName": "fire",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

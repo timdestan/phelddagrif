@@ -1,0 +1,24 @@
+{
+  "layout": "double-faced",
+  "name": "It That Rides as One",
+  "names": [
+    "Lone Rider",
+    "It That Rides as One"
+  ],
+  "cmc": 2,
+  "type": "Creature — Eldrazi Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Horror"
+  ],
+  "text": "First strike, trample, lifelink",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "it that rides as one",
+  "colorIdentity": [
+    "W"
+  ]
+}

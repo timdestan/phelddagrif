@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Wheel and Deal",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Any number of target opponents each discards his or her hand, then draws seven cards.\nDraw a card.",
+  "imageName": "wheel and deal",
+  "colorIdentity": [
+    "U"
+  ]
+}

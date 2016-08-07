@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Orbweaver Kumo",
+  "manaCost": "{4}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Reach (This creature can block creatures with flying.)\nWhenever you cast a Spirit or Arcane spell, Orbweaver Kumo gains forestwalk until end of turn. (It can't be blocked as long as defending player controls a Forest.)",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "orbweaver kumo",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Oak Street Innkeeper",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf"
+  ],
+  "text": "As long as it's not your turn, tapped creatures you control have hexproof.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "oak street innkeeper",
+  "colorIdentity": [
+    "G"
+  ]
+}

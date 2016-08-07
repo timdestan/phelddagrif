@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Gate Smasher",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Gate Smasher can be attached only to a creature with toughness 4 or greater.\nEquipped creature gets +3/+0 and has trample.\nEquip {3}",
+  "imageName": "gate smasher"
+}

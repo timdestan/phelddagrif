@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dark Revenant",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying\nWhen Dark Revenant dies, put it on top of its owner's library.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "dark revenant",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Piracy",
+  "manaCost": "{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Until end of turn, you may tap lands you don't control for mana. Spend this mana only to cast spells.",
+  "imageName": "piracy",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Irini Sengir",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Legendary Creature — Vampire Dwarf",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Dwarf"
+  ],
+  "text": "Green enchantment spells and white enchantment spells cost {2} more to cast.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "irini sengir",
+  "colorIdentity": [
+    "B"
+  ]
+}

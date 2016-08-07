@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Roaring Primadox",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "At the beginning of your upkeep, return a creature you control to its owner's hand.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "roaring primadox",
+  "colorIdentity": [
+    "G"
+  ]
+}

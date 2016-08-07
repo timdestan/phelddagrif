@@ -1,0 +1,22 @@
+{
+  "layout": "split",
+  "name": "Gone",
+  "names": [
+    "Dead",
+    "Gone"
+  ],
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Return target creature you don't control to its owner's hand.",
+  "imageName": "gone",
+  "colorIdentity": [
+    "R"
+  ]
+}

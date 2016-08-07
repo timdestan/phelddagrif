@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Goblin Bookie",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Summon — Goblin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "{R}, {T}: Reflip any coin or reroll any die.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "goblin bookie",
+  "colorIdentity": [
+    "R"
+  ]
+}

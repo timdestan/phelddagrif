@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Grave-Shell Scarab",
+  "manaCost": "{2}{B}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "{1}, Sacrifice Grave-Shell Scarab: Draw a card.\nDredge 1 (If you would draw a card, instead you may put exactly one card from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "grave-shell scarab",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

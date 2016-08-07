@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Purphoros, God of the Forge",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Enchantment Creature — God",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Enchantment",
+    "Creature"
+  ],
+  "subtypes": [
+    "God"
+  ],
+  "text": "Indestructible\nAs long as your devotion to red is less than five, Purphoros isn't a creature.\nWhenever another creature enters the battlefield under your control, Purphoros deals 2 damage to each opponent.\n{2}{R}: Creatures you control get +1/+0 until end of turn.",
+  "power": "6",
+  "toughness": "5",
+  "imageName": "purphoros, god of the forge",
+  "colorIdentity": [
+    "R"
+  ]
+}

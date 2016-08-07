@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Sundial of the Infinite",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{1}, {T}: End the turn. Activate this ability only during your turn. (Exile all spells and abilities on the stack. Discard down to your maximum hand size. Damage wears off, and \"this turn\" and \"until end of turn\" effects end.)",
+  "imageName": "sundial of the infinite"
+}

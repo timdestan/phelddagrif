@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Simic Guildgate",
+  "type": "Land — Gate",
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Gate"
+  ],
+  "text": "Simic Guildgate enters the battlefield tapped.\n{T}: Add {G} or {U} to your mana pool.",
+  "imageName": "simic guildgate",
+  "colorIdentity": [
+    "G",
+    "U"
+  ]
+}

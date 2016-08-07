@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Desertion",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell. If an artifact or creature spell is countered this way, put that card onto the battlefield under your control instead of into its owner's graveyard.",
+  "imageName": "desertion",
+  "colorIdentity": [
+    "U"
+  ]
+}

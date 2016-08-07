@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Nyxathid",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "As Nyxathid enters the battlefield, choose an opponent.\nNyxathid gets -1/-1 for each card in the chosen player's hand.",
+  "power": "7",
+  "toughness": "7",
+  "imageName": "nyxathid",
+  "colorIdentity": [
+    "B"
+  ]
+}

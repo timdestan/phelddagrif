@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Izzet Chronarch",
+  "manaCost": "{3}{U}{R}",
+  "cmc": 5,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "When Izzet Chronarch enters the battlefield, return target instant or sorcery card from your graveyard to your hand.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "izzet chronarch",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

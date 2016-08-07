@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Maelstrom Archangel Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "At end of combat, for each creature you controlled at the time it dealt combat damage to a player this turn, copy a random card with the same mana cost as that creature. You may pay {3}. If you do, choose one of those copies. If a copy of a permanent card is chosen, you may put a token onto the battlefield that's a copy of that card. If a copy of an instant or sorcery card is chosen, you may cast the copy without paying its mana cost.",
+  "imageName": "maelstrom archangel avatar",
+  "hand": 0,
+  "life": 5
+}

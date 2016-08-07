@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Tajuru Beastmaster",
+  "manaCost": "{5}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Warrior Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Warrior",
+    "Ally"
+  ],
+  "text": "Rally — Whenever Tajuru Beastmaster or another Ally enters the battlefield under your control, creatures you control get +1/+1 until end of turn.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "tajuru beastmaster",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Rhox Pikemaster",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Rhino Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rhino",
+    "Soldier"
+  ],
+  "text": "First strike (This creature deals combat damage before creatures without first strike.)\nOther Soldier creatures you control have first strike.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "rhox pikemaster",
+  "colorIdentity": [
+    "W"
+  ]
+}

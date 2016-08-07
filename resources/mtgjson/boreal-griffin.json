@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Boreal Griffin",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Snow Creature — Griffin",
+  "supertypes": [
+    "Snow"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Griffin"
+  ],
+  "text": "Flying\n{S}: Boreal Griffin gains first strike until end of turn. ({S} can be paid with one mana from a snow permanent.)",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "boreal griffin",
+  "colorIdentity": [
+    "W"
+  ]
+}

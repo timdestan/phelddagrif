@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Trained Pronghorn",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Antelope",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Antelope"
+  ],
+  "text": "Discard a card: Prevent all damage that would be dealt to Trained Pronghorn this turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "trained pronghorn",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "layout": "phenomenon",
+  "name": "Mutual Epiphany",
+  "type": "Phenomenon",
+  "types": [
+    "Phenomenon"
+  ],
+  "text": "When you encounter Mutual Epiphany, each player draws four cards. (Then planeswalk away from this phenomenon.)",
+  "imageName": "mutual epiphany"
+}

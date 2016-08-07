@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Sea Scryer",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Wizard"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{1}, {T}: Add {U} to your mana pool.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "sea scryer",
+  "colorIdentity": [
+    "U"
+  ]
+}

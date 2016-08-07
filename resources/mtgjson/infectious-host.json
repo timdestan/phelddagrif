@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Infectious Host",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "When Infectious Host dies, target player loses 2 life.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "infectious host",
+  "colorIdentity": [
+    "B"
+  ]
+}

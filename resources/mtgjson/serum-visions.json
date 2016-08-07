@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Serum Visions",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Draw a card. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+  "imageName": "serum visions",
+  "colorIdentity": [
+    "U"
+  ]
+}

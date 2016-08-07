@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Broodwarden",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Eldrazi Drone",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Drone"
+  ],
+  "text": "Eldrazi Spawn creatures you control get +2/+1.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "broodwarden",
+  "colorIdentity": [
+    "G"
+  ]
+}

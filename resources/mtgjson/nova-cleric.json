@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Nova Cleric",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "{2}{W}, {T}, Sacrifice Nova Cleric: Destroy all enchantments.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "nova cleric",
+  "colorIdentity": [
+    "W"
+  ]
+}

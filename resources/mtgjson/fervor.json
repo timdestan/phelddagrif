@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Fervor",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Creatures you control have haste. (They can attack and {T} as soon as they come under your control.)",
+  "imageName": "fervor",
+  "colorIdentity": [
+    "R"
+  ]
+}

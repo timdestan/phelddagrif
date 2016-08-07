@@ -1,0 +1,27 @@
+{
+  "layout": "double-faced",
+  "name": "Heir to the Night",
+  "names": [
+    "Heir of Falkenrath",
+    "Heir to the Night"
+  ],
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire Berserker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Berserker"
+  ],
+  "text": "Flying",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "heir to the night",
+  "colorIdentity": [
+    "B"
+  ]
+}

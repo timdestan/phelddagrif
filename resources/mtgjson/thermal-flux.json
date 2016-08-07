@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Thermal Flux",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose one —\n• Target nonsnow permanent becomes snow until end of turn.\n• Target snow permanent isn't snow until end of turn.\nDraw a card at the beginning of the next turn's upkeep.",
+  "imageName": "thermal flux",
+  "colorIdentity": [
+    "U"
+  ]
+}

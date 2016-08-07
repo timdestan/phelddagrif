@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Lucent Liminid",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment Creature — Elemental",
+  "types": [
+    "Enchantment",
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Flying",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "lucent liminid",
+  "colorIdentity": [
+    "W"
+  ]
+}

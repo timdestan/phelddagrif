@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Anticipate",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.",
+  "imageName": "anticipate",
+  "colorIdentity": [
+    "U"
+  ]
+}

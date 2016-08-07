@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Brindle Boar",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Boar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Boar"
+  ],
+  "text": "Sacrifice Brindle Boar: You gain 4 life.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "brindle boar",
+  "colorIdentity": [
+    "G"
+  ]
+}

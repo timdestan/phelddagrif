@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Drought",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, sacrifice Drought unless you pay {W}{W}.\nSpells cost an additional \"Sacrifice a Swamp\" to cast for each black mana symbol in their mana costs.\nActivated abilities cost an additional \"Sacrifice a Swamp\" to activate for each black mana symbol in their activation costs.",
+  "imageName": "drought",
+  "colorIdentity": [
+    "W"
+  ]
+}

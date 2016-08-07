@@ -1,0 +1,13 @@
+{
+  "layout": "plane",
+  "name": "Kessig",
+  "type": "Plane — Innistrad",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Innistrad"
+  ],
+  "text": "Prevent all combat damage that would be dealt by non-Werewolf creatures.\nWhenever you roll CHAOS, each creature you control gets +2/+2, gains trample, and becomes a Werewolf in addition to its other types until end of turn.",
+  "imageName": "kessig"
+}

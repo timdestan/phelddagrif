@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Pegasus Refuge",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{2}, Discard a card: Put a 1/1 white Pegasus creature token with flying onto the battlefield.",
+  "imageName": "pegasus refuge",
+  "colorIdentity": [
+    "W"
+  ]
+}

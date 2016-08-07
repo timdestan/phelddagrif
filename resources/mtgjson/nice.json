@@ -1,0 +1,23 @@
+{
+  "layout": "split",
+  "name": "Nice",
+  "names": [
+    "Naughty",
+    "Nice"
+  ],
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Search your library for a card and put it into another target player's hand. Then shuffle your library.",
+  "imageName": "nice",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

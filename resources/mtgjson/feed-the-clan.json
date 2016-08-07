@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Feed the Clan",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "You gain 5 life.\nFerocious — You gain 10 life instead if you control a creature with power 4 or greater.",
+  "imageName": "feed the clan",
+  "colorIdentity": [
+    "G"
+  ]
+}

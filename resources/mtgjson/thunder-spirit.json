@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Thunder Spirit",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Elemental Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Spirit"
+  ],
+  "text": "Flying, first strike",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "thunder spirit",
+  "colorIdentity": [
+    "W"
+  ]
+}

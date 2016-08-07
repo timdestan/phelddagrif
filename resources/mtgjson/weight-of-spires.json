@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Weight of Spires",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Weight of Spires deals damage to target creature equal to the number of nonbasic lands that creature's controller controls.",
+  "imageName": "weight of spires",
+  "colorIdentity": [
+    "R"
+  ]
+}

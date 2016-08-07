@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Jace, the Mind Sculptor",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Planeswalker — Jace",
+  "types": [
+    "Planeswalker"
+  ],
+  "subtypes": [
+    "Jace"
+  ],
+  "text": "+2: Look at the top card of target player's library. You may put that card on the bottom of that player's library.\n0: Draw three cards, then put two cards from your hand on top of your library in any order.\n−1: Return target creature to its owner's hand.\n−12: Exile all cards from target player's library, then that player shuffles his or her hand into his or her library.",
+  "loyalty": 3,
+  "imageName": "jace, the mind sculptor",
+  "colorIdentity": [
+    "U"
+  ]
+}

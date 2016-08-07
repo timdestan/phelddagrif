@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Spellbreaker Behemoth",
+  "manaCost": "{1}{R}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Spellbreaker Behemoth can't be countered.\nCreature spells you control with power 5 or greater can't be countered.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "spellbreaker behemoth",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

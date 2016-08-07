@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dwarven Bloodboiler",
+  "manaCost": "{R}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dwarf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dwarf"
+  ],
+  "text": "Tap an untapped Dwarf you control: Target creature gets +2/+0 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "dwarven bloodboiler",
+  "colorIdentity": [
+    "R"
+  ]
+}

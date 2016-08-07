@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Shifting Loyalties",
+  "manaCost": "{5}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Exchange control of two target permanents that share a card type. (Artifact, creature, enchantment, land, and planeswalker are card types.)",
+  "imageName": "shifting loyalties",
+  "colorIdentity": [
+    "U"
+  ]
+}

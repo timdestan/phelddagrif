@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Furnace Spirit",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Haste\n{R}: Furnace Spirit gets +1/+0 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "furnace spirit",
+  "colorIdentity": [
+    "R"
+  ]
+}

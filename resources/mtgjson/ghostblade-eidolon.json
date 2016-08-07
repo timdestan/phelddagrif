@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ghostblade Eidolon",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment Creature — Spirit",
+  "types": [
+    "Enchantment",
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Bestow {5}{W} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)\nDouble strike (This creature deals both first-strike and regular combat damage.)\nEnchanted creature gets +1/+1 and has double strike.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "ghostblade eidolon",
+  "colorIdentity": [
+    "W"
+  ]
+}

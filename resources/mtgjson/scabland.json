@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Scabland",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Scabland enters the battlefield tapped.\n{T}: Add {C} to your mana pool.\n{T}: Add {R} or {W} to your mana pool. Scabland deals 1 damage to you.",
+  "imageName": "scabland",
+  "colorIdentity": [
+    "R",
+    "W"
+  ]
+}

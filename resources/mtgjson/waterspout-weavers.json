@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Waterspout Weavers",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Wizard"
+  ],
+  "text": "Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Waterspout Weavers, you may reveal it. If you do, each creature you control gains flying until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "waterspout weavers",
+  "colorIdentity": [
+    "U"
+  ]
+}

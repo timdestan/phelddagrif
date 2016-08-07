@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Viridian Acolyte",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Shaman"
+  ],
+  "text": "{1}, {T}: Add one mana of any color to your mana pool.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "viridian acolyte",
+  "colorIdentity": [
+    "G"
+  ]
+}

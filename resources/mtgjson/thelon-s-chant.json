@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Thelon's Chant",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, sacrifice Thelon's Chant unless you pay {G}.\nWhenever a player puts a Swamp onto the battlefield, Thelon's Chant deals 3 damage to that player unless he or she puts a -1/-1 counter on a creature he or she controls.",
+  "imageName": "thelon's chant",
+  "colorIdentity": [
+    "G"
+  ]
+}

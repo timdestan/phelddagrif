@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Skyshroud Blessing",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "All lands gain shroud until end of turn. (They can't be the targets of spells or abilities.)\nDraw a card.",
+  "imageName": "skyshroud blessing",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Cemetery Puca",
+  "manaCost": "{1}{U/B}{U/B}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Creature — Shapeshifter",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Shapeshifter"
+  ],
+  "text": "Whenever a creature dies, you may pay {1}. If you do, Cemetery Puca becomes a copy of that creature and gains this ability.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "cemetery puca",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

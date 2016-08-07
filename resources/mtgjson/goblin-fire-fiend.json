@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Goblin Fire Fiend",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Berserker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Berserker"
+  ],
+  "text": "Haste\nGoblin Fire Fiend must be blocked if able.\n{R}: Goblin Fire Fiend gets +1/+0 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "goblin fire fiend",
+  "colorIdentity": [
+    "R"
+  ]
+}

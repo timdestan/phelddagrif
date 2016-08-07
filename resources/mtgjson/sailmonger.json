@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Sailmonger",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Monger",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Monger"
+  ],
+  "text": "{2}: Target creature gains flying until end of turn. Any player may activate this ability.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "sailmonger",
+  "colorIdentity": [
+    "U"
+  ]
+}

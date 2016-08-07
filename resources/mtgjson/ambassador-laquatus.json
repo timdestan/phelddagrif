@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Ambassador Laquatus",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Legendary Creature — Merfolk Wizard",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Wizard"
+  ],
+  "text": "{3}: Target player puts the top three cards of his or her library into his or her graveyard.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "ambassador laquatus",
+  "colorIdentity": [
+    "U"
+  ]
+}

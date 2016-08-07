@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Axelrod Gunnarson",
+  "manaCost": "{4}{B}{B}{R}{R}",
+  "cmc": 8,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Legendary Creature — Giant",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant"
+  ],
+  "text": "Trample\nWhenever a creature dealt damage by Axelrod Gunnarson this turn dies, you gain 1 life and Axelrod deals 1 damage to target player.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "axelrod gunnarson",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

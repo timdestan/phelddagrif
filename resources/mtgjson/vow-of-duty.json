@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Vow of Duty",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets +2/+2, has vigilance, and can't attack you or a planeswalker you control.",
+  "imageName": "vow of duty",
+  "colorIdentity": [
+    "W"
+  ]
+}

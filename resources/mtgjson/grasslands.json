@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Grasslands",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Grasslands enters the battlefield tapped.\n{T}, Sacrifice Grasslands: Search your library for a Forest or Plains card and put it onto the battlefield. Then shuffle your library.",
+  "imageName": "grasslands"
+}

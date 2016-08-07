@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Feral Deceiver",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "{1}: Look at the top card of your library.\n{2}: Reveal the top card of your library. If it's a land card, Feral Deceiver gets +2/+2 and gains trample until end of turn. Activate this ability only once each turn.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "feral deceiver",
+  "colorIdentity": [
+    "G"
+  ]
+}

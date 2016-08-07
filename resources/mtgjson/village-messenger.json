@@ -1,0 +1,28 @@
+{
+  "layout": "double-faced",
+  "name": "Village Messenger",
+  "names": [
+    "Village Messenger",
+    "Moonrise Intruder"
+  ],
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Werewolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Werewolf"
+  ],
+  "text": "Haste\nAt the beginning of each upkeep, if no spells were cast last turn, transform Village Messenger.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "village messenger",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Shivan Wurm",
+  "manaCost": "{3}{R}{G}",
+  "cmc": 5,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "text": "Trample\nWhen Shivan Wurm enters the battlefield, return a red or green creature you control to its owner's hand.",
+  "power": "7",
+  "toughness": "7",
+  "imageName": "shivan wurm",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

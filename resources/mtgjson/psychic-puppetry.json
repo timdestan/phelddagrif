@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Psychic Puppetry",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant — Arcane",
+  "types": [
+    "Instant"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "You may tap or untap target permanent.\nSplice onto Arcane {U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+  "imageName": "psychic puppetry",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Light of Sanction",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Prevent all damage that would be dealt to creatures you control by sources you control.",
+  "imageName": "light of sanction",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Resistance Fighter",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Sacrifice Resistance Fighter: Prevent all combat damage target creature would deal this turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "resistance fighter",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Cunning Advisor",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Advisor",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Advisor"
+  ],
+  "text": "{T}: Target opponent discards a card. Activate this ability only during your turn, before attackers are declared.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "cunning advisor",
+  "colorIdentity": [
+    "B"
+  ]
+}

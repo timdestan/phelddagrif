@@ -1,0 +1,13 @@
+{
+  "layout": "plane",
+  "name": "Velis Vel",
+  "type": "Plane — Lorwyn",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Lorwyn"
+  ],
+  "text": "Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Elemental Shamans and an Elemental Spirit are on the battlefield, each gets +2/+2.)\nWhenever you roll CHAOS, target creature gains all creature types until end of turn.",
+  "imageName": "velis vel"
+}

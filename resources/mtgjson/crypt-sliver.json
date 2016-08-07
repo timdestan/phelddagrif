@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Crypt Sliver",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "All Slivers have \"{T}: Regenerate target Sliver.\"",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "crypt sliver",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Cao Ren, Wei Commander",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Legendary Creature — Human Soldier Warrior",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier",
+    "Warrior"
+  ],
+  "text": "Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nWhen Cao Ren, Wei Commander enters the battlefield, you lose 3 life.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "cao ren, wei commander",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Owl Familiar",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\nWhen Owl Familiar enters the battlefield, draw a card, then discard a card.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "owl familiar",
+  "colorIdentity": [
+    "U"
+  ]
+}

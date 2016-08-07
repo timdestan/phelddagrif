@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Quicksilver Dagger",
+  "manaCost": "{1}{U}{R}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature has \"{T}: This creature deals 1 damage to target player. You draw a card.\"",
+  "imageName": "quicksilver dagger",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

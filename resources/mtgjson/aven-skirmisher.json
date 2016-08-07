@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Aven Skirmisher",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Bird Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird",
+    "Warrior"
+  ],
+  "text": "Flying",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "aven skirmisher",
+  "colorIdentity": [
+    "W"
+  ]
+}

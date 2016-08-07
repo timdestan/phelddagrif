@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Collective Defiance",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Escalate {1} (Pay this cost for each mode chosen beyond the first.)\nChoose one or more —\n• Target player discards all the cards in his or her hand, then draws that many cards.\n• Collective Defiance deals 4 damage to target creature.\n• Collective Defiance deals 3 damage to target opponent.",
+  "imageName": "collective defiance",
+  "colorIdentity": [
+    "R"
+  ]
+}

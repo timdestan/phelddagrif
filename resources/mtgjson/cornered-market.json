@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Cornered Market",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Players can't cast spells with the same name as a nontoken permanent.\nPlayers can't play nonbasic lands with the same name as a nontoken permanent.",
+  "imageName": "cornered market",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Wind-Scarred Crag",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Wind-Scarred Crag enters the battlefield tapped.\nWhen Wind-Scarred Crag enters the battlefield, you gain 1 life.\n{T}: Add {R} or {W} to your mana pool.",
+  "imageName": "wind-scarred crag",
+  "colorIdentity": [
+    "R",
+    "W"
+  ]
+}

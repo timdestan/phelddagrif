@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Flooded Grove",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{G/U}, {T}: Add {G}{G}, {G}{U}, or {U}{U} to your mana pool.",
+  "imageName": "flooded grove",
+  "colorIdentity": [
+    "G",
+    "U"
+  ]
+}

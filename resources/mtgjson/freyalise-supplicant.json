@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Freyalise Supplicant",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "{T}, Sacrifice a red or white creature: Freyalise Supplicant deals damage to target creature or player equal to half the sacrificed creature's power, rounded down.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "freyalise supplicant",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Eldrazi Mimic",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Creature — Eldrazi",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi"
+  ],
+  "text": "Whenever another colorless creature enters the battlefield under your control, you may change Eldrazi Mimic's base power and toughness to that creature's power and toughness until end of turn.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "eldrazi mimic"
+}

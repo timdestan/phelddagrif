@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Wandering Ones",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "power": "1",
+  "toughness": "1",
+  "imageName": "wandering ones",
+  "colorIdentity": [
+    "U"
+  ]
+}

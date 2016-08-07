@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Knacksaw Clique",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Faerie Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Faerie",
+    "Rogue"
+  ],
+  "text": "Flying\n{1}{U}, {Q}: Target opponent exiles the top card of his or her library. Until end of turn, you may play that card. ({Q} is the untap symbol.)",
+  "power": "1",
+  "toughness": "4",
+  "imageName": "knacksaw clique",
+  "colorIdentity": [
+    "U"
+  ]
+}

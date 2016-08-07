@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Charmed Griffin",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Griffin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Griffin"
+  ],
+  "text": "Flying\nWhen Charmed Griffin enters the battlefield, each other player may put an artifact or enchantment card onto the battlefield from his or her hand.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "charmed griffin",
+  "colorIdentity": [
+    "W"
+  ]
+}

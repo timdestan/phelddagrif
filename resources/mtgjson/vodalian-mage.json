@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Vodalian Mage",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Wizard"
+  ],
+  "text": "{U}, {T}: Counter target spell unless its controller pays {1}.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "vodalian mage",
+  "colorIdentity": [
+    "U"
+  ]
+}

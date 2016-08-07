@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Nature's Spiral",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Return target permanent card from your graveyard to your hand. (A permanent card is an artifact, creature, enchantment, land, or planeswalker card.)",
+  "imageName": "nature's spiral",
+  "colorIdentity": [
+    "G"
+  ]
+}

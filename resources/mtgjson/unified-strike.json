@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Unified Strike",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Exile target attacking creature if its power is less than or equal to the number of Soldiers on the battlefield.",
+  "imageName": "unified strike",
+  "colorIdentity": [
+    "W"
+  ]
+}

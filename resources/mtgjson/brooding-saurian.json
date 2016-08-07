@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Brooding Saurian",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Lizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Lizard"
+  ],
+  "text": "At the beginning of each end step, each player gains control of all nontoken permanents he or she owns.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "brooding saurian",
+  "colorIdentity": [
+    "G"
+  ]
+}

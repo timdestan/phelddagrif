@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Spawnwrithe",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Trample\nWhenever Spawnwrithe deals combat damage to a player, put a token that's a copy of Spawnwrithe onto the battlefield.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "spawnwrithe",
+  "colorIdentity": [
+    "G"
+  ]
+}

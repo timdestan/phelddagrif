@@ -1,0 +1,31 @@
+{
+  "layout": "normal",
+  "name": "Arcades Sabboth",
+  "manaCost": "{2}{G}{G}{W}{W}{U}{U}",
+  "cmc": 8,
+  "colors": [
+    "White",
+    "Blue",
+    "Green"
+  ],
+  "type": "Legendary Creature — Elder Dragon",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elder",
+    "Dragon"
+  ],
+  "text": "Flying\nAt the beginning of your upkeep, sacrifice Arcades Sabboth unless you pay {G}{W}{U}.\nEach untapped creature you control gets +0/+2 as long as it's not attacking.\n{W}: Arcades Sabboth gets +0/+1 until end of turn.",
+  "power": "7",
+  "toughness": "7",
+  "imageName": "arcades sabboth",
+  "colorIdentity": [
+    "W",
+    "U",
+    "G"
+  ]
+}

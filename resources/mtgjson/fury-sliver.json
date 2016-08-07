@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Fury Sliver",
+  "manaCost": "{5}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "All Sliver creatures have double strike.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "fury sliver",
+  "colorIdentity": [
+    "R"
+  ]
+}

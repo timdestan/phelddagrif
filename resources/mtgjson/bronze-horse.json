@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Bronze Horse",
+  "manaCost": "{7}",
+  "cmc": 7,
+  "type": "Artifact Creature — Horse",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Horse"
+  ],
+  "text": "Trample\nAs long as you control another creature, prevent all damage that would be dealt to Bronze Horse by spells that target it.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "bronze horse"
+}

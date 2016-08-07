@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Snake Pit",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever an opponent casts a blue or black spell, you may put a 1/1 green Snake creature token onto the battlefield.",
+  "imageName": "snake pit",
+  "colorIdentity": [
+    "G"
+  ]
+}

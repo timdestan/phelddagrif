@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Survivor of the Unseen",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\n{T}: Draw two cards, then put a card from your hand on top of your library.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "survivor of the unseen",
+  "colorIdentity": [
+    "U"
+  ]
+}

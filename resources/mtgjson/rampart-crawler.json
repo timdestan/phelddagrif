@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Rampart Crawler",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Lizard Mercenary",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Lizard",
+    "Mercenary"
+  ],
+  "text": "Rampart Crawler can't be blocked by Walls.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "rampart crawler",
+  "colorIdentity": [
+    "B"
+  ]
+}

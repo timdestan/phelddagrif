@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Pitchburn Devils",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Devil",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Devil"
+  ],
+  "text": "When Pitchburn Devils dies, it deals 3 damage to target creature or player.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "pitchburn devils",
+  "colorIdentity": [
+    "R"
+  ]
+}

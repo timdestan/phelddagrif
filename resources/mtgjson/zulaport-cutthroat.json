@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Zulaport Cutthroat",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Rogue Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue",
+    "Ally"
+  ],
+  "text": "Whenever Zulaport Cutthroat or another creature you control dies, each opponent loses 1 life and you gain 1 life.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "zulaport cutthroat",
+  "colorIdentity": [
+    "B"
+  ]
+}

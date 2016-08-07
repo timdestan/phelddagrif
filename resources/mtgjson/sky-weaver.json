@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Sky Weaver",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Metathran Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Metathran",
+    "Wizard"
+  ],
+  "text": "{2}: Target white or black creature gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "sky weaver",
+  "colorIdentity": [
+    "U"
+  ]
+}

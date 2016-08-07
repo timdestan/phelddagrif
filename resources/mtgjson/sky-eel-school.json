@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sky-Eel School",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Fish",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Fish"
+  ],
+  "text": "Flying\nWhen Sky-Eel School enters the battlefield, draw a card, then discard a card.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "sky-eel school",
+  "colorIdentity": [
+    "U"
+  ]
+}

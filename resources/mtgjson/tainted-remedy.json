@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Tainted Remedy",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "If an opponent would gain life, that player loses that much life instead.",
+  "imageName": "tainted remedy",
+  "colorIdentity": [
+    "B"
+  ]
+}

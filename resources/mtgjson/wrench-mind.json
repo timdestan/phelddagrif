@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Wrench Mind",
+  "manaCost": "{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target player discards two cards unless he or she discards an artifact card.",
+  "imageName": "wrench mind",
+  "colorIdentity": [
+    "B"
+  ]
+}

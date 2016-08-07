@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Headhunter",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "Whenever Headhunter deals combat damage to a player, that player discards a card.\nMorph {B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "headhunter",
+  "colorIdentity": [
+    "B"
+  ]
+}

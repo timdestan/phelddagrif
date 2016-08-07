@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dominate",
+  "manaCost": "{X}{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Gain control of target creature with converted mana cost X or less.",
+  "imageName": "dominate",
+  "colorIdentity": [
+    "U"
+  ]
+}

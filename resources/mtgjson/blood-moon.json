@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Blood Moon",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Nonbasic lands are Mountains.",
+  "imageName": "blood moon",
+  "colorIdentity": [
+    "R"
+  ]
+}

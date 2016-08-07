@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Abzan Banner",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}: Add {W}, {B}, or {G} to your mana pool.\n{W}{B}{G}, {T}, Sacrifice Abzan Banner: Draw a card.",
+  "imageName": "abzan banner",
+  "colorIdentity": [
+    "W",
+    "B",
+    "G"
+  ]
+}

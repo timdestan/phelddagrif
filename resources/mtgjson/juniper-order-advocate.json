@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Juniper Order Advocate",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "As long as Juniper Order Advocate is untapped, green creatures you control get +1/+1.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "juniper order advocate",
+  "colorIdentity": [
+    "W"
+  ]
+}

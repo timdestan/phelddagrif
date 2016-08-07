@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Metallic Sliver",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact Creature — Sliver",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "power": "1",
+  "toughness": "1",
+  "imageName": "metallic sliver"
+}

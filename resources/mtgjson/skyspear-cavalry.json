@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Skyspear Cavalry",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Flying\nDouble strike (This creature deals both first-strike and regular combat damage.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "skyspear cavalry",
+  "colorIdentity": [
+    "W"
+  ]
+}

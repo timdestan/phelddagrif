@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dwarven Demolition Team",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dwarf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dwarf"
+  ],
+  "text": "{T}: Destroy target Wall.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "dwarven demolition team",
+  "colorIdentity": [
+    "R"
+  ]
+}

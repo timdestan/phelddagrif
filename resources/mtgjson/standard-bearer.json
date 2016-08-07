@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Standard Bearer",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Flagbearer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Flagbearer"
+  ],
+  "text": "While choosing targets as part of casting a spell or activating an ability, your opponents must choose at least one Flagbearer on the battlefield if able.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "standard bearer",
+  "colorIdentity": [
+    "W"
+  ]
+}

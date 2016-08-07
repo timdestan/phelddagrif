@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Mana Confluence",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}, Pay 1 life: Add one mana of any color to your mana pool.",
+  "imageName": "mana confluence"
+}

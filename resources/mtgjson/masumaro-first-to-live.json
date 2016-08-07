@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Masumaro, First to Live",
+  "manaCost": "{3}{G}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Legendary Creature — Spirit",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Masumaro, First to Live's power and toughness are each equal to twice the number of cards in your hand.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "masumaro, first to live",
+  "colorIdentity": [
+    "G"
+  ]
+}

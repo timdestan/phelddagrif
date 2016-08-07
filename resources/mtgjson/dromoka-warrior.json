@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dromoka Warrior",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "power": "3",
+  "toughness": "1",
+  "imageName": "dromoka warrior",
+  "colorIdentity": [
+    "W"
+  ]
+}

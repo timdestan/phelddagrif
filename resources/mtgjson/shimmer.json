@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Shimmer",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "As Shimmer enters the battlefield, choose a land type.\nEach land of the chosen type has phasing. (It phases in or out before its controller untaps during each of his or her untap steps. While it's phased out, it's treated as though it doesn't exist.)",
+  "imageName": "shimmer",
+  "colorIdentity": [
+    "U"
+  ]
+}

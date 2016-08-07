@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Pardic Miner",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dwarf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dwarf"
+  ],
+  "text": "Sacrifice Pardic Miner: Target player can't play lands this turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "pardic miner",
+  "colorIdentity": [
+    "R"
+  ]
+}

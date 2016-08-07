@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Okiba-Gang Shinobi",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Rat Ninja",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rat",
+    "Ninja"
+  ],
+  "text": "Ninjutsu {3}{B} ({3}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Okiba-Gang Shinobi deals combat damage to a player, that player discards two cards.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "okiba-gang shinobi",
+  "colorIdentity": [
+    "B"
+  ]
+}

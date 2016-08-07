@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Cold Storage",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{3}: Exile target creature you control.\nSacrifice Cold Storage: Return each creature card exiled with Cold Storage to the battlefield under your control.",
+  "imageName": "cold storage"
+}

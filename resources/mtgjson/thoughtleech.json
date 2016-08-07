@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Thoughtleech",
+  "manaCost": "{G}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever an Island an opponent controls becomes tapped, you may gain 1 life.",
+  "imageName": "thoughtleech",
+  "colorIdentity": [
+    "G"
+  ]
+}

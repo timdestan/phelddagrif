@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kithkin Zealot",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kithkin Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kithkin",
+    "Cleric"
+  ],
+  "text": "When Kithkin Zealot enters the battlefield, you gain 1 life for each black and/or red permanent target opponent controls.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "kithkin zealot",
+  "colorIdentity": [
+    "W"
+  ]
+}

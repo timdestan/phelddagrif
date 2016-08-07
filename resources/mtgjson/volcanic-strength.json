@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Volcanic Strength",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets +2/+2 and has mountainwalk. (It can't be blocked as long as defending player controls a Mountain.)",
+  "imageName": "volcanic strength",
+  "colorIdentity": [
+    "R"
+  ]
+}

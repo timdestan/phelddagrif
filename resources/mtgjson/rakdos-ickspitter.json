@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Rakdos Ickspitter",
+  "manaCost": "{1}{B}{R}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Thrull",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Thrull"
+  ],
+  "text": "{T}: Rakdos Ickspitter deals 1 damage to target creature and that creature's controller loses 1 life.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "rakdos ickspitter",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Saprazzan Bailiff",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk"
+  ],
+  "text": "When Saprazzan Bailiff enters the battlefield, exile all artifact and enchantment cards from all graveyards.\nWhen Saprazzan Bailiff leaves the battlefield, return all artifact and enchantment cards from all graveyards to their owners' hands.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "saprazzan bailiff",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Updraft Elemental",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Flying",
+  "power": "1",
+  "toughness": "4",
+  "imageName": "updraft elemental",
+  "colorIdentity": [
+    "U"
+  ]
+}

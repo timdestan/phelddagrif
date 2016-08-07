@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Pongify",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target creature. It can't be regenerated. Its controller puts a 3/3 green Ape creature token onto the battlefield.",
+  "imageName": "pongify",
+  "colorIdentity": [
+    "U"
+  ]
+}

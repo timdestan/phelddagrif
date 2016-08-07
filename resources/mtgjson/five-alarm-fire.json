@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Five-Alarm Fire",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a creature you control deals combat damage, put a blaze counter on Five-Alarm Fire.\nRemove five blaze counters from Five-Alarm Fire: Five-Alarm Fire deals 5 damage to target creature or player.",
+  "imageName": "five-alarm fire",
+  "colorIdentity": [
+    "R"
+  ]
+}

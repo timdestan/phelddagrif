@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Liquimetal Coating",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}: Target permanent becomes an artifact in addition to its other types until end of turn.",
+  "imageName": "liquimetal coating"
+}

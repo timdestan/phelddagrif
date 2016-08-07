@@ -1,0 +1,13 @@
+{
+  "layout": "plane",
+  "name": "Quicksilver Sea",
+  "type": "Plane — Mirrodin",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Mirrodin"
+  ],
+  "text": "When you planeswalk to Quicksilver Sea or at the beginning of your upkeep, scry 4. (Look at the top four cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)\nWhenever you roll CHAOS, reveal the top card of your library. You may play it without paying its mana cost.",
+  "imageName": "quicksilver sea"
+}

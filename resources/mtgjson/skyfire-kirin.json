@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Skyfire Kirin",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Creature — Kirin Spirit",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kirin",
+    "Spirit"
+  ],
+  "text": "Flying\nWhenever you cast a Spirit or Arcane spell, you may gain control of target creature with that spell's converted mana cost until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "skyfire kirin",
+  "colorIdentity": [
+    "R"
+  ]
+}

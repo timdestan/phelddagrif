@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sire of the Storm",
+  "manaCost": "{4}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying\nWhenever you cast a Spirit or Arcane spell, you may draw a card.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "sire of the storm",
+  "colorIdentity": [
+    "U"
+  ]
+}

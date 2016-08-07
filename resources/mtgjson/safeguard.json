@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Safeguard",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{2}{W}: Prevent all combat damage that would be dealt by target creature this turn.",
+  "imageName": "safeguard",
+  "colorIdentity": [
+    "W"
+  ]
+}

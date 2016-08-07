@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Zirilan of the Claw",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Creature — Viashino Shaman",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Viashino",
+    "Shaman"
+  ],
+  "text": "{1}{R}{R}, {T}: Search your library for a Dragon permanent card and put that card onto the battlefield. Then shuffle your library. That Dragon gains haste until end of turn. Exile it at the beginning of the next end step.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "zirilan of the claw",
+  "colorIdentity": [
+    "R"
+  ]
+}

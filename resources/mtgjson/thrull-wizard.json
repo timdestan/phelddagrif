@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Thrull Wizard",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Thrull Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Thrull",
+    "Wizard"
+  ],
+  "text": "{1}{B}: Counter target black spell unless that spell's controller pays {B} or {3}.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "thrull wizard",
+  "colorIdentity": [
+    "B"
+  ]
+}

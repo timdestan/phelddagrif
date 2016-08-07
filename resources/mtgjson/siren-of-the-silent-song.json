@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Siren of the Silent Song",
+  "manaCost": "{1}{U}{B}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Creature — Zombie Siren",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Siren"
+  ],
+  "text": "Flying\nInspired — Whenever Siren of the Silent Song becomes untapped, each opponent discards a card, then puts the top card of his or her library into his or her graveyard.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "siren of the silent song",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

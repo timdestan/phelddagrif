@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mudhole",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target player exiles all land cards from his or her graveyard.",
+  "imageName": "mudhole",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Immolating Glare",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target attacking creature.",
+  "imageName": "immolating glare",
+  "colorIdentity": [
+    "W"
+  ]
+}

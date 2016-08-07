@@ -1,0 +1,23 @@
+{
+  "layout": "split",
+  "name": "Death",
+  "names": [
+    "Life",
+    "Death"
+  ],
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Return target creature card from your graveyard to the battlefield. You lose life equal to its converted mana cost.",
+  "imageName": "death",
+  "colorIdentity": [
+    "G",
+    "B"
+  ]
+}

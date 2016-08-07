@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Curse of Thirst",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment — Aura Curse",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura",
+    "Curse"
+  ],
+  "text": "Enchant player\nAt the beginning of enchanted player's upkeep, Curse of Thirst deals damage to that player equal to the number of Curses attached to him or her.",
+  "imageName": "curse of thirst",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Chronozoa",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Illusion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Illusion"
+  ],
+  "text": "Flying\nVanishing 3 (This creature enters the battlefield with three time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)\nWhen Chronozoa dies, if it had no time counters on it, put two tokens that are copies of it onto the battlefield.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "chronozoa",
+  "colorIdentity": [
+    "U"
+  ]
+}

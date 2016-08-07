@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Cardpecker",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\nGotcha Whenever an opponent touches the table with his or her hand, you may say \"Gotcha\" If you do, return Cardpecker from your graveyard to your hand.",
+  "power": "1.5",
+  "toughness": "1",
+  "imageName": "cardpecker",
+  "colorIdentity": [
+    "W"
+  ]
+}

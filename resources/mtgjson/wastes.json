@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Wastes",
+  "type": "Basic Land",
+  "supertypes": [
+    "Basic"
+  ],
+  "types": [
+    "Land"
+  ],
+  "imageName": "wastes"
+}

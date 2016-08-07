@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Caustic Hound",
+  "manaCost": "{5}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Hound",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hound"
+  ],
+  "text": "When Caustic Hound dies, each player loses 4 life.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "caustic hound",
+  "colorIdentity": [
+    "B"
+  ]
+}

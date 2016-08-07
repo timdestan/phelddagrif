@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Nimble Mongoose",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Mongoose",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Mongoose"
+  ],
+  "text": "Shroud (This creature can't be the target of spells or abilities.)\nThreshold — Nimble Mongoose gets +2/+2 as long as seven or more cards are in your graveyard.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "nimble mongoose",
+  "colorIdentity": [
+    "G"
+  ]
+}

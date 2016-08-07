@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mass Hysteria",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "All creatures have haste.",
+  "imageName": "mass hysteria",
+  "colorIdentity": [
+    "R"
+  ]
+}

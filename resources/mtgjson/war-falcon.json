@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "War Falcon",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\nWar Falcon can't attack unless you control a Knight or a Soldier.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "war falcon",
+  "colorIdentity": [
+    "W"
+  ]
+}

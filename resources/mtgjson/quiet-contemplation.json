@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Quiet Contemplation",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever you cast a noncreature spell, you may pay {1}. If you do, tap target creature an opponent controls and it doesn't untap during its controller's next untap step.",
+  "imageName": "quiet contemplation",
+  "colorIdentity": [
+    "U"
+  ]
+}

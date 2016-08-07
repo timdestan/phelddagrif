@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Fiery Confluence",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Choose three. You may choose the same mode more than once.\n• Fiery Confluence deals 1 damage to each creature.\n• Fiery Confluence deals 2 damage to each opponent.\n• Destroy target artifact.",
+  "imageName": "fiery confluence",
+  "colorIdentity": [
+    "R"
+  ]
+}

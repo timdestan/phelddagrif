@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Oni of Wild Places Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "Creatures you control have haste.\nAt the beginning of your upkeep, return a creature you control to its owner's hand.",
+  "imageName": "oni of wild places avatar",
+  "hand": 0,
+  "life": -2
+}

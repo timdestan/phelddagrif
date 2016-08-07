@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Vessel of Volatility",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{1}{R}, Sacrifice Vessel of Volatility: Add {R}{R}{R}{R} to your mana pool.",
+  "imageName": "vessel of volatility",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Sphinx Sovereign",
+  "manaCost": "{4}{W}{U}{U}{B}",
+  "cmc": 8,
+  "colors": [
+    "White",
+    "Blue",
+    "Black"
+  ],
+  "type": "Artifact Creature — Sphinx",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Sphinx"
+  ],
+  "text": "Flying\nAt the beginning of your end step, you gain 3 life if Sphinx Sovereign is untapped. Otherwise, each opponent loses 3 life.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "sphinx sovereign",
+  "colorIdentity": [
+    "W",
+    "U",
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Kaijin of the Vanishing Touch",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Defender (This creature can't attack.)\nWhenever Kaijin of the Vanishing Touch blocks a creature, return that creature to its owner's hand at end of combat. (Return it only if it's on the battlefield.)",
+  "power": "0",
+  "toughness": "3",
+  "imageName": "kaijin of the vanishing touch",
+  "colorIdentity": [
+    "U"
+  ]
+}

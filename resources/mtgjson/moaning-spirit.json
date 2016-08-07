@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Moaning Spirit",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "moaning spirit",
+  "colorIdentity": [
+    "B"
+  ]
+}

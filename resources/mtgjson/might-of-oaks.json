@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Might of Oaks",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gets +7/+7 until end of turn.",
+  "imageName": "might of oaks",
+  "colorIdentity": [
+    "G"
+  ]
+}

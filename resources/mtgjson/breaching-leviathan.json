@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Breaching Leviathan",
+  "manaCost": "{7}{U}{U}",
+  "cmc": 9,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Leviathan",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Leviathan"
+  ],
+  "text": "When Breaching Leviathan enters the battlefield, if you cast it from your hand, tap all nonblue creatures. Those creatures don't untap during their controllers' next untap steps.",
+  "power": "9",
+  "toughness": "9",
+  "imageName": "breaching leviathan",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Master the Way",
+  "manaCost": "{3}{U}{R}",
+  "cmc": 5,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Draw a card. Master the Way deals damage to target creature or player equal to the number of cards in your hand.",
+  "imageName": "master the way",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

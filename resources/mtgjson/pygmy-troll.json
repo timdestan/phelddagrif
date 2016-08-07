@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Pygmy Troll",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Troll",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Troll"
+  ],
+  "text": "Whenever Pygmy Troll becomes blocked by a creature, Pygmy Troll gets +1/+1 until end of turn.\n{G}: Regenerate Pygmy Troll.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "pygmy troll",
+  "colorIdentity": [
+    "G"
+  ]
+}

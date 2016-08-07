@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Bastion Protector",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Commander creatures you control get +2/+2 and have indestructible.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "bastion protector",
+  "colorIdentity": [
+    "W"
+  ]
+}

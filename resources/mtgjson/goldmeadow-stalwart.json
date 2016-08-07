@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Goldmeadow Stalwart",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kithkin Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kithkin",
+    "Soldier"
+  ],
+  "text": "As an additional cost to cast Goldmeadow Stalwart, reveal a Kithkin card from your hand or pay {3}.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "goldmeadow stalwart",
+  "colorIdentity": [
+    "W"
+  ]
+}

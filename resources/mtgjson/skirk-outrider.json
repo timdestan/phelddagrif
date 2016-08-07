@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Skirk Outrider",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "As long as you control a Beast, Skirk Outrider gets +2/+2 and has trample.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "skirk outrider",
+  "colorIdentity": [
+    "R"
+  ]
+}

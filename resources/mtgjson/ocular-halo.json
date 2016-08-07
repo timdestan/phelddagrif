@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Ocular Halo",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature has \"{T}: Draw a card.\"\n{W}: Enchanted creature gains vigilance until end of turn.",
+  "imageName": "ocular halo",
+  "colorIdentity": [
+    "U",
+    "W"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Vedalken Dismisser",
+  "manaCost": "{5}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Vedalken Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vedalken",
+    "Wizard"
+  ],
+  "text": "When Vedalken Dismisser enters the battlefield, put target creature on top of its owner's library.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "vedalken dismisser",
+  "colorIdentity": [
+    "U"
+  ]
+}

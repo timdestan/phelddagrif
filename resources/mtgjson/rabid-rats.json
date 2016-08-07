@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Rabid Rats",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Rat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rat"
+  ],
+  "text": "{T}: Target blocking creature gets -1/-1 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "rabid rats",
+  "colorIdentity": [
+    "B"
+  ]
+}

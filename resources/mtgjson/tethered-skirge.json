@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Tethered Skirge",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Imp",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Imp"
+  ],
+  "text": "Flying\nWhenever Tethered Skirge becomes the target of a spell or ability, you lose 1 life.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "tethered skirge",
+  "colorIdentity": [
+    "B"
+  ]
+}

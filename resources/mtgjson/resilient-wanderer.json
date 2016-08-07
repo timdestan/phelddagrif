@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Resilient Wanderer",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Nomad",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Nomad"
+  ],
+  "text": "First strike\nDiscard a card: Resilient Wanderer gains protection from the color of your choice until end of turn.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "resilient wanderer",
+  "colorIdentity": [
+    "W"
+  ]
+}

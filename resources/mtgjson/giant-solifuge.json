@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Giant Solifuge",
+  "manaCost": "{2}{R/G}{R/G}",
+  "cmc": 4,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "({R/G} can be paid with either {R} or {G}.)\nTrample; haste; shroud (This creature can't be the target of spells or abilities.)",
+  "power": "4",
+  "toughness": "1",
+  "imageName": "giant solifuge",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

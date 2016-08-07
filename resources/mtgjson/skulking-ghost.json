@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Skulking Ghost",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying\nWhen Skulking Ghost becomes the target of a spell or ability, sacrifice it.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "skulking ghost",
+  "colorIdentity": [
+    "B"
+  ]
+}

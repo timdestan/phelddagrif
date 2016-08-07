@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Disaster Radius",
+  "manaCost": "{5}{R}{R}",
+  "cmc": 7,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "As an additional cost to cast Disaster Radius, reveal a creature card from your hand.\nDisaster Radius deals X damage to each creature your opponents control, where X is the revealed card's converted mana cost.",
+  "imageName": "disaster radius",
+  "colorIdentity": [
+    "R"
+  ]
+}

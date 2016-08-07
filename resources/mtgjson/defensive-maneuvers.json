@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Defensive Maneuvers",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Creatures of the creature type of your choice get +0/+4 until end of turn.",
+  "imageName": "defensive maneuvers",
+  "colorIdentity": [
+    "W"
+  ]
+}

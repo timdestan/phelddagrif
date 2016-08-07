@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Stone-Tongue Basilisk",
+  "manaCost": "{4}{G}{G}{G}",
+  "cmc": 7,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Basilisk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Basilisk"
+  ],
+  "text": "Whenever Stone-Tongue Basilisk deals combat damage to a creature, destroy that creature at end of combat.\nThreshold — As long as seven or more cards are in your graveyard, all creatures able to block Stone-Tongue Basilisk do so.",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "stone-tongue basilisk",
+  "colorIdentity": [
+    "G"
+  ]
+}

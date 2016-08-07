@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Boseiju, Who Shelters All",
+  "type": "Legendary Land",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Land"
+  ],
+  "text": "Boseiju, Who Shelters All enters the battlefield tapped.\n{T}, Pay 2 life: Add {C} to your mana pool. If that mana is spent on an instant or sorcery spell, that spell can't be countered by spells or abilities.",
+  "imageName": "boseiju, who shelters all"
+}

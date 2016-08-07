@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Apocalypse Chime",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, {T}, Sacrifice Apocalypse Chime: Destroy all nontoken permanents originally printed in the Homelands expansion. They can't be regenerated.",
+  "imageName": "apocalypse chime"
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Hallowed Spiritkeeper",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Avatar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Avatar"
+  ],
+  "text": "Vigilance\nWhen Hallowed Spiritkeeper dies, put X 1/1 white Spirit creature tokens with flying onto the battlefield, where X is the number of creature cards in your graveyard.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "hallowed spiritkeeper",
+  "colorIdentity": [
+    "W"
+  ]
+}

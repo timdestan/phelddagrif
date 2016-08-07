@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Cursed Totem",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Activated abilities of creatures can't be activated.",
+  "imageName": "cursed totem"
+}

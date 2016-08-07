@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Turn to Frog",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Until end of turn, target creature loses all abilities and becomes a blue Frog with base power and toughness 1/1.",
+  "imageName": "turn to frog",
+  "colorIdentity": [
+    "U"
+  ]
+}

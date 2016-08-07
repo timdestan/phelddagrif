@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Divine Light",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Prevent all damage that would be dealt this turn to creatures you control.",
+  "imageName": "divine light",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Triton Fortune Hunter",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Soldier"
+  ],
+  "text": "Heroic — Whenever you cast a spell that targets Triton Fortune Hunter, draw a card.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "triton fortune hunter",
+  "colorIdentity": [
+    "U"
+  ]
+}

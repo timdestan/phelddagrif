@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Jedit Ojanen",
+  "manaCost": "{4}{W}{W}{U}",
+  "cmc": 7,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Legendary Creature — Cat Warrior",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat",
+    "Warrior"
+  ],
+  "power": "5",
+  "toughness": "5",
+  "imageName": "jedit ojanen",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

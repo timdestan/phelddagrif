@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Tooth and Claw",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Sacrifice two creatures: Put a 3/1 red Beast creature token named Carnivore onto the battlefield.",
+  "imageName": "tooth and claw",
+  "colorIdentity": [
+    "R"
+  ]
+}

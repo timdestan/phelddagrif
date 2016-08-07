@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Ertai, Wizard Adept",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Legendary Creature — Human Wizard",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{2}{U}{U}, {T}: Counter target spell.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "ertai, wizard adept",
+  "colorIdentity": [
+    "U"
+  ]
+}

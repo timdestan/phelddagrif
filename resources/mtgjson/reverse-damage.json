@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Reverse Damage",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way.",
+  "imageName": "reverse damage",
+  "colorIdentity": [
+    "W"
+  ]
+}

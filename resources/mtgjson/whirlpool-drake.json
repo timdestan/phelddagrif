@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Whirlpool Drake",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flying\nWhen Whirlpool Drake enters the battlefield, shuffle the cards from your hand into your library, then draw that many cards.\nWhen Whirlpool Drake dies, shuffle the cards from your hand into your library, then draw that many cards.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "whirlpool drake",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kitsune Palliator",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Fox Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Fox",
+    "Cleric"
+  ],
+  "text": "{T}: Prevent the next 1 damage that would be dealt to each creature and each player this turn.",
+  "power": "0",
+  "toughness": "2",
+  "imageName": "kitsune palliator",
+  "colorIdentity": [
+    "W"
+  ]
+}

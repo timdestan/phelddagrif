@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Spiketail Hatchling",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nSacrifice Spiketail Hatchling: Counter target spell unless its controller pays {1}.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "spiketail hatchling",
+  "colorIdentity": [
+    "U"
+  ]
+}

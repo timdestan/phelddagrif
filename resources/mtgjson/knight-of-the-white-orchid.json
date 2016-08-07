@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Knight of the White Orchid",
+  "manaCost": "{W}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "First strike\nWhen Knight of the White Orchid enters the battlefield, if an opponent controls more lands than you, you may search your library for a Plains card, put it onto the battlefield, then shuffle your library.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "knight of the white orchid",
+  "colorIdentity": [
+    "W"
+  ]
+}

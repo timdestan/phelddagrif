@@ -1,0 +1,25 @@
+{
+  "layout": "split",
+  "name": "Willing",
+  "names": [
+    "Ready",
+    "Willing"
+  ],
+  "manaCost": "{1}{W}{B}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Creatures you control gain deathtouch and lifelink until end of turn.\nFuse (You may cast one or both halves of this card from your hand.)",
+  "imageName": "willing",
+  "colorIdentity": [
+    "W",
+    "B",
+    "G"
+  ]
+}

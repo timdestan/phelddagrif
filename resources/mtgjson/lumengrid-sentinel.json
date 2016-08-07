@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Lumengrid Sentinel",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Flying\nWhenever an artifact enters the battlefield under your control, you may tap target permanent.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "lumengrid sentinel",
+  "colorIdentity": [
+    "U"
+  ]
+}

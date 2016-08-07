@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Nyx-Fleece Ram",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment Creature — Sheep",
+  "types": [
+    "Enchantment",
+    "Creature"
+  ],
+  "subtypes": [
+    "Sheep"
+  ],
+  "text": "At the beginning of your upkeep, you gain 1 life.",
+  "power": "0",
+  "toughness": "5",
+  "imageName": "nyx-fleece ram",
+  "colorIdentity": [
+    "W"
+  ]
+}

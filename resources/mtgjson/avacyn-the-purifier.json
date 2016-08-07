@@ -1,0 +1,30 @@
+{
+  "layout": "double-faced",
+  "name": "Avacyn, the Purifier",
+  "names": [
+    "Archangel Avacyn",
+    "Avacyn, the Purifier"
+  ],
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Creature — Angel",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nWhen this creature transforms into Avacyn, the Purifier, it deals 3 damage to each other creature and each opponent.",
+  "power": "6",
+  "toughness": "5",
+  "imageName": "avacyn, the purifier",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

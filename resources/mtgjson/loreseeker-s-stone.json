@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Loreseeker's Stone",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{3}, {T}: Draw three cards. This ability costs {1} more to activate for each card in your hand.",
+  "imageName": "loreseeker's stone"
+}

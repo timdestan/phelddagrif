@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Bitterheart Witch",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Shaman"
+  ],
+  "text": "Deathtouch\nWhen Bitterheart Witch dies, you may search your library for a Curse card, put it onto the battlefield attached to target player, then shuffle your library.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "bitterheart witch",
+  "colorIdentity": [
+    "B"
+  ]
+}

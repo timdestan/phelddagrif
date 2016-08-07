@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Diregraf Escort",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Diregraf Escort is paired with another creature, both creatures have protection from Zombies.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "diregraf escort",
+  "colorIdentity": [
+    "G"
+  ]
+}

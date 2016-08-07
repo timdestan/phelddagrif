@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Æther Shockwave",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose one —\n• Tap all Spirits.\n• Tap all non-Spirit creatures.",
+  "imageName": "æther shockwave",
+  "colorIdentity": [
+    "W"
+  ]
+}

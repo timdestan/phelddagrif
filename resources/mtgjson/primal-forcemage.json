@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Primal Forcemage",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Shaman"
+  ],
+  "text": "Whenever another creature enters the battlefield under your control, that creature gets +3/+3 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "primal forcemage",
+  "colorIdentity": [
+    "G"
+  ]
+}

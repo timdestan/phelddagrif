@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Desperate Charge",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Creatures you control get +2/+0 until end of turn.",
+  "imageName": "desperate charge",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Disciple of the Vault",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "Whenever an artifact is put into a graveyard from the battlefield, you may have target opponent lose 1 life.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "disciple of the vault",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Spatial Contortion",
+  "manaCost": "{1}{C}",
+  "cmc": 2,
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "({C} represents colorless mana.)\nTarget creature gets +3/-3 until end of turn.",
+  "imageName": "spatial contortion"
+}

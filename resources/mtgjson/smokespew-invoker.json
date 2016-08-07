@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Smokespew Invoker",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Mutant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Mutant"
+  ],
+  "text": "{7}{B}: Target creature gets -3/-3 until end of turn.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "smokespew invoker",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Horizon Scholar",
+  "manaCost": "{5}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Sphinx",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sphinx"
+  ],
+  "text": "Flying\nWhen Horizon Scholar enters the battlefield, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "horizon scholar",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Drain Life",
+  "manaCost": "{X}{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Spend only black mana on X.\nDrain Life deals X damage to target creature or player. You gain life equal to the damage dealt, but not more life than the player's life total before Drain Life dealt damage or the creature's toughness.",
+  "imageName": "drain life",
+  "colorIdentity": [
+    "B"
+  ]
+}

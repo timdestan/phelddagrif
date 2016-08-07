@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Twincast",
+  "manaCost": "{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Copy target instant or sorcery spell. You may choose new targets for the copy.",
+  "imageName": "twincast",
+  "colorIdentity": [
+    "U"
+  ]
+}

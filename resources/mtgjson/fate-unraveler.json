@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Fate Unraveler",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment Creature — Hag",
+  "types": [
+    "Enchantment",
+    "Creature"
+  ],
+  "subtypes": [
+    "Hag"
+  ],
+  "text": "Whenever an opponent draws a card, Fate Unraveler deals 1 damage to that player.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "fate unraveler",
+  "colorIdentity": [
+    "B"
+  ]
+}

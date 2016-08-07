@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Tradewind Rider",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying\n{T}, Tap two untapped creatures you control: Return target permanent to its owner's hand.",
+  "power": "1",
+  "toughness": "4",
+  "imageName": "tradewind rider",
+  "colorIdentity": [
+    "U"
+  ]
+}

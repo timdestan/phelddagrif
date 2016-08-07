@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Thundering Wurm",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "text": "When Thundering Wurm enters the battlefield, sacrifice it unless you discard a land card.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "thundering wurm",
+  "colorIdentity": [
+    "G"
+  ]
+}

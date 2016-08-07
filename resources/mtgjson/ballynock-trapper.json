@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ballynock Trapper",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kithkin Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kithkin",
+    "Soldier"
+  ],
+  "text": "{T}: Tap target creature.\nWhenever you cast a white spell, you may untap Ballynock Trapper.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "ballynock trapper",
+  "colorIdentity": [
+    "W"
+  ]
+}

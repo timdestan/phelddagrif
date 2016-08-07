@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Near-Death Experience",
+  "manaCost": "{2}{W}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, if you have exactly 1 life, you win the game.",
+  "imageName": "near-death experience",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Clay Statue",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "{2}: Regenerate Clay Statue.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "clay statue"
+}

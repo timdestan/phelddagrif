@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Blessed Spirits",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying\nWhenever you cast an enchantment spell, put a +1/+1 counter on Blessed Spirits.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "blessed spirits",
+  "colorIdentity": [
+    "W"
+  ]
+}

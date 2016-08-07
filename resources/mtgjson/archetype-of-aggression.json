@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Archetype of Aggression",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment Creature — Human Warrior",
+  "types": [
+    "Enchantment",
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "Creatures you control have trample.\nCreatures your opponents control lose trample and can't have or gain trample.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "archetype of aggression",
+  "colorIdentity": [
+    "R"
+  ]
+}

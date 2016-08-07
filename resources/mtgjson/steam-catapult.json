@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Steam Catapult",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "{T}: Destroy target tapped creature. Activate this ability only during your turn, before attackers are declared.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "steam catapult",
+  "colorIdentity": [
+    "W"
+  ]
+}

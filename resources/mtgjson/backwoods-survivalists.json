@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Backwoods Survivalists",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "Delirium — Backwoods Survivalists gets +1/+1 and has trample as long as there are four or more card types among cards in your graveyard.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "backwoods survivalists",
+  "colorIdentity": [
+    "G"
+  ]
+}

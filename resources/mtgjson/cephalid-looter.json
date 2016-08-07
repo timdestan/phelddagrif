@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Cephalid Looter",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Cephalid Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cephalid",
+    "Rogue"
+  ],
+  "text": "{T}: Target player draws a card, then discards a card.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "cephalid looter",
+  "colorIdentity": [
+    "U"
+  ]
+}

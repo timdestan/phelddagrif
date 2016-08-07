@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Maw of the Obzedat",
+  "manaCost": "{3}{W}{B}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Creature — Thrull",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Thrull"
+  ],
+  "text": "Sacrifice a creature: Creatures you control get +1/+1 until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "maw of the obzedat",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

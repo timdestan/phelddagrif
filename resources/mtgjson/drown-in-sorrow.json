@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Drown in Sorrow",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "All creatures get -2/-2 until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "imageName": "drown in sorrow",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Dragon Mage",
+  "manaCost": "{5}{R}{R}",
+  "cmc": 7,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dragon Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon",
+    "Wizard"
+  ],
+  "text": "Flying\nWhenever Dragon Mage deals combat damage to a player, each player discards his or her hand, then draws seven cards.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "dragon mage",
+  "colorIdentity": [
+    "R"
+  ]
+}

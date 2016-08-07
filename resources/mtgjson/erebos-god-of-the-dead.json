@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Erebos, God of the Dead",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Legendary Enchantment Creature — God",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Enchantment",
+    "Creature"
+  ],
+  "subtypes": [
+    "God"
+  ],
+  "text": "Indestructible\nAs long as your devotion to black is less than five, Erebos isn't a creature. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)\nYour opponents can't gain life.\n{1}{B}, Pay 2 life: Draw a card.",
+  "power": "5",
+  "toughness": "7",
+  "imageName": "erebos, god of the dead",
+  "colorIdentity": [
+    "B"
+  ]
+}

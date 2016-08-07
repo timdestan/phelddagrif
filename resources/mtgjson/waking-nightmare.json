@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Waking Nightmare",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery — Arcane",
+  "types": [
+    "Sorcery"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "Target player discards two cards.",
+  "imageName": "waking nightmare",
+  "colorIdentity": [
+    "B"
+  ]
+}

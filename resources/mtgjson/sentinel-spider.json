@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sentinel Spider",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Spider",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spider"
+  ],
+  "text": "Vigilance (Attacking doesn't cause this creature to tap.)\nReach (This creature can block creatures with flying.)",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "sentinel spider",
+  "colorIdentity": [
+    "G"
+  ]
+}

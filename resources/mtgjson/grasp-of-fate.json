@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Grasp of Fate",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "When Grasp of Fate enters the battlefield, for each opponent, exile up to one target nonland permanent that player controls until Grasp of Fate leaves the battlefield. (Those permanents return under their owners' control.)",
+  "imageName": "grasp of fate",
+  "colorIdentity": [
+    "W"
+  ]
+}

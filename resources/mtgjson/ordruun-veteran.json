@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Ordruun Veteran",
+  "manaCost": "{2}{R}{W}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Creature — Minotaur Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Minotaur",
+    "Soldier"
+  ],
+  "text": "Battalion — Whenever Ordruun Veteran and at least two other creatures attack, Ordruun Veteran gains double strike until end of turn. (It deals both first-strike and regular combat damage.)",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "ordruun veteran",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Shipwreck Singer",
+  "manaCost": "{U}{B}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Creature — Siren",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Siren"
+  ],
+  "text": "Flying\n{1}{U}: Target creature an opponent controls attacks this turn if able.\n{1}{B}, {T}: Attacking creatures get -1/-1 until end of turn.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "shipwreck singer",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

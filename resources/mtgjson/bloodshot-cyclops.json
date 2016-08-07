@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Bloodshot Cyclops",
+  "manaCost": "{5}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Cyclops Giant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cyclops",
+    "Giant"
+  ],
+  "text": "{T}, Sacrifice a creature: Bloodshot Cyclops deals damage equal to the sacrificed creature's power to target creature or player.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "bloodshot cyclops",
+  "colorIdentity": [
+    "R"
+  ]
+}

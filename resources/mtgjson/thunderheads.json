@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Thunderheads",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Replicate {2}{U} (When you cast this spell, copy it for each time you paid its replicate cost.)\nPut a 3/3 blue Weird creature token with defender and flying onto the battlefield. Exile it at the beginning of the next end step.",
+  "imageName": "thunderheads",
+  "colorIdentity": [
+    "U"
+  ]
+}

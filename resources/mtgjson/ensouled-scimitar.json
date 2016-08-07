@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Ensouled Scimitar",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "{3}: Ensouled Scimitar becomes a 1/5 Spirit artifact creature with flying until end of turn. (Equipment that's a creature can't equip a creature.)\nEquipped creature gets +1/+5.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+  "imageName": "ensouled scimitar"
+}

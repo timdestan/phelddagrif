@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Frost Titan",
+  "manaCost": "{4}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Giant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant"
+  ],
+  "text": "Whenever Frost Titan becomes the target of a spell or ability an opponent controls, counter that spell or ability unless its controller pays {2}.\nWhenever Frost Titan enters the battlefield or attacks, tap target permanent. It doesn't untap during its controller's next untap step.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "frost titan",
+  "colorIdentity": [
+    "U"
+  ]
+}

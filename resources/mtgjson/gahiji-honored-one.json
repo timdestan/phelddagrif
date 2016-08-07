@@ -1,0 +1,30 @@
+{
+  "layout": "normal",
+  "name": "Gahiji, Honored One",
+  "manaCost": "{2}{R}{G}{W}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Red",
+    "Green"
+  ],
+  "type": "Legendary Creature — Beast",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Whenever a creature attacks one of your opponents or a planeswalker an opponent controls, that creature gets +2/+0 until end of turn.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "gahiji, honored one",
+  "colorIdentity": [
+    "W",
+    "R",
+    "G"
+  ]
+}

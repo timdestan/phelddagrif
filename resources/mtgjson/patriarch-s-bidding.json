@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Patriarch's Bidding",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Each player chooses a creature type. Each player returns all creature cards of a type chosen this way from his or her graveyard to the battlefield.",
+  "imageName": "patriarch's bidding",
+  "colorIdentity": [
+    "B"
+  ]
+}

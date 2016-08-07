@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Radiant Purge",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Exile target multicolored creature or multicolored enchantment.",
+  "imageName": "radiant purge",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Upwelling",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Mana pools don't empty as steps and phases end.",
+  "imageName": "upwelling",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Cone of Flame",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Cone of Flame deals 1 damage to target creature or player, 2 damage to another target creature or player, and 3 damage to a third target creature or player.",
+  "imageName": "cone of flame",
+  "colorIdentity": [
+    "R"
+  ]
+}

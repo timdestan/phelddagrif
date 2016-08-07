@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kithkin Mourncaller",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Kithkin Scout",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kithkin",
+    "Scout"
+  ],
+  "text": "Whenever an attacking Kithkin or Elf is put into your graveyard from the battlefield, you may draw a card.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "kithkin mourncaller",
+  "colorIdentity": [
+    "G"
+  ]
+}

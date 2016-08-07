@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Enlightened Ascetic",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Cat Monk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat",
+    "Monk"
+  ],
+  "text": "When Enlightened Ascetic enters the battlefield, you may destroy target enchantment.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "enlightened ascetic",
+  "colorIdentity": [
+    "W"
+  ]
+}

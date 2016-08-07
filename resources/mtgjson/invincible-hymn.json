@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Invincible Hymn",
+  "manaCost": "{6}{W}{W}",
+  "cmc": 8,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Count the number of cards in your library. Your life total becomes that number.",
+  "imageName": "invincible hymn",
+  "colorIdentity": [
+    "W"
+  ]
+}

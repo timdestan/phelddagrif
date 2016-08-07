@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Jackal Pup",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Hound",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hound"
+  ],
+  "text": "Whenever Jackal Pup is dealt damage, it deals that much damage to you.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "jackal pup",
+  "colorIdentity": [
+    "R"
+  ]
+}

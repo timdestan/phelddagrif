@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Wurm's Tooth",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Whenever a player casts a green spell, you may gain 1 life.",
+  "imageName": "wurm's tooth"
+}

@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Civic Saber",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature gets +1/+0 for each of its colors.\nEquip {1}",
+  "imageName": "civic saber"
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Grave Consequences",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Each player may exile any number of cards from his or her graveyard. Then each player loses 1 life for each card in his or her graveyard.\nDraw a card.",
+  "imageName": "grave consequences",
+  "colorIdentity": [
+    "B"
+  ]
+}

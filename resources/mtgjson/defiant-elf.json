@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Defiant Elf",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf"
+  ],
+  "text": "Trample",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "defiant elf",
+  "colorIdentity": [
+    "G"
+  ]
+}

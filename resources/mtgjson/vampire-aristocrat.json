@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Vampire Aristocrat",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Rogue"
+  ],
+  "text": "Sacrifice a creature: Vampire Aristocrat gets +2/+2 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "vampire aristocrat",
+  "colorIdentity": [
+    "B"
+  ]
+}

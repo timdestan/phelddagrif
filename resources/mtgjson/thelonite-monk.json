@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Thelonite Monk",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Insect Monk Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect",
+    "Monk",
+    "Cleric"
+  ],
+  "text": "{T}, Sacrifice a green creature: Target land becomes a Forest. (This effect lasts indefinitely.)",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "thelonite monk",
+  "colorIdentity": [
+    "G"
+  ]
+}

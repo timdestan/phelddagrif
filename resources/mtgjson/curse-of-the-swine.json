@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Curse of the Swine",
+  "manaCost": "{X}{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Exile X target creatures. For each creature exiled this way, its controller puts a 2/2 green Boar creature token onto the battlefield.",
+  "imageName": "curse of the swine",
+  "colorIdentity": [
+    "U"
+  ]
+}

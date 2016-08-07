@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Sunstone",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, Sacrifice a snow land: Prevent all combat damage that would be dealt this turn.",
+  "imageName": "sunstone"
+}

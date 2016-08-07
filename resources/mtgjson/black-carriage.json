@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Black Carriage",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horse",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horse"
+  ],
+  "text": "Trample\nBlack Carriage doesn't untap during your untap step.\nSacrifice a creature: Untap Black Carriage. Activate this ability only during your upkeep.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "black carriage",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Tor Wauki",
+  "manaCost": "{2}{B}{B}{R}",
+  "cmc": 5,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Legendary Creature — Human Archer",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Archer"
+  ],
+  "text": "{T}: Tor Wauki deals 2 damage to target attacking or blocking creature.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "tor wauki",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

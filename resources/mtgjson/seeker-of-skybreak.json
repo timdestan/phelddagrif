@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Seeker of Skybreak",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf"
+  ],
+  "text": "{T}: Untap target creature.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "seeker of skybreak",
+  "colorIdentity": [
+    "G"
+  ]
+}

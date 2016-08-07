@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Empty the Pits",
+  "manaCost": "{X}{X}{B}{B}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nPut X 2/2 black Zombie creature tokens onto the battlefield tapped.",
+  "imageName": "empty the pits",
+  "colorIdentity": [
+    "B"
+  ]
+}

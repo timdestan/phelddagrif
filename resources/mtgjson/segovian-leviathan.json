@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Segovian Leviathan",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Leviathan",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Leviathan"
+  ],
+  "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "segovian leviathan",
+  "colorIdentity": [
+    "U"
+  ]
+}

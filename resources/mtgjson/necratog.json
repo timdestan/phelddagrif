@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Necratog",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Atog",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Atog"
+  ],
+  "text": "Exile the top creature card of your graveyard: Necratog gets +2/+2 until end of turn.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "necratog",
+  "colorIdentity": [
+    "B"
+  ]
+}

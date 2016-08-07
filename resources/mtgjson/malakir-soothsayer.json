@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Malakir Soothsayer",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire Shaman Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Shaman",
+    "Ally"
+  ],
+  "text": "Cohort — {T}, Tap an untapped Ally you control: You draw a card and you lose 1 life.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "malakir soothsayer",
+  "colorIdentity": [
+    "B"
+  ]
+}

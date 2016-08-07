@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Peregrine Mask",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature has defender, flying, and first strike.\nEquip {2}",
+  "imageName": "peregrine mask"
+}

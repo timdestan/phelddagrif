@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Soul Rend",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target creature if it's white. A creature destroyed this way can't be regenerated.\nDraw a card at the beginning of the next turn's upkeep.",
+  "imageName": "soul rend",
+  "colorIdentity": [
+    "B"
+  ]
+}

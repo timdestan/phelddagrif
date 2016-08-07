@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Starstorm",
+  "manaCost": "{X}{R}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Starstorm deals X damage to each creature.\nCycling {3} ({3}, Discard this card: Draw a card.)",
+  "imageName": "starstorm",
+  "colorIdentity": [
+    "R"
+  ]
+}

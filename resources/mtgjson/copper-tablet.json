@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Copper Tablet",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "At the beginning of each player's upkeep, Copper Tablet deals 1 damage to that player.",
+  "imageName": "copper tablet"
+}

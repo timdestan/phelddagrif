@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Land Grant",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "If you have no land cards in hand, you may reveal your hand rather than pay Land Grant's mana cost.\nSearch your library for a Forest card, reveal that card, and put it into your hand. Then shuffle your library.",
+  "imageName": "land grant",
+  "colorIdentity": [
+    "G"
+  ]
+}

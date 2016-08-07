@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Spitebellows",
+  "manaCost": "{5}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "When Spitebellows leaves the battlefield, it deals 6 damage to target creature.\nEvoke {1}{R}{R} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)",
+  "power": "6",
+  "toughness": "1",
+  "imageName": "spitebellows",
+  "colorIdentity": [
+    "R"
+  ]
+}

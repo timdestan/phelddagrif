@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Tainted Sigil",
+  "manaCost": "{1}{W}{B}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}, Sacrifice Tainted Sigil: You gain life equal to the total life lost by all players this turn. (Damage causes loss of life.)",
+  "imageName": "tainted sigil",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

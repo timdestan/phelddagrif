@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Neurok Commando",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "Shroud (This creature can't be the target of spells or abilities.)\nWhenever Neurok Commando deals combat damage to a player, you may draw a card.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "neurok commando",
+  "colorIdentity": [
+    "U"
+  ]
+}

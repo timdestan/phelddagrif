@@ -1,0 +1,10 @@
+{
+  "layout": "scheme",
+  "name": "Choose Your Champion",
+  "type": "Scheme",
+  "types": [
+    "Scheme"
+  ],
+  "text": "When you set this scheme in motion, target opponent chooses a player. Until your next turn, only you and the chosen player can cast spells and attack with creatures.",
+  "imageName": "choose your champion"
+}

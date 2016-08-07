@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Momir Vig, Simic Visionary Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "{X}, Discard a card: Put a token onto the battlefield that's a copy of a creature card with converted mana cost X chosen at random. Activate this ability only any time you could cast a sorcery and only once each turn.",
+  "imageName": "momir vig, simic visionary avatar",
+  "hand": 0,
+  "life": 4
+}

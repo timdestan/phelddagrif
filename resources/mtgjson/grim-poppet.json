@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Grim Poppet",
+  "manaCost": "{7}",
+  "cmc": 7,
+  "type": "Artifact Creature — Scarecrow",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Scarecrow"
+  ],
+  "text": "Grim Poppet enters the battlefield with three -1/-1 counters on it.\nRemove a -1/-1 counter from Grim Poppet: Put a -1/-1 counter on another target creature.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "grim poppet"
+}

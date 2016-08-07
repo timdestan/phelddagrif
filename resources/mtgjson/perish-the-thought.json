@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Perish the Thought",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target opponent reveals his or her hand. You choose a card from it. That player shuffles that card into his or her library.",
+  "imageName": "perish the thought",
+  "colorIdentity": [
+    "B"
+  ]
+}

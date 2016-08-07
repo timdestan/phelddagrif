@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Coldsteel Heart",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Snow Artifact",
+  "supertypes": [
+    "Snow"
+  ],
+  "types": [
+    "Artifact"
+  ],
+  "text": "Coldsteel Heart enters the battlefield tapped.\nAs Coldsteel Heart enters the battlefield, choose a color.\n{T}: Add one mana of the chosen color to your mana pool.",
+  "imageName": "coldsteel heart"
+}

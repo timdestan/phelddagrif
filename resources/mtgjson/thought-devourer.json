@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Thought Devourer",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Flying\nYour maximum hand size is reduced by four.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "thought devourer",
+  "colorIdentity": [
+    "U"
+  ]
+}

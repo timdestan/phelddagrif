@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Linvala, Keeper of Silence",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Creature — Angel",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nActivated abilities of creatures your opponents control can't be activated.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "linvala, keeper of silence",
+  "colorIdentity": [
+    "W"
+  ]
+}

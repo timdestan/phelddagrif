@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Crookclaw Transmuter",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Bird Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird",
+    "Wizard"
+  ],
+  "text": "Flash (You may cast this spell any time you could cast an instant.)\nFlying\nWhen Crookclaw Transmuter enters the battlefield, switch target creature's power and toughness until end of turn.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "crookclaw transmuter",
+  "colorIdentity": [
+    "U"
+  ]
+}

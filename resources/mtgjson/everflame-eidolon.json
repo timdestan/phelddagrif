@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Everflame Eidolon",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment Creature — Spirit",
+  "types": [
+    "Enchantment",
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Bestow {2}{R} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)\n{R}: Everflame Eidolon gets +1/+0 until end of turn. If it's an Aura, enchanted creature gets +1/+0 until end of turn instead.\nEnchanted creature gets +1/+1.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "everflame eidolon",
+  "colorIdentity": [
+    "R"
+  ]
+}

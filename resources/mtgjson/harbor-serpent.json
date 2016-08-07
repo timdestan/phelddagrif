@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Harbor Serpent",
+  "manaCost": "{4}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Serpent",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Serpent"
+  ],
+  "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nHarbor Serpent can't attack unless there are five or more Islands on the battlefield.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "harbor serpent",
+  "colorIdentity": [
+    "U"
+  ]
+}

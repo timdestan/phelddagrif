@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Mold Adder",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Fungus Snake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Fungus",
+    "Snake"
+  ],
+  "text": "Whenever an opponent casts a blue or black spell, you may put a +1/+1 counter on Mold Adder.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "mold adder",
+  "colorIdentity": [
+    "G"
+  ]
+}

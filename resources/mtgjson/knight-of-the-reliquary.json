@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Knight of the Reliquary",
+  "manaCost": "{1}{G}{W}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "Knight of the Reliquary gets +1/+1 for each land card in your graveyard.\n{T}, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle your library.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "knight of the reliquary",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

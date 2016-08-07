@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sunscorch Regent",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying\nWhenever an opponent casts a spell, put a +1/+1 counter on Sunscorch Regent and you gain 1 life.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "sunscorch regent",
+  "colorIdentity": [
+    "W"
+  ]
+}

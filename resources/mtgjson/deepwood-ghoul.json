@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Deepwood Ghoul",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Pay 2 life: Regenerate Deepwood Ghoul.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "deepwood ghoul",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Falkenrath Marauders",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Vampire Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Warrior"
+  ],
+  "text": "Flying, haste\nWhenever Falkenrath Marauders deals combat damage to a player, put two +1/+1 counters on it.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "falkenrath marauders",
+  "colorIdentity": [
+    "R"
+  ]
+}

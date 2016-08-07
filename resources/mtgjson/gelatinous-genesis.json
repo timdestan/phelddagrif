@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Gelatinous Genesis",
+  "manaCost": "{X}{X}{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put X X/X green Ooze creature tokens onto the battlefield.",
+  "imageName": "gelatinous genesis",
+  "colorIdentity": [
+    "G"
+  ]
+}

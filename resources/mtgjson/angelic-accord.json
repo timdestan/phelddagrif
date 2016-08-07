@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Angelic Accord",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of each end step, if you gained 4 or more life this turn, put a 4/4 white Angel creature token with flying onto the battlefield.",
+  "imageName": "angelic accord",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Eternal Dragon",
+  "manaCost": "{5}{W}{W}",
+  "cmc": 7,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Dragon Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon",
+    "Spirit"
+  ],
+  "text": "Flying\n{3}{W}{W}: Return Eternal Dragon from your graveyard to your hand. Activate this ability only during your upkeep.\nPlainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, and put it into your hand. Then shuffle your library.)",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "eternal dragon",
+  "colorIdentity": [
+    "W"
+  ]
+}

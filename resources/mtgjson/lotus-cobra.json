@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Lotus Cobra",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Snake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Snake"
+  ],
+  "text": "Landfall — Whenever a land enters the battlefield under your control, you may add one mana of any color to your mana pool.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "lotus cobra",
+  "colorIdentity": [
+    "G"
+  ]
+}

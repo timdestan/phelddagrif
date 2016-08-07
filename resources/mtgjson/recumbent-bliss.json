@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Recumbent Bliss",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature can't attack or block.\nAt the beginning of your upkeep, you may gain 1 life.",
+  "imageName": "recumbent bliss",
+  "colorIdentity": [
+    "W"
+  ]
+}

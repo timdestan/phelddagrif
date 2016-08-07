@@ -1,0 +1,14 @@
+{
+  "layout": "token",
+  "name": "Hellion",
+  "type": " Creature — Hellion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hellion"
+  ],
+  "power": "4",
+  "toughness": "4",
+  "imageName": "hellion"
+}

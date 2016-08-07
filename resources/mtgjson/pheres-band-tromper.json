@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Pheres-Band Tromper",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Centaur Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Centaur",
+    "Warrior"
+  ],
+  "text": "Inspired — Whenever Pheres-Band Tromper becomes untapped, put a +1/+1 counter on it.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "pheres-band tromper",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Frontier Guide",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Scout",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Scout"
+  ],
+  "text": "{3}{G}, {T}: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "frontier guide",
+  "colorIdentity": [
+    "G"
+  ]
+}

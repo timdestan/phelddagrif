@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Street Wraith",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Wraith",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wraith"
+  ],
+  "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\nCycling—Pay 2 life. (Pay 2 life, Discard this card: Draw a card.)",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "street wraith",
+  "colorIdentity": [
+    "B"
+  ]
+}

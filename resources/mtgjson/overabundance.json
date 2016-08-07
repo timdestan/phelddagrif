@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Overabundance",
+  "manaCost": "{1}{R}{G}",
+  "cmc": 3,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a player taps a land for mana, that player adds one mana to his or her mana pool of any type that land produced, and Overabundance deals 1 damage to him or her.",
+  "imageName": "overabundance",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

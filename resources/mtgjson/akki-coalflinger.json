@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Akki Coalflinger",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Shaman"
+  ],
+  "text": "First strike\n{R}, {T}: Attacking creatures gain first strike until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "akki coalflinger",
+  "colorIdentity": [
+    "R"
+  ]
+}

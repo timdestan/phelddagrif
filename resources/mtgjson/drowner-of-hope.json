@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Drowner of Hope",
+  "manaCost": "{5}{U}",
+  "cmc": 6,
+  "type": "Creature — Eldrazi",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi"
+  ],
+  "text": "Devoid (This card has no color.)\nWhen Drowner of Hope enters the battlefield, put two 1/1 colorless Eldrazi Scion creature tokens onto the battlefield. They have \"Sacrifice this creature: Add {C} to your mana pool.\"\nSacrifice an Eldrazi Scion: Tap target creature.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "drowner of hope",
+  "colorIdentity": [
+    "U"
+  ]
+}

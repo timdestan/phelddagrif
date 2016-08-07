@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Survival of the Fittest",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{G}, Discard a creature card: Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library.",
+  "imageName": "survival of the fittest",
+  "colorIdentity": [
+    "G"
+  ]
+}

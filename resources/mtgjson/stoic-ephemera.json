@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Stoic Ephemera",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Defender (This creature can't attack.)\nFlying\nWhen Stoic Ephemera blocks, sacrifice it at end of combat.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "stoic ephemera",
+  "colorIdentity": [
+    "W"
+  ]
+}

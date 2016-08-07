@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Tamiyo's Journal",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Legendary Artifact",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Artifact"
+  ],
+  "text": "At the beginning of your upkeep, investigate. (Put a colorless Clue artifact token onto the battlefield with \"{2}, Sacrifice this artifact: Draw a card.\")\n{T}, Sacrifice three Clues: Search your library for a card and put that card into your hand. Then shuffle your library.",
+  "imageName": "tamiyo's journal"
+}

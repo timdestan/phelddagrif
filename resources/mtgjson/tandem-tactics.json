@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Tandem Tactics",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Up to two target creatures each get +1/+2 until end of turn. You gain 2 life.",
+  "imageName": "tandem tactics",
+  "colorIdentity": [
+    "W"
+  ]
+}

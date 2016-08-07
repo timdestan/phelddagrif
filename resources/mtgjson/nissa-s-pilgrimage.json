@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Nissa's Pilgrimage",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Search your library for up to two basic Forest cards, reveal those cards, and put one onto the battlefield tapped and the rest into your hand. Then shuffle your library.\nSpell mastery — If there are two or more instant and/or sorcery cards in your graveyard, search your library for up to three basic Forest cards instead of two.",
+  "imageName": "nissa's pilgrimage",
+  "colorIdentity": [
+    "G"
+  ]
+}

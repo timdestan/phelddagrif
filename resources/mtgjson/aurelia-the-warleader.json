@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Aurelia, the Warleader",
+  "manaCost": "{2}{R}{R}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Legendary Creature — Angel",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying, vigilance, haste\nWhenever Aurelia, the Warleader attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "aurelia, the warleader",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

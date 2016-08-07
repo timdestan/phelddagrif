@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Realmwright",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Vedalken Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vedalken",
+    "Wizard"
+  ],
+  "text": "As Realmwright enters the battlefield, choose a basic land type.\nLands you control are the chosen type in addition to their other types.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "realmwright",
+  "colorIdentity": [
+    "U"
+  ]
+}

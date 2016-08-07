@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Seeds of Innocence",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy all artifacts. They can't be regenerated. The controller of each of those artifacts gains life equal to its converted mana cost.",
+  "imageName": "seeds of innocence",
+  "colorIdentity": [
+    "G"
+  ]
+}

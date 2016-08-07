@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Sanctuary Cat",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Cat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat"
+  ],
+  "power": "1",
+  "toughness": "2",
+  "imageName": "sanctuary cat",
+  "colorIdentity": [
+    "W"
+  ]
+}

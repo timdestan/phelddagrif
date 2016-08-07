@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Downhill Charge",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "You may sacrifice a Mountain rather than pay Downhill Charge's mana cost.\nTarget creature gets +X/+0 until end of turn, where X is the number of Mountains you control.",
+  "imageName": "downhill charge",
+  "colorIdentity": [
+    "R"
+  ]
+}

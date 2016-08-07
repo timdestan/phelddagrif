@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Igneous Golem",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "{2}: Igneous Golem gains trample until end of turn.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "igneous golem"
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Selfless Cathar",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "{1}{W}, Sacrifice Selfless Cathar: Creatures you control get +1/+1 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "selfless cathar",
+  "colorIdentity": [
+    "W"
+  ]
+}

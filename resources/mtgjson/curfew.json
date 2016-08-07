@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Curfew",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Each player returns a creature he or she controls to its owner's hand.",
+  "imageName": "curfew",
+  "colorIdentity": [
+    "U"
+  ]
+}

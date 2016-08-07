@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Fortress Cyclops",
+  "manaCost": "{3}{R}{W}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Creature — Cyclops Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cyclops",
+    "Soldier"
+  ],
+  "text": "Whenever Fortress Cyclops attacks, it gets +3/+0 until end of turn.\nWhenever Fortress Cyclops blocks, it gets +0/+3 until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "fortress cyclops",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

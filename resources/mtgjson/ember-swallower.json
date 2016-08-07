@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ember Swallower",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "{5}{R}{R}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)\nWhen Ember Swallower becomes monstrous, each player sacrifices three lands.",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "ember swallower",
+  "colorIdentity": [
+    "R"
+  ]
+}

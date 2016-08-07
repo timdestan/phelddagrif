@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Jade Mage",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Shaman"
+  ],
+  "text": "{2}{G}: Put a 1/1 green Saproling creature token onto the battlefield.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "jade mage",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Hideous Visage",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Creatures you control gain intimidate until end of turn. (Each of those creatures can't be blocked except by artifact creatures and/or creatures that share a color with it.)",
+  "imageName": "hideous visage",
+  "colorIdentity": [
+    "B"
+  ]
+}

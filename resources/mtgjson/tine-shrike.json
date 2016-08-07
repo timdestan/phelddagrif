@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Tine Shrike",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\nInfect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "tine shrike",
+  "colorIdentity": [
+    "W"
+  ]
+}

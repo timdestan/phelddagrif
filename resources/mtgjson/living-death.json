@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Living Death",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Each player exiles all creature cards from his or her graveyard, then sacrifices all creatures he or she controls, then puts all cards he or she exiled this way onto the battlefield.",
+  "imageName": "living death",
+  "colorIdentity": [
+    "B"
+  ]
+}

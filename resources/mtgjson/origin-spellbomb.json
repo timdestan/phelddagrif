@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Origin Spellbomb",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{1}, {T}, Sacrifice Origin Spellbomb: Put a 1/1 colorless Myr artifact creature token onto the battlefield.\nWhen Origin Spellbomb is put into a graveyard from the battlefield, you may pay {W}. If you do, draw a card.",
+  "imageName": "origin spellbomb",
+  "colorIdentity": [
+    "W"
+  ]
+}

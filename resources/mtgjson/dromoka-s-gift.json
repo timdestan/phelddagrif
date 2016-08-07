@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dromoka's Gift",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Bolster 4. (Choose a creature with the least toughness among creatures you control and put four +1/+1 counters on it.)",
+  "imageName": "dromoka's gift",
+  "colorIdentity": [
+    "G"
+  ]
+}

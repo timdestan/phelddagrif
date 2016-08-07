@@ -1,0 +1,10 @@
+{
+  "layout": "scheme",
+  "name": "Introductions Are in Order",
+  "type": "Scheme",
+  "types": [
+    "Scheme"
+  ],
+  "text": "When you set this scheme in motion, choose one —\n• Search your library for a creature card, reveal it, put it into your hand, then shuffle your library.\n• You may put a creature card from your hand onto the battlefield.",
+  "imageName": "introductions are in order"
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Peace Talks",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "This turn and next turn, creatures can't attack, and players and permanents can't be the targets of spells or activated abilities.",
+  "imageName": "peace talks",
+  "colorIdentity": [
+    "W"
+  ]
+}

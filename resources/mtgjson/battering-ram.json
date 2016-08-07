@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Battering Ram",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact Creature — Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "text": "At the beginning of combat on your turn, Battering Ram gains banding until end of combat. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's blocking.)\nWhenever Battering Ram becomes blocked by a Wall, destroy that Wall at end of combat.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "battering ram"
+}

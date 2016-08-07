@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Copperline Gorge",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Copperline Gorge enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {R} or {G} to your mana pool.",
+  "imageName": "copperline gorge",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

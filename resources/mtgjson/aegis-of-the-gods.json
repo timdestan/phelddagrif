@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Aegis of the Gods",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment Creature — Human Soldier",
+  "types": [
+    "Enchantment",
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "You have hexproof. (You can't be the target of spells or abilities your opponents control.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "aegis of the gods",
+  "colorIdentity": [
+    "W"
+  ]
+}

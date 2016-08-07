@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Leafcrown Dryad",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment Creature — Nymph Dryad",
+  "types": [
+    "Enchantment",
+    "Creature"
+  ],
+  "subtypes": [
+    "Nymph",
+    "Dryad"
+  ],
+  "text": "Bestow {3}{G} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)\nReach\nEnchanted creature gets +2/+2 and has reach.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "leafcrown dryad",
+  "colorIdentity": [
+    "G"
+  ]
+}

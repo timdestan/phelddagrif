@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Vicious Betrayal",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "As an additional cost to cast Vicious Betrayal, sacrifice any number of creatures.\nTarget creature gets +2/+2 until end of turn for each creature sacrificed this way.",
+  "imageName": "vicious betrayal",
+  "colorIdentity": [
+    "B"
+  ]
+}

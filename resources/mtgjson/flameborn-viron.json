@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Flameborn Viron",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "power": "6",
+  "toughness": "4",
+  "imageName": "flameborn viron",
+  "colorIdentity": [
+    "R"
+  ]
+}

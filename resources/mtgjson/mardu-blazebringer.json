@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Mardu Blazebringer",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Ogre Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ogre",
+    "Warrior"
+  ],
+  "text": "When Mardu Blazebringer attacks or blocks, sacrifice it at end of combat.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "mardu blazebringer",
+  "colorIdentity": [
+    "R"
+  ]
+}

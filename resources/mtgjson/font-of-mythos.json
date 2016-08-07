@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Font of Mythos",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "At the beginning of each player's draw step, that player draws two additional cards.",
+  "imageName": "font of mythos"
+}

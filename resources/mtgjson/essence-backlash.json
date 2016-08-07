@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Essence Backlash",
+  "manaCost": "{2}{U}{R}",
+  "cmc": 4,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target creature spell. Essence Backlash deals damage equal to that spell's power to its controller.",
+  "imageName": "essence backlash",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

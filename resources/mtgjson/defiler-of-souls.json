@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Defiler of Souls",
+  "manaCost": "{3}{B}{B}{R}",
+  "cmc": 6,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Demon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon"
+  ],
+  "text": "Flying\nAt the beginning of each player's upkeep, that player sacrifices a monocolored creature.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "defiler of souls",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

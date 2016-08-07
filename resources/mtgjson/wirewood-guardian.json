@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Wirewood Guardian",
+  "manaCost": "{5}{G}{G}",
+  "cmc": 7,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Mutant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Mutant"
+  ],
+  "text": "Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, and put it into your hand. Then shuffle your library.)",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "wirewood guardian",
+  "colorIdentity": [
+    "G"
+  ]
+}

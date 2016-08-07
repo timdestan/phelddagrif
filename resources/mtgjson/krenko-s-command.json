@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Krenko's Command",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put two 1/1 red Goblin creature tokens onto the battlefield.",
+  "imageName": "krenko's command",
+  "colorIdentity": [
+    "R"
+  ]
+}

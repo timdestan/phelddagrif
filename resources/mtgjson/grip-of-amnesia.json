@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Grip of Amnesia",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell unless its controller exiles all cards from his or her graveyard.\nDraw a card.",
+  "imageName": "grip of amnesia",
+  "colorIdentity": [
+    "U"
+  ]
+}

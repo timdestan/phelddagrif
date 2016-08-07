@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Hammerfist Giant",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Giant Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant",
+    "Warrior"
+  ],
+  "text": "{T}: Hammerfist Giant deals 4 damage to each creature without flying and each player.",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "hammerfist giant",
+  "colorIdentity": [
+    "R"
+  ]
+}

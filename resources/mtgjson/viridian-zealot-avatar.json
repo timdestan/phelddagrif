@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Viridian Zealot Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "{2}, Sacrifice a creature: Destroy target artifact or enchantment. Search your library for a card with the same name as the sacrificed creature, reveal that card, and put it into your hand. Then shuffle your library.",
+  "imageName": "viridian zealot avatar",
+  "hand": 0,
+  "life": 2
+}

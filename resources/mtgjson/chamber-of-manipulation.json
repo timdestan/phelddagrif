@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Chamber of Manipulation",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant land\nEnchanted land has \"{T}, Discard a card: Gain control of target creature until end of turn.\"",
+  "imageName": "chamber of manipulation",
+  "colorIdentity": [
+    "U"
+  ]
+}

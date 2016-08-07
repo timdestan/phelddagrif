@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Shatter",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target artifact.",
+  "imageName": "shatter",
+  "colorIdentity": [
+    "R"
+  ]
+}

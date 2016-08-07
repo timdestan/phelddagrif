@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Psychic Drain",
+  "manaCost": "{X}{U}{B}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target player puts the top X cards of his or her library into his or her graveyard and you gain X life.",
+  "imageName": "psychic drain",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

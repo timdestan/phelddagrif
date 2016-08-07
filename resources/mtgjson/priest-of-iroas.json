@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Priest of Iroas",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "{3}{W}, Sacrifice Priest of Iroas: Destroy target enchantment.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "priest of iroas",
+  "colorIdentity": [
+    "R",
+    "W"
+  ]
+}

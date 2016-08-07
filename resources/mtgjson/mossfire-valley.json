@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Mossfire Valley",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{1}, {T}: Add {R}{G} to your mana pool.",
+  "imageName": "mossfire valley",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

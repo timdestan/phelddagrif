@@ -1,0 +1,16 @@
+{
+  "layout": "normal",
+  "name": "Crown of Convergence",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Play with the top card of your library revealed.\nAs long as the top card of your library is a creature card, creatures you control that share a color with that card get +1/+1.\n{G}{W}: Put the top card of your library on the bottom of your library.",
+  "imageName": "crown of convergence",
+  "colorIdentity": [
+    "G",
+    "W"
+  ]
+}

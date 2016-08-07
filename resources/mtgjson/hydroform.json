@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Hydroform",
+  "manaCost": "{G}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target land becomes a 3/3 Elemental creature with flying until end of turn. It's still a land.",
+  "imageName": "hydroform",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Etherium Abomination",
+  "manaCost": "{3}{U}{B}",
+  "cmc": 5,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Artifact Creature — Horror",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "Unearth {1}{U}{B} ({1}{U}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "etherium abomination",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

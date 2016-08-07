@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Selective Memory",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Search your library for any number of nonland cards and exile them. Then shuffle your library.",
+  "imageName": "selective memory",
+  "colorIdentity": [
+    "U"
+  ]
+}

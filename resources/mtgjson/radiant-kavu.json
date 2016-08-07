@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Radiant Kavu",
+  "manaCost": "{R}{G}{W}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Kavu",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kavu"
+  ],
+  "text": "{R}{G}{W}: Prevent all combat damage blue creatures and black creatures would deal this turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "radiant kavu",
+  "colorIdentity": [
+    "W",
+    "R",
+    "G"
+  ]
+}

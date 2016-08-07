@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Erebos's Titan",
+  "manaCost": "{1}{B}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Giant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant"
+  ],
+  "text": "As long as your opponents control no creatures, Erebos's Titan has indestructible. (Damage and effects that say \"destroy\" don't destroy it.)\nWhenever a creature card leaves an opponent's graveyard, you may discard a card. If you do, return Erebos's Titan from your graveyard to your hand.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "erebos's titan",
+  "colorIdentity": [
+    "B"
+  ]
+}

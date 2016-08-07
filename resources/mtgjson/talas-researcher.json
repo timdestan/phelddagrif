@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Talas Researcher",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Pirate Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Pirate",
+    "Wizard"
+  ],
+  "text": "{T}: Draw a card. Activate this ability only during your turn, before attackers are declared.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "talas researcher",
+  "colorIdentity": [
+    "U"
+  ]
+}

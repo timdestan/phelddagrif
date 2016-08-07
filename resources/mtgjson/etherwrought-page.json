@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Etherwrought Page",
+  "manaCost": "{1}{W}{U}{B}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Blue",
+    "Black"
+  ],
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "At the beginning of your upkeep, choose one —\n• You gain 2 life.\n• Look at the top card of your library. You may put that card into your graveyard.\n• Each opponent loses 1 life.",
+  "imageName": "etherwrought page",
+  "colorIdentity": [
+    "W",
+    "U",
+    "B"
+  ]
+}

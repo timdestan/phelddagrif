@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Shimmering Barrier",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender (This creature can't attack.)\nFirst strike\nCycling {2} ({2}, Discard this card: Draw a card.)",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "shimmering barrier",
+  "colorIdentity": [
+    "W"
+  ]
+}

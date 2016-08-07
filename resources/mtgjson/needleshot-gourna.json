@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Needleshot Gourna",
+  "manaCost": "{4}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Reach (This creature can block creatures with flying.)",
+  "power": "3",
+  "toughness": "6",
+  "imageName": "needleshot gourna",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Zo-Zu the Punisher",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Creature — Goblin Warrior",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Warrior"
+  ],
+  "text": "Whenever a land enters the battlefield, Zo-Zu the Punisher deals 2 damage to that land's controller.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "zo-zu the punisher",
+  "colorIdentity": [
+    "R"
+  ]
+}

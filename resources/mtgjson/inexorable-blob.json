@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Inexorable Blob",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Ooze",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ooze"
+  ],
+  "text": "Delirium — Whenever Inexorable Blob attacks, if there are four or more card types among cards in your graveyard, put a 3/3 green Ooze creature token onto the battlefield tapped and attacking.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "inexorable blob",
+  "colorIdentity": [
+    "G"
+  ]
+}

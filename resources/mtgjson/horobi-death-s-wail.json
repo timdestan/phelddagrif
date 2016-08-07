@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Horobi, Death's Wail",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Legendary Creature — Spirit",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying\nWhenever a creature becomes the target of a spell or ability, destroy that creature.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "horobi, death's wail",
+  "colorIdentity": [
+    "B"
+  ]
+}

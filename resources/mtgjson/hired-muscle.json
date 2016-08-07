@@ -1,0 +1,28 @@
+{
+  "layout": "flip",
+  "name": "Hired Muscle",
+  "names": [
+    "Hired Muscle",
+    "Scarmaker"
+  ],
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Hired Muscle.\nAt the beginning of the end step, if there are two or more ki counters on Hired Muscle, you may flip it.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "hired muscle",
+  "colorIdentity": [
+    "B"
+  ]
+}

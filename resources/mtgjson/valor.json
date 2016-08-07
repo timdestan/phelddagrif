@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Valor",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Incarnation",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Incarnation"
+  ],
+  "text": "First strike\nAs long as Valor is in your graveyard and you control a Plains, creatures you control have first strike.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "valor",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Braid of Fire",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Cumulative upkeep—Add {R} to your mana pool. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",
+  "imageName": "braid of fire",
+  "colorIdentity": [
+    "R"
+  ]
+}

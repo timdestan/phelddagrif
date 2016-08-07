@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Plated Rootwalla",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Lizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Lizard"
+  ],
+  "text": "{2}{G}: Plated Rootwalla gets +3/+3 until end of turn. Activate this ability only once each turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "plated rootwalla",
+  "colorIdentity": [
+    "G"
+  ]
+}

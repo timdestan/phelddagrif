@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Glyph of Doom",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose target Wall creature. At this turn's next end of combat, destroy all creatures that were blocked by that creature this turn.",
+  "imageName": "glyph of doom",
+  "colorIdentity": [
+    "B"
+  ]
+}

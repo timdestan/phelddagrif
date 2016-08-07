@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Skeleton Ship",
+  "manaCost": "{3}{U}{B}",
+  "cmc": 5,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Legendary Creature — Skeleton",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Skeleton"
+  ],
+  "text": "When you control no Islands, sacrifice Skeleton Ship.\n{T}: Put a -1/-1 counter on target creature.",
+  "power": "0",
+  "toughness": "3",
+  "imageName": "skeleton ship",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

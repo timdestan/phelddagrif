@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Gangrenous Goliath",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Giant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Giant"
+  ],
+  "text": "Tap three untapped Clerics you control: Return Gangrenous Goliath from your graveyard to your hand.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "gangrenous goliath",
+  "colorIdentity": [
+    "B"
+  ]
+}

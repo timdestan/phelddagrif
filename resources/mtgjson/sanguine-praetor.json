@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Sanguine Praetor",
+  "manaCost": "{6}{B}{B}",
+  "cmc": 8,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Avatar Praetor",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Avatar",
+    "Praetor"
+  ],
+  "text": "{B}, Sacrifice a creature: Destroy each creature with the same converted mana cost as the sacrificed creature.",
+  "power": "7",
+  "toughness": "5",
+  "imageName": "sanguine praetor",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Venser, Shaper Savant",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Legendary Creature — Human Wizard",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen Venser, Shaper Savant enters the battlefield, return target spell or permanent to its owner's hand.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "venser, shaper savant",
+  "colorIdentity": [
+    "U"
+  ]
+}

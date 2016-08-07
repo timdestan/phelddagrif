@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Nomadic Elf",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Nomad",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Nomad"
+  ],
+  "text": "{1}{G}: Add one mana of any color to your mana pool.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "nomadic elf",
+  "colorIdentity": [
+    "G"
+  ]
+}

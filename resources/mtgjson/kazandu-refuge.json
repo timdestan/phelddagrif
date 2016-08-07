@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Kazandu Refuge",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Kazandu Refuge enters the battlefield tapped.\nWhen Kazandu Refuge enters the battlefield, you gain 1 life.\n{T}: Add {R} or {G} to your mana pool.",
+  "imageName": "kazandu refuge",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

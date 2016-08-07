@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Nightmare",
+  "manaCost": "{5}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Nightmare Horse",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Nightmare",
+    "Horse"
+  ],
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nNightmare's power and toughness are each equal to the number of Swamps you control.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "nightmare",
+  "colorIdentity": [
+    "B"
+  ]
+}

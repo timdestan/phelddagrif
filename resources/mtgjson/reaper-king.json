@@ -1,0 +1,35 @@
+{
+  "layout": "normal",
+  "name": "Reaper King",
+  "manaCost": "{2/W}{2/U}{2/B}{2/R}{2/G}",
+  "cmc": 10,
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "type": "Legendary Artifact Creature — Scarecrow",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Scarecrow"
+  ],
+  "text": "({2/W} can be paid with any two mana or with {W}. This card's converted mana cost is 10.)\nOther Scarecrow creatures you control get +1/+1.\nWhenever another Scarecrow enters the battlefield under your control, destroy target permanent.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "reaper king",
+  "colorIdentity": [
+    "W",
+    "U",
+    "B",
+    "R",
+    "G"
+  ]
+}

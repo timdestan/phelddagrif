@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Infest",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "All creatures get -2/-2 until end of turn.",
+  "imageName": "infest",
+  "colorIdentity": [
+    "B"
+  ]
+}

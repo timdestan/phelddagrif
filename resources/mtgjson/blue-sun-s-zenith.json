@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Blue Sun's Zenith",
+  "manaCost": "{X}{U}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target player draws X cards. Shuffle Blue Sun's Zenith into its owner's library.",
+  "imageName": "blue sun's zenith",
+  "colorIdentity": [
+    "U"
+  ]
+}

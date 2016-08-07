@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Carrier Thrall",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire"
+  ],
+  "text": "When Carrier Thrall dies, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has \"Sacrifice this creature: Add {C} to your mana pool.\"",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "carrier thrall",
+  "colorIdentity": [
+    "B"
+  ]
+}

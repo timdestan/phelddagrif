@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Smoldering Marsh",
+  "type": "Land — Swamp Mountain",
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Swamp",
+    "Mountain"
+  ],
+  "text": "({T}: Add {B} or {R} to your mana pool.)\nSmoldering Marsh enters the battlefield tapped unless you control two or more basic lands.",
+  "imageName": "smoldering marsh",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

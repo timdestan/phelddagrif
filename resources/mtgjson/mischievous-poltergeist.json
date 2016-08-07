@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Mischievous Poltergeist",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying\nPay 1 life: Regenerate Mischievous Poltergeist.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "mischievous poltergeist",
+  "colorIdentity": [
+    "B"
+  ]
+}

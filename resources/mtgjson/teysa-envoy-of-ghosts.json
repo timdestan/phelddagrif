@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Teysa, Envoy of Ghosts",
+  "manaCost": "{5}{W}{B}",
+  "cmc": 7,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Legendary Creature — Human Advisor",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Advisor"
+  ],
+  "text": "Vigilance, protection from creatures\nWhenever a creature deals combat damage to you, destroy that creature. Put a 1/1 white and black Spirit creature token with flying onto the battlefield.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "teysa, envoy of ghosts",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

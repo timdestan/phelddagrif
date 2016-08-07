@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Seize the Soul",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target nonwhite, nonblack creature. Put a 1/1 white Spirit creature token with flying onto the battlefield.\nHaunt (When this spell card is put into a graveyard after resolving, exile it haunting target creature.)\nWhen the creature Seize the Soul haunts dies, destroy target nonwhite, nonblack creature. Put a 1/1 white Spirit creature token with flying onto the battlefield.",
+  "imageName": "seize the soul",
+  "colorIdentity": [
+    "B"
+  ]
+}

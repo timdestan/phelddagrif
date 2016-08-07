@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Ruric Thar, the Unbowed",
+  "manaCost": "{4}{R}{G}",
+  "cmc": 6,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Legendary Creature — Ogre Warrior",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ogre",
+    "Warrior"
+  ],
+  "text": "Vigilance, reach\nRuric Thar, the Unbowed attacks each turn if able.\nWhenever a player casts a noncreature spell, Ruric Thar deals 6 damage to that player.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "ruric thar, the unbowed",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

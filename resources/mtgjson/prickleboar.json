@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Prickleboar",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Boar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Boar"
+  ],
+  "text": "As long as it's your turn, Prickleboar gets +2/+0 and has first strike. (It deals combat damage before creatures without first strike.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "prickleboar",
+  "colorIdentity": [
+    "R"
+  ]
+}

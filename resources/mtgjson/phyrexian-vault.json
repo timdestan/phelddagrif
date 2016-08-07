@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Phyrexian Vault",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, {T}, Sacrifice a creature: Draw a card.",
+  "imageName": "phyrexian vault"
+}

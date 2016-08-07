@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Soulsworn Spirit",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Soulsworn Spirit can't be blocked.\nWhen Soulsworn Spirit enters the battlefield, detain target creature an opponent controls. (Until your next turn, that creature can't attack or block and its activated abilities can't be activated.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "soulsworn spirit",
+  "colorIdentity": [
+    "U"
+  ]
+}

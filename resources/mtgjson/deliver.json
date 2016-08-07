@@ -1,0 +1,23 @@
+{
+  "layout": "split",
+  "name": "Deliver",
+  "names": [
+    "Stand",
+    "Deliver"
+  ],
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Return target permanent to its owner's hand.",
+  "imageName": "deliver",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

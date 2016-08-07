@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Wild Might",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gets +1/+1 until end of turn. That creature gets an additional +4/+4 until end of turn unless any player pays {2}.",
+  "imageName": "wild might",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Fetid Horror",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Shade Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Shade",
+    "Horror"
+  ],
+  "text": "{B}: Fetid Horror gets +1/+1 until end of turn.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "fetid horror",
+  "colorIdentity": [
+    "B"
+  ]
+}

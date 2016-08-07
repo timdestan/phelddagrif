@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Swamp",
+  "type": "Basic Land — Swamp",
+  "supertypes": [
+    "Basic"
+  ],
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Swamp"
+  ],
+  "imageName": "swamp",
+  "colorIdentity": [
+    "B"
+  ]
+}

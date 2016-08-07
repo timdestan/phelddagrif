@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Veiled Sentry",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "When an opponent casts a spell, if Veiled Sentry is an enchantment, Veiled Sentry becomes an Illusion creature with power and toughness each equal to that spell's converted mana cost.",
+  "imageName": "veiled sentry",
+  "colorIdentity": [
+    "U"
+  ]
+}

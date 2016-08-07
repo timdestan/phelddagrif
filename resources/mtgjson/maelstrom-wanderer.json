@@ -1,0 +1,30 @@
+{
+  "layout": "normal",
+  "name": "Maelstrom Wanderer",
+  "manaCost": "{5}{U}{R}{G}",
+  "cmc": 8,
+  "colors": [
+    "Blue",
+    "Red",
+    "Green"
+  ],
+  "type": "Legendary Creature — Elemental",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Creatures you control have haste.\nCascade, cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order. Then do it again.)",
+  "power": "7",
+  "toughness": "5",
+  "imageName": "maelstrom wanderer",
+  "colorIdentity": [
+    "U",
+    "R",
+    "G"
+  ]
+}

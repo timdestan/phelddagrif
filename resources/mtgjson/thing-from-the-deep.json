@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Thing from the Deep",
+  "manaCost": "{6}{U}{U}{U}",
+  "cmc": 9,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Leviathan",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Leviathan"
+  ],
+  "text": "Whenever Thing from the Deep attacks, sacrifice it unless you sacrifice an Island.",
+  "power": "9",
+  "toughness": "9",
+  "imageName": "thing from the deep",
+  "colorIdentity": [
+    "U"
+  ]
+}

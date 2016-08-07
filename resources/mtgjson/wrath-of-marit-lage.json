@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Wrath of Marit Lage",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "When Wrath of Marit Lage enters the battlefield, tap all red creatures.\nRed creatures don't untap during their controllers' untap steps.",
+  "imageName": "wrath of marit lage",
+  "colorIdentity": [
+    "U"
+  ]
+}

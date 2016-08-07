@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Cliff Threader",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kor Scout",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kor",
+    "Scout"
+  ],
+  "text": "Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "cliff threader",
+  "colorIdentity": [
+    "W"
+  ]
+}

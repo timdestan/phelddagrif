@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ivy Lane Denizen",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Warrior"
+  ],
+  "text": "Whenever another green creature enters the battlefield under your control, put a +1/+1 counter on target creature.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "ivy lane denizen",
+  "colorIdentity": [
+    "G"
+  ]
+}

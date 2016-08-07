@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Ayesha Tanaka",
+  "manaCost": "{W}{W}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Legendary Creature — Human Artificer",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Artificer"
+  ],
+  "text": "Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)\n{T}: Counter target activated ability from an artifact source unless that ability's controller pays {W}. (Mana abilities can't be targeted.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "ayesha tanaka",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

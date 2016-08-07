@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "City of Brass",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Whenever City of Brass becomes tapped, it deals 1 damage to you.\n{T}: Add one mana of any color to your mana pool.",
+  "imageName": "city of brass"
+}

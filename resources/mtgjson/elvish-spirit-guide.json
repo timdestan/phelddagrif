@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Elvish Spirit Guide",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Spirit"
+  ],
+  "text": "Exile Elvish Spirit Guide from your hand: Add {G} to your mana pool.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "elvish spirit guide",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Wreak Havoc",
+  "manaCost": "{2}{R}{G}",
+  "cmc": 4,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Wreak Havoc can't be countered by spells or abilities.\nDestroy target artifact or land.",
+  "imageName": "wreak havoc",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

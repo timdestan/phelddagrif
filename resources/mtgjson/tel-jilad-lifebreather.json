@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Tel-Jilad Lifebreather",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Troll Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Troll",
+    "Shaman"
+  ],
+  "text": "{G}, {T}, Sacrifice a Forest: Regenerate target creature.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "tel-jilad lifebreather",
+  "colorIdentity": [
+    "G"
+  ]
+}

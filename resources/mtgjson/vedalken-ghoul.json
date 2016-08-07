@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Vedalken Ghoul",
+  "manaCost": "{U}{B}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Creature — Vedalken Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vedalken",
+    "Zombie"
+  ],
+  "text": "Whenever Vedalken Ghoul becomes blocked, defending player loses 4 life.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "vedalken ghoul",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Ashling, the Extinguisher",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Legendary Creature — Elemental Shaman",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Shaman"
+  ],
+  "text": "Whenever Ashling, the Extinguisher deals combat damage to a player, choose target creature that player controls. He or she sacrifices that creature.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "ashling, the extinguisher",
+  "colorIdentity": [
+    "B"
+  ]
+}

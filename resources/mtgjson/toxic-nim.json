@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Toxic Nim",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\n{B}: Regenerate Toxic Nim.",
+  "power": "4",
+  "toughness": "1",
+  "imageName": "toxic nim",
+  "colorIdentity": [
+    "B"
+  ]
+}

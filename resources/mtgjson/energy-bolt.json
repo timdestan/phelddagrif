@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Energy Bolt",
+  "manaCost": "{X}{R}{W}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Choose one —\n• Energy Bolt deals X damage to target player.\n• Target player gains X life.",
+  "imageName": "energy bolt",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

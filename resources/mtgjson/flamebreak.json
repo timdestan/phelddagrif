@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Flamebreak",
+  "manaCost": "{R}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Flamebreak deals 3 damage to each creature without flying and each player. Creatures dealt damage this way can't be regenerated this turn.",
+  "imageName": "flamebreak",
+  "colorIdentity": [
+    "R"
+  ]
+}

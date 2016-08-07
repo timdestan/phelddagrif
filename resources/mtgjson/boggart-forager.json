@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Boggart Forager",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Rogue"
+  ],
+  "text": "{R}, Sacrifice Boggart Forager: Target player shuffles his or her library.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "boggart forager",
+  "colorIdentity": [
+    "R"
+  ]
+}

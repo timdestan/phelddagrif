@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Celestial Archon",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment Creature — Archon",
+  "types": [
+    "Enchantment",
+    "Creature"
+  ],
+  "subtypes": [
+    "Archon"
+  ],
+  "text": "Bestow {5}{W}{W} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)\nFlying, first strike\nEnchanted creature gets +4/+4 and has flying and first strike.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "celestial archon",
+  "colorIdentity": [
+    "W"
+  ]
+}

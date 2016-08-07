@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Runeflare Trap",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant — Trap",
+  "types": [
+    "Instant"
+  ],
+  "subtypes": [
+    "Trap"
+  ],
+  "text": "If an opponent drew three or more cards this turn, you may pay {R} rather than pay Runeflare Trap's mana cost.\nRuneflare Trap deals damage to target player equal to the number of cards in that player's hand.",
+  "imageName": "runeflare trap",
+  "colorIdentity": [
+    "R"
+  ]
+}

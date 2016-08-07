@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Teroh's Vanguard",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Nomad",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Nomad"
+  ],
+  "text": "Flash\nThreshold — As long as seven or more cards are in your graveyard, Teroh's Vanguard has \"When Teroh's Vanguard enters the battlefield, creatures you control gain protection from black until end of turn.\"",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "teroh's vanguard",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "See Beyond",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Draw two cards, then shuffle a card from your hand into your library.",
+  "imageName": "see beyond",
+  "colorIdentity": [
+    "U"
+  ]
+}

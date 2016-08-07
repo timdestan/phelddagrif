@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Richard Garfield, Ph.D.",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Legendary Creature — Human Designer",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Designer"
+  ],
+  "text": "You may play cards as though they were other Magic cards of your choice with the same mana cost. (Mana cost includes color.) You can't choose the same card twice.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "richard garfield, ph.d",
+  "colorIdentity": [
+    "U"
+  ]
+}

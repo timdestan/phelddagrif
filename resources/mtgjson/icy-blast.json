@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Icy Blast",
+  "manaCost": "{X}{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Tap X target creatures.\nFerocious — If you control a creature with power 4 or greater, those creatures don't untap during their controllers' next untap steps.",
+  "imageName": "icy blast",
+  "colorIdentity": [
+    "U"
+  ]
+}

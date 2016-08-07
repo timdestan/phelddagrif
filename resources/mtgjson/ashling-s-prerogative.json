@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ashling's Prerogative",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "As Ashling's Prerogative enters the battlefield, choose odd or even. (Zero is even.)\nEach creature with converted mana cost of the chosen value has haste.\nEach creature without converted mana cost of the chosen value enters the battlefield tapped.",
+  "imageName": "ashling's prerogative",
+  "colorIdentity": [
+    "R"
+  ]
+}

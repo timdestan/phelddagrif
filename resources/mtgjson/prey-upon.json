@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Prey Upon",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target creature you control fights target creature you don't control.",
+  "imageName": "prey upon",
+  "colorIdentity": [
+    "G"
+  ]
+}

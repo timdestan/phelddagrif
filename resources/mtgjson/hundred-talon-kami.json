@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Hundred-Talon Kami",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying\nSoulshift 4 (When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "hundred-talon kami",
+  "colorIdentity": [
+    "W"
+  ]
+}

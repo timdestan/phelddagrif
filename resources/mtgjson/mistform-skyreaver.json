@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Mistform Skyreaver",
+  "manaCost": "{5}{U}{U}",
+  "cmc": 7,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Illusion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Illusion"
+  ],
+  "text": "Flying\n{1}: Mistform Skyreaver becomes the creature type of your choice until end of turn.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "mistform skyreaver",
+  "colorIdentity": [
+    "U"
+  ]
+}

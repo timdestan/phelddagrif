@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Gift of the Deity",
+  "manaCost": "{4}{B/G}",
+  "cmc": 5,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nAs long as enchanted creature is black, it gets +1/+1 and has deathtouch. (Any amount of damage it deals to a creature is enough to destroy that creature.)\nAs long as enchanted creature is green, it gets +1/+1 and all creatures able to block it do so.",
+  "imageName": "gift of the deity",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

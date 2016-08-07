@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Xun Yu, Wei Advisor",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Legendary Creature — Human Advisor",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Advisor"
+  ],
+  "text": "{T}: Target creature you control gets +2/+0 until end of turn. Activate this ability only during your turn, before attackers are declared.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "xun yu, wei advisor",
+  "colorIdentity": [
+    "B"
+  ]
+}

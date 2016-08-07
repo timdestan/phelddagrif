@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Glistening Oil",
+  "manaCost": "{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature has infect.\nAt the beginning of your upkeep, put a -1/-1 counter on enchanted creature.\nWhen Glistening Oil is put into a graveyard from the battlefield, return Glistening Oil to its owner's hand.",
+  "imageName": "glistening oil",
+  "colorIdentity": [
+    "B"
+  ]
+}

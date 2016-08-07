@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Collective Effort",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Escalate—Tap an untapped creature you control. (Pay this cost for each mode chosen beyond the first.)\nChoose one or more —\n• Destroy target creature with power 4 or greater.\n• Destroy target enchantment.\n• Put a +1/+1 counter on each creature target player controls.",
+  "imageName": "collective effort",
+  "colorIdentity": [
+    "W"
+  ]
+}

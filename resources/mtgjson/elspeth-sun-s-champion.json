@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Elspeth, Sun's Champion",
+  "manaCost": "{4}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Planeswalker — Elspeth",
+  "types": [
+    "Planeswalker"
+  ],
+  "subtypes": [
+    "Elspeth"
+  ],
+  "text": "+1: Put three 1/1 white Soldier creature tokens onto the battlefield.\n−3: Destroy all creatures with power 4 or greater.\n−7: You get an emblem with \"Creatures you control get +2/+2 and have flying.\"",
+  "loyalty": 4,
+  "imageName": "elspeth, sun's champion",
+  "colorIdentity": [
+    "W"
+  ]
+}

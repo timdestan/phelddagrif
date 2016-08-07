@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Elephant Resurgence",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Each player puts a green Elephant creature token onto the battlefield. Those creatures have \"This creature's power and toughness are each equal to the number of creature cards in its controller's graveyard.\"",
+  "imageName": "elephant resurgence",
+  "colorIdentity": [
+    "G"
+  ]
+}

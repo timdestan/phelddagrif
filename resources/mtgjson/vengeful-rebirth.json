@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Vengeful Rebirth",
+  "manaCost": "{4}{R}{G}",
+  "cmc": 6,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Return target card from your graveyard to your hand. If you return a nonland card to your hand this way, Vengeful Rebirth deals damage equal to that card's converted mana cost to target creature or player.\nExile Vengeful Rebirth.",
+  "imageName": "vengeful rebirth",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

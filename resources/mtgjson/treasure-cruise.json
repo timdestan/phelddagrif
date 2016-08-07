@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Treasure Cruise",
+  "manaCost": "{7}{U}",
+  "cmc": 8,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nDraw three cards.",
+  "imageName": "treasure cruise",
+  "colorIdentity": [
+    "U"
+  ]
+}

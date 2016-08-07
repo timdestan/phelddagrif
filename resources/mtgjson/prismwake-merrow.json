@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Prismwake Merrow",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Wizard"
+  ],
+  "text": "Flash\nWhen Prismwake Merrow enters the battlefield, target permanent becomes the color or colors of your choice until end of turn.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "prismwake merrow",
+  "colorIdentity": [
+    "U"
+  ]
+}

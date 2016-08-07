@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Perilous Research",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Draw two cards, then sacrifice a permanent.",
+  "imageName": "perilous research",
+  "colorIdentity": [
+    "U"
+  ]
+}

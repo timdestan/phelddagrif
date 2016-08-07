@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Giant Slug",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Slug",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Slug"
+  ],
+  "text": "{5}: At the beginning of your next upkeep, choose a basic land type. Giant Slug gains landwalk of the chosen type until the end of that turn. (It can't be blocked as long as defending player controls a land of that type.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "giant slug",
+  "colorIdentity": [
+    "B"
+  ]
+}

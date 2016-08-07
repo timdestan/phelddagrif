@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Banishment Decree",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Put target artifact, creature, or enchantment on top of its owner's library.",
+  "imageName": "banishment decree",
+  "colorIdentity": [
+    "W"
+  ]
+}

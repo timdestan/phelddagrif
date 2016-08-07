@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Erhnam Djinn Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "Whenever you cast a creature spell, put a 1/1 green Saproling creature token onto the battlefield.",
+  "imageName": "erhnam djinn avatar",
+  "hand": 0,
+  "life": 3
+}

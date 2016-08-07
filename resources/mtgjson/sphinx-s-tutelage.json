@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sphinx's Tutelage",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever you draw a card, target opponent puts the top two cards of his or her library into his or her graveyard. If they're both nonland cards that share a color, repeat this process.\n{5}{U}: Draw a card, then discard a card.",
+  "imageName": "sphinx's tutelage",
+  "colorIdentity": [
+    "U"
+  ]
+}

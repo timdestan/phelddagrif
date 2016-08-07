@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Dark Heart of the Wood",
+  "manaCost": "{B}{G}",
+  "cmc": 2,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Sacrifice a Forest: You gain 3 life.",
+  "imageName": "dark heart of the wood",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

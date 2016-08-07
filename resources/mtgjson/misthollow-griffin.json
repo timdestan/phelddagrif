@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Misthollow Griffin",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Griffin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Griffin"
+  ],
+  "text": "Flying\nYou may cast Misthollow Griffin from exile.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "misthollow griffin",
+  "colorIdentity": [
+    "U"
+  ]
+}

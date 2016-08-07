@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Wall of Reverence",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Spirit Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit",
+    "Wall"
+  ],
+  "text": "Defender, flying\nAt the beginning of your end step, you may gain life equal to the power of target creature you control.",
+  "power": "1",
+  "toughness": "6",
+  "imageName": "wall of reverence",
+  "colorIdentity": [
+    "W"
+  ]
+}

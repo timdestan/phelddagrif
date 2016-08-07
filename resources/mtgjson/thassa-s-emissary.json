@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Thassa's Emissary",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment Creature — Crab",
+  "types": [
+    "Enchantment",
+    "Creature"
+  ],
+  "subtypes": [
+    "Crab"
+  ],
+  "text": "Bestow {5}{U} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)\nWhenever Thassa's Emissary or enchanted creature deals combat damage to a player, draw a card.\nEnchanted creature gets +3/+3.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "thassa's emissary",
+  "colorIdentity": [
+    "U"
+  ]
+}

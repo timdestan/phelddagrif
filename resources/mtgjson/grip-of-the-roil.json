@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Grip of the Roil",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Surge {1}{U} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)\nTap target creature. It doesn't untap during its controller's next untap step.\nDraw a card.",
+  "imageName": "grip of the roil",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Crystalline Sliver",
+  "manaCost": "{W}{U}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "All Slivers have shroud. (They can't be the targets of spells or abilities.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "crystalline sliver",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

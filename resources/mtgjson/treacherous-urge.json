@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Treacherous Urge",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target opponent reveals his or her hand. You may put a creature card from it onto the battlefield under your control. That creature gains haste. Sacrifice it at the beginning of the next end step.",
+  "imageName": "treacherous urge",
+  "colorIdentity": [
+    "B"
+  ]
+}

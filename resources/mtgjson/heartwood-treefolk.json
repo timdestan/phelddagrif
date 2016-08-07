@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Heartwood Treefolk",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Treefolk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Treefolk"
+  ],
+  "text": "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "heartwood treefolk",
+  "colorIdentity": [
+    "G"
+  ]
+}

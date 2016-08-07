@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Glitterfang",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Haste\nAt the beginning of the end step, return Glitterfang to its owner's hand.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "glitterfang",
+  "colorIdentity": [
+    "R"
+  ]
+}

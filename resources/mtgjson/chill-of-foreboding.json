@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Chill of Foreboding",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Each player puts the top five cards of his or her library into his or her graveyard.\nFlashback {7}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "chill of foreboding",
+  "colorIdentity": [
+    "U"
+  ]
+}

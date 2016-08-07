@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Crosswinds",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Creatures with flying get -2/-0.",
+  "imageName": "crosswinds",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Forgotten Ancient",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Whenever a player casts a spell, you may put a +1/+1 counter on Forgotten Ancient.\nAt the beginning of your upkeep, you may move any number of +1/+1 counters from Forgotten Ancient onto other creatures.",
+  "power": "0",
+  "toughness": "3",
+  "imageName": "forgotten ancient",
+  "colorIdentity": [
+    "G"
+  ]
+}

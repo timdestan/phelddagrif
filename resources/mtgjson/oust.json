@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Oust",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put target creature into its owner's library second from the top. Its controller gains 3 life.",
+  "imageName": "oust",
+  "colorIdentity": [
+    "W"
+  ]
+}

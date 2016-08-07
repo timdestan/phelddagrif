@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Howling Gale",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Howling Gale deals 1 damage to each creature with flying and each player.\nFlashback {1}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "howling gale",
+  "colorIdentity": [
+    "G"
+  ]
+}

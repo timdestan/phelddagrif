@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dragon Tempest",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a creature with flying enters the battlefield under your control, it gains haste until end of turn.\nWhenever a Dragon enters the battlefield under your control, it deals X damage to target creature or player, where X is the number of Dragons you control.",
+  "imageName": "dragon tempest",
+  "colorIdentity": [
+    "R"
+  ]
+}

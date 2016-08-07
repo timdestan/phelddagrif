@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Phyrexian Rager",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "phyrexian rager",
+  "colorIdentity": [
+    "B"
+  ]
+}

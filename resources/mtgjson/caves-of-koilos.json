@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Caves of Koilos",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{T}: Add {W} or {B} to your mana pool. Caves of Koilos deals 1 damage to you.",
+  "imageName": "caves of koilos",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

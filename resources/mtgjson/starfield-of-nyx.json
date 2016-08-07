@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Starfield of Nyx",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, you may return target enchantment card from your graveyard to the battlefield.\nAs long as you control five or more enchantments, each other non-Aura enchantment you control is a creature in addition to its other types and has base power and base toughness each equal to its converted mana cost.",
+  "imageName": "starfield of nyx",
+  "colorIdentity": [
+    "W"
+  ]
+}

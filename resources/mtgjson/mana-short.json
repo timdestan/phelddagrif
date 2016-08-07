@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mana Short",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Tap all lands target player controls and empty his or her mana pool.",
+  "imageName": "mana short",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Belfry Spirit",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying\nHaunt (When this creature dies, exile it haunting target creature.)\nWhen Belfry Spirit enters the battlefield or the creature it haunts dies, put two 1/1 black Bat creature tokens with flying onto the battlefield.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "belfry spirit",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Seasoned Marshal",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Whenever Seasoned Marshal attacks, you may tap target creature.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "seasoned marshal",
+  "colorIdentity": [
+    "W"
+  ]
+}

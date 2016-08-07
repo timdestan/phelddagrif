@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Orgg",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Orgg",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Orgg"
+  ],
+  "text": "Trample\nOrgg can't attack if defending player controls an untapped creature with power 3 or greater.\nOrgg can't block creatures with power 3 or greater.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "orgg",
+  "colorIdentity": [
+    "R"
+  ]
+}

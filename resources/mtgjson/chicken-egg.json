@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Chicken Egg",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Summon — Egg",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Egg"
+  ],
+  "text": "During your upkeep, roll a six-sided die. On a 6, sacrifice Chicken Egg and put a Giant Chicken token into play. Treat this token as a 4/4 red creature that counts as a Chicken.",
+  "power": "0",
+  "toughness": "1",
+  "imageName": "chicken egg",
+  "colorIdentity": [
+    "R"
+  ]
+}

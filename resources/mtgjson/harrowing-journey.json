@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Harrowing Journey",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target player draws three cards and loses 3 life.",
+  "imageName": "harrowing journey",
+  "colorIdentity": [
+    "B"
+  ]
+}

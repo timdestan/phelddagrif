@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Red Elemental Blast",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose one —\n• Counter target blue spell.\n• Destroy target blue permanent.",
+  "imageName": "red elemental blast",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Goliath Sphinx",
+  "manaCost": "{5}{U}{U}",
+  "cmc": 7,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Sphinx",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sphinx"
+  ],
+  "text": "Flying",
+  "power": "8",
+  "toughness": "7",
+  "imageName": "goliath sphinx",
+  "colorIdentity": [
+    "U"
+  ]
+}

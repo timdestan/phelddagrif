@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Deep-Sea Terror",
+  "manaCost": "{4}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Serpent",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Serpent"
+  ],
+  "text": "Deep-Sea Terror can't attack unless there are seven or more cards in your graveyard.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "deep-sea terror",
+  "colorIdentity": [
+    "U"
+  ]
+}

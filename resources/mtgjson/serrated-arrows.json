@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Serrated Arrows",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Serrated Arrows enters the battlefield with three arrowhead counters on it.\nAt the beginning of your upkeep, if there are no arrowhead counters on Serrated Arrows, sacrifice it.\n{T}, Remove an arrowhead counter from Serrated Arrows: Put a -1/-1 counter on target creature.",
+  "imageName": "serrated arrows"
+}

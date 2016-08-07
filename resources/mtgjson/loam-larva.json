@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Loam Larva",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "When Loam Larva enters the battlefield, you may search your library for a basic land card, reveal it, then shuffle your library and put that card on top of it.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "loam larva",
+  "colorIdentity": [
+    "G"
+  ]
+}

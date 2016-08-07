@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Karmic Justice",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a spell or ability an opponent controls destroys a noncreature permanent you control, you may destroy target permanent that opponent controls.",
+  "imageName": "karmic justice",
+  "colorIdentity": [
+    "W"
+  ]
+}

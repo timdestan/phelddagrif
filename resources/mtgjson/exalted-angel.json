@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Exalted Angel",
+  "manaCost": "{4}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nWhenever Exalted Angel deals damage, you gain that much life.\nMorph {2}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "exalted angel",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Battered Golem",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "Battered Golem doesn't untap during your untap step.\nWhenever an artifact enters the battlefield, you may untap Battered Golem.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "battered golem"
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Bullwhip",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, {T}: Bullwhip deals 1 damage to target creature. That creature attacks this turn if able.",
+  "imageName": "bullwhip"
+}

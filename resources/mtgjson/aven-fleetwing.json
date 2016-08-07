@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Aven Fleetwing",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Bird Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird",
+    "Soldier"
+  ],
+  "text": "Flying\nHexproof (This creature can't be the target of spells or abilities your opponents control.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "aven fleetwing",
+  "colorIdentity": [
+    "U"
+  ]
+}

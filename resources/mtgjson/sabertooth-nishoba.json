@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Sabertooth Nishoba",
+  "manaCost": "{4}{G}{W}",
+  "cmc": 6,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Cat Beast Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat",
+    "Beast",
+    "Warrior"
+  ],
+  "text": "Trample, protection from blue and from red",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "sabertooth nishoba",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

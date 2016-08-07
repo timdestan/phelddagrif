@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Halberdier",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Barbarian",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Barbarian"
+  ],
+  "text": "First strike",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "halberdier",
+  "colorIdentity": [
+    "R"
+  ]
+}

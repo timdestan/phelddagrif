@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Myrsmith",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Artificer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Artificer"
+  ],
+  "text": "Whenever you cast an artifact spell, you may pay {1}. If you do, put a 1/1 colorless Myr artifact creature token onto the battlefield.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "myrsmith",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Faerie Harbinger",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Faerie Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Faerie",
+    "Wizard"
+  ],
+  "text": "Flash\nFlying\nWhen Faerie Harbinger enters the battlefield, you may search your library for a Faerie card, reveal it, then shuffle your library and put that card on top of it.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "faerie harbinger",
+  "colorIdentity": [
+    "U"
+  ]
+}

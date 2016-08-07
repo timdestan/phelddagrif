@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Charging Troll",
+  "manaCost": "{2}{G}{W}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Troll",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Troll"
+  ],
+  "text": "Vigilance\n{G}: Regenerate Charging Troll.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "charging troll",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

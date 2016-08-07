@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Inquisitor's Ox",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Ox",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ox"
+  ],
+  "text": "Delirium — Inquisitor's Ox gets +1/+0 and has vigilance as long as there are four or more card types among cards in your graveyard.",
+  "power": "2",
+  "toughness": "5",
+  "imageName": "inquisitor's ox",
+  "colorIdentity": [
+    "W"
+  ]
+}

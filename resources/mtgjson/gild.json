@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Gild",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Exile target creature. Put a colorless artifact token named Gold onto the battlefield. It has \"Sacrifice this artifact: Add one mana of any color to your mana pool.\"",
+  "imageName": "gild",
+  "colorIdentity": [
+    "B"
+  ]
+}

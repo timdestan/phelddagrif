@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Needle Storm",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Needle Storm deals 4 damage to each creature with flying.",
+  "imageName": "needle storm",
+  "colorIdentity": [
+    "G"
+  ]
+}

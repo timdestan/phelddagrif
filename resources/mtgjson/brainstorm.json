@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Brainstorm",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Draw three cards, then put two cards from your hand on top of your library in any order.",
+  "imageName": "brainstorm",
+  "colorIdentity": [
+    "U"
+  ]
+}

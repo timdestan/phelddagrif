@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wandering Tombshell",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Turtle",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Turtle"
+  ],
+  "power": "1",
+  "toughness": "6",
+  "imageName": "wandering tombshell",
+  "colorIdentity": [
+    "B"
+  ]
+}

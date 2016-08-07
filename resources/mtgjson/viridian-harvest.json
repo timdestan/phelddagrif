@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Viridian Harvest",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant artifact\nWhen enchanted artifact is put into a graveyard, you gain 6 life.",
+  "imageName": "viridian harvest",
+  "colorIdentity": [
+    "G"
+  ]
+}

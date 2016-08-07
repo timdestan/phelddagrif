@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Dark Sphere",
+  "manaCost": "{0}",
+  "cmc": 0,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}, Sacrifice Dark Sphere: The next time a source of your choice would deal damage to you this turn, prevent half that damage, rounded down.",
+  "imageName": "dark sphere"
+}

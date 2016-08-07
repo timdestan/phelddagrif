@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Birds of Paradise Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "Lands you control have \"{T}: Add one mana of any color to your mana pool.\"",
+  "imageName": "birds of paradise avatar",
+  "hand": 0,
+  "life": -3
+}

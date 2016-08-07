@@ -1,0 +1,25 @@
+{
+  "layout": "split",
+  "name": "Simple",
+  "names": [
+    "Pure",
+    "Simple"
+  ],
+  "manaCost": "{1}{G}{W}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy all Auras and Equipment.",
+  "imageName": "simple",
+  "colorIdentity": [
+    "W",
+    "G",
+    "R"
+  ]
+}

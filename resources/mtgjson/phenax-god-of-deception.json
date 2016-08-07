@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Phenax, God of Deception",
+  "manaCost": "{3}{U}{B}",
+  "cmc": 5,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Legendary Enchantment Creature — God",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Enchantment",
+    "Creature"
+  ],
+  "subtypes": [
+    "God"
+  ],
+  "text": "Indestructible\nAs long as your devotion to blue and black is less than seven, Phenax isn't a creature.\nCreatures you control have \"{T}: Target player puts the top X cards of his or her library into his or her graveyard, where X is this creature's toughness.\"",
+  "power": "4",
+  "toughness": "7",
+  "imageName": "phenax, god of deception",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

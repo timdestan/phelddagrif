@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Cemetery Reaper",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Other Zombie creatures you control get +1/+1.\n{2}{B}, {T}: Exile target creature card from a graveyard. Put a 2/2 black Zombie creature token onto the battlefield.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "cemetery reaper",
+  "colorIdentity": [
+    "B"
+  ]
+}

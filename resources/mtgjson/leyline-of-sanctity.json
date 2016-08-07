@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Leyline of Sanctity",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "If Leyline of Sanctity is in your opening hand, you may begin the game with it on the battlefield.\nYou have hexproof. (You can't be the target of spells or abilities your opponents control.)",
+  "imageName": "leyline of sanctity",
+  "colorIdentity": [
+    "W"
+  ]
+}

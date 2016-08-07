@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Trained Jackal",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Hound",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hound"
+  ],
+  "power": "1",
+  "toughness": "2",
+  "imageName": "trained jackal",
+  "colorIdentity": [
+    "G"
+  ]
+}

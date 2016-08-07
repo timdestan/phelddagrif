@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Soulflayer",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Demon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon"
+  ],
+  "text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nIf a creature card with flying was exiled with Soulflayer's delve ability, Soulflayer has flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, reach, trample, and vigilance.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "soulflayer",
+  "colorIdentity": [
+    "B"
+  ]
+}

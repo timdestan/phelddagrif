@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Knight Errant",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "power": "2",
+  "toughness": "2",
+  "imageName": "knight errant",
+  "colorIdentity": [
+    "W"
+  ]
+}

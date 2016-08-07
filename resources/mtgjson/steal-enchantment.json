@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Steal Enchantment",
+  "manaCost": "{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant enchantment\nYou control enchanted enchantment.",
+  "imageName": "steal enchantment",
+  "colorIdentity": [
+    "U"
+  ]
+}

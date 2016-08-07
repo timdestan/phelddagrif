@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Strength of Lunacy",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets +2/+1 and has protection from white.\nMadness {B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+  "imageName": "strength of lunacy",
+  "colorIdentity": [
+    "B"
+  ]
+}

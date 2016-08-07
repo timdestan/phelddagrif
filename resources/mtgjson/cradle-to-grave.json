@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Cradle to Grave",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target nonblack creature that entered the battlefield this turn.",
+  "imageName": "cradle to grave",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Goblin Ringleader",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "Haste\nWhen Goblin Ringleader enters the battlefield, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and the rest on the bottom of your library in any order.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "goblin ringleader",
+  "colorIdentity": [
+    "R"
+  ]
+}

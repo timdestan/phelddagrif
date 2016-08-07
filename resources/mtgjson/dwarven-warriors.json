@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Dwarven Warriors",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dwarf Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dwarf",
+    "Warrior"
+  ],
+  "text": "{T}: Target creature with power 2 or less can't be blocked this turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "dwarven warriors",
+  "colorIdentity": [
+    "R"
+  ]
+}

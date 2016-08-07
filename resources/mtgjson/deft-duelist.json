@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Deft Duelist",
+  "manaCost": "{W}{U}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Creature — Human Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "First strike\nShroud (This creature can't be the target of spells or abilities.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "deft duelist",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

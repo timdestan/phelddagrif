@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Tarfire",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Tribal Instant — Goblin",
+  "types": [
+    "Tribal",
+    "Instant"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "Tarfire deals 2 damage to target creature or player.",
+  "imageName": "tarfire",
+  "colorIdentity": [
+    "R"
+  ]
+}

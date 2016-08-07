@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Aligned Hedron Network",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "When Aligned Hedron Network enters the battlefield, exile all creatures with power 5 or greater until Aligned Hedron Network leaves the battlefield. (Those creatures return under their owners' control.)",
+  "imageName": "aligned hedron network"
+}

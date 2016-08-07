@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Evil Presents",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put a creature card from your hand into play under target opponent's control. That creature attacks each turn if able... and always attacks its controller.",
+  "imageName": "evil presents",
+  "colorIdentity": [
+    "B"
+  ]
+}

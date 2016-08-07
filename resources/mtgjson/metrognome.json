@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Metrognome",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "When a spell or ability an opponent controls causes you to discard Metrognome, put four 1/1 colorless Gnome artifact creature tokens onto the battlefield.\n{4}, {T}: Put a 1/1 colorless Gnome artifact creature token onto the battlefield.",
+  "imageName": "metrognome"
+}

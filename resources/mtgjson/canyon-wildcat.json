@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Canyon Wildcat",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Cat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat"
+  ],
+  "text": "Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "canyon wildcat",
+  "colorIdentity": [
+    "R"
+  ]
+}

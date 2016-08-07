@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ancestral Tribute",
+  "manaCost": "{5}{W}{W}",
+  "cmc": 7,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "You gain 2 life for each card in your graveyard.\nFlashback {9}{W}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "ancestral tribute",
+  "colorIdentity": [
+    "W"
+  ]
+}

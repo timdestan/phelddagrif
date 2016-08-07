@@ -1,0 +1,22 @@
+{
+  "layout": "double-faced",
+  "name": "Thraben Gargoyle",
+  "names": [
+    "Thraben Gargoyle",
+    "Stonewing Antagonizer"
+  ],
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact Creature — Gargoyle",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Gargoyle"
+  ],
+  "text": "Defender\n{6}: Transform Thraben Gargoyle.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "thraben gargoyle"
+}

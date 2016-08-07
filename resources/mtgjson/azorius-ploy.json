@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Azorius Ploy",
+  "manaCost": "{1}{W}{W}{U}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Prevent all combat damage target creature would deal this turn.\nPrevent all combat damage that would be dealt to target creature this turn.",
+  "imageName": "azorius ploy",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

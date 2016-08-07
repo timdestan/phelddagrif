@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Jorubai Murk Lurker",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Leech",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Leech"
+  ],
+  "text": "Jorubai Murk Lurker gets +1/+1 as long as you control a Swamp.\n{1}{B}: Target creature gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "jorubai murk lurker",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

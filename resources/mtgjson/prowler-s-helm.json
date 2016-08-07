@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Prowler's Helm",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature can't be blocked except by Walls.\nEquip {2}",
+  "imageName": "prowler's helm"
+}

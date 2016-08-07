@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Python",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Snake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Snake"
+  ],
+  "power": "3",
+  "toughness": "2",
+  "imageName": "python",
+  "colorIdentity": [
+    "B"
+  ]
+}

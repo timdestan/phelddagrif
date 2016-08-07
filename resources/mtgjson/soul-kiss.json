@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Soul Kiss",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\n{B}, Pay 1 life: Enchanted creature gets +2/+2 until end of turn. Activate this ability no more than three times each turn.",
+  "imageName": "soul kiss",
+  "colorIdentity": [
+    "B"
+  ]
+}

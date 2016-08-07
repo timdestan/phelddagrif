@@ -1,0 +1,34 @@
+{
+  "layout": "normal",
+  "name": "Sliver Queen",
+  "manaCost": "{W}{U}{B}{R}{G}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "type": "Legendary Creature — Sliver",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "{2}: Put a 1/1 colorless Sliver creature token onto the battlefield.",
+  "power": "7",
+  "toughness": "7",
+  "imageName": "sliver queen",
+  "colorIdentity": [
+    "W",
+    "U",
+    "B",
+    "R",
+    "G"
+  ]
+}

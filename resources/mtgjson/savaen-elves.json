@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Savaen Elves",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf"
+  ],
+  "text": "{G}{G}, {T}: Destroy target Aura attached to a land.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "savaen elves",
+  "colorIdentity": [
+    "G"
+  ]
+}

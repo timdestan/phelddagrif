@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Spectral Searchlight",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}: Choose a player. That player adds one mana of any color he or she chooses to his or her mana pool.",
+  "imageName": "spectral searchlight"
+}

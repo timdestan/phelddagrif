@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Zealous Persecution",
+  "manaCost": "{W}{B}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Until end of turn, creatures you control get +1/+1 and creatures your opponents control get -1/-1.",
+  "imageName": "zealous persecution",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

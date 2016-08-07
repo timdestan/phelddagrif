@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Deity of Scars",
+  "manaCost": "{B/G}{B/G}{B/G}{B/G}{B/G}",
+  "cmc": 5,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Creature — Spirit Avatar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit",
+    "Avatar"
+  ],
+  "text": "Trample\nDeity of Scars enters the battlefield with two -1/-1 counters on it.\n{B/G}, Remove a -1/-1 counter from Deity of Scars: Regenerate Deity of Scars.",
+  "power": "7",
+  "toughness": "7",
+  "imageName": "deity of scars",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

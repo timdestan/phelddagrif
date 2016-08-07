@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Magister Sphinx",
+  "manaCost": "{4}{W}{U}{B}",
+  "cmc": 7,
+  "colors": [
+    "White",
+    "Blue",
+    "Black"
+  ],
+  "type": "Artifact Creature — Sphinx",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Sphinx"
+  ],
+  "text": "Flying\nWhen Magister Sphinx enters the battlefield, target player's life total becomes 10.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "magister sphinx",
+  "colorIdentity": [
+    "W",
+    "U",
+    "B"
+  ]
+}

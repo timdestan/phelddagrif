@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "It That Betrays",
+  "manaCost": "{12}",
+  "cmc": 12,
+  "type": "Creature — Eldrazi",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi"
+  ],
+  "text": "Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)\nWhenever an opponent sacrifices a nontoken permanent, put that card onto the battlefield under your control.",
+  "power": "11",
+  "toughness": "11",
+  "imageName": "it that betrays"
+}

@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Bant Charm",
+  "manaCost": "{G}{W}{U}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Blue",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose one —\n• Destroy target artifact.\n• Put target creature on the bottom of its owner's library.\n• Counter target instant spell.",
+  "imageName": "bant charm",
+  "colorIdentity": [
+    "W",
+    "U",
+    "G"
+  ]
+}

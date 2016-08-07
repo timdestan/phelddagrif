@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Borrowing 100,000 Arrows",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Draw a card for each tapped creature target opponent controls.",
+  "imageName": "borrowing 100,000 arrows",
+  "colorIdentity": [
+    "U"
+  ]
+}

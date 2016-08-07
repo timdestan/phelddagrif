@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Butcher of the Horde",
+  "manaCost": "{1}{R}{W}{B}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Demon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon"
+  ],
+  "text": "Flying\nSacrifice another creature: Butcher of the Horde gains your choice of vigilance, lifelink, or haste until end of turn.",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "butcher of the horde",
+  "colorIdentity": [
+    "W",
+    "B",
+    "R"
+  ]
+}

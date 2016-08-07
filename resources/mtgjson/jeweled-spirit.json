@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Jeweled Spirit",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying\nSacrifice two lands: Jeweled Spirit gains protection from artifacts or from the color of your choice until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "jeweled spirit",
+  "colorIdentity": [
+    "W"
+  ]
+}

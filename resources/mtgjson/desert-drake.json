@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Desert Drake",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flying",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "desert drake",
+  "colorIdentity": [
+    "R"
+  ]
+}

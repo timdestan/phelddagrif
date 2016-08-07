@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Angel of Serenity",
+  "manaCost": "{4}{W}{W}{W}",
+  "cmc": 7,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nWhen Angel of Serenity enters the battlefield, you may exile up to three other target creatures from the battlefield and/or creature cards from graveyards.\nWhen Angel of Serenity leaves the battlefield, return the exiled cards to their owners' hands.",
+  "power": "5",
+  "toughness": "6",
+  "imageName": "angel of serenity",
+  "colorIdentity": [
+    "W"
+  ]
+}

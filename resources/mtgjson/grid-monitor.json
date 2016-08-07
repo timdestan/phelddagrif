@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Grid Monitor",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "text": "You can't cast creature spells.",
+  "power": "4",
+  "toughness": "6",
+  "imageName": "grid monitor"
+}

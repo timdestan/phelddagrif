@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Turn the Tide",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Creatures your opponents control get -2/-0 until end of turn.",
+  "imageName": "turn the tide",
+  "colorIdentity": [
+    "U"
+  ]
+}

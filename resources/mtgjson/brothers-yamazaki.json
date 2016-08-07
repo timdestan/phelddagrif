@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Brothers Yamazaki",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Creature — Human Samurai",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Samurai"
+  ],
+  "text": "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nIf there are exactly two permanents named Brothers Yamazaki on the battlefield, the \"legend rule\" doesn't apply to them.\nEach other creature named Brothers Yamazaki gets +2/+2 and has haste.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "brothers yamazaki",
+  "colorIdentity": [
+    "R"
+  ]
+}

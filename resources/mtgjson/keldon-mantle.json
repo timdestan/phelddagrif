@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Keldon Mantle",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\n{B}: Regenerate enchanted creature.\n{R}: Enchanted creature gets +1/+0 until end of turn.\n{G}: Enchanted creature gains trample until end of turn.",
+  "imageName": "keldon mantle",
+  "colorIdentity": [
+    "R",
+    "B",
+    "G"
+  ]
+}

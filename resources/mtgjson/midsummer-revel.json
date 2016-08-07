@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Midsummer Revel",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, you may put a verse counter on Midsummer Revel.\n{G}, Sacrifice Midsummer Revel: Put X 3/3 green Beast creature tokens onto the battlefield, where X is the number of verse counters on Midsummer Revel.",
+  "imageName": "midsummer revel",
+  "colorIdentity": [
+    "G"
+  ]
+}

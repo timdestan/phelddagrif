@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Gaea's Blessing",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target player shuffles up to three target cards from his or her graveyard into his or her library.\nDraw a card.\nWhen Gaea's Blessing is put into your graveyard from your library, shuffle your graveyard into your library.",
+  "imageName": "gaea's blessing",
+  "colorIdentity": [
+    "G"
+  ]
+}

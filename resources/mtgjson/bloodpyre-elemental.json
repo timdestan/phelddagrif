@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Bloodpyre Elemental",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Sacrifice Bloodpyre Elemental: Bloodpyre Elemental deals 4 damage to target creature. Activate this ability only any time you could cast a sorcery.",
+  "power": "4",
+  "toughness": "1",
+  "imageName": "bloodpyre elemental",
+  "colorIdentity": [
+    "R"
+  ]
+}

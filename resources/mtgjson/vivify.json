@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Vivify",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target land becomes a 3/3 creature until end of turn. It's still a land.\nDraw a card.",
+  "imageName": "vivify",
+  "colorIdentity": [
+    "G"
+  ]
+}

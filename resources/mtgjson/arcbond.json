@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Arcbond",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose target creature. Whenever that creature is dealt damage this turn, it deals that much damage to each other creature and each player.",
+  "imageName": "arcbond",
+  "colorIdentity": [
+    "R"
+  ]
+}

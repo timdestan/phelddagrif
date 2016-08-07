@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Chained Throatseeker",
+  "manaCost": "{5}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nChained Throatseeker can't attack unless defending player is poisoned.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "chained throatseeker",
+  "colorIdentity": [
+    "U"
+  ]
+}

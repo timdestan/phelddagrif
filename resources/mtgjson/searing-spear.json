@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Searing Spear",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Searing Spear deals 3 damage to target creature or player.",
+  "imageName": "searing spear",
+  "colorIdentity": [
+    "R"
+  ]
+}

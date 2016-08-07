@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Collective Unconscious",
+  "manaCost": "{4}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Draw a card for each creature you control.",
+  "imageName": "collective unconscious",
+  "colorIdentity": [
+    "G"
+  ]
+}

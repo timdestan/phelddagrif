@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Mycosynth Fiend",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "Mycosynth Fiend gets +1/+1 for each poison counter your opponents have.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "mycosynth fiend",
+  "colorIdentity": [
+    "G"
+  ]
+}

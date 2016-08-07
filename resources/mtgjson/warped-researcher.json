@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Warped Researcher",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard Mutant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard",
+    "Mutant"
+  ],
+  "text": "Whenever a player cycles a card, Warped Researcher gains flying and shroud until end of turn. (It can't be the target of spells or abilities.)",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "warped researcher",
+  "colorIdentity": [
+    "U"
+  ]
+}

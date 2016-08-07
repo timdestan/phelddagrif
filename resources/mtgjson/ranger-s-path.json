@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ranger's Path",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Search your library for up to two Forest cards and put them onto the battlefield tapped. Then shuffle your library.",
+  "imageName": "ranger's path",
+  "colorIdentity": [
+    "G"
+  ]
+}

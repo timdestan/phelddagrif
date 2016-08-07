@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Flesh Carver",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\n{1}{B}, Sacrifice another creature: Put two +1/+1 counters on Flesh Carver.\nWhen Flesh Carver dies, put an X/X black Horror creature token onto the battlefield, where X is Flesh Carver's power.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "flesh carver",
+  "colorIdentity": [
+    "B"
+  ]
+}

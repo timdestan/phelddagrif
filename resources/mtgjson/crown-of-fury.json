@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Crown of Fury",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets +1/+0 and has first strike.\nSacrifice Crown of Fury: Enchanted creature and other creatures that share a creature type with it get +1/+0 and gain first strike until end of turn.",
+  "imageName": "crown of fury",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Courtly Provocateur",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{T}: Target creature attacks this turn if able.\n{T}: Target creature blocks this turn if able.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "courtly provocateur",
+  "colorIdentity": [
+    "U"
+  ]
+}

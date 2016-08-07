@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Forgestoker Dragon",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying\n{1}{R}: Forgestoker Dragon deals 1 damage to target creature. That creature can't block this combat. Activate this ability only if Forgestoker Dragon is attacking.",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "forgestoker dragon",
+  "colorIdentity": [
+    "R"
+  ]
+}

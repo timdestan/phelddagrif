@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Crenellated Wall",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Wall",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender (This creature can't attack.)\n{T}: Target creature gets +0/+4 until end of turn.",
+  "power": "0",
+  "toughness": "4",
+  "imageName": "crenellated wall"
+}

@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Turn Against",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Devoid (This card has no color.)\nGain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.",
+  "imageName": "turn against",
+  "colorIdentity": [
+    "R"
+  ]
+}

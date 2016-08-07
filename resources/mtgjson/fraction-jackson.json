@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Fraction Jackson",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Hero",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Hero"
+  ],
+  "text": "{G}, {T}: Return target card with a ½ on it from your graveyard to your hand.",
+  "power": "1",
+  "toughness": "1.5",
+  "imageName": "fraction jackson",
+  "colorIdentity": [
+    "G"
+  ]
+}

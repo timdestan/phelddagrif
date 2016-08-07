@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Cult of the Waxing Moon",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Shaman"
+  ],
+  "text": "Whenever a permanent you control transforms into a non-Human creature, put a 2/2 green Wolf creature token onto the battlefield.",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "cult of the waxing moon",
+  "colorIdentity": [
+    "G"
+  ]
+}

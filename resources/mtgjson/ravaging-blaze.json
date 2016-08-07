@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ravaging Blaze",
+  "manaCost": "{X}{R}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Ravaging Blaze deals X damage to target creature. \nSpell mastery — If there are two or more instant and/or sorcery cards in your graveyard, Ravaging Blaze also deals X damage to that creature's controller.",
+  "imageName": "ravaging blaze",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Tree of Redemption",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Plant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Plant"
+  ],
+  "text": "Defender\n{T}: Exchange your life total with Tree of Redemption's toughness.",
+  "power": "0",
+  "toughness": "13",
+  "imageName": "tree of redemption",
+  "colorIdentity": [
+    "G"
+  ]
+}

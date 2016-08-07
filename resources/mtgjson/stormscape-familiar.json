@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Stormscape Familiar",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\nWhite spells and black spells you cast cost {1} less to cast.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "stormscape familiar",
+  "colorIdentity": [
+    "U"
+  ]
+}

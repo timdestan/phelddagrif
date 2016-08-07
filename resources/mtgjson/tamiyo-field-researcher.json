@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Tamiyo, Field Researcher",
+  "manaCost": "{1}{G}{W}{U}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Blue",
+    "Green"
+  ],
+  "type": "Planeswalker — Tamiyo",
+  "types": [
+    "Planeswalker"
+  ],
+  "subtypes": [
+    "Tamiyo"
+  ],
+  "text": "+1: Choose up to two target creatures. Until your next turn, whenever either of those creatures deals combat damage, you draw a card.\n−2: Tap up to two target nonland permanents. They don't untap during their controller's next untap step.\n−7: Draw three cards. You get an emblem with \"You may cast nonland cards from your hand without paying their mana costs.\"",
+  "loyalty": 4,
+  "imageName": "tamiyo, field researcher",
+  "colorIdentity": [
+    "W",
+    "U",
+    "G"
+  ]
+}

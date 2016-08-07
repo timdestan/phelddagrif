@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Fettergeist",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying\nAt the beginning of your upkeep, sacrifice Fettergeist unless you pay {1} for each other creature you control.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "fettergeist",
+  "colorIdentity": [
+    "U"
+  ]
+}

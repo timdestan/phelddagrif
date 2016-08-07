@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Apes of Rath",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Ape",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ape"
+  ],
+  "text": "Whenever Apes of Rath attacks, it doesn't untap during its controller's next untap step.",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "apes of rath",
+  "colorIdentity": [
+    "G"
+  ]
+}

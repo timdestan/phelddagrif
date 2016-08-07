@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Helm of Kaldra",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Legendary Artifact — Equipment",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature has first strike, trample, and haste.\n{1}: If you control Equipment named Helm of Kaldra, Sword of Kaldra, and Shield of Kaldra, put a legendary 4/4 colorless Avatar creature token named Kaldra onto the battlefield and attach those Equipment to it.\nEquip {2}",
+  "imageName": "helm of kaldra"
+}

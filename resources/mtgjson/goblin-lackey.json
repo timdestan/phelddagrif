@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Goblin Lackey",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "Whenever Goblin Lackey deals damage to a player, you may put a Goblin permanent card from your hand onto the battlefield.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "goblin lackey",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Rats of Rath",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Rat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rat"
+  ],
+  "text": "{B}: Destroy target artifact, creature, or land you control.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "rats of rath",
+  "colorIdentity": [
+    "B"
+  ]
+}

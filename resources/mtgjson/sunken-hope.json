@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sunken Hope",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of each player's upkeep, that player returns a creature he or she controls to its owner's hand.",
+  "imageName": "sunken hope",
+  "colorIdentity": [
+    "U"
+  ]
+}

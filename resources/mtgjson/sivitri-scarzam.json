@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Sivitri Scarzam",
+  "manaCost": "{5}{U}{B}",
+  "cmc": 7,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Legendary Creature — Human",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human"
+  ],
+  "power": "6",
+  "toughness": "4",
+  "imageName": "sivitri scarzam",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

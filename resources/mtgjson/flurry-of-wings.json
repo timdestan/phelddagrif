@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Flurry of Wings",
+  "manaCost": "{G}{W}{U}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Blue",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Put X 1/1 white Bird Soldier creature tokens with flying onto the battlefield, where X is the number of attacking creatures.",
+  "imageName": "flurry of wings",
+  "colorIdentity": [
+    "W",
+    "U",
+    "G"
+  ]
+}

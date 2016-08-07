@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Whipgrass Entangler",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "{1}{W}: Until end of turn, target creature gains \"This creature can't attack or block unless its controller pays {1} for each Cleric on the battlefield.\"",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "whipgrass entangler",
+  "colorIdentity": [
+    "W"
+  ]
+}

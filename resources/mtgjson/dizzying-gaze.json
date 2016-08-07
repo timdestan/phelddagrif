@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Dizzying Gaze",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature you control\n{R}: Enchanted creature deals 1 damage to target creature with flying.",
+  "imageName": "dizzying gaze",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "layout": "double-faced",
+  "name": "Persistent Nightmare",
+  "names": [
+    "Startled Awake",
+    "Persistent Nightmare"
+  ],
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Nightmare",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Nightmare"
+  ],
+  "text": "Skulk (This creature can't be blocked by creatures with greater power.)\nWhen Persistent Nightmare deals combat damage to a player, return it to its owner's hand.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "persistent nightmare",
+  "colorIdentity": [
+    "U"
+  ]
+}

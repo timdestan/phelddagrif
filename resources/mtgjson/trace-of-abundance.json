@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Trace of Abundance",
+  "manaCost": "{R/W}{G}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Red",
+    "Green"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant land\nEnchanted land has shroud. (It can't be the target of spells or abilities.)\nWhenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool (in addition to the mana the land produces).",
+  "imageName": "trace of abundance",
+  "colorIdentity": [
+    "W",
+    "R",
+    "G"
+  ]
+}

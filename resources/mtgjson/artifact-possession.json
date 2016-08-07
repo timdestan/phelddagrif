@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Artifact Possession",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant artifact\nWhenever enchanted artifact becomes tapped or a player activates an ability of enchanted artifact without {T} in its activation cost, Artifact Possession deals 2 damage to that artifact's controller.",
+  "imageName": "artifact possession",
+  "colorIdentity": [
+    "B"
+  ]
+}

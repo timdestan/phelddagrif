@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Implode",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target land.\nDraw a card.",
+  "imageName": "implode",
+  "colorIdentity": [
+    "R"
+  ]
+}

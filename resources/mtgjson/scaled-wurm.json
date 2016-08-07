@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Scaled Wurm",
+  "manaCost": "{7}{G}",
+  "cmc": 8,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "power": "7",
+  "toughness": "6",
+  "imageName": "scaled wurm",
+  "colorIdentity": [
+    "G"
+  ]
+}

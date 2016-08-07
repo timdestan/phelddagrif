@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Deathforge Shaman",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Ogre Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ogre",
+    "Shaman"
+  ],
+  "text": "Multikicker {R} (You may pay an additional {R} any number of times as you cast this spell.)\nWhen Deathforge Shaman enters the battlefield, it deals damage to target player equal to twice the number of times it was kicked.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "deathforge shaman",
+  "colorIdentity": [
+    "R"
+  ]
+}

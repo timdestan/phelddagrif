@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Oath of Lieges",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of each player's upkeep, that player chooses target player who controls more lands than he or she does and is his or her opponent. The first player may search his or her library for a basic land card, put that card onto the battlefield, then shuffle his or her library.",
+  "imageName": "oath of lieges",
+  "colorIdentity": [
+    "W"
+  ]
+}

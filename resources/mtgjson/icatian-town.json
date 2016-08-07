@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Icatian Town",
+  "manaCost": "{5}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put four 1/1 white Citizen creature tokens onto the battlefield.",
+  "imageName": "icatian town",
+  "colorIdentity": [
+    "W"
+  ]
+}

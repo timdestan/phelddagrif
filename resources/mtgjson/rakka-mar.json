@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Rakka Mar",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Creature — Human Shaman",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Shaman"
+  ],
+  "text": "Haste\n{R}, {T}: Put a 3/1 red Elemental creature token with haste onto the battlefield.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "rakka mar",
+  "colorIdentity": [
+    "R"
+  ]
+}

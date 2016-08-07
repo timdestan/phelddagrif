@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Absolute Grace",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "All creatures have protection from black.",
+  "imageName": "absolute grace",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Bred for the Hunt",
+  "manaCost": "{1}{G}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a creature you control with a +1/+1 counter on it deals combat damage to a player, you may draw a card.",
+  "imageName": "bred for the hunt",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Wreath of Geists",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets +X/+X, where X is the number of creature cards in your graveyard.",
+  "imageName": "wreath of geists",
+  "colorIdentity": [
+    "G"
+  ]
+}

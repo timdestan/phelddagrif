@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Scourge Servant",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "scourge servant",
+  "colorIdentity": [
+    "B"
+  ]
+}

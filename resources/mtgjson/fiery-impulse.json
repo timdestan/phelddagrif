@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Fiery Impulse",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Fiery Impulse deals 2 damage to target creature.\nSpell mastery — If there are two or more instant and/or sorcery cards in your graveyard, Fiery Impulse deals 3 damage to that creature instead.",
+  "imageName": "fiery impulse",
+  "colorIdentity": [
+    "R"
+  ]
+}

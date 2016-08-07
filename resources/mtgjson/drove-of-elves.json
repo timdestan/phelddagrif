@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Drove of Elves",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf"
+  ],
+  "text": "Hexproof\nDrove of Elves's power and toughness are each equal to the number of green permanents you control.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "drove of elves",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Castle",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Untapped creatures you control get +0/+2.",
+  "imageName": "castle",
+  "colorIdentity": [
+    "W"
+  ]
+}

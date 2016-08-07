@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wiitigo",
+  "manaCost": "{3}{G}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Yeti",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Yeti"
+  ],
+  "text": "Wiitigo enters the battlefield with six +1/+1 counters on it.\nAt the beginning of your upkeep, put a +1/+1 counter on Wiitigo if it has blocked or been blocked since your last upkeep. Otherwise, remove a +1/+1 counter from it.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "wiitigo",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Tel-Jilad Outrider",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Warrior"
+  ],
+  "text": "Protection from artifacts",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "tel-jilad outrider",
+  "colorIdentity": [
+    "G"
+  ]
+}

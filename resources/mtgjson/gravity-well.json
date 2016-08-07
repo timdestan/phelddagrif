@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Gravity Well",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a creature with flying attacks, it loses flying until end of turn.",
+  "imageName": "gravity well",
+  "colorIdentity": [
+    "G"
+  ]
+}

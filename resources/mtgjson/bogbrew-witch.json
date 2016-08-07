@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Bogbrew Witch",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{2}, {T}: Search your library for a card named Festering Newt or Bubbling Cauldron, put it onto the battlefield tapped, then shuffle your library.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "bogbrew witch",
+  "colorIdentity": [
+    "B"
+  ]
+}

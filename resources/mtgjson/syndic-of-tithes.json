@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Syndic of Tithes",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "Extort (Whenever you cast a spell, you may pay {W/B}. If you do, each opponent loses 1 life and you gain that much life.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "syndic of tithes",
+  "colorIdentity": [
+    "W"
+  ]
+}

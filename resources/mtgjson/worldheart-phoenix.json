@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Worldheart Phoenix",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Phoenix",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Phoenix"
+  ],
+  "text": "Flying\nYou may cast Worldheart Phoenix from your graveyard by paying {W}{U}{B}{R}{G} rather than paying its mana cost. If you do, it enters the battlefield with two +1/+1 counters on it.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "worldheart phoenix",
+  "colorIdentity": [
+    "R",
+    "W",
+    "U",
+    "B",
+    "G"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Blaze",
+  "manaCost": "{X}{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Blaze deals X damage to target creature or player.",
+  "imageName": "blaze",
+  "colorIdentity": [
+    "R"
+  ]
+}

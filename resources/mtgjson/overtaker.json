@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Overtaker",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Spellshaper",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Spellshaper"
+  ],
+  "text": "{3}{U}, {T}, Discard a card: Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "overtaker",
+  "colorIdentity": [
+    "U"
+  ]
+}

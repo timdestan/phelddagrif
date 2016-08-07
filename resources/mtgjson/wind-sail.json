@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Wind Sail",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "One or two target creatures gain flying until end of turn.",
+  "imageName": "wind sail",
+  "colorIdentity": [
+    "U"
+  ]
+}

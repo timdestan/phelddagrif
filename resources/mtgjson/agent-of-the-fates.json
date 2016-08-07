@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Agent of the Fates",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Assassin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Assassin"
+  ],
+  "text": "Deathtouch\nHeroic — Whenever you cast a spell that targets Agent of the Fates, each opponent sacrifices a creature.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "agent of the fates",
+  "colorIdentity": [
+    "B"
+  ]
+}

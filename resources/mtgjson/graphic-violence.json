@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Graphic Violence",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "All creatures by the artist of your choice get +2/+2 and gain trample until end of turn.",
+  "imageName": "graphic violence",
+  "colorIdentity": [
+    "G"
+  ]
+}

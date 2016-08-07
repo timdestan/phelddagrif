@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Resupply",
+  "manaCost": "{5}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "You gain 6 life.\nDraw a card.",
+  "imageName": "resupply",
+  "colorIdentity": [
+    "W"
+  ]
+}

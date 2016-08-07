@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Vigor",
+  "manaCost": "{3}{G}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elemental Incarnation",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Incarnation"
+  ],
+  "text": "Trample\nIf damage would be dealt to a creature you control other than Vigor, prevent that damage. Put a +1/+1 counter on that creature for each 1 damage prevented this way.\nWhen Vigor is put into a graveyard from anywhere, shuffle it into its owner's library.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "vigor",
+  "colorIdentity": [
+    "G"
+  ]
+}

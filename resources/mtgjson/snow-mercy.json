@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Snow Mercy",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Snow Enchantment",
+  "supertypes": [
+    "Snow"
+  ],
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a creature deals damage to you, put a globe counter on it.\n{T}, {Q}, {T}, {Q}, {T}: Tap all creatures with globe counters on them.",
+  "imageName": "snow mercy",
+  "colorIdentity": [
+    "W"
+  ]
+}

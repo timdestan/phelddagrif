@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Blessed Alliance",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Escalate {2} (Pay this cost for each mode chosen beyond the first.)\nChoose one or more —\n• Target player gains 4 life.\n• Untap up to two target creatures.\n• Target opponent sacrifices an attacking creature.",
+  "imageName": "blessed alliance",
+  "colorIdentity": [
+    "W"
+  ]
+}

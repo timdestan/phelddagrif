@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Kiku, Night's Flower",
+  "manaCost": "{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Legendary Creature — Human Assassin",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Assassin"
+  ],
+  "text": "{2}{B}{B}, {T}: Target creature deals damage to itself equal to its power.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "kiku, night's flower",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Crush of Wurms",
+  "manaCost": "{6}{G}{G}{G}",
+  "cmc": 9,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put three 6/6 green Wurm creature tokens onto the battlefield.\nFlashback {9}{G}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "crush of wurms",
+  "colorIdentity": [
+    "G"
+  ]
+}

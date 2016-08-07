@@ -1,0 +1,29 @@
+{
+  "layout": "double-faced",
+  "name": "Breakneck Rider",
+  "names": [
+    "Breakneck Rider",
+    "Neck Breaker"
+  ],
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Scout Werewolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Scout",
+    "Werewolf"
+  ],
+  "text": "At the beginning of each upkeep, if no spells were cast last turn, transform Breakneck Rider.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "breakneck rider",
+  "colorIdentity": [
+    "R"
+  ]
+}

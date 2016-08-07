@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Verdant Force",
+  "manaCost": "{5}{G}{G}{G}",
+  "cmc": 8,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "At the beginning of each upkeep, put a 1/1 green Saproling creature token onto the battlefield.",
+  "power": "7",
+  "toughness": "7",
+  "imageName": "verdant force",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Serum Raker",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flying\nWhen Serum Raker dies, each player discards a card.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "serum raker",
+  "colorIdentity": [
+    "U"
+  ]
+}

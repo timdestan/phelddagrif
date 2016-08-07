@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Blightsteel Colossus",
+  "manaCost": "{12}",
+  "cmc": 12,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "Trample, infect, indestructible\nIf Blightsteel Colossus would be put into a graveyard from anywhere, reveal Blightsteel Colossus and shuffle it into its owner's library instead.",
+  "power": "11",
+  "toughness": "11",
+  "imageName": "blightsteel colossus"
+}

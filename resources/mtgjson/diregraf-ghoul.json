@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Diregraf Ghoul",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Diregraf Ghoul enters the battlefield tapped.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "diregraf ghoul",
+  "colorIdentity": [
+    "B"
+  ]
+}

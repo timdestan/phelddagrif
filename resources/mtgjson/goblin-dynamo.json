@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Goblin Dynamo",
+  "manaCost": "{5}{R}{R}",
+  "cmc": 7,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Mutant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Mutant"
+  ],
+  "text": "{T}: Goblin Dynamo deals 1 damage to target creature or player.\n{X}{R}, {T}, Sacrifice Goblin Dynamo: Goblin Dynamo deals X damage to target creature or player.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "goblin dynamo",
+  "colorIdentity": [
+    "R"
+  ]
+}

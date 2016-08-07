@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Admonition Angel",
+  "manaCost": "{3}{W}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nLandfall — Whenever a land enters the battlefield under your control, you may exile target nonland permanent other than Admonition Angel.\nWhen Admonition Angel leaves the battlefield, return all cards exiled with it to the battlefield under their owners' control.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "admonition angel",
+  "colorIdentity": [
+    "W"
+  ]
+}

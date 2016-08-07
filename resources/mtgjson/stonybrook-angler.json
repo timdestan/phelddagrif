@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Stonybrook Angler",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Wizard"
+  ],
+  "text": "{1}{U}, {T}: You may tap or untap target creature.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "stonybrook angler",
+  "colorIdentity": [
+    "U"
+  ]
+}

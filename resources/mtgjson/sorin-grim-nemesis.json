@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Sorin, Grim Nemesis",
+  "manaCost": "{4}{W}{B}",
+  "cmc": 6,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Planeswalker — Sorin",
+  "types": [
+    "Planeswalker"
+  ],
+  "subtypes": [
+    "Sorin"
+  ],
+  "text": "+1: Reveal the top card of your library and put that card into your hand. Each opponent loses life equal to its converted mana cost.\n−X: Sorin, Grim Nemesis deals X damage to target creature or planeswalker and you gain X life.\n−9: Put a number of 1/1 black Vampire Knight creature tokens with lifelink onto the battlefield equal to the highest life total among all players.",
+  "loyalty": 6,
+  "imageName": "sorin, grim nemesis",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

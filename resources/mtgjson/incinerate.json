@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Incinerate",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.",
+  "imageName": "incinerate",
+  "colorIdentity": [
+    "R"
+  ]
+}

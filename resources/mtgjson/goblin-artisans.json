@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Goblin Artisans",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Artificer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Artificer"
+  ],
+  "text": "{T}: Flip a coin. If you win the flip, draw a card. If you lose the flip, counter target artifact spell you control that isn't the target of an ability from another creature named Goblin Artisans.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "goblin artisans",
+  "colorIdentity": [
+    "R"
+  ]
+}

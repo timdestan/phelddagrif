@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Hyena Umbra",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets +1/+1 and has first strike.\nTotem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",
+  "imageName": "hyena umbra",
+  "colorIdentity": [
+    "W"
+  ]
+}

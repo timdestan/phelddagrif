@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Lim-Dûl's Cohort",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Whenever Lim-Dûl's Cohort blocks or becomes blocked by a creature, that creature can't be regenerated this turn.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "lim-dûl's cohort",
+  "colorIdentity": [
+    "B"
+  ]
+}

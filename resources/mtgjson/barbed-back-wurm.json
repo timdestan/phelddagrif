@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Barbed-Back Wurm",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "text": "{B}: Target green creature blocking Barbed-Back Wurm gets -1/-1 until end of turn.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "barbed-back wurm",
+  "colorIdentity": [
+    "B"
+  ]
+}

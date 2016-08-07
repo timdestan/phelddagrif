@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sapphire Drake",
+  "manaCost": "{5}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flying\nEach creature you control with a +1/+1 counter on it has flying.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "sapphire drake",
+  "colorIdentity": [
+    "U"
+  ]
+}

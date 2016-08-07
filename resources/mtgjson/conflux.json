@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Conflux",
+  "manaCost": "{3}{W}{U}{B}{R}{G}",
+  "cmc": 8,
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Search your library for a white card, a blue card, a black card, a red card, and a green card. Reveal those cards and put them into your hand. Then shuffle your library.",
+  "imageName": "conflux",
+  "colorIdentity": [
+    "W",
+    "U",
+    "B",
+    "R",
+    "G"
+  ]
+}

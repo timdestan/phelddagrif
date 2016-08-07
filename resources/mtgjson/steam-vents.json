@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Steam Vents",
+  "type": "Land — Island Mountain",
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Island",
+    "Mountain"
+  ],
+  "text": "({T}: Add {U} or {R} to your mana pool.)\nAs Steam Vents enters the battlefield, you may pay 2 life. If you don't, Steam Vents enters the battlefield tapped.",
+  "imageName": "steam vents",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

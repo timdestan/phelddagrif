@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Nevinyrral's Disk",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Nevinyrral's Disk enters the battlefield tapped.\n{1}, {T}: Destroy all artifacts, creatures, and enchantments.",
+  "imageName": "nevinyrral's disk"
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Impact Resonance",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Impact Resonance deals X damage divided as you choose among any number of target creatures, where X is the greatest amount of damage dealt by a source to a permanent or player this turn.",
+  "imageName": "impact resonance",
+  "colorIdentity": [
+    "R"
+  ]
+}

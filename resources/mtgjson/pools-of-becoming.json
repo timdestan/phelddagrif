@@ -1,0 +1,13 @@
+{
+  "layout": "plane",
+  "name": "Pools of Becoming",
+  "type": "Plane — Bolas’s Meditation Realm",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Bolas’s Meditation Realm"
+  ],
+  "text": "At the beginning of your end step, put the cards in your hand on the bottom of your library in any order, then draw that many cards.\nWhenever you roll CHAOS, reveal the top three cards of your planar deck. Each of the revealed cards' CHAOS abilities triggers. Then put the revealed cards on the bottom of your planar deck in any order.",
+  "imageName": "pools of becoming"
+}

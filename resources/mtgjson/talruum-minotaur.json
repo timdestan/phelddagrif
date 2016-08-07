@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Talruum Minotaur",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Minotaur Berserker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Minotaur",
+    "Berserker"
+  ],
+  "text": "Haste",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "talruum minotaur",
+  "colorIdentity": [
+    "R"
+  ]
+}

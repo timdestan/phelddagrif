@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Anya, Merciless Angel",
+  "manaCost": "{3}{R}{W}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Legendary Creature — Angel",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nAnya, Merciless Angel gets +3/+3 for each opponent whose life total is less than half his or her starting life total.\nAs long as an opponent's life total is less than half his or her starting life total, Anya has indestructible.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "anya, merciless angel",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

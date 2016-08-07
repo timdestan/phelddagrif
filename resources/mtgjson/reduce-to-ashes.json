@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Reduce to Ashes",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Reduce to Ashes deals 5 damage to target creature. If that creature would die this turn, exile it instead.",
+  "imageName": "reduce to ashes",
+  "colorIdentity": [
+    "R"
+  ]
+}

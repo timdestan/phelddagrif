@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Lord of the Unreal",
+  "manaCost": "{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Illusion creatures you control get +1/+1 and have hexproof. (They can't be the targets of spells or abilities your opponents control.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "lord of the unreal",
+  "colorIdentity": [
+    "U"
+  ]
+}

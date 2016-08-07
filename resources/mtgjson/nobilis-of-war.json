@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Nobilis of War",
+  "manaCost": "{R/W}{R/W}{R/W}{R/W}{R/W}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Creature — Spirit Avatar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit",
+    "Avatar"
+  ],
+  "text": "Flying\nAttacking creatures you control get +2/+0.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "nobilis of war",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

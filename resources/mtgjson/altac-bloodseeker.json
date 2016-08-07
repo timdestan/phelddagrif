@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Altac Bloodseeker",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Berserker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Berserker"
+  ],
+  "text": "Whenever a creature an opponent controls dies, Altac Bloodseeker gets +2/+0 and gains first strike and haste until end of turn. (It deals combat damage before creatures without first strike, and it can attack and {T} as soon as it comes under your control.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "altac bloodseeker",
+  "colorIdentity": [
+    "R"
+  ]
+}

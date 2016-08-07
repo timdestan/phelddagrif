@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Narrow Escape",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Return target permanent you control to its owner's hand. You gain 4 life.",
+  "imageName": "narrow escape",
+  "colorIdentity": [
+    "W"
+  ]
+}

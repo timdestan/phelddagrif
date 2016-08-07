@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Spikeshot Elder",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Shaman"
+  ],
+  "text": "{1}{R}{R}: Spikeshot Elder deals damage equal to its power to target creature or player.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "spikeshot elder",
+  "colorIdentity": [
+    "R"
+  ]
+}

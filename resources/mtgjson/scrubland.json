@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Scrubland",
+  "type": "Land — Plains Swamp",
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Plains",
+    "Swamp"
+  ],
+  "text": "({T}: Add {W} or {B} to your mana pool.)",
+  "imageName": "scrubland",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

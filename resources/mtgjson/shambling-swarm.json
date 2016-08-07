@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Shambling Swarm",
+  "manaCost": "{1}{B}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "When Shambling Swarm dies, distribute three -1/-1 counters among one, two, or three target creatures. For each -1/-1 counter you put on a creature this way, remove a -1/-1 counter from that creature at the beginning of the next end step.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "shambling swarm",
+  "colorIdentity": [
+    "B"
+  ]
+}

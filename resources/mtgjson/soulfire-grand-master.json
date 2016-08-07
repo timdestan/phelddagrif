@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Soulfire Grand Master",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Monk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Monk"
+  ],
+  "text": "Lifelink\nInstant and sorcery spells you control have lifelink.\n{2}{U/R}{U/R}: The next time you cast an instant or sorcery spell from your hand this turn, put that card into your hand instead of into your graveyard as it resolves.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "soulfire grand master",
+  "colorIdentity": [
+    "W",
+    "U",
+    "R"
+  ]
+}

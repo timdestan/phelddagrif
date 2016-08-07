@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Blazing Salvo",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Blazing Salvo deals 3 damage to target creature unless that creature's controller has Blazing Salvo deal 5 damage to him or her.",
+  "imageName": "blazing salvo",
+  "colorIdentity": [
+    "R"
+  ]
+}

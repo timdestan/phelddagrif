@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Reciprocate",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Exile target creature that dealt damage to you this turn.",
+  "imageName": "reciprocate",
+  "colorIdentity": [
+    "W"
+  ]
+}

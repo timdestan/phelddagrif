@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Hunted Dragon",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying, haste\nWhen Hunted Dragon enters the battlefield, target opponent puts three 2/2 white Knight creature tokens with first strike onto the battlefield.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "hunted dragon",
+  "colorIdentity": [
+    "R"
+  ]
+}

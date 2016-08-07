@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Ur-Drago",
+  "manaCost": "{3}{U}{U}{B}{B}",
+  "cmc": 7,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Legendary Creature — Elemental",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "First strike\nCreatures with swampwalk can be blocked as though they didn't have swampwalk.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "ur-drago",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

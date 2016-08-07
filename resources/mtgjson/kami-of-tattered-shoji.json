@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Kami of Tattered Shoji",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Whenever you cast a Spirit or Arcane spell, Kami of Tattered Shoji gains flying until end of turn.",
+  "power": "2",
+  "toughness": "5",
+  "imageName": "kami of tattered shoji",
+  "colorIdentity": [
+    "W"
+  ]
+}

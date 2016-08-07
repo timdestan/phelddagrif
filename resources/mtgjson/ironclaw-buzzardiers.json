@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ironclaw Buzzardiers",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Orc Scout",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Orc",
+    "Scout"
+  ],
+  "text": "Ironclaw Buzzardiers can't block creatures with power 2 or greater.\n{R}: Ironclaw Buzzardiers gains flying until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "ironclaw buzzardiers",
+  "colorIdentity": [
+    "R"
+  ]
+}

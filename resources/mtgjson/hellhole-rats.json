@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Hellhole Rats",
+  "manaCost": "{2}{B}{R}",
+  "cmc": 4,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Rat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rat"
+  ],
+  "text": "Haste\nWhen Hellhole Rats enters the battlefield, target player discards a card. Hellhole Rats deals damage to that player equal to that card's converted mana cost.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "hellhole rats",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

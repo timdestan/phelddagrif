@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Broken Visage",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target nonartifact attacking creature. It can't be regenerated. Put a black Spirit creature token with that creature's power and toughness onto the battlefield. Sacrifice the token at the beginning of the next end step.",
+  "imageName": "broken visage",
+  "colorIdentity": [
+    "B"
+  ]
+}

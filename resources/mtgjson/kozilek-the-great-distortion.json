@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Kozilek, the Great Distortion",
+  "manaCost": "{8}{C}{C}",
+  "cmc": 10,
+  "type": "Legendary Creature — Eldrazi",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi"
+  ],
+  "text": "When you cast Kozilek, the Great Distortion, if you have fewer than seven cards in hand, draw cards equal to the difference.\nMenace\nDiscard a card with converted mana cost X: Counter target spell with converted mana cost X.",
+  "power": "12",
+  "toughness": "12",
+  "imageName": "kozilek, the great distortion"
+}

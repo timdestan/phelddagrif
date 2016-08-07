@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Aesthetic Consultation",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Name an artist. Remove the top six cards of your library from the game, then reveal cards from the top of your library until you reveal a card by the named artist. Put that card in your hand, then remove all the other cards revealed this way from the game.",
+  "imageName": "aesthetic consultation",
+  "colorIdentity": [
+    "B"
+  ]
+}

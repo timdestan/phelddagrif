@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Chronatog",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Atog",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Atog"
+  ],
+  "text": "{0}: Chronatog gets +3/+3 until end of turn. You skip your next turn. Activate this ability only once each turn.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "chronatog",
+  "colorIdentity": [
+    "U"
+  ]
+}

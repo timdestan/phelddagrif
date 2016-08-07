@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Jade Statue",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}: Jade Statue becomes a 3/6 Golem artifact creature until end of combat. Activate this ability only during combat.",
+  "imageName": "jade statue"
+}

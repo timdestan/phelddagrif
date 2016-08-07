@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Contagion",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "You may pay 1 life and exile a black card from your hand rather than pay Contagion's mana cost.\nDistribute two -2/-1 counters among one or two target creatures.",
+  "imageName": "contagion",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Mana-Charged Dragon",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying, trample\nJoin forces — Whenever Mana-Charged Dragon attacks or blocks, each player starting with you may pay any amount of mana. Mana-Charged Dragon gets +X/+0 until end of turn, where X is the total amount of mana paid this way.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "mana-charged dragon",
+  "colorIdentity": [
+    "R"
+  ]
+}

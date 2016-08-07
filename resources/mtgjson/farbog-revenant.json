@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Farbog Revenant",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Skulk (This creature can't be blocked by creatures with greater power.)\nLifelink (Damage dealt by this creature also causes you to gain that much life.)",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "farbog revenant",
+  "colorIdentity": [
+    "B"
+  ]
+}

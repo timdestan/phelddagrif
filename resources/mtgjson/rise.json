@@ -1,0 +1,25 @@
+{
+  "layout": "split",
+  "name": "Rise",
+  "names": [
+    "Rise",
+    "Fall"
+  ],
+  "manaCost": "{U}{B}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Return target creature card from a graveyard and target creature on the battlefield to their owners' hands.",
+  "imageName": "rise",
+  "colorIdentity": [
+    "U",
+    "B",
+    "R"
+  ]
+}

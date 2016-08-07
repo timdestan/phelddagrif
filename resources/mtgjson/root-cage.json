@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Root Cage",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Mercenaries don't untap during their controllers' untap steps.",
+  "imageName": "root cage",
+  "colorIdentity": [
+    "G"
+  ]
+}

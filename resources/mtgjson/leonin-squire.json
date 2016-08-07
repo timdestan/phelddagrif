@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Leonin Squire",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Cat Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat",
+    "Soldier"
+  ],
+  "text": "When Leonin Squire enters the battlefield, return target artifact card with converted mana cost 1 or less from your graveyard to your hand.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "leonin squire",
+  "colorIdentity": [
+    "W"
+  ]
+}

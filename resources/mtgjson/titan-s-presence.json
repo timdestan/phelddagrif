@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Titan's Presence",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "As an additional cost to cast Titan's Presence, reveal a colorless creature card from your hand.\nExile target creature if its power is less than or equal to the revealed card's power.",
+  "imageName": "titan's presence"
+}

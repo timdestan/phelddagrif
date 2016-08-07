@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Violet Pall",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Tribal Instant — Faerie",
+  "types": [
+    "Tribal",
+    "Instant"
+  ],
+  "subtypes": [
+    "Faerie"
+  ],
+  "text": "Destroy target nonblack creature. Put a 1/1 black Faerie Rogue creature token with flying onto the battlefield.",
+  "imageName": "violet pall",
+  "colorIdentity": [
+    "B"
+  ]
+}

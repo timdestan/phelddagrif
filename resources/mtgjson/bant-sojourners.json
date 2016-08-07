@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Bant Sojourners",
+  "manaCost": "{1}{G}{W}{U}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Blue",
+    "Green"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "When you cycle Bant Sojourners or it dies, you may put a 1/1 white Soldier creature token onto the battlefield.\nCycling {2}{W} ({2}{W}, Discard this card: Draw a card.)",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "bant sojourners",
+  "colorIdentity": [
+    "W",
+    "U",
+    "G"
+  ]
+}

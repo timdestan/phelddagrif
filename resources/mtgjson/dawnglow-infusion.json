@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Dawnglow Infusion",
+  "manaCost": "{X}{G/W}",
+  "cmc": 1,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "You gain X life if {G} was spent to cast Dawnglow Infusion and X life if {W} was spent to cast it. (Do both if {G}{W} was spent.)",
+  "imageName": "dawnglow infusion",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

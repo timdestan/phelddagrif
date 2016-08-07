@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Boros Mastiff",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Hound",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hound"
+  ],
+  "text": "Battalion — Whenever Boros Mastiff and at least two other creatures attack, Boros Mastiff gains lifelink until end of turn. (Damage dealt by a creature with lifelink also causes its controller to gain that much life.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "boros mastiff",
+  "colorIdentity": [
+    "W"
+  ]
+}

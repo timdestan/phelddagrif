@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Flamekin Brawler",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Warrior"
+  ],
+  "text": "{R}: Flamekin Brawler gets +1/+0 until end of turn.",
+  "power": "0",
+  "toughness": "2",
+  "imageName": "flamekin brawler",
+  "colorIdentity": [
+    "R"
+  ]
+}

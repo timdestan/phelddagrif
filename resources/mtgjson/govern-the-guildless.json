@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Govern the Guildless",
+  "manaCost": "{5}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Gain control of target monocolored creature.\nForecast — {1}{U}, Reveal Govern the Guildless from your hand: Target creature becomes the color or colors of your choice until end of turn. (Activate this ability only during your upkeep and only once each turn.)",
+  "imageName": "govern the guildless",
+  "colorIdentity": [
+    "U"
+  ]
+}

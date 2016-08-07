@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Spinneret Sliver",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "All Sliver creatures have reach. (They can block creatures with flying.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "spinneret sliver",
+  "colorIdentity": [
+    "G"
+  ]
+}

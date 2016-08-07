@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Grip of Chaos",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a spell or ability is put onto the stack, if it has a single target, reselect its target at random. (Select from among all legal targets.)",
+  "imageName": "grip of chaos",
+  "colorIdentity": [
+    "R"
+  ]
+}

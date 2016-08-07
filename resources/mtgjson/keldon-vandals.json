@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Keldon Vandals",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "Echo {2}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Keldon Vandals enters the battlefield, destroy target artifact.",
+  "power": "4",
+  "toughness": "1",
+  "imageName": "keldon vandals",
+  "colorIdentity": [
+    "R"
+  ]
+}

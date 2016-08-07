@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Angelic Arbiter",
+  "manaCost": "{5}{W}{W}",
+  "cmc": 7,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nEach opponent who cast a spell this turn can't attack with creatures.\nEach opponent who attacked with a creature this turn can't cast spells.",
+  "power": "5",
+  "toughness": "6",
+  "imageName": "angelic arbiter",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Thornscape Master",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{R}{R}, {T}: Thornscape Master deals 2 damage to target creature.\n{W}{W}, {T}: Target creature gains protection from the color of your choice until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "thornscape master",
+  "colorIdentity": [
+    "G",
+    "R",
+    "W"
+  ]
+}

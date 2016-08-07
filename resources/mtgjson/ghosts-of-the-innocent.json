@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ghosts of the Innocent",
+  "manaCost": "{5}{W}{W}",
+  "cmc": 7,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "If a source would deal damage to a creature or player, it deals half that damage, rounded down, to that creature or player instead.",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "ghosts of the innocent",
+  "colorIdentity": [
+    "W"
+  ]
+}

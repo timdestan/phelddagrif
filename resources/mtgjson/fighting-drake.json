@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Fighting Drake",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flying",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "fighting drake",
+  "colorIdentity": [
+    "U"
+  ]
+}

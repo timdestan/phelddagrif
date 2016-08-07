@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Undergrowth",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "As an additional cost to cast Undergrowth, you may pay {2}{R}.\nPrevent all combat damage that would be dealt this turn. If its additional cost was paid, Undergrowth doesn't affect combat damage that would be dealt by red creatures.",
+  "imageName": "undergrowth",
+  "colorIdentity": [
+    "G",
+    "R"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Nantuko Disciple",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Insect Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect",
+    "Druid"
+  ],
+  "text": "{G}, {T}: Target creature gets +2/+2 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "nantuko disciple",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Muck Drubb",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen Muck Drubb enters the battlefield, change the target of target spell that targets only a single creature to Muck Drubb.\nMadness {2}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "muck drubb",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Sawtooth Loon",
+  "manaCost": "{2}{W}{U}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\nWhen Sawtooth Loon enters the battlefield, return a white or blue creature you control to its owner's hand.\nWhen Sawtooth Loon enters the battlefield, draw two cards, then put two cards from your hand on the bottom of your library.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "sawtooth loon",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

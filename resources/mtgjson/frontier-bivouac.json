@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Frontier Bivouac",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Frontier Bivouac enters the battlefield tapped.\n{T}: Add {G}, {U}, or {R} to your mana pool.",
+  "imageName": "frontier bivouac",
+  "colorIdentity": [
+    "G",
+    "U",
+    "R"
+  ]
+}

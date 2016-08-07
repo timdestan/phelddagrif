@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Mounted Archers",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier Archer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier",
+    "Archer"
+  ],
+  "text": "Reach (This creature can block creatures with flying.)\n{W}: Mounted Archers can block an additional creature this turn.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "mounted archers",
+  "colorIdentity": [
+    "W"
+  ]
+}

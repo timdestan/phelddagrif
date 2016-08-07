@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Myriad Landscape",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Myriad Landscape enters the battlefield tapped.\n{T}: Add {C} to your mana pool.\n{2}, {T}, Sacrifice Myriad Landscape: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle your library.",
+  "imageName": "myriad landscape"
+}

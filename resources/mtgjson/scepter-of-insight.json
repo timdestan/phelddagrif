@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Scepter of Insight",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{3}{U}, {T}: Draw a card.",
+  "imageName": "scepter of insight",
+  "colorIdentity": [
+    "U"
+  ]
+}

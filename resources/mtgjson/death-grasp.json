@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Death Grasp",
+  "manaCost": "{X}{W}{B}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Death Grasp deals X damage to target creature or player. You gain X life.",
+  "imageName": "death grasp",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

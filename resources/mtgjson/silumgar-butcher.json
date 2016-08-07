@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Silumgar Butcher",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Djinn",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Djinn"
+  ],
+  "text": "Exploit (When this creature enters the battlefield, you may sacrifice a creature.)\nWhen Silumgar Butcher exploits a creature, target creature gets -3/-3 until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "silumgar butcher",
+  "colorIdentity": [
+    "B"
+  ]
+}

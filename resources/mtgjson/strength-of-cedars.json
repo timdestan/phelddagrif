@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Strength of Cedars",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant — Arcane",
+  "types": [
+    "Instant"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "Target creature gets +X/+X until end of turn, where X is the number of lands you control.",
+  "imageName": "strength of cedars",
+  "colorIdentity": [
+    "G"
+  ]
+}

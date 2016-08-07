@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sea Kings' Blessing",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Any number of target creatures become blue until end of turn.",
+  "imageName": "sea kings' blessing",
+  "colorIdentity": [
+    "U"
+  ]
+}

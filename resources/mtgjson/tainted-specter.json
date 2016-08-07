@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Tainted Specter",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Specter",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Specter"
+  ],
+  "text": "Flying\n{1}{B}{B}, {T}: Target player discards a card unless he or she puts a card from his or her hand on top of his or her library. If that player discards a card this way, Tainted Specter deals 1 damage to each creature and each player. Activate this ability only any time you could cast a sorcery.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "tainted specter",
+  "colorIdentity": [
+    "B"
+  ]
+}

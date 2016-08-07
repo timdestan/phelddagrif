@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Thrull Retainer",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets +1/+1.\nSacrifice Thrull Retainer: Regenerate enchanted creature.",
+  "imageName": "thrull retainer",
+  "colorIdentity": [
+    "B"
+  ]
+}

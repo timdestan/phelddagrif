@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Balduvian Barbarians",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Barbarian",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Barbarian"
+  ],
+  "power": "3",
+  "toughness": "2",
+  "imageName": "balduvian barbarians",
+  "colorIdentity": [
+    "R"
+  ]
+}

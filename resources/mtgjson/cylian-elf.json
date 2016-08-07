@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Cylian Elf",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Scout",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Scout"
+  ],
+  "power": "2",
+  "toughness": "2",
+  "imageName": "cylian elf",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Arcbound Reclaimer",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "Remove a +1/+1 counter from Arcbound Reclaimer: Put target artifact card from your graveyard on top of your library.\nModular 2 (This enters the battlefield with two +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "arcbound reclaimer"
+}

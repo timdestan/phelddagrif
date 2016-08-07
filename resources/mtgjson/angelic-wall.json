@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Angelic Wall",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender (This creature can't attack.)\nFlying",
+  "power": "0",
+  "toughness": "4",
+  "imageName": "angelic wall",
+  "colorIdentity": [
+    "W"
+  ]
+}

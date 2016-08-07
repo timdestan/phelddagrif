@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Slime Molding",
+  "manaCost": "{X}{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put an X/X green Ooze creature token onto the battlefield.",
+  "imageName": "slime molding",
+  "colorIdentity": [
+    "G"
+  ]
+}

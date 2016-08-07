@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Irresistible Prey",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target creature must be blocked this turn if able.\nDraw a card.",
+  "imageName": "irresistible prey",
+  "colorIdentity": [
+    "G"
+  ]
+}

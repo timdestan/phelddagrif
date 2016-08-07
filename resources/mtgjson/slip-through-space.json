@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Slip Through Space",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Devoid (This card has no color.)\nTarget creature can't be blocked this turn.\nDraw a card.",
+  "imageName": "slip through space",
+  "colorIdentity": [
+    "U"
+  ]
+}

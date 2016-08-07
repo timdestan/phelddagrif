@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Pendelhaven Elder",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Shaman"
+  ],
+  "text": "{T}: Each 1/1 creature you control gets +1/+2 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "pendelhaven elder",
+  "colorIdentity": [
+    "G"
+  ]
+}

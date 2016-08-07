@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Avacyn's Collar",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature gets +1/+0 and has vigilance.\nWhenever equipped creature dies, if it was a Human, put a 1/1 white Spirit creature token with flying onto the battlefield.\nEquip {2}",
+  "imageName": "avacyn's collar"
+}

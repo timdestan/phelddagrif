@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Celestial Sword",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{3}, {T}: Target creature you control gets +3/+3 until end of turn. Its controller sacrifices it at the beginning of the next end step.",
+  "imageName": "celestial sword"
+}

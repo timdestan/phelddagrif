@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Refreshing Rain",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "If an opponent controls a Swamp and you control a Forest, you may cast Refreshing Rain without paying its mana cost.\nTarget player gains 6 life.",
+  "imageName": "refreshing rain",
+  "colorIdentity": [
+    "G"
+  ]
+}

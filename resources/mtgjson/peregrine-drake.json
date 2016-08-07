@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Peregrine Drake",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flying\nWhen Peregrine Drake enters the battlefield, untap up to five lands.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "peregrine drake",
+  "colorIdentity": [
+    "U"
+  ]
+}

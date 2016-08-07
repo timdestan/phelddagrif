@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Shorecrasher Mimic",
+  "manaCost": "{1}{G/U}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Creature — Shapeshifter",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Shapeshifter"
+  ],
+  "text": "Whenever you cast a spell that's both green and blue, Shorecrasher Mimic has base power and toughness 5/3 until end of turn and gains trample until end of turn.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "shorecrasher mimic",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

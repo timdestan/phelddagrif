@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Geralf's Messenger",
+  "manaCost": "{B}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Geralf's Messenger enters the battlefield tapped.\nWhen Geralf's Messenger enters the battlefield, target opponent loses 2 life.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "geralf's messenger",
+  "colorIdentity": [
+    "B"
+  ]
+}

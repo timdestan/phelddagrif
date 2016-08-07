@@ -1,0 +1,32 @@
+{
+  "layout": "normal",
+  "name": "Sen Triplets",
+  "manaCost": "{2}{W}{U}{B}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Blue",
+    "Black"
+  ],
+  "type": "Legendary Artifact Creature — Human Wizard",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "At the beginning of your upkeep, choose target opponent. This turn, that player can't cast spells or activate abilities and plays with his or her hand revealed. You may play cards from that player's hand this turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "sen triplets",
+  "colorIdentity": [
+    "W",
+    "U",
+    "B"
+  ]
+}

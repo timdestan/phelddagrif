@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Humble Defector",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "{T}: Draw two cards. Target opponent gains control of Humble Defector. Activate this ability only during your turn.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "humble defector",
+  "colorIdentity": [
+    "R"
+  ]
+}

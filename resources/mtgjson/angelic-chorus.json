@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Angelic Chorus",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a creature enters the battlefield under your control, you gain life equal to its toughness.",
+  "imageName": "angelic chorus",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Dragonlord Dromoka",
+  "manaCost": "{4}{G}{W}",
+  "cmc": 6,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Legendary Creature — Elder Dragon",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elder",
+    "Dragon"
+  ],
+  "text": "Dragonlord Dromoka can't be countered.\nFlying, lifelink\nYour opponents can't cast spells during your turn.",
+  "power": "5",
+  "toughness": "7",
+  "imageName": "dragonlord dromoka",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

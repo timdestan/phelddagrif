@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Phantasmal Terrain",
+  "manaCost": "{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant land\nAs Phantasmal Terrain enters the battlefield, choose a basic land type.\nEnchanted land is the chosen type.",
+  "imageName": "phantasmal terrain",
+  "colorIdentity": [
+    "U"
+  ]
+}

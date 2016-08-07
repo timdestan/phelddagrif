@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Brightstone Ritual",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Add {R} to your mana pool for each Goblin on the battlefield.",
+  "imageName": "brightstone ritual",
+  "colorIdentity": [
+    "R"
+  ]
+}

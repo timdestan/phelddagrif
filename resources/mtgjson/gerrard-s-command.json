@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Gerrard's Command",
+  "manaCost": "{G}{W}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Untap target creature. It gets +3/+3 until end of turn.",
+  "imageName": "gerrard's command",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

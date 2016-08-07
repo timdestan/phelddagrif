@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Sootwalkers",
+  "manaCost": "{2}{B/R}{B/R}",
+  "cmc": 4,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Elemental Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Rogue"
+  ],
+  "text": "Sootwalkers can't be blocked by white creatures.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "sootwalkers",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

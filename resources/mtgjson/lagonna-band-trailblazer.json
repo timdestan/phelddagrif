@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Lagonna-Band Trailblazer",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Centaur Scout",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Centaur",
+    "Scout"
+  ],
+  "text": "Heroic — Whenever you cast a spell that targets Lagonna-Band Trailblazer, put a +1/+1 counter on Lagonna-Band Trailblazer.",
+  "power": "0",
+  "toughness": "4",
+  "imageName": "lagonna-band trailblazer",
+  "colorIdentity": [
+    "W"
+  ]
+}

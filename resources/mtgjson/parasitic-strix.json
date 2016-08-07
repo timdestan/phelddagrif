@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Parasitic Strix",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Artifact Creature — Bird",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\nWhen Parasitic Strix enters the battlefield, if you control a black permanent, target player loses 2 life and you gain 2 life.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "parasitic strix",
+  "colorIdentity": [
+    "U"
+  ]
+}

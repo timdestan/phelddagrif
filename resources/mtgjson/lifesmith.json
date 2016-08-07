@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Lifesmith",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Artificer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Artificer"
+  ],
+  "text": "Whenever you cast an artifact spell, you may pay {1}. If you do, you gain 3 life.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "lifesmith",
+  "colorIdentity": [
+    "G"
+  ]
+}

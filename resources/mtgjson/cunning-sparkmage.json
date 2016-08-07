@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Cunning Sparkmage",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Shaman"
+  ],
+  "text": "Haste\n{T}: Cunning Sparkmage deals 1 damage to target creature or player.",
+  "power": "0",
+  "toughness": "1",
+  "imageName": "cunning sparkmage",
+  "colorIdentity": [
+    "R"
+  ]
+}

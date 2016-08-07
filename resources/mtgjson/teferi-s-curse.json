@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Teferi's Curse",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant artifact or creature\nEnchanted permanent has phasing. (It phases in or out before its controller untaps during each of his or her untap steps. While it's phased out, it's treated as though it doesn't exist.)",
+  "imageName": "teferi's curse",
+  "colorIdentity": [
+    "U"
+  ]
+}

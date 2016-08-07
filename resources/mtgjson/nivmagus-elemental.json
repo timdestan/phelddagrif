@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Nivmagus Elemental",
+  "manaCost": "{U/R}",
+  "cmc": 1,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Exile an instant or sorcery spell you control: Put two +1/+1 counters on Nivmagus Elemental. (That spell won't resolve.)",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "nivmagus elemental",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

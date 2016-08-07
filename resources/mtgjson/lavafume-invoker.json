@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Lavafume Invoker",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Shaman"
+  ],
+  "text": "{8}: Creatures you control get +3/+0 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "lavafume invoker",
+  "colorIdentity": [
+    "R"
+  ]
+}

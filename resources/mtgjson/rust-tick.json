@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rust Tick",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Insect",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "You may choose not to untap Rust Tick during your untap step.\n{1}, {T}: Tap target artifact. It doesn't untap during its controller's untap step for as long as Rust Tick remains tapped.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "rust tick"
+}

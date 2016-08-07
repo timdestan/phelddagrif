@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Seagraf Skaab",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "power": "1",
+  "toughness": "3",
+  "imageName": "seagraf skaab",
+  "colorIdentity": [
+    "U"
+  ]
+}

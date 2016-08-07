@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Felhide Brawler",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Minotaur",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Minotaur"
+  ],
+  "text": "Felhide Brawler can't block unless you control another Minotaur.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "felhide brawler",
+  "colorIdentity": [
+    "B"
+  ]
+}

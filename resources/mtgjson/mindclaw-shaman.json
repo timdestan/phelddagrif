@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Mindclaw Shaman",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Viashino Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Viashino",
+    "Shaman"
+  ],
+  "text": "When Mindclaw Shaman enters the battlefield, target opponent reveals his or her hand. You may cast an instant or sorcery card from it without paying its mana cost.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "mindclaw shaman",
+  "colorIdentity": [
+    "R"
+  ]
+}

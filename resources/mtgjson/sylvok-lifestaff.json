@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Sylvok Lifestaff",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature gets +1/+0.\nWhenever equipped creature dies, you gain 3 life.\nEquip {1}",
+  "imageName": "sylvok lifestaff"
+}

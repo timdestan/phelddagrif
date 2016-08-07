@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Thopter Squadron",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact Creature — Thopter",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Thopter"
+  ],
+  "text": "Flying\nThopter Squadron enters the battlefield with three +1/+1 counters on it.\n{1}, Remove a +1/+1 counter from Thopter Squadron: Put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield. Activate this ability only any time you could cast a sorcery.\n{1}, Sacrifice another Thopter: Put a +1/+1 counter on Thopter Squadron. Activate this ability only any time you could cast a sorcery.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "thopter squadron"
+}

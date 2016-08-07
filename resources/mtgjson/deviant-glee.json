@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Deviant Glee",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets +2/+1 and has \"{R}: This creature gains trample until end of turn.\"",
+  "imageName": "deviant glee",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

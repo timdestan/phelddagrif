@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Birthing Pod",
+  "manaCost": "{3}{G/P}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "({G/P} can be paid with either {G} or 2 life.)\n{1}{G/P}, {T}, Sacrifice a creature: Search your library for a creature card with converted mana cost equal to 1 plus the sacrificed creature's converted mana cost, put that card onto the battlefield, then shuffle your library. Activate this ability only any time you could cast a sorcery.",
+  "imageName": "birthing pod",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Divine Verdict",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target attacking or blocking creature.",
+  "imageName": "divine verdict",
+  "starter": true,
+  "colorIdentity": [
+    "W"
+  ]
+}

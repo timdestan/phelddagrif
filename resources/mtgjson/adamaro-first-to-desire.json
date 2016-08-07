@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Adamaro, First to Desire",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Creature — Spirit",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Adamaro, First to Desire's power and toughness are each equal to the number of cards in the hand of the opponent with the most cards in hand.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "adamaro, first to desire",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Griffin Protector",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Griffin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Griffin"
+  ],
+  "text": "Flying\nWhenever another creature enters the battlefield under your control, Griffin Protector gets +1/+1 until end of turn.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "griffin protector",
+  "colorIdentity": [
+    "W"
+  ]
+}

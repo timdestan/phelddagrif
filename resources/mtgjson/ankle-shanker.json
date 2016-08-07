@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Ankle Shanker",
+  "manaCost": "{2}{R}{W}{B}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Goblin Berserker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Berserker"
+  ],
+  "text": "Haste\nWhenever Ankle Shanker attacks, creatures you control gain first strike and deathtouch until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "ankle shanker",
+  "colorIdentity": [
+    "W",
+    "B",
+    "R"
+  ]
+}

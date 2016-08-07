@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Mana Matrix",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Instant and enchantment spells you cast cost up to {2} less to cast.",
+  "imageName": "mana matrix"
+}

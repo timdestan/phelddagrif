@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Dormant Volcano",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Dormant Volcano enters the battlefield tapped.\nWhen Dormant Volcano enters the battlefield, sacrifice it unless you return an untapped Mountain you control to its owner's hand.\n{T}: Add {C}{R} to your mana pool.",
+  "imageName": "dormant volcano",
+  "colorIdentity": [
+    "R"
+  ]
+}

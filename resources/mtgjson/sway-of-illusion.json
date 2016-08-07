@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sway of Illusion",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Any number of target creatures become the color of your choice until end of turn.\nDraw a card.",
+  "imageName": "sway of illusion",
+  "colorIdentity": [
+    "U"
+  ]
+}

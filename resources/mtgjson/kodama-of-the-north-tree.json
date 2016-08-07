@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Kodama of the North Tree",
+  "manaCost": "{2}{G}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Legendary Creature — Spirit",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Trample\nShroud (This creature can't be the target of spells or abilities.)",
+  "power": "6",
+  "toughness": "4",
+  "imageName": "kodama of the north tree",
+  "colorIdentity": [
+    "G"
+  ]
+}

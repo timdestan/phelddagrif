@@ -1,0 +1,28 @@
+{
+  "layout": "double-faced",
+  "name": "Hinterland Logger",
+  "names": [
+    "Hinterland Logger",
+    "Timber Shredder"
+  ],
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Werewolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Werewolf"
+  ],
+  "text": "At the beginning of each upkeep, if no spells were cast last turn, transform Hinterland Logger.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "hinterland logger",
+  "colorIdentity": [
+    "G"
+  ]
+}

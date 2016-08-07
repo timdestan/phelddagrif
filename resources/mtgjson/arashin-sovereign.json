@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Arashin Sovereign",
+  "manaCost": "{5}{G}{W}",
+  "cmc": 7,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying\nWhen Arashin Sovereign dies, you may put it on the top or bottom of its owner's library.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "arashin sovereign",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

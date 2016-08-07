@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Opalescence",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Each other non-Aura enchantment is a creature in addition to its other types and has base power and base toughness each equal to its converted mana cost.",
+  "imageName": "opalescence",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Chrome Mox",
+  "manaCost": "{0}",
+  "cmc": 0,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Imprint — When Chrome Mox enters the battlefield, you may exile a nonartifact, nonland card from your hand.\n{T}: Add one mana of any of the exiled card's colors to your mana pool.",
+  "imageName": "chrome mox"
+}

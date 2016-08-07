@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Proteus Machine",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Shapeshifter",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Shapeshifter"
+  ],
+  "text": "Morph {0} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Proteus Machine is turned face up, it becomes the creature type of your choice. (This effect lasts indefinitely.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "proteus machine"
+}

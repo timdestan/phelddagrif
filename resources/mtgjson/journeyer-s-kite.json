@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Journeyer's Kite",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{3}, {T}: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.",
+  "imageName": "journeyer's kite"
+}

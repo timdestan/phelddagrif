@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Bile Blight",
+  "manaCost": "{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature and all other creatures with the same name as that creature get -3/-3 until end of turn.",
+  "imageName": "bile blight",
+  "colorIdentity": [
+    "B"
+  ]
+}

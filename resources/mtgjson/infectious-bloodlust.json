@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Infectious Bloodlust",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets +2/+1, has haste, and attacks each turn if able.\nWhen enchanted creature dies, you may search your library for a card named Infectious Bloodlust, reveal it, put it into your hand, then shuffle your library.",
+  "imageName": "infectious bloodlust",
+  "colorIdentity": [
+    "R"
+  ]
+}

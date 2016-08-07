@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Blighted Gorge",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{4}{R}, {T}, Sacrifice Blighted Gorge: Blighted Gorge deals 2 damage to target creature or player.",
+  "imageName": "blighted gorge",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Necro-Impotence",
+  "manaCost": "{B}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Skip your untap step.\nAt the beginning of your upkeep, you may pay X life. If you do, untap X permanents.\nPay ½ life: Remove the top card of your library from the game face down. Put that card into your hand at end of turn.",
+  "imageName": "necro-impotence",
+  "colorIdentity": [
+    "B"
+  ]
+}

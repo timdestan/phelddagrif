@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Voyage's End",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Return target creature to its owner's hand. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "imageName": "voyage's end",
+  "colorIdentity": [
+    "U"
+  ]
+}

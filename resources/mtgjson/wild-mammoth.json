@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wild Mammoth",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elephant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elephant"
+  ],
+  "text": "At the beginning of your upkeep, if a player controls more creatures than each other player, the player who controls the most creatures gains control of Wild Mammoth.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "wild mammoth",
+  "colorIdentity": [
+    "G"
+  ]
+}

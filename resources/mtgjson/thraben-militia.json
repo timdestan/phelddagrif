@@ -1,0 +1,27 @@
+{
+  "layout": "double-faced",
+  "name": "Thraben Militia",
+  "names": [
+    "Thraben Sentry",
+    "Thraben Militia"
+  ],
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Trample",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "thraben militia",
+  "colorIdentity": [
+    "W"
+  ]
+}

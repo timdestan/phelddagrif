@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Guul Draz Specter",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Specter",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Specter"
+  ],
+  "text": "Flying\nGuul Draz Specter gets +3/+3 as long as an opponent has no cards in hand.\nWhenever Guul Draz Specter deals combat damage to a player, that player discards a card.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "guul draz specter",
+  "colorIdentity": [
+    "B"
+  ]
+}

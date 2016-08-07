@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Illuminate",
+  "manaCost": "{X}{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Kicker {2}{R} and/or {3}{U} (You may pay an additional {2}{R} and/or {3}{U} as you cast this spell.)\nIlluminate deals X damage to target creature. If Illuminate was kicked with its {2}{R} kicker, it deals X damage to that creature's controller. If Illuminate was kicked with its {3}{U} kicker, you draw X cards.",
+  "imageName": "illuminate",
+  "colorIdentity": [
+    "R",
+    "U"
+  ]
+}

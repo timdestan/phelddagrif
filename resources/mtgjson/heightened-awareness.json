@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Heightened Awareness",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "As Heightened Awareness enters the battlefield, discard your hand.\nAt the beginning of your draw step, draw an additional card.",
+  "imageName": "heightened awareness",
+  "colorIdentity": [
+    "U"
+  ]
+}

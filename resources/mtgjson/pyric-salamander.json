@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Pyric Salamander",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Salamander",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Salamander"
+  ],
+  "text": "{R}: Pyric Salamander gets +1/+0 until end of turn. Sacrifice Pyric Salamander at the beginning of the next end step.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "pyric salamander",
+  "colorIdentity": [
+    "R"
+  ]
+}

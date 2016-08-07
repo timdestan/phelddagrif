@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Ward of Bones",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Each opponent who controls more creatures than you can't play creature cards. The same is true for artifacts, enchantments, and lands.",
+  "imageName": "ward of bones"
+}

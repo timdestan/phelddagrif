@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Vodalian Soldiers",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Soldier"
+  ],
+  "power": "1",
+  "toughness": "2",
+  "imageName": "vodalian soldiers",
+  "colorIdentity": [
+    "U"
+  ]
+}

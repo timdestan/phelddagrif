@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Spined Wurm",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "power": "5",
+  "toughness": "4",
+  "imageName": "spined wurm",
+  "colorIdentity": [
+    "G"
+  ]
+}

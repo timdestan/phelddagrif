@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Aura of Silence",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Artifact and enchantment spells your opponents cast cost {2} more to cast.\nSacrifice Aura of Silence: Destroy target artifact or enchantment.",
+  "imageName": "aura of silence",
+  "colorIdentity": [
+    "W"
+  ]
+}

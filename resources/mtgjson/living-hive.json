@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Living Hive",
+  "manaCost": "{6}{G}{G}",
+  "cmc": 8,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elemental Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Insect"
+  ],
+  "text": "Trample\nWhenever Living Hive deals combat damage to a player, put that many 1/1 green Insect creature tokens onto the battlefield.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "living hive",
+  "colorIdentity": [
+    "G"
+  ]
+}

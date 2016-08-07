@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Bane of Progress",
+  "manaCost": "{4}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "When Bane of Progress enters the battlefield, destroy all artifacts and enchantments. Put a +1/+1 counter on Bane of Progress for each permanent destroyed this way.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "bane of progress",
+  "colorIdentity": [
+    "G"
+  ]
+}

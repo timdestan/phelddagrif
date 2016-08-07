@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Razor Hippogriff",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Hippogriff",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hippogriff"
+  ],
+  "text": "Flying\nWhen Razor Hippogriff enters the battlefield, return target artifact card from your graveyard to your hand. You gain life equal to that card's converted mana cost.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "razor hippogriff",
+  "colorIdentity": [
+    "W"
+  ]
+}

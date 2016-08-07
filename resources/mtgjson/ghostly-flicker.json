@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ghostly Flicker",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Exile two target artifacts, creatures, and/or lands you control, then return those cards to the battlefield under your control.",
+  "imageName": "ghostly flicker",
+  "colorIdentity": [
+    "U"
+  ]
+}

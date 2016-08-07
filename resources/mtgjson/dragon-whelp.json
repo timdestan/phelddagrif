@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dragon Whelp",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying\n{R}: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "dragon whelp",
+  "colorIdentity": [
+    "R"
+  ]
+}

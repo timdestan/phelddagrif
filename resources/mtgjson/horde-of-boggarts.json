@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Horde of Boggarts",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "Menace (This creature can't be blocked except by two or more creatures.)\nHorde of Boggarts's power and toughness are each equal to the number of red permanents you control.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "horde of boggarts",
+  "colorIdentity": [
+    "R"
+  ]
+}

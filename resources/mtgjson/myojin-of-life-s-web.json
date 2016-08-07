@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Myojin of Life's Web",
+  "manaCost": "{6}{G}{G}{G}",
+  "cmc": 9,
+  "colors": [
+    "Green"
+  ],
+  "type": "Legendary Creature — Spirit",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Myojin of Life's Web enters the battlefield with a divinity counter on it if you cast it from your hand.\nMyojin of Life's Web has indestructible as long as it has a divinity counter on it.\nRemove a divinity counter from Myojin of Life's Web: Put any number of creature cards from your hand onto the battlefield.",
+  "power": "8",
+  "toughness": "8",
+  "imageName": "myojin of life's web",
+  "colorIdentity": [
+    "G"
+  ]
+}

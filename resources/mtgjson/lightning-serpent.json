@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Lightning Serpent",
+  "manaCost": "{X}{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental Serpent",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Serpent"
+  ],
+  "text": "Trample, haste\nLightning Serpent enters the battlefield with X +1/+0 counters on it.\nAt the beginning of the end step, sacrifice Lightning Serpent.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "lightning serpent",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "layout": "plane",
+  "name": "Skybreen",
+  "type": "Plane — Kaldheim",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Kaldheim"
+  ],
+  "text": "Players play with the top card of their libraries revealed.\nSpells that share a card type with the top card of a library can't be cast.\nWhenever you roll CHAOS, target player loses life equal to the number of cards in his or her hand.",
+  "imageName": "skybreen"
+}

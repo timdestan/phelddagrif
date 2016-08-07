@@ -1,0 +1,16 @@
+{
+  "layout": "normal",
+  "name": "Oboro, Palace in the Clouds",
+  "type": "Legendary Land",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {U} to your mana pool.\n{1}: Return Oboro, Palace in the Clouds to its owner's hand.",
+  "imageName": "oboro, palace in the clouds",
+  "colorIdentity": [
+    "U"
+  ]
+}

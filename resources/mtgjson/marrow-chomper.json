@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Marrow Chomper",
+  "manaCost": "{3}{B}{G}",
+  "cmc": 5,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Creature — Zombie Lizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Lizard"
+  ],
+  "text": "Devour 2 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.)\nWhen Marrow Chomper enters the battlefield, you gain 2 life for each creature it devoured.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "marrow chomper",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

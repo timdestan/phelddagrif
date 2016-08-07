@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Teferi's Moat",
+  "manaCost": "{3}{W}{U}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "As Teferi's Moat enters the battlefield, choose a color.\nCreatures of the chosen color without flying can't attack you.",
+  "imageName": "teferi's moat",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

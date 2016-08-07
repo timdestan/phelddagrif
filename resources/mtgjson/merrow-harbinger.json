@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Merrow Harbinger",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Wizard"
+  ],
+  "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nWhen Merrow Harbinger enters the battlefield, you may search your library for a Merfolk card, reveal it, then shuffle your library and put that card on top of it.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "merrow harbinger",
+  "colorIdentity": [
+    "U"
+  ]
+}

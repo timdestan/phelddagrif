@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Slaughter Games",
+  "manaCost": "{2}{B}{R}",
+  "cmc": 4,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Slaughter Games can't be countered by spells or abilities.\nName a nonland card. Search target opponent's graveyard, hand, and library for any number of cards with that name and exile them. Then that player shuffles his or her library.",
+  "imageName": "slaughter games",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

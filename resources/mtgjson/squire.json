@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Squire",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "power": "1",
+  "toughness": "2",
+  "imageName": "squire",
+  "colorIdentity": [
+    "W"
+  ]
+}

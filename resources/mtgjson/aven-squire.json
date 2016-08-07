@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Aven Squire",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Bird Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird",
+    "Soldier"
+  ],
+  "text": "Flying\nExalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "aven squire",
+  "colorIdentity": [
+    "W"
+  ]
+}

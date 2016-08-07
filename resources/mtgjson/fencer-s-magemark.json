@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Fencer's Magemark",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nCreatures you control that are enchanted get +1/+1 and have first strike.",
+  "imageName": "fencer's magemark",
+  "colorIdentity": [
+    "R"
+  ]
+}

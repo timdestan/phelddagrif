@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Mikaeus, the Lunarch",
+  "manaCost": "{X}{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Creature — Human Cleric",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "Mikaeus, the Lunarch enters the battlefield with X +1/+1 counters on it.\n{T}: Put a +1/+1 counter on Mikaeus.\n{T}, Remove a +1/+1 counter from Mikaeus: Put a +1/+1 counter on each other creature you control.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "mikaeus, the lunarch",
+  "colorIdentity": [
+    "W"
+  ]
+}

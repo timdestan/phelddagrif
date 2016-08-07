@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Strongarm Monk",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Monk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Monk"
+  ],
+  "text": "Whenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "strongarm monk",
+  "colorIdentity": [
+    "W"
+  ]
+}

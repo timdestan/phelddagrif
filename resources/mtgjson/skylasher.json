@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Skylasher",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "Flash\nSkylasher can't be countered.\nReach, protection from blue",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "skylasher",
+  "colorIdentity": [
+    "G"
+  ]
+}

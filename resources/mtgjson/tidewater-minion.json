@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Tidewater Minion",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Elemental Minion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Minion"
+  ],
+  "text": "Defender (This creature can't attack.)\n{4}: Tidewater Minion loses defender until end of turn.\n{T}: Untap target permanent.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "tidewater minion",
+  "colorIdentity": [
+    "U"
+  ]
+}

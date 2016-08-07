@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Spineless Thug",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Mercenary",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Mercenary"
+  ],
+  "text": "Spineless Thug can't block.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "spineless thug",
+  "colorIdentity": [
+    "B"
+  ]
+}

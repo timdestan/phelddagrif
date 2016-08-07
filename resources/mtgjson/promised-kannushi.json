@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Promised Kannushi",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Druid"
+  ],
+  "text": "Soulshift 7 (When this creature dies, you may return target Spirit card with converted mana cost 7 or less from your graveyard to your hand.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "promised kannushi",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Divinity of Pride",
+  "manaCost": "{W/B}{W/B}{W/B}{W/B}{W/B}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Creature — Spirit Avatar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit",
+    "Avatar"
+  ],
+  "text": "Flying, lifelink\nDivinity of Pride gets +4/+4 as long as you have 25 or more life.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "divinity of pride",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

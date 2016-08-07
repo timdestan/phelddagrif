@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ore Gorger",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Whenever you cast a Spirit or Arcane spell, you may destroy target nonbasic land.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "ore gorger",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Insatiable Souleater",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Beast",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "{G/P}: Insatiable Souleater gains trample until end of turn. ({G/P} can be paid with either {G} or 2 life.)",
+  "power": "5",
+  "toughness": "1",
+  "imageName": "insatiable souleater",
+  "colorIdentity": [
+    "G"
+  ]
+}

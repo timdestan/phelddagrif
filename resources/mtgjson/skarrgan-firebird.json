@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Skarrgan Firebird",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Phoenix",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Phoenix"
+  ],
+  "text": "Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)\nFlying\n{R}{R}{R}: Return Skarrgan Firebird from your graveyard to your hand. Activate this ability only if an opponent was dealt damage this turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "skarrgan firebird",
+  "colorIdentity": [
+    "R"
+  ]
+}

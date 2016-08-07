@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Dawnray Archer",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Archer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Archer"
+  ],
+  "text": "Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\n{W}, {T}: Dawnray Archer deals 1 damage to target attacking or blocking creature.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "dawnray archer",
+  "colorIdentity": [
+    "U",
+    "W"
+  ]
+}

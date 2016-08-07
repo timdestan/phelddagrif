@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Blinkmoth Urn",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "At the beginning of each player's precombat main phase, if Blinkmoth Urn is untapped, that player adds {C} to his or her mana pool for each artifact he or she controls.",
+  "imageName": "blinkmoth urn"
+}

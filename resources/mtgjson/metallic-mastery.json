@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Metallic Mastery",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Gain control of target artifact until end of turn. Untap that artifact. It gains haste until end of turn.",
+  "imageName": "metallic mastery",
+  "colorIdentity": [
+    "R"
+  ]
+}

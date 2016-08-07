@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kjeldoran Skyknight",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "Flying; first strike; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "kjeldoran skyknight",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Arctic Flats",
+  "type": "Snow Land",
+  "supertypes": [
+    "Snow"
+  ],
+  "types": [
+    "Land"
+  ],
+  "text": "Arctic Flats enters the battlefield tapped.\n{T}: Add {G} or {W} to your mana pool.",
+  "imageName": "arctic flats",
+  "colorIdentity": [
+    "G",
+    "W"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Mindswipe",
+  "manaCost": "{X}{U}{R}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell unless its controller pays {X}. Mindswipe deals X damage to that spell's controller.",
+  "imageName": "mindswipe",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

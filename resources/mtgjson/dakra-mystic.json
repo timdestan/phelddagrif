@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Dakra Mystic",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Wizard"
+  ],
+  "text": "{U}, {T}: Each player reveals the top card of his or her library. You may put the revealed cards into their owners' graveyards. If you don't, each player draws a card.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "dakra mystic",
+  "colorIdentity": [
+    "U"
+  ]
+}

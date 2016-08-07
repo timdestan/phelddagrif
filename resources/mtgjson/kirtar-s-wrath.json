@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Kirtar's Wrath",
+  "manaCost": "{4}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy all creatures. They can't be regenerated.\nThreshold — If seven or more cards are in your graveyard, instead destroy all creatures, then put two 1/1 white Spirit creature tokens with flying onto the battlefield. Creatures destroyed this way can't be regenerated.",
+  "imageName": "kirtar's wrath",
+  "colorIdentity": [
+    "W"
+  ]
+}

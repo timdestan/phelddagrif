@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mountain",
+  "type": "Basic Land — Mountain",
+  "supertypes": [
+    "Basic"
+  ],
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Mountain"
+  ],
+  "imageName": "mountain",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Mystic Retrieval",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Return target instant or sorcery card from your graveyard to your hand.\nFlashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "mystic retrieval",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

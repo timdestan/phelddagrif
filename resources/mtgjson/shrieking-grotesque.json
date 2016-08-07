@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Shrieking Grotesque",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Gargoyle",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Gargoyle"
+  ],
+  "text": "Flying\nWhen Shrieking Grotesque enters the battlefield, if {B} was spent to cast it, target player discards a card.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "shrieking grotesque",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

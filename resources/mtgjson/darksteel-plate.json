@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Darksteel Plate",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Indestructible\nEquipped creature has indestructible.\nEquip {2}",
+  "imageName": "darksteel plate"
+}

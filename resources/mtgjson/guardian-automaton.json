@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Guardian Automaton",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "text": "When Guardian Automaton dies, you gain 3 life.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "guardian automaton"
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Zombie Fanboy",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Gamer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Gamer"
+  ],
+  "text": "As Zombie Fanboy comes into play, choose an artist.\nWhenever a permanent by the chosen artist is put into a graveyard, put two +1/+1 counters on Zombie Fanboy.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "zombie fanboy",
+  "colorIdentity": [
+    "B"
+  ]
+}

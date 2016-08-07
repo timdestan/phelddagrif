@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Stratozeppelid",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Flying\nStratozeppelid can block only creatures with flying.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "stratozeppelid",
+  "colorIdentity": [
+    "U"
+  ]
+}

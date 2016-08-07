@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Siege Wurm",
+  "manaCost": "{5}{G}{G}",
+  "cmc": 7,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nTrample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "siege wurm",
+  "colorIdentity": [
+    "G"
+  ]
+}

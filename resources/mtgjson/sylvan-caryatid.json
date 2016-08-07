@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sylvan Caryatid",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Plant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Plant"
+  ],
+  "text": "Defender, hexproof\n{T}: Add one mana of any color to your mana pool.",
+  "power": "0",
+  "toughness": "3",
+  "imageName": "sylvan caryatid",
+  "colorIdentity": [
+    "G"
+  ]
+}

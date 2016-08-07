@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Gorilla War Cry",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Cast Gorilla War Cry only during combat before blockers are declared.\nAll creatures gain menace until end of turn. (They can't be blocked except by two or more creatures.)\nDraw a card at the beginning of the next turn's upkeep.",
+  "imageName": "gorilla war cry",
+  "colorIdentity": [
+    "R"
+  ]
+}

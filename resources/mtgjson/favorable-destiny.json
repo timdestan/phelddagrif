@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Favorable Destiny",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets +1/+2 as long as it's white.\nEnchanted creature has shroud as long as its controller controls another creature. (It can't be the target of spells or abilities.)",
+  "imageName": "favorable destiny",
+  "colorIdentity": [
+    "W"
+  ]
+}

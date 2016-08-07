@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Bearer of Silence",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "type": "Creature — Eldrazi",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi"
+  ],
+  "text": "Devoid (This card has no color.)\nWhen you cast Bearer of Silence, you may pay {1}{C}. If you do, target opponent sacrifices a creature. ({C} represents colorless mana.)\nFlying\nBearer of Silence can't block.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "bearer of silence",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Gut Shot",
+  "manaCost": "{R/P}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "({R/P} can be paid with either {R} or 2 life.)\nGut Shot deals 1 damage to target creature or player.",
+  "imageName": "gut shot",
+  "colorIdentity": [
+    "R"
+  ]
+}

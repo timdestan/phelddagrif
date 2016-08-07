@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Jackal Familiar",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Hound",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hound"
+  ],
+  "text": "Jackal Familiar can't attack or block alone.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "jackal familiar",
+  "colorIdentity": [
+    "R"
+  ]
+}

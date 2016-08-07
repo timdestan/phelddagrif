@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Larceny",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a creature you control deals combat damage to a player, that player discards a card.",
+  "imageName": "larceny",
+  "colorIdentity": [
+    "B"
+  ]
+}

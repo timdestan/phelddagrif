@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Ink-Treader Nephilim",
+  "manaCost": "{R}{G}{W}{U}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Blue",
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Nephilim",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Nephilim"
+  ],
+  "text": "Whenever a player casts an instant or sorcery spell, if that spell targets only Ink-Treader Nephilim, copy the spell for each other creature that spell could target. Each copy targets a different one of those creatures.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "ink-treader nephilim",
+  "colorIdentity": [
+    "W",
+    "U",
+    "R",
+    "G"
+  ]
+}

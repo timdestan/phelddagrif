@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ignite Memories",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target player reveals a card at random from his or her hand. Ignite Memories deals damage to that player equal to that card's converted mana cost.\nStorm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)",
+  "imageName": "ignite memories",
+  "colorIdentity": [
+    "R"
+  ]
+}

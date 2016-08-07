@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Maze Sentinel",
+  "manaCost": "{5}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Vigilance\nMulticolored creatures you control have vigilance.",
+  "power": "3",
+  "toughness": "6",
+  "imageName": "maze sentinel",
+  "colorIdentity": [
+    "W"
+  ]
+}

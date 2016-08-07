@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Primalcrux",
+  "manaCost": "{G}{G}{G}{G}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Trample\nChroma — Primalcrux's power and toughness are each equal to the number of green mana symbols in the mana costs of permanents you control.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "primalcrux",
+  "colorIdentity": [
+    "G"
+  ]
+}

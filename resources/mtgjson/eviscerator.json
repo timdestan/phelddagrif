@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Eviscerator",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "Protection from white\nWhen Eviscerator enters the battlefield, you lose 5 life.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "eviscerator",
+  "colorIdentity": [
+    "B"
+  ]
+}

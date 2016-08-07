@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Vampiric Dragon",
+  "manaCost": "{6}{B}{R}",
+  "cmc": 8,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Vampire Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Dragon"
+  ],
+  "text": "Flying\nWhenever a creature dealt damage by Vampiric Dragon this turn dies, put a +1/+1 counter on Vampiric Dragon.\n{1}{R}: Vampiric Dragon deals 1 damage to target creature.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "vampiric dragon",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

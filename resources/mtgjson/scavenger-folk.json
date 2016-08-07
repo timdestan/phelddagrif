@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Scavenger Folk",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human"
+  ],
+  "text": "{G}, {T}, Sacrifice Scavenger Folk: Destroy target artifact.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "scavenger folk",
+  "colorIdentity": [
+    "G"
+  ]
+}

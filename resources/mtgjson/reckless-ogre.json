@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Reckless Ogre",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Ogre",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ogre"
+  ],
+  "text": "Whenever Reckless Ogre attacks alone, it gets +3/+0 until end of turn.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "reckless ogre",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Nebelgast Herald",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flash (You may cast this spell any time you could cast an instant.)\nFlying\nWhenever Nebelgast Herald or another Spirit enters the battlefield under your control, tap target creature an opponent controls.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "nebelgast herald",
+  "colorIdentity": [
+    "U"
+  ]
+}

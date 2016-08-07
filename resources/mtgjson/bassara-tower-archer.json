@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Bassara Tower Archer",
+  "manaCost": "{G}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Archer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Archer"
+  ],
+  "text": "Hexproof, reach",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "bassara tower archer",
+  "colorIdentity": [
+    "G"
+  ]
+}

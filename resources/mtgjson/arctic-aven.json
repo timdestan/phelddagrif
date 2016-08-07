@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Arctic Aven",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Bird Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird",
+    "Wizard"
+  ],
+  "text": "Flying\nArctic Aven gets +1/+1 as long as you control a Plains.\n{W}: Arctic Aven gains lifelink until end of turn. (Damage dealt by this creature also causes you to gain that much life.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "arctic aven",
+  "colorIdentity": [
+    "U",
+    "W"
+  ]
+}

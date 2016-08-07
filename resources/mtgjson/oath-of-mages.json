@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Oath of Mages",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of each player's upkeep, that player chooses target player who has more life than he or she does and is his or her opponent. The first player may have Oath of Mages deal 1 damage to the second player.",
+  "imageName": "oath of mages",
+  "colorIdentity": [
+    "R"
+  ]
+}

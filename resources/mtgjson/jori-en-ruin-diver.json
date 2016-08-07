@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Jori En, Ruin Diver",
+  "manaCost": "{1}{U}{R}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Legendary Creature — Merfolk Wizard",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Wizard"
+  ],
+  "text": "Whenever you cast your second spell each turn, draw a card.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "jori en, ruin diver",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

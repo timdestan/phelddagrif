@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Aven Trooper",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Bird Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird",
+    "Soldier"
+  ],
+  "text": "Flying\n{2}{W}, Discard a card: Aven Trooper gets +1/+2 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "aven trooper",
+  "colorIdentity": [
+    "W"
+  ]
+}

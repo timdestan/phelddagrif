@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Unnatural Hunger",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nAt the beginning of the upkeep of enchanted creature's controller, Unnatural Hunger deals damage to that player equal to that creature's power unless he or she sacrifices another creature.",
+  "imageName": "unnatural hunger",
+  "colorIdentity": [
+    "B"
+  ]
+}

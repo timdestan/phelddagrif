@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Howling Wolf",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wolf"
+  ],
+  "text": "When Howling Wolf enters the battlefield, you may search your library for up to three cards named Howling Wolf, reveal them, and put them into your hand. If you do, shuffle your library.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "howling wolf",
+  "colorIdentity": [
+    "G"
+  ]
+}

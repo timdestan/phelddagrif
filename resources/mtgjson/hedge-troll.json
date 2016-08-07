@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Hedge Troll",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Troll Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Troll",
+    "Cleric"
+  ],
+  "text": "Hedge Troll gets +1/+1 as long as you control a Plains.\n{W}: Regenerate Hedge Troll.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "hedge troll",
+  "colorIdentity": [
+    "G",
+    "W"
+  ]
+}

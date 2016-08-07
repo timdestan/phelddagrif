@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Rock Lobster",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "text": "Scissors Lizards cannot attack or block.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "rock lobster"
+}

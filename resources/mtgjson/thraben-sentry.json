@@ -1,0 +1,28 @@
+{
+  "layout": "double-faced",
+  "name": "Thraben Sentry",
+  "names": [
+    "Thraben Sentry",
+    "Thraben Militia"
+  ],
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Vigilance\nWhenever another creature you control dies, you may transform Thraben Sentry.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "thraben sentry",
+  "colorIdentity": [
+    "W"
+  ]
+}

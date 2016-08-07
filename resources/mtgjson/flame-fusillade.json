@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Flame Fusillade",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Until end of turn, permanents you control gain \"{T}: This permanent deals 1 damage to target creature or player.\"",
+  "imageName": "flame fusillade",
+  "colorIdentity": [
+    "R"
+  ]
+}

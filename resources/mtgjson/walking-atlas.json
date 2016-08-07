@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Walking Atlas",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact Creature — Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "text": "{T}: You may put a land card from your hand onto the battlefield.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "walking atlas"
+}

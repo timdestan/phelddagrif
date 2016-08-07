@@ -1,0 +1,15 @@
+{
+  "layout": "token",
+  "name": "Elf Warrior",
+  "type": "Creature — Elf Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Warrior"
+  ],
+  "power": "1",
+  "toughness": "1",
+  "imageName": "elf warrior"
+}

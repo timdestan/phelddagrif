@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Whippoorwill",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "{G}{G}, {T}: Target creature can't be regenerated this turn. Damage that would be dealt to that creature this turn can't be prevented or dealt instead to another creature or player. When the creature dies this turn, exile the creature.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "whippoorwill",
+  "colorIdentity": [
+    "G"
+  ]
+}

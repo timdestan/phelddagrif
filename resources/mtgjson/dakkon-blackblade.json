@@ -1,0 +1,31 @@
+{
+  "layout": "normal",
+  "name": "Dakkon Blackblade",
+  "manaCost": "{2}{W}{U}{U}{B}",
+  "cmc": 6,
+  "colors": [
+    "White",
+    "Blue",
+    "Black"
+  ],
+  "type": "Legendary Creature — Human Warrior",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "Dakkon Blackblade's power and toughness are each equal to the number of lands you control.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "dakkon blackblade",
+  "colorIdentity": [
+    "W",
+    "U",
+    "B"
+  ]
+}

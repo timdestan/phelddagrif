@@ -1,0 +1,16 @@
+{
+  "layout": "normal",
+  "name": "Shizo, Death's Storehouse",
+  "type": "Legendary Land",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {B} to your mana pool.\n{B}, {T}: Target legendary creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)",
+  "imageName": "shizo, death's storehouse",
+  "colorIdentity": [
+    "B"
+  ]
+}

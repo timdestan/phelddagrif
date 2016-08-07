@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Icatian Crier",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Spellshaper",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Spellshaper"
+  ],
+  "text": "{1}{W}, {T}, Discard a card: Put two 1/1 white Citizen creature tokens onto the battlefield.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "icatian crier",
+  "colorIdentity": [
+    "W"
+  ]
+}

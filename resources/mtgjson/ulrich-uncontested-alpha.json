@@ -1,0 +1,27 @@
+{
+  "layout": "double-faced",
+  "name": "Ulrich, Uncontested Alpha",
+  "names": [
+    "Ulrich of the Krallenhorde",
+    "Ulrich, Uncontested Alpha"
+  ],
+  "cmc": 5,
+  "type": "Legendary Creature — Werewolf",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Werewolf"
+  ],
+  "text": "Whenever this creature transforms into Ulrich, Uncontested Alpha, you may have it fight target non-Werewolf creature you don't control.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Ulrich, Uncontested Alpha.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "ulrich, uncontested alpha",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

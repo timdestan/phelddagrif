@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Extinguish",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target sorcery spell.",
+  "imageName": "extinguish",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Earthbrawn",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gets +3/+3 until end of turn.\nReinforce 1—{1}{G} ({1}{G}, Discard this card: Put a +1/+1 counter on target creature.)",
+  "imageName": "earthbrawn",
+  "colorIdentity": [
+    "G"
+  ]
+}

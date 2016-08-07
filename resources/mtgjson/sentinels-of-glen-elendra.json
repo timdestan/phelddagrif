@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Sentinels of Glen Elendra",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Faerie Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Faerie",
+    "Soldier"
+  ],
+  "text": "Flash\nFlying",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "sentinels of glen elendra",
+  "colorIdentity": [
+    "U"
+  ]
+}

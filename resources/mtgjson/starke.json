@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Starke",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "At the beginning of your draw step, you may draw an additional card. If you do, put a card from your hand on the bottom of your library.",
+  "imageName": "starke",
+  "hand": 0,
+  "life": -2
+}

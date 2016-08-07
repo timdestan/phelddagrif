@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sylvan Offering",
+  "manaCost": "{X}{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Choose an opponent. You and that player each put an X/X green Treefolk creature token onto the battlefield.\nChoose an opponent. You and that player each put X 1/1 green Elf Warrior creature tokens onto the battlefield.",
+  "imageName": "sylvan offering",
+  "colorIdentity": [
+    "G"
+  ]
+}

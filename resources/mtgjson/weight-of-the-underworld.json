@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Weight of the Underworld",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets -3/-2.",
+  "imageName": "weight of the underworld",
+  "colorIdentity": [
+    "B"
+  ]
+}

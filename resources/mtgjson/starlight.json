@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Starlight",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "You gain 3 life for each black creature target opponent controls.",
+  "imageName": "starlight",
+  "colorIdentity": [
+    "W"
+  ]
+}

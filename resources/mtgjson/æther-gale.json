@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Æther Gale",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Return six target nonland permanents to their owners' hands.",
+  "imageName": "æther gale",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Unifying Theory",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a player casts a spell, that player may pay {2}. If the player does, he or she draws a card.",
+  "imageName": "unifying theory",
+  "colorIdentity": [
+    "U"
+  ]
+}

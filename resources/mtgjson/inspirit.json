@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Inspirit",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Untap target creature. It gets +2/+4 until end of turn.",
+  "imageName": "inspirit",
+  "colorIdentity": [
+    "W"
+  ]
+}

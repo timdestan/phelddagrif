@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Calcite Snapper",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Turtle",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Turtle"
+  ],
+  "text": "Shroud (This creature can't be the target of spells or abilities.)\nLandfall — Whenever a land enters the battlefield under your control, you may switch Calcite Snapper's power and toughness until end of turn.",
+  "power": "1",
+  "toughness": "4",
+  "imageName": "calcite snapper",
+  "colorIdentity": [
+    "U"
+  ]
+}

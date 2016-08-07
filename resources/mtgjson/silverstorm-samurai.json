@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Silverstorm Samurai",
+  "manaCost": "{4}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Fox Samurai",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Fox",
+    "Samurai"
+  ],
+  "text": "Flash\nBushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "silverstorm samurai",
+  "colorIdentity": [
+    "W"
+  ]
+}

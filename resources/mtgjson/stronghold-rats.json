@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Stronghold Rats",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Rat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rat"
+  ],
+  "text": "Shadow (This creature can block or be blocked by only creatures with shadow.)\nWhenever Stronghold Rats deals combat damage to a player, each player discards a card.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "stronghold rats",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Fight or Flight",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of combat on each opponent's turn, separate all creatures that player controls into two piles. Only creatures in the pile of his or her choice can attack this turn.",
+  "imageName": "fight or flight",
+  "colorIdentity": [
+    "W"
+  ]
+}

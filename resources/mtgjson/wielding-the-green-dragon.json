@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Wielding the Green Dragon",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target creature gets +4/+4 until end of turn.",
+  "imageName": "wielding the green dragon",
+  "colorIdentity": [
+    "G"
+  ]
+}

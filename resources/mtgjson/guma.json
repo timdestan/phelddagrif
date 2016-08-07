@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Guma",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Cat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat"
+  ],
+  "text": "Protection from blue",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "guma",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Magmaquake",
+  "manaCost": "{X}{R}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Magmaquake deals X damage to each creature without flying and each planeswalker.",
+  "imageName": "magmaquake",
+  "colorIdentity": [
+    "R"
+  ]
+}

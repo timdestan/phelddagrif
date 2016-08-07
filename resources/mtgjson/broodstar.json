@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Broodstar",
+  "manaCost": "{8}{U}{U}",
+  "cmc": 10,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nFlying\nBroodstar's power and toughness are each equal to the number of artifacts you control.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "broodstar",
+  "colorIdentity": [
+    "U"
+  ]
+}

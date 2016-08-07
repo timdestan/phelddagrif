@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Voice of All",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nAs Voice of All enters the battlefield, choose a color.\nVoice of All has protection from the chosen color.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "voice of all",
+  "colorIdentity": [
+    "W"
+  ]
+}

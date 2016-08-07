@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Ravaged Highlands",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Ravaged Highlands enters the battlefield tapped.\n{T}: Add {R} to your mana pool.\n{T}, Sacrifice Ravaged Highlands: Add one mana of any color to your mana pool.",
+  "imageName": "ravaged highlands",
+  "colorIdentity": [
+    "R"
+  ]
+}

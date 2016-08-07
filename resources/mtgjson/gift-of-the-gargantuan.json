@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Gift of the Gargantuan",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Look at the top four cards of your library. You may reveal a creature card and/or a land card from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.",
+  "imageName": "gift of the gargantuan",
+  "colorIdentity": [
+    "G"
+  ]
+}

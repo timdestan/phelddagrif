@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Gravelgill Axeshark",
+  "manaCost": "{4}{U/B}",
+  "cmc": 5,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Creature — Merfolk Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Soldier"
+  ],
+  "text": "Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "gravelgill axeshark",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Kor Scythemaster",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kor Soldier Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kor",
+    "Soldier",
+    "Ally"
+  ],
+  "text": "Kor Scythemaster has first strike as long as it's attacking.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "kor scythemaster",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Thunderous Might",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nWhenever enchanted creature attacks, it gets +X/+0 until end of turn, where X is your devotion to red. (Each {R} in the mana costs of permanents you control counts toward your devotion to red.)",
+  "imageName": "thunderous might",
+  "colorIdentity": [
+    "R"
+  ]
+}

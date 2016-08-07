@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Cloudhoof Kirin",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Legendary Creature — Kirin Spirit",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kirin",
+    "Spirit"
+  ],
+  "text": "Flying\nWhenever you cast a Spirit or Arcane spell, you may have target player put the top X cards of his or her library into his or her graveyard, where X is that spell's converted mana cost.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "cloudhoof kirin",
+  "colorIdentity": [
+    "U"
+  ]
+}

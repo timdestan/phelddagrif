@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Colossodon Yearling",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "power": "2",
+  "toughness": "4",
+  "imageName": "colossodon yearling",
+  "colorIdentity": [
+    "G"
+  ]
+}

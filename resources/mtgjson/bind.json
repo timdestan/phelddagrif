@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Bind",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target activated ability. (Mana abilities can't be targeted.)\nDraw a card.",
+  "imageName": "bind",
+  "colorIdentity": [
+    "G"
+  ]
+}

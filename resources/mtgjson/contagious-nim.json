@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Contagious Nim",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "contagious nim",
+  "colorIdentity": [
+    "B"
+  ]
+}

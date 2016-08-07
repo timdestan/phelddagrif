@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Mist Intruder",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "type": "Creature — Eldrazi Drone",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Drone"
+  ],
+  "text": "Devoid (This card has no color.)\nFlying\nIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "mist intruder",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Shrieking Specter",
+  "manaCost": "{5}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Specter",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Specter"
+  ],
+  "text": "Flying\nWhenever Shrieking Specter attacks, defending player discards a card.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "shrieking specter",
+  "colorIdentity": [
+    "B"
+  ]
+}

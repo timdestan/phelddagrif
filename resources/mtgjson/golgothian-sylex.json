@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Golgothian Sylex",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{1}, {T}: Each nontoken permanent originally printed in the Antiquities expansion is sacrificed by its controller.",
+  "imageName": "golgothian sylex"
+}

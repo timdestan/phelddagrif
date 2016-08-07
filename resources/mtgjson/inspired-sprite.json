@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Inspired Sprite",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Faerie Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Faerie",
+    "Wizard"
+  ],
+  "text": "Flash\nFlying\nWhenever you cast a Wizard spell, you may untap Inspired Sprite.\n{T}: Draw a card, then discard a card.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "inspired sprite",
+  "colorIdentity": [
+    "U"
+  ]
+}

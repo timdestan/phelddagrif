@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Flowstone Crusher",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "{R}: Flowstone Crusher gets +1/-1 until end of turn.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "flowstone crusher",
+  "colorIdentity": [
+    "R"
+  ]
+}

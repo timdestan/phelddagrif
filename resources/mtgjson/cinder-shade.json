@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Cinder Shade",
+  "manaCost": "{1}{B}{R}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Shade",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Shade"
+  ],
+  "text": "{B}: Cinder Shade gets +1/+1 until end of turn.\n{R}, Sacrifice Cinder Shade: Cinder Shade deals damage equal to its power to target creature.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "cinder shade",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

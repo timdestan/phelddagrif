@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Opulent Palace",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Opulent Palace enters the battlefield tapped.\n{T}: Add {B}, {G}, or {U} to your mana pool.",
+  "imageName": "opulent palace",
+  "colorIdentity": [
+    "B",
+    "G",
+    "U"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Chemister's Trick",
+  "manaCost": "{U}{R}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature you don't control gets -2/-0 until end of turn and attacks this turn if able.\nOverload {3}{U}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")",
+  "imageName": "chemister's trick",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

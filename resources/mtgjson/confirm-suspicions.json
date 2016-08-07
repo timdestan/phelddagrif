@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Confirm Suspicions",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell.\nInvestigate three times. (To investigate, put a colorless Clue artifact token onto the battlefield with \"{2}, Sacrifice this artifact: Draw a card.\")",
+  "imageName": "confirm suspicions",
+  "colorIdentity": [
+    "U"
+  ]
+}

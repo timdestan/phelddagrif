@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Obelisk of Esper",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}: Add {W}, {U}, or {B} to your mana pool.",
+  "imageName": "obelisk of esper",
+  "colorIdentity": [
+    "W",
+    "U",
+    "B"
+  ]
+}

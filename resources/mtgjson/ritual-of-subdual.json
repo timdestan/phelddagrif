@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ritual of Subdual",
+  "manaCost": "{4}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nIf a land is tapped for mana, it produces colorless mana instead of any other type.",
+  "imageName": "ritual of subdual",
+  "colorIdentity": [
+    "G"
+  ]
+}

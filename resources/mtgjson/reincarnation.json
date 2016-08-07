@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Reincarnation",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose target creature. When that creature dies this turn, return a creature card from its owner's graveyard to the battlefield under the control of that creature's owner.",
+  "imageName": "reincarnation",
+  "colorIdentity": [
+    "G"
+  ]
+}

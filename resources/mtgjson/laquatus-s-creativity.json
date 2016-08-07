@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Laquatus's Creativity",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target player draws cards equal to the number of cards in his or her hand, then discards that many cards.",
+  "imageName": "laquatus's creativity",
+  "colorIdentity": [
+    "U"
+  ]
+}

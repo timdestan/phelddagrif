@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Thermopod",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Snow Creature — Slug",
+  "supertypes": [
+    "Snow"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Slug"
+  ],
+  "text": "{S}: Thermopod gains haste until end of turn. ({S} can be paid with one mana from a snow permanent.)\nSacrifice a creature: Add {R} to your mana pool.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "thermopod",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Thran Lens",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "All permanents are colorless.",
+  "imageName": "thran lens"
+}

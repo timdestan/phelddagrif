@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Spitting Drake",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flying\n{R}: Spitting Drake gets +1/+0 until end of turn. Activate this ability only once each turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "spitting drake",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Rank and File",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "When Rank and File enters the battlefield, green creatures get -1/-1 until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "rank and file",
+  "colorIdentity": [
+    "B"
+  ]
+}

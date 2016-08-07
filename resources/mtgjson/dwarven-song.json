@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dwarven Song",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Any number of target creatures become red until end of turn.",
+  "imageName": "dwarven song",
+  "colorIdentity": [
+    "R"
+  ]
+}

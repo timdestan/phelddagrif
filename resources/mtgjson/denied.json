@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Denied!",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Play Denied only as any opponent casts target spell. Name a card, then look at all cards in that player's hand. If the named card is in the player's hand, counter target spell.",
+  "imageName": "denied!",
+  "colorIdentity": [
+    "U"
+  ]
+}

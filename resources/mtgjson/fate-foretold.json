@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Fate Foretold",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nWhen Fate Foretold enters the battlefield, draw a card.\nWhen enchanted creature dies, its controller draws a card.",
+  "imageName": "fate foretold",
+  "colorIdentity": [
+    "U"
+  ]
+}

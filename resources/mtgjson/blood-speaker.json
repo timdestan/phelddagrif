@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Blood Speaker",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Ogre Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ogre",
+    "Shaman"
+  ],
+  "text": "At the beginning of your upkeep, you may sacrifice Blood Speaker. If you do, search your library for a Demon card, reveal that card, put it into your hand, then shuffle your library.\nWhenever a Demon enters the battlefield under your control, return Blood Speaker from your graveyard to your hand.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "blood speaker",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "layout": "flip",
+  "name": "Autumn-Tail, Kitsune Sage",
+  "names": [
+    "Kitsune Mystic",
+    "Autumn-Tail, Kitsune Sage"
+  ],
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Creature — Fox Wizard",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Fox",
+    "Wizard"
+  ],
+  "text": "{1}: Attach target Aura attached to a creature to another creature.",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "autumn-tail, kitsune sage",
+  "colorIdentity": [
+    "W"
+  ]
+}

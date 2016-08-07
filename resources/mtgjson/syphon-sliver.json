@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Syphon Sliver",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "Sliver creatures you control have lifelink. (Damage dealt by a Sliver creature you control also causes you to gain that much life.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "syphon sliver",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Echo Circlet",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature can block an additional creature.\nEquip {1}",
+  "imageName": "echo circlet"
+}

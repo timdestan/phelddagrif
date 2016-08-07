@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Epic Struggle",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, if you control twenty or more creatures, you win the game.",
+  "imageName": "epic struggle",
+  "colorIdentity": [
+    "G"
+  ]
+}

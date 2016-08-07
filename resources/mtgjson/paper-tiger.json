@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Paper Tiger",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "text": "Rock Lobsters cannot attack or block.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "paper tiger"
+}

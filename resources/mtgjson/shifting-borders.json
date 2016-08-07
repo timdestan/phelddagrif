@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Shifting Borders",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant — Arcane",
+  "types": [
+    "Instant"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "Exchange control of two target lands.\nSplice onto Arcane {3}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+  "imageName": "shifting borders",
+  "colorIdentity": [
+    "U"
+  ]
+}

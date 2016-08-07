@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Leyline of the Meek",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "If Leyline of the Meek is in your opening hand, you may begin the game with it on the battlefield.\nCreature tokens get +1/+1.",
+  "imageName": "leyline of the meek",
+  "colorIdentity": [
+    "W"
+  ]
+}

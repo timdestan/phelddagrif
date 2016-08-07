@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Primordial Sage",
+  "manaCost": "{4}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Whenever you cast a creature spell, you may draw a card.",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "primordial sage",
+  "colorIdentity": [
+    "G"
+  ]
+}

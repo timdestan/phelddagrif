@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Spire Tracer",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Scout",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Scout"
+  ],
+  "text": "Spire Tracer can't be blocked except by creatures with flying or reach.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "spire tracer",
+  "colorIdentity": [
+    "G"
+  ]
+}

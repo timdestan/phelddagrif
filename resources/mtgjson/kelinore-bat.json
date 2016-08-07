@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Kelinore Bat",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Bat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bat"
+  ],
+  "text": "Flying",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "kelinore bat",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Autumn's Veil",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Spells you control can't be countered by blue or black spells this turn, and creatures you control can't be the targets of blue or black spells this turn.",
+  "imageName": "autumn's veil",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Tideforce Elemental",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "{U}, {T}: You may tap or untap another target creature.\nLandfall — Whenever a land enters the battlefield under your control, you may untap Tideforce Elemental.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "tideforce elemental",
+  "colorIdentity": [
+    "U"
+  ]
+}

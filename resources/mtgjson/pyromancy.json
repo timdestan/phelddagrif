@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Pyromancy",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{3}, Discard a card at random: Pyromancy deals damage to target creature or player equal to the converted mana cost of the discarded card.",
+  "imageName": "pyromancy",
+  "colorIdentity": [
+    "R"
+  ]
+}

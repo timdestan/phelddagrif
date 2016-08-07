@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Crashing Centaur",
+  "manaCost": "{4}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Centaur",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Centaur"
+  ],
+  "text": "{G}, Discard a card: Crashing Centaur gains trample until end of turn.\nThreshold — As long as seven or more cards are in your graveyard, Crashing Centaur gets +2/+2 and has shroud. (It can't be the target of spells or abilities.)",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "crashing centaur",
+  "colorIdentity": [
+    "G"
+  ]
+}

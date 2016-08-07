@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Pit Scorpion",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Scorpion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Scorpion"
+  ],
+  "text": "Whenever Pit Scorpion deals damage to a player, that player gets a poison counter. (A player with ten or more poison counters loses the game.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "pit scorpion",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Warren Instigator",
+  "manaCost": "{R}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Berserker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Berserker"
+  ],
+  "text": "Double strike\nWhenever Warren Instigator deals damage to an opponent, you may put a Goblin creature card from your hand onto the battlefield.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "warren instigator",
+  "colorIdentity": [
+    "R"
+  ]
+}

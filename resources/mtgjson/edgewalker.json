@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Edgewalker",
+  "manaCost": "{1}{W}{B}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "Cleric spells you cast cost {W}{B} less to cast. This effect reduces only the amount of colored mana you pay. (For example, if you cast a Cleric spell with mana cost {1}{W}, it costs {1} to cast.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "edgewalker",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

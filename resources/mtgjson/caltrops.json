@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Caltrops",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Whenever a creature attacks, Caltrops deals 1 damage to it.",
+  "imageName": "caltrops"
+}

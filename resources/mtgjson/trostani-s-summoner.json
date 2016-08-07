@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Trostani's Summoner",
+  "manaCost": "{5}{G}{W}",
+  "cmc": 7,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Elf Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Shaman"
+  ],
+  "text": "When Trostani's Summoner enters the battlefield, put a 2/2 white Knight creature token with vigilance, a 3/3 green Centaur creature token, and a 4/4 green Rhino creature token with trample onto the battlefield.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "trostani's summoner",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

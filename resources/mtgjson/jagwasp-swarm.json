@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Jagwasp Swarm",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "Flying",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "jagwasp swarm",
+  "colorIdentity": [
+    "B"
+  ]
+}

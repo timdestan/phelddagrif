@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Barrenton Cragtreads",
+  "manaCost": "{2}{W/U}{W/U}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Creature — Kithkin Scout",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kithkin",
+    "Scout"
+  ],
+  "text": "Barrenton Cragtreads can't be blocked by red creatures.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "barrenton cragtreads",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

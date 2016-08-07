@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Thunder Dragon",
+  "manaCost": "{5}{R}{R}",
+  "cmc": 7,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying\nWhen Thunder Dragon enters the battlefield, it deals 3 damage to each creature without flying.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "thunder dragon",
+  "colorIdentity": [
+    "R"
+  ]
+}

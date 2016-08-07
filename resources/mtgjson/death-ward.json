@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Death Ward",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Regenerate target creature.",
+  "imageName": "death ward",
+  "colorIdentity": [
+    "W"
+  ]
+}

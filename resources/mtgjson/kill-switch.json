@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Kill Switch",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, {T}: Tap all other artifacts. They don't untap during their controllers' untap steps for as long as Kill Switch remains tapped.",
+  "imageName": "kill switch"
+}

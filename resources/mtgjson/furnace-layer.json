@@ -1,0 +1,13 @@
+{
+  "layout": "plane",
+  "name": "Furnace Layer",
+  "type": "Plane — New Phyrexia",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "New Phyrexia"
+  ],
+  "text": "When you planeswalk to Furnace Layer or at the beginning of your upkeep, select target player at random. That player discards a card. If that player discards a land card this way, he or she loses 3 life.\nWhenever you roll CHAOS, you may destroy target nonland permanent.",
+  "imageName": "furnace layer"
+}

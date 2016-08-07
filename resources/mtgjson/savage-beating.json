@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Savage Beating",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Cast Savage Beating only during your turn and only during combat.\nChoose one —\n• Creatures you control gain double strike until end of turn.\n• Untap all creatures you control. After this phase, there is an additional combat phase.\nEntwine {1}{R} (Choose both if you pay the entwine cost.)",
+  "imageName": "savage beating",
+  "colorIdentity": [
+    "R"
+  ]
+}

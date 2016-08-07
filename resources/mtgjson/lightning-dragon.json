@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Lightning Dragon",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying\nEcho {2}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\n{R}: Lightning Dragon gets +1/+0 until end of turn.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "lightning dragon",
+  "colorIdentity": [
+    "R"
+  ]
+}

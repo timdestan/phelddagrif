@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Swiftwater Cliffs",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Swiftwater Cliffs enters the battlefield tapped.\nWhen Swiftwater Cliffs enters the battlefield, you gain 1 life.\n{T}: Add {U} or {R} to your mana pool.",
+  "imageName": "swiftwater cliffs",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

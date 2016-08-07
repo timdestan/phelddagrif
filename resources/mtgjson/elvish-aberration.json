@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Elvish Aberration",
+  "manaCost": "{5}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Mutant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Mutant"
+  ],
+  "text": "{T}: Add {G}{G}{G} to your mana pool.\nForestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, and put it into your hand. Then shuffle your library.)",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "elvish aberration",
+  "colorIdentity": [
+    "G"
+  ]
+}

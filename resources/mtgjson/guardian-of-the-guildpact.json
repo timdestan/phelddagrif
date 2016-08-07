@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Guardian of the Guildpact",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Protection from monocolored",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "guardian of the guildpact",
+  "colorIdentity": [
+    "W"
+  ]
+}

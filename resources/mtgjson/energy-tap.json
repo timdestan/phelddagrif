@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Energy Tap",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Tap target untapped creature you control. If you do, add an amount of {C} to your mana pool equal to that creature's converted mana cost.",
+  "imageName": "energy tap",
+  "colorIdentity": [
+    "U"
+  ]
+}

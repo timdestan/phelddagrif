@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Dwarven Weaponsmith",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dwarf Artificer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dwarf",
+    "Artificer"
+  ],
+  "text": "{T}, Sacrifice an artifact: Put a +1/+1 counter on target creature. Activate this ability only during your upkeep.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "dwarven weaponsmith",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Vessel of Malignity",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{1}{B}, Sacrifice Vessel of Malignity: Target opponent exiles two cards from his or her hand. Activate this ability only any time you could cast a sorcery.",
+  "imageName": "vessel of malignity",
+  "colorIdentity": [
+    "B"
+  ]
+}

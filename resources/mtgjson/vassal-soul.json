@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Vassal Soul",
+  "manaCost": "{1}{W/U}{W/U}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "vassal soul",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

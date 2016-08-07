@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Squirrel Wrangler",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Druid"
+  ],
+  "text": "{1}{G}, Sacrifice a land: Put two 1/1 green Squirrel creature tokens onto the battlefield.\n{1}{G}, Sacrifice a land: Squirrel creatures get +1/+1 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "squirrel wrangler",
+  "colorIdentity": [
+    "G"
+  ]
+}

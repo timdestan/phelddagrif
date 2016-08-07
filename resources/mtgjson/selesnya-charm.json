@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Selesnya Charm",
+  "manaCost": "{G}{W}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose one —\n• Target creature gets +2/+2 and gains trample until end of turn.\n• Exile target creature with power 5 or greater.\n• Put a 2/2 white Knight creature token with vigilance onto the battlefield.",
+  "imageName": "selesnya charm",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

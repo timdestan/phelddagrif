@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Maggot Carrier",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "When Maggot Carrier enters the battlefield, each player loses 1 life.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "maggot carrier",
+  "colorIdentity": [
+    "B"
+  ]
+}

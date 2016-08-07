@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Molder Slug",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Slug Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Slug",
+    "Beast"
+  ],
+  "text": "At the beginning of each player's upkeep, that player sacrifices an artifact.",
+  "power": "4",
+  "toughness": "6",
+  "imageName": "molder slug",
+  "colorIdentity": [
+    "G"
+  ]
+}

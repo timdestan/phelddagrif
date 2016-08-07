@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Atarka's Command",
+  "manaCost": "{R}{G}",
+  "cmc": 2,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose two —\n• Your opponents can't gain life this turn.\n• Atarka's Command deals 3 damage to each opponent.\n• You may put a land card from your hand onto the battlefield.\n• Creatures you control get +1/+1 and gain reach until end of turn.",
+  "imageName": "atarka's command",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

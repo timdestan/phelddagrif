@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Flowering Lumberknot",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Treefolk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Treefolk"
+  ],
+  "text": "Flowering Lumberknot can't attack or block unless it's paired with a creature with soulbond.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "flowering lumberknot",
+  "colorIdentity": [
+    "G"
+  ]
+}

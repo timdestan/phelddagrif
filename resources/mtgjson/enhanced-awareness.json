@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Enhanced Awareness",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Draw three cards, then discard a card.",
+  "imageName": "enhanced awareness",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Champion's Victory",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Cast Champion's Victory only during the declare attackers step and only if you've been attacked this step.\nReturn target attacking creature to its owner's hand.",
+  "imageName": "champion's victory",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Fledgling Imp",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Imp",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Imp"
+  ],
+  "text": "{B}, Discard a card: Fledgling Imp gains flying until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "fledgling imp",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Maze Abomination",
+  "manaCost": "{5}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\nMulticolored creatures you control have deathtouch.",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "maze abomination",
+  "colorIdentity": [
+    "B"
+  ]
+}

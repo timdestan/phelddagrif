@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Timebender",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Morph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Timebender is turned face up, choose one —\n• Remove two time counters from target permanent or suspended card.\n• Put two time counters on target permanent with a time counter on it or suspended card.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "timebender",
+  "colorIdentity": [
+    "U"
+  ]
+}

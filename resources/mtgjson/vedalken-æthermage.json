@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Vedalken Æthermage",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Vedalken Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vedalken",
+    "Wizard"
+  ],
+  "text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen Vedalken Æthermage enters the battlefield, return target Sliver to its owner's hand.\nWizardcycling {3} ({3}, Discard this card: Search your library for a Wizard card, reveal it, and put it into your hand. Then shuffle your library.)",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "vedalken æthermage",
+  "colorIdentity": [
+    "U"
+  ]
+}

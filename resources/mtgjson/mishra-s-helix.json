@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Mishra's Helix",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{X}, {T}: Tap X target lands.",
+  "imageName": "mishra's helix"
+}

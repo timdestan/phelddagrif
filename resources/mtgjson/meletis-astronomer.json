@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Meletis Astronomer",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Heroic — Whenever you cast a spell that targets Meletis Astronomer, look at the top three cards of your library. You may reveal an enchantment card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "meletis astronomer",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Jwari Scuttler",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Crab",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Crab"
+  ],
+  "power": "2",
+  "toughness": "3",
+  "imageName": "jwari scuttler",
+  "colorIdentity": [
+    "U"
+  ]
+}

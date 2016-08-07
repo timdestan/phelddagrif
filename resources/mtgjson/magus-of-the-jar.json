@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Magus of the Jar",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{T}, Sacrifice Magus of the Jar: Each player exiles all cards from his or her hand face down and draws seven cards. At the beginning of the next end step, each player discards his or her hand and returns to his or her hand each card he or she exiled this way.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "magus of the jar",
+  "colorIdentity": [
+    "U"
+  ]
+}

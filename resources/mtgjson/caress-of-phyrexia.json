@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Caress of Phyrexia",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target player draws three cards, loses 3 life, and gets three poison counters.",
+  "imageName": "caress of phyrexia",
+  "colorIdentity": [
+    "B"
+  ]
+}

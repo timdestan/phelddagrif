@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dwarven Armory",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{2}, Sacrifice a land: Put a +2/+2 counter on target creature. Activate this ability only during any upkeep step.",
+  "imageName": "dwarven armory",
+  "colorIdentity": [
+    "R"
+  ]
+}

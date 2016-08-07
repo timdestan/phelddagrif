@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Fetid Heath",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{W/B}, {T}: Add {W}{W}, {W}{B}, or {B}{B} to your mana pool.",
+  "imageName": "fetid heath",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

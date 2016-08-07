@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Nahiri, the Harbinger",
+  "manaCost": "{2}{R}{W}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Planeswalker — Nahiri",
+  "types": [
+    "Planeswalker"
+  ],
+  "subtypes": [
+    "Nahiri"
+  ],
+  "text": "+2: You may discard a card. If you do, draw a card.\n−2: Exile target enchantment, tapped artifact, or tapped creature.\n−8: Search your library for an artifact or creature card, put it onto the battlefield, then shuffle your library. It gains haste. Return it to your hand at the beginning of the next end step.",
+  "loyalty": 4,
+  "imageName": "nahiri, the harbinger",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

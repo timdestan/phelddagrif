@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Spare from Evil",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Creatures you control gain protection from non-Human creatures until end of turn.",
+  "imageName": "spare from evil",
+  "colorIdentity": [
+    "W"
+  ]
+}

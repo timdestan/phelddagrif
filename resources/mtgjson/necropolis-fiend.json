@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Necropolis Fiend",
+  "manaCost": "{7}{B}{B}",
+  "cmc": 9,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Demon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon"
+  ],
+  "text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nFlying\n{X}, {T}, Exile X cards from your graveyard: Target creature gets -X/-X until end of turn.",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "necropolis fiend",
+  "colorIdentity": [
+    "B"
+  ]
+}

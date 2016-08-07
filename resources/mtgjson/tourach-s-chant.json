@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Tourach's Chant",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, sacrifice Tourach's Chant unless you pay {B}.\nWhenever a player puts a Forest onto the battlefield, Tourach's Chant deals 3 damage to that player unless he or she puts a -1/-1 counter on a creature he or she controls.",
+  "imageName": "tourach's chant",
+  "colorIdentity": [
+    "B"
+  ]
+}

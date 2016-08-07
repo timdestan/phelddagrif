@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Pygmy Allosaurus",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Lizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Lizard"
+  ],
+  "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "pygmy allosaurus",
+  "colorIdentity": [
+    "G"
+  ]
+}

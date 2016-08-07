@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Tangle Hulk",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact Creature — Beast",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "{2}{G}: Regenerate Tangle Hulk.",
+  "power": "5",
+  "toughness": "3",
+  "imageName": "tangle hulk",
+  "colorIdentity": [
+    "G"
+  ]
+}

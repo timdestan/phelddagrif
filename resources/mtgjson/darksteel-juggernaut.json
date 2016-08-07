@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Darksteel Juggernaut",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact Creature — Juggernaut",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Juggernaut"
+  ],
+  "text": "Indestructible\nDarksteel Juggernaut's power and toughness are each equal to the number of artifacts you control.\nDarksteel Juggernaut attacks each turn if able.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "darksteel juggernaut"
+}

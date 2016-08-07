@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Thraben Heretic",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{T}: Exile target creature card from a graveyard.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "thraben heretic",
+  "colorIdentity": [
+    "W"
+  ]
+}

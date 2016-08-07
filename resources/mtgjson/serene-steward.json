@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Serene Steward",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric",
+    "Ally"
+  ],
+  "text": "Whenever you gain life, you may pay {W}. If you do, put a +1/+1 counter on target creature.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "serene steward",
+  "colorIdentity": [
+    "W"
+  ]
+}

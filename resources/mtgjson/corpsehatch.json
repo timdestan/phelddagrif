@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Corpsehatch",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target nonblack creature. Put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have \"Sacrifice this creature: Add {C} to your mana pool.\"",
+  "imageName": "corpsehatch",
+  "colorIdentity": [
+    "B"
+  ]
+}

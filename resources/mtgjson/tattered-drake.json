@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Tattered Drake",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Zombie Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Drake"
+  ],
+  "text": "Flying\n{B}: Regenerate Tattered Drake.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "tattered drake",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Fold into Æther",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell. If that spell is countered this way, its controller may put a creature card from his or her hand onto the battlefield.",
+  "imageName": "fold into æther",
+  "colorIdentity": [
+    "U"
+  ]
+}

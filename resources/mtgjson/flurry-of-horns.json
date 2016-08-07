@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Flurry of Horns",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put two 2/3 red Minotaur creature tokens with haste onto the battlefield.",
+  "imageName": "flurry of horns",
+  "colorIdentity": [
+    "R"
+  ]
+}

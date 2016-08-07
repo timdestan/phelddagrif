@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wake of Vultures",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\n{1}{B}, Sacrifice a creature: Regenerate Wake of Vultures.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "wake of vultures",
+  "colorIdentity": [
+    "B"
+  ]
+}

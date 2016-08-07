@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Plaxcaster Frogling",
+  "manaCost": "{1}{G}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Creature — Frog Mutant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Frog",
+    "Mutant"
+  ],
+  "text": "Graft 3 (This creature enters the battlefield with three +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)\n{2}: Target creature with a +1/+1 counter on it gains shroud until end of turn. (It can't be the target of spells or abilities.)",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "plaxcaster frogling",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

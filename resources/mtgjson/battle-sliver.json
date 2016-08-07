@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Battle Sliver",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "Sliver creatures you control get +2/+0.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "battle sliver",
+  "colorIdentity": [
+    "R"
+  ]
+}

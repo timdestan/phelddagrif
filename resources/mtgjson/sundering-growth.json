@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Sundering Growth",
+  "manaCost": "{G/W}{G/W}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target artifact or enchantment, then populate. (Put a token onto the battlefield that's a copy of a creature token you control.)",
+  "imageName": "sundering growth",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

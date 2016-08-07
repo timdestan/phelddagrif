@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Grip of Desolation",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Devoid (This card has no color.)\nExile target creature and target land.",
+  "imageName": "grip of desolation",
+  "colorIdentity": [
+    "B"
+  ]
+}

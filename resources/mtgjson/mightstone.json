@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Mightstone",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Attacking creatures get +1/+0.",
+  "imageName": "mightstone"
+}

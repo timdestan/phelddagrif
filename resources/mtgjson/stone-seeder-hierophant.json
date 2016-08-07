@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Stone-Seeder Hierophant",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Druid"
+  ],
+  "text": "Whenever a land enters the battlefield under your control, untap Stone-Seeder Hierophant.\n{T}: Untap target land.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "stone-seeder hierophant",
+  "colorIdentity": [
+    "G"
+  ]
+}

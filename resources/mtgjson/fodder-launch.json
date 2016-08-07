@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Fodder Launch",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Tribal Sorcery — Goblin",
+  "types": [
+    "Tribal",
+    "Sorcery"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "As an additional cost to cast Fodder Launch, sacrifice a Goblin.\nTarget creature gets -5/-5 until end of turn. Fodder Launch deals 5 damage to that creature's controller.",
+  "imageName": "fodder launch",
+  "colorIdentity": [
+    "B"
+  ]
+}

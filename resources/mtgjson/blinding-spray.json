@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Blinding Spray",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Creatures your opponents control get -4/-0 until end of turn.\nDraw a card.",
+  "imageName": "blinding spray",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Yavimaya Barbarian",
+  "manaCost": "{R}{G}",
+  "cmc": 2,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Elf Barbarian",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Barbarian"
+  ],
+  "text": "Protection from blue",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "yavimaya barbarian",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

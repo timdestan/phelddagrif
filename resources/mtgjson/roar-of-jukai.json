@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Roar of Jukai",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant — Arcane",
+  "types": [
+    "Instant"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "If you control a Forest, each blocked creature gets +2/+2 until end of turn.\nSplice onto Arcane—An opponent gains 5 life. (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+  "imageName": "roar of jukai",
+  "colorIdentity": [
+    "G"
+  ]
+}

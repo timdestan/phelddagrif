@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Panic Spellbomb",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}, Sacrifice Panic Spellbomb: Target creature can't block this turn.\nWhen Panic Spellbomb is put into a graveyard from the battlefield, you may pay {R}. If you do, draw a card.",
+  "imageName": "panic spellbomb",
+  "colorIdentity": [
+    "R"
+  ]
+}

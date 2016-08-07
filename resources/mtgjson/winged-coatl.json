@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Winged Coatl",
+  "manaCost": "{1}{G}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Creature — Snake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Snake"
+  ],
+  "text": "Flash (You may cast this spell any time you could cast an instant.)\nFlying\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "winged coatl",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

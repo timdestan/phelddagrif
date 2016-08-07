@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Synchronous Sliver",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "All Sliver creatures have vigilance.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "synchronous sliver",
+  "colorIdentity": [
+    "U"
+  ]
+}

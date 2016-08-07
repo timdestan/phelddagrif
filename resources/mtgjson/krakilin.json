@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Krakilin",
+  "manaCost": "{X}{G}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Krakilin enters the battlefield with X +1/+1 counters on it.\n{1}{G}: Regenerate Krakilin.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "krakilin",
+  "colorIdentity": [
+    "G"
+  ]
+}

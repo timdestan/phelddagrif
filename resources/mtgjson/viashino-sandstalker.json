@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Viashino Sandstalker",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Viashino Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Viashino",
+    "Warrior"
+  ],
+  "text": "Haste (This creature can attack the turn it comes under your control.)\nAt the beginning of the end step, return Viashino Sandstalker to its owner's hand. (Return it only if it's on the battlefield.)",
+  "power": "4",
+  "toughness": "2",
+  "imageName": "viashino sandstalker",
+  "colorIdentity": [
+    "R"
+  ]
+}

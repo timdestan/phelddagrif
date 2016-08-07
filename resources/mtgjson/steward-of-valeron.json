@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Steward of Valeron",
+  "manaCost": "{G}{W}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Human Druid Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Druid",
+    "Knight"
+  ],
+  "text": "Vigilance\n{T}: Add {G} to your mana pool.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "steward of valeron",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

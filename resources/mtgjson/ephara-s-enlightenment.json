@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ephara's Enlightenment",
+  "manaCost": "{1}{W}{U}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nWhen Ephara's Enlightenment enters the battlefield, put a +1/+1 counter on enchanted creature.\nEnchanted creature has flying.\nWhenever a creature enters the battlefield under your control, you may return Ephara's Enlightenment to its owner's hand.",
+  "imageName": "ephara's enlightenment",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

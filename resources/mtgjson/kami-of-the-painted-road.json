@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Kami of the Painted Road",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Whenever you cast a Spirit or Arcane spell, Kami of the Painted Road gains protection from the color of your choice until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "kami of the painted road",
+  "colorIdentity": [
+    "W"
+  ]
+}

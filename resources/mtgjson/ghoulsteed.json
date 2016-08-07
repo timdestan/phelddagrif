@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ghoulsteed",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Horse",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Horse"
+  ],
+  "text": "{2}{B}, Discard two cards: Return Ghoulsteed from your graveyard to the battlefield tapped.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "ghoulsteed",
+  "colorIdentity": [
+    "B"
+  ]
+}

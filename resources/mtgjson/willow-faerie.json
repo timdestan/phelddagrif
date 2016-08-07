@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Willow Faerie",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Faerie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Faerie"
+  ],
+  "text": "Flying",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "willow faerie",
+  "colorIdentity": [
+    "G"
+  ]
+}

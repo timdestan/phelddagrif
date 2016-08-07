@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Death's Shadow",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Avatar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Avatar"
+  ],
+  "text": "Death's Shadow gets -X/-X, where X is your life total.",
+  "power": "13",
+  "toughness": "13",
+  "imageName": "death's shadow",
+  "colorIdentity": [
+    "B"
+  ]
+}

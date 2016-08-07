@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Rainbow Vale",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add one mana of any color to your mana pool. An opponent gains control of Rainbow Vale at the beginning of the next end step.",
+  "imageName": "rainbow vale"
+}

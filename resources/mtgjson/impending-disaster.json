@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Impending Disaster",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, if there are seven or more lands on the battlefield, sacrifice Impending Disaster and destroy all lands.",
+  "imageName": "impending disaster",
+  "colorIdentity": [
+    "R"
+  ]
+}

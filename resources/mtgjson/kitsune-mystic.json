@@ -1,0 +1,28 @@
+{
+  "layout": "flip",
+  "name": "Kitsune Mystic",
+  "names": [
+    "Kitsune Mystic",
+    "Autumn-Tail, Kitsune Sage"
+  ],
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Fox Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Fox",
+    "Wizard"
+  ],
+  "text": "At the beginning of the end step, if Kitsune Mystic is enchanted by two or more Auras, flip it.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "kitsune mystic",
+  "colorIdentity": [
+    "W"
+  ]
+}

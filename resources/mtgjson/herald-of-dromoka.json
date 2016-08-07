@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Herald of Dromoka",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "Vigilance\nOther Warrior creatures you control have vigilance.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "herald of dromoka",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Stormwatch Eagle",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\nSacrifice a land: Return Stormwatch Eagle to its owner's hand.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "stormwatch eagle",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Anthroplasm",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Shapeshifter",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Shapeshifter"
+  ],
+  "text": "Anthroplasm enters the battlefield with two +1/+1 counters on it.\n{X}, {T}: Remove all +1/+1 counters from Anthroplasm and put X +1/+1 counters on it.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "anthroplasm",
+  "colorIdentity": [
+    "U"
+  ]
+}

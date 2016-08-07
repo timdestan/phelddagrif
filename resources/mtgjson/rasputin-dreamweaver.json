@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Rasputin Dreamweaver",
+  "manaCost": "{4}{W}{U}",
+  "cmc": 6,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Legendary Creature — Human Wizard",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Rasputin Dreamweaver enters the battlefield with seven dream counters on it.\nRemove a dream counter from Rasputin: Add {C} to your mana pool.\nRemove a dream counter from Rasputin: Prevent the next 1 damage that would be dealt to Rasputin this turn.\nAt the beginning of your upkeep, if Rasputin started the turn untapped, put a dream counter on it.\nRasputin can't have more than seven dream counters on it.",
+  "power": "4",
+  "toughness": "1",
+  "imageName": "rasputin dreamweaver",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

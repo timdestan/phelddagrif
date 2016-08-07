@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Voidstone Gargoyle",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Gargoyle",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Gargoyle"
+  ],
+  "text": "Flying\nAs Voidstone Gargoyle enters the battlefield, name a nonland card.\nThe named card can't be cast.\nActivated abilities of sources with the chosen name can't be activated.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "voidstone gargoyle",
+  "colorIdentity": [
+    "W"
+  ]
+}

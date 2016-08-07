@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Reverent Hunter",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Archer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Archer"
+  ],
+  "text": "When Reverent Hunter enters the battlefield, put a number of +1/+1 counters on it equal to your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "reverent hunter",
+  "colorIdentity": [
+    "G"
+  ]
+}

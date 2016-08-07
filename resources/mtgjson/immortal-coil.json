@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Immortal Coil",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}, Exile two cards from your graveyard: Draw a card.\nIf damage would be dealt to you, prevent that damage. Exile a card from your graveyard for each 1 damage prevented this way.\nWhen there are no cards in your graveyard, you lose the game.",
+  "imageName": "immortal coil",
+  "colorIdentity": [
+    "B"
+  ]
+}

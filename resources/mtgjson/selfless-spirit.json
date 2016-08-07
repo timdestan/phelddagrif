@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Selfless Spirit",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Spirit Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit",
+    "Cleric"
+  ],
+  "text": "Flying\nSacrifice Selfless Spirit: Creatures you control gain indestructible until end of turn.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "selfless spirit",
+  "colorIdentity": [
+    "W"
+  ]
+}

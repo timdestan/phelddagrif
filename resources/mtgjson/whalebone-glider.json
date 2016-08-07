@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Whalebone Glider",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, {T}: Target creature with power 3 or less gains flying until end of turn.",
+  "imageName": "whalebone glider"
+}

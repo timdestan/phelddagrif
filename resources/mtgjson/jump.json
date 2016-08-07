@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Jump",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gains flying until end of turn.",
+  "imageName": "jump",
+  "colorIdentity": [
+    "U"
+  ]
+}

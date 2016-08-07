@@ -1,0 +1,30 @@
+{
+  "layout": "normal",
+  "name": "Prossh, Skyraider of Kher",
+  "manaCost": "{3}{B}{R}{G}",
+  "cmc": 6,
+  "colors": [
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "type": "Legendary Creature — Dragon",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying\nWhen you cast Prossh, Skyraider of Kher, put X 0/1 red Kobold creature tokens named Kobolds of Kher Keep onto the battlefield, where X is the amount of mana spent to cast Prossh.\nSacrifice another creature: Prossh gets +1/+0 until end of turn.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "prossh, skyraider of kher",
+  "colorIdentity": [
+    "B",
+    "R",
+    "G"
+  ]
+}

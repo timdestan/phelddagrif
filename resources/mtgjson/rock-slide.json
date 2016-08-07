@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rock Slide",
+  "manaCost": "{X}{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Rock Slide deals X damage divided as you choose among any number of target attacking or blocking creatures without flying.",
+  "imageName": "rock slide",
+  "colorIdentity": [
+    "R"
+  ]
+}

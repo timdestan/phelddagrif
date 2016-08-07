@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Goblin Kaboomist",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Warrior"
+  ],
+  "text": "At the beginning of your upkeep, put a colorless artifact token named Land Mine onto the battlefield with \"{R}, Sacrifice this artifact: This artifact deals 2 damage to target attacking creature without flying.\" Then flip a coin. If you lose the flip, Goblin Kaboomist deals 2 damage to itself.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "goblin kaboomist",
+  "colorIdentity": [
+    "R"
+  ]
+}

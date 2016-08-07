@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Certain Death",
+  "manaCost": "{5}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target creature. Its controller loses 2 life and you gain 2 life.",
+  "imageName": "certain death",
+  "colorIdentity": [
+    "B"
+  ]
+}

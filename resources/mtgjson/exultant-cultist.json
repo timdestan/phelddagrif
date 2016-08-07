@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Exultant Cultist",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "When Exultant Cultist dies, draw a card.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "exultant cultist",
+  "colorIdentity": [
+    "U"
+  ]
+}

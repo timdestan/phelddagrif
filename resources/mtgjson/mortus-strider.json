@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Mortus Strider",
+  "manaCost": "{1}{U}{B}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Creature — Skeleton",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Skeleton"
+  ],
+  "text": "When Mortus Strider dies, return it to its owner's hand.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "mortus strider",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

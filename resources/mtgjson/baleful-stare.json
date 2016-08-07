@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Baleful Stare",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target opponent reveals his or her hand. You draw a card for each Mountain and red card in it.",
+  "imageName": "baleful stare",
+  "colorIdentity": [
+    "U"
+  ]
+}

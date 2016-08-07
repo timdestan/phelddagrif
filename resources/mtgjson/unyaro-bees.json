@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Unyaro Bees",
+  "manaCost": "{G}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "Flying\n{G}: Unyaro Bees gets +1/+1 until end of turn.\n{3}{G}, Sacrifice Unyaro Bees: Unyaro Bees deals 2 damage to target creature or player.",
+  "power": "0",
+  "toughness": "1",
+  "imageName": "unyaro bees",
+  "colorIdentity": [
+    "G"
+  ]
+}

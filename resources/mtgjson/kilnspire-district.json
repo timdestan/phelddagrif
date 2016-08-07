@@ -1,0 +1,16 @@
+{
+  "layout": "plane",
+  "name": "Kilnspire District",
+  "type": "Plane — Ravnica",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Ravnica"
+  ],
+  "text": "When you planeswalk to Kilnspire District or at the beginning of your precombat main phase, put a charge counter on Kilnspire District, then add {R} to your mana pool for each charge counter on it.\nWhenever you roll CHAOS, you may pay {X}. If you do, Kilnspire District deals X damage to target creature or player.",
+  "imageName": "kilnspire district",
+  "colorIdentity": [
+    "R"
+  ]
+}

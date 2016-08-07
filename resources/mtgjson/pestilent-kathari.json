@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Pestilent Kathari",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Bird Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird",
+    "Warrior"
+  ],
+  "text": "Flying\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\n{2}{R}: Pestilent Kathari gains first strike until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "pestilent kathari",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

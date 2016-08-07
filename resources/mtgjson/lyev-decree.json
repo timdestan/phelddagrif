@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Lyev Decree",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Detain up to two target creatures your opponents control. (Until your next turn, those creatures can't attack or block and their activated abilities can't be activated.)",
+  "imageName": "lyev decree",
+  "colorIdentity": [
+    "W"
+  ]
+}

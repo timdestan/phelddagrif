@@ -1,0 +1,13 @@
+{
+  "layout": "plane",
+  "name": "Norn's Dominion",
+  "type": "Plane — New Phyrexia",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "New Phyrexia"
+  ],
+  "text": "When you planeswalk away from Norn's Dominion, destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents.\nWhenever you roll CHAOS, you may put a fate counter on target permanent.",
+  "imageName": "norn's dominion"
+}

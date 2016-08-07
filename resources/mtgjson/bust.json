@@ -1,0 +1,22 @@
+{
+  "layout": "split",
+  "name": "Bust",
+  "names": [
+    "Boom",
+    "Bust"
+  ],
+  "manaCost": "{5}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy all lands.",
+  "imageName": "bust",
+  "colorIdentity": [
+    "R"
+  ]
+}

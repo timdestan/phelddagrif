@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Firefly",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "Flying\n{R}: Firefly gets +1/+0 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "firefly",
+  "colorIdentity": [
+    "R"
+  ]
+}

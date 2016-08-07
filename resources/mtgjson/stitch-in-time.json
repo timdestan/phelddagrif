@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Stitch in Time",
+  "manaCost": "{1}{U}{R}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Flip a coin. If you win the flip, take an extra turn after this one.",
+  "imageName": "stitch in time",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

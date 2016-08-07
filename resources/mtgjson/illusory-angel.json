@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Illusory Angel",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Angel Illusion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel",
+    "Illusion"
+  ],
+  "text": "Flying\nCast Illusory Angel only if you've cast another spell this turn.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "illusory angel",
+  "colorIdentity": [
+    "U"
+  ]
+}

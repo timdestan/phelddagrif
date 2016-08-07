@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Hordeling Outburst",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put three 1/1 red Goblin creature tokens onto the battlefield.",
+  "imageName": "hordeling outburst",
+  "colorIdentity": [
+    "R"
+  ]
+}

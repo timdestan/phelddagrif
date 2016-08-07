@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Warchanter of Mogis",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Minotaur Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Minotaur",
+    "Shaman"
+  ],
+  "text": "Inspired — Whenever Warchanter of Mogis becomes untapped, target creature you control gains intimidate until end of turn. (A creature with intimidate can't be blocked except by artifact creatures and/or creatures that share a color with it.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "warchanter of mogis",
+  "colorIdentity": [
+    "B"
+  ]
+}

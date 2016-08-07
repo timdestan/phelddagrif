@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wild Leotau",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Cat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat"
+  ],
+  "text": "At the beginning of your upkeep, sacrifice Wild Leotau unless you pay {G}.",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "wild leotau",
+  "colorIdentity": [
+    "G"
+  ]
+}

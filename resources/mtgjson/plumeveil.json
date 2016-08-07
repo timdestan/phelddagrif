@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Plumeveil",
+  "manaCost": "{W/U}{W/U}{W/U}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Flash\nDefender, flying",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "plumeveil",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

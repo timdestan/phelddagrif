@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Keep Watch",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Draw a card for each attacking creature.",
+  "imageName": "keep watch",
+  "colorIdentity": [
+    "U"
+  ]
+}

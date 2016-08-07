@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mass Calcify",
+  "manaCost": "{5}{W}{W}",
+  "cmc": 7,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy all nonwhite creatures.",
+  "imageName": "mass calcify",
+  "colorIdentity": [
+    "W"
+  ]
+}

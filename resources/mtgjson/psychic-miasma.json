@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Psychic Miasma",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target player discards a card. If a land card is discarded this way, return Psychic Miasma to its owner's hand.",
+  "imageName": "psychic miasma",
+  "colorIdentity": [
+    "B"
+  ]
+}

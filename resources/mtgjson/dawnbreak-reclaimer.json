@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dawnbreak Reclaimer",
+  "manaCost": "{4}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nAt the beginning of your end step, choose a creature card in an opponent's graveyard, then that player chooses a creature card in your graveyard. You may return those cards to the battlefield under their owners' control.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "dawnbreak reclaimer",
+  "colorIdentity": [
+    "W"
+  ]
+}

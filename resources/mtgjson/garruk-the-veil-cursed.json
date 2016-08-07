@@ -1,0 +1,26 @@
+{
+  "layout": "double-faced",
+  "name": "Garruk, the Veil-Cursed",
+  "names": [
+    "Garruk Relentless",
+    "Garruk, the Veil-Cursed"
+  ],
+  "cmc": 4,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Planeswalker — Garruk",
+  "types": [
+    "Planeswalker"
+  ],
+  "subtypes": [
+    "Garruk"
+  ],
+  "text": "+1: Put a 1/1 black Wolf creature token with deathtouch onto the battlefield.\n−1: Sacrifice a creature. If you do, search your library for a creature card, reveal it, put it into your hand, then shuffle your library.\n−3: Creatures you control gain trample and get +X/+X until end of turn, where X is the number of creature cards in your graveyard.",
+  "imageName": "garruk, the veil-cursed",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

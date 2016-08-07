@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Crowd Favorites",
+  "manaCost": "{6}{W}",
+  "cmc": 7,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "{3}{W}: Tap target creature.\n{3}{W}: Crowd Favorites gets +0/+5 until end of turn.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "crowd favorites",
+  "colorIdentity": [
+    "W"
+  ]
+}

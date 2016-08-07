@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Tobias Andrion",
+  "manaCost": "{3}{W}{U}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Legendary Creature — Human Advisor",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Advisor"
+  ],
+  "power": "4",
+  "toughness": "4",
+  "imageName": "tobias andrion",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

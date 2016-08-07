@@ -1,0 +1,16 @@
+{
+  "layout": "normal",
+  "name": "Selesnya Cluestone",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}: Add {G} or {W} to your mana pool.\n{G}{W}, {T}, Sacrifice Selesnya Cluestone: Draw a card.",
+  "imageName": "selesnya cluestone",
+  "colorIdentity": [
+    "G",
+    "W"
+  ]
+}

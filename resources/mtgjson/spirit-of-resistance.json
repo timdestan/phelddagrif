@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Spirit of Resistance",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "As long as you control a permanent of each color, prevent all damage that would be dealt to you.",
+  "imageName": "spirit of resistance",
+  "colorIdentity": [
+    "W"
+  ]
+}

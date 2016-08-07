@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Deus of Calamity",
+  "manaCost": "{R/G}{R/G}{R/G}{R/G}{R/G}",
+  "cmc": 5,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Spirit Avatar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit",
+    "Avatar"
+  ],
+  "text": "Trample\nWhenever Deus of Calamity deals 6 or more damage to an opponent, destroy target land that player controls.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "deus of calamity",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

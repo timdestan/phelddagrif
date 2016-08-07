@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Forgotten Cave",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Forgotten Cave enters the battlefield tapped.\n{T}: Add {R} to your mana pool.\nCycling {R} ({R}, Discard this card: Draw a card.)",
+  "imageName": "forgotten cave",
+  "colorIdentity": [
+    "R"
+  ]
+}

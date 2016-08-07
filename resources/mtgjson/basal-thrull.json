@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Basal Thrull",
+  "manaCost": "{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Thrull",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Thrull"
+  ],
+  "text": "{T}, Sacrifice Basal Thrull: Add {B}{B} to your mana pool.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "basal thrull",
+  "colorIdentity": [
+    "B"
+  ]
+}

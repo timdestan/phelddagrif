@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Sandstone Warrior",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Soldier Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier",
+    "Warrior"
+  ],
+  "text": "First strike (This creature deals combat damage before creatures without first strike.)\n{R}: Sandstone Warrior gets +1/+0 until end of turn.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "sandstone warrior",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Crovax",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "Whenever a creature you control deals damage to a creature or player, you gain 1 life.",
+  "imageName": "crovax",
+  "hand": 2,
+  "life": 0
+}

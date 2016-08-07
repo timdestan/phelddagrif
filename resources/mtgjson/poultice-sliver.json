@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Poultice Sliver",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "All Slivers have \"{2}, {T}: Regenerate target Sliver.\"",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "poultice sliver",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Marked by Honor",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets +2/+2 and has vigilance. (Attacking doesn't cause it to tap.)",
+  "imageName": "marked by honor",
+  "colorIdentity": [
+    "W"
+  ]
+}

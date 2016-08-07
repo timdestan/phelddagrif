@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Chimeric Sphere",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}: Until end of turn, Chimeric Sphere becomes a 2/1 Construct artifact creature with flying.\n{2}: Until end of turn, Chimeric Sphere becomes a 3/2 Construct artifact creature and loses flying.",
+  "imageName": "chimeric sphere"
+}

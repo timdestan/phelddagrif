@@ -1,0 +1,30 @@
+{
+  "layout": "normal",
+  "name": "Numot, the Devastator",
+  "manaCost": "{3}{R}{W}{U}",
+  "cmc": 6,
+  "colors": [
+    "White",
+    "Blue",
+    "Red"
+  ],
+  "type": "Legendary Creature — Dragon",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying\nWhenever Numot, the Devastator deals combat damage to a player, you may pay {2}{R}. If you do, destroy up to two target lands.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "numot, the devastator",
+  "colorIdentity": [
+    "W",
+    "U",
+    "R"
+  ]
+}

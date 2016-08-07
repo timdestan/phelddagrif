@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Spiked Baloth",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)",
+  "power": "4",
+  "toughness": "2",
+  "imageName": "spiked baloth",
+  "colorIdentity": [
+    "G"
+  ]
+}

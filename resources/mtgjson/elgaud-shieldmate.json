@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Elgaud Shieldmate",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Elgaud Shieldmate is paired with another creature, both creatures have hexproof. (They can't be the targets of spells or abilities your opponents control.)",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "elgaud shieldmate",
+  "colorIdentity": [
+    "U"
+  ]
+}

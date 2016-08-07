@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Moldgraf Monstrosity",
+  "manaCost": "{4}{G}{G}{G}",
+  "cmc": 7,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "Trample\nWhen Moldgraf Monstrosity dies, exile it, then return two creature cards at random from your graveyard to the battlefield.",
+  "power": "8",
+  "toughness": "8",
+  "imageName": "moldgraf monstrosity",
+  "colorIdentity": [
+    "G"
+  ]
+}

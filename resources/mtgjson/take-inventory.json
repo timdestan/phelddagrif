@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Take Inventory",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Draw a card, then draw cards equal to the number of cards named Take Inventory in your graveyard.",
+  "imageName": "take inventory",
+  "colorIdentity": [
+    "U"
+  ]
+}

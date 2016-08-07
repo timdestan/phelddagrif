@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Volcanic Awakening",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target land.\nStorm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)",
+  "imageName": "volcanic awakening",
+  "colorIdentity": [
+    "R"
+  ]
+}

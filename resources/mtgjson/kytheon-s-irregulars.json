@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kytheon's Irregulars",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)\n{W}{W}: Tap target creature.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "kytheon's irregulars",
+  "colorIdentity": [
+    "W"
+  ]
+}

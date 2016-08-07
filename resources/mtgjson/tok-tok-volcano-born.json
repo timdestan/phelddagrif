@@ -1,0 +1,31 @@
+{
+  "layout": "flip",
+  "name": "Tok-Tok, Volcano Born",
+  "names": [
+    "Akki Lavarunner",
+    "Tok-Tok, Volcano Born"
+  ],
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Creature — Goblin Shaman",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Shaman"
+  ],
+  "text": "Protection from red\nIf a red source would deal damage to a player, it deals that much damage plus 1 to that player instead.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "tok-tok, volcano born",
+  "colorIdentity": [
+    "R"
+  ]
+}

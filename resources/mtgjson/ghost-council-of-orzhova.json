@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Ghost Council of Orzhova",
+  "manaCost": "{W}{W}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Legendary Creature — Spirit",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "When Ghost Council of Orzhova enters the battlefield, target opponent loses 1 life and you gain 1 life.\n{1}, Sacrifice a creature: Exile Ghost Council of Orzhova. Return it to the battlefield under its owner's control at the beginning of the next end step.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "ghost council of orzhova",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

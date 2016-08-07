@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Soot Imp",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Imp",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Imp"
+  ],
+  "text": "Flying\nWhenever a player casts a nonblack spell, that player loses 1 life.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "soot imp",
+  "colorIdentity": [
+    "B"
+  ]
+}

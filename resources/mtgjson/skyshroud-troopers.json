@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Skyshroud Troopers",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Druid Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Druid",
+    "Warrior"
+  ],
+  "text": "{T}: Add {G} to your mana pool.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "skyshroud troopers",
+  "colorIdentity": [
+    "G"
+  ]
+}

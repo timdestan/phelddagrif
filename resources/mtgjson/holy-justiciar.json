@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Holy Justiciar",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "{2}{W}, {T}: Tap target creature. If that creature is a Zombie, exile it.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "holy justiciar",
+  "colorIdentity": [
+    "W"
+  ]
+}

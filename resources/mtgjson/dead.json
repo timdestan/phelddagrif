@@ -1,0 +1,22 @@
+{
+  "layout": "split",
+  "name": "Dead",
+  "names": [
+    "Dead",
+    "Gone"
+  ],
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Dead deals 2 damage to target creature.",
+  "imageName": "dead",
+  "colorIdentity": [
+    "R"
+  ]
+}

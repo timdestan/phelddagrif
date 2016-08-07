@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Rhox Maulers",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Rhino Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rhino",
+    "Soldier"
+  ],
+  "text": "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)\nRenown 2 (When this creature deals combat damage to a player, if it isn't renowned, put two +1/+1 counters on it and it becomes renowned.)",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "rhox maulers",
+  "colorIdentity": [
+    "G"
+  ]
+}

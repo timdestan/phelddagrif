@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dusk Imp",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Imp",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Imp"
+  ],
+  "text": "Flying",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "dusk imp",
+  "colorIdentity": [
+    "B"
+  ]
+}

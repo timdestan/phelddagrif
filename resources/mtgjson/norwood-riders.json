@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Norwood Riders",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf"
+  ],
+  "text": "Norwood Riders can't be blocked by more than one creature.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "norwood riders",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Drunau Corpse Trawler",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "When Drunau Corpse Trawler enters the battlefield, put a 2/2 black Zombie creature token onto the battlefield.\n{2}{B}: Target Zombie gains deathtouch until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "drunau corpse trawler",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

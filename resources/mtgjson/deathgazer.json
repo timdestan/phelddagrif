@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Deathgazer",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Lizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Lizard"
+  ],
+  "text": "Whenever Deathgazer blocks or becomes blocked by a nonblack creature, destroy that creature at end of combat.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "deathgazer",
+  "colorIdentity": [
+    "B"
+  ]
+}

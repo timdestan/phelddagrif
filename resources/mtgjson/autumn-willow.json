@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Autumn Willow",
+  "manaCost": "{4}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Legendary Creature — Avatar",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Avatar"
+  ],
+  "text": "Shroud (This creature can't be the target of spells or abilities.)\n{G}: Until end of turn, Autumn Willow can be the target of spells and abilities controlled by target player as though it didn't have shroud.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "autumn willow",
+  "colorIdentity": [
+    "G"
+  ]
+}

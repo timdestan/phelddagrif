@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ghitu Fire-Eater",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Nomad",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Nomad"
+  ],
+  "text": "{T}, Sacrifice Ghitu Fire-Eater: Ghitu Fire-Eater deals damage equal to its power to target creature or player.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "ghitu fire-eater",
+  "colorIdentity": [
+    "R"
+  ]
+}

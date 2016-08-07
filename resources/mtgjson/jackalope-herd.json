@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Jackalope Herd",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Rabbit Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rabbit",
+    "Beast"
+  ],
+  "text": "When you cast a spell, return Jackalope Herd to its owner's hand.",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "jackalope herd",
+  "colorIdentity": [
+    "G"
+  ]
+}

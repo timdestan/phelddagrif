@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Vug Lizard",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Lizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Lizard"
+  ],
+  "text": "Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)\nEcho {1}{R}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "vug lizard",
+  "colorIdentity": [
+    "R"
+  ]
+}

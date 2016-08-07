@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Henge Guardian",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact Creature — Dragon Wurm",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon",
+    "Wurm"
+  ],
+  "text": "{2}: Henge Guardian gains trample until end of turn.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "henge guardian"
+}

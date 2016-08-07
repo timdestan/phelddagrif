@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Undergrowth Scavenger",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Fungus Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Fungus",
+    "Horror"
+  ],
+  "text": "Undergrowth Scavenger enters the battlefield with a number of +1/+1 counters on it equal to the number of creature cards in all graveyards.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "undergrowth scavenger",
+  "colorIdentity": [
+    "G"
+  ]
+}

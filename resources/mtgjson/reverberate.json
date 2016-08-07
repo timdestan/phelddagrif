@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Reverberate",
+  "manaCost": "{R}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Copy target instant or sorcery spell. You may choose new targets for the copy.",
+  "imageName": "reverberate",
+  "colorIdentity": [
+    "R"
+  ]
+}

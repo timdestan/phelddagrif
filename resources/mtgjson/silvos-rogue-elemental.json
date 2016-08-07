@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Silvos, Rogue Elemental",
+  "manaCost": "{3}{G}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Legendary Creature — Elemental",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Trample\n{G}: Regenerate Silvos, Rogue Elemental.",
+  "power": "8",
+  "toughness": "5",
+  "imageName": "silvos, rogue elemental",
+  "colorIdentity": [
+    "G"
+  ]
+}

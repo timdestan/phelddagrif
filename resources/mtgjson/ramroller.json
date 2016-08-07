@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ramroller",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Juggernaut",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Juggernaut"
+  ],
+  "text": "Ramroller attacks each turn if able.\nRamroller gets +2/+0 as long as you control another artifact.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "ramroller"
+}

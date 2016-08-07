@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "_____",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Shapeshifter",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Shapeshifter"
+  ],
+  "text": "{1}: This card's name becomes the name of your choice. Play this ability anywhere, anytime.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "_____",
+  "colorIdentity": [
+    "U"
+  ]
+}

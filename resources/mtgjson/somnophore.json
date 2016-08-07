@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Somnophore",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Illusion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Illusion"
+  ],
+  "text": "Flying\nWhenever Somnophore deals damage to a player, tap target creature that player controls. That creature doesn't untap during its controller's untap step for as long as Somnophore remains on the battlefield.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "somnophore",
+  "colorIdentity": [
+    "U"
+  ]
+}

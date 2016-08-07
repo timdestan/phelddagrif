@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Mystic Enforcer",
+  "manaCost": "{2}{G}{W}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Human Nomad Mystic",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Nomad",
+    "Mystic"
+  ],
+  "text": "Protection from black\nThreshold — As long as seven or more cards are in your graveyard, Mystic Enforcer gets +3/+3 and has flying.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "mystic enforcer",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

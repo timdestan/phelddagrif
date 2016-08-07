@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Krosan Wayfarer",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Druid"
+  ],
+  "text": "Sacrifice Krosan Wayfarer: You may put a land card from your hand onto the battlefield.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "krosan wayfarer",
+  "colorIdentity": [
+    "G"
+  ]
+}

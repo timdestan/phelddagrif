@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Lab Rats",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Buyback {4} (You may pay an additional {4} as you cast this spell. If you do, put this card into your hand as it resolves.)\nPut a 1/1 black Rat creature token onto the battlefield.",
+  "imageName": "lab rats",
+  "colorIdentity": [
+    "B"
+  ]
+}

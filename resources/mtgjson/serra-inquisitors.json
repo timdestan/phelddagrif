@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Serra Inquisitors",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "Whenever Serra Inquisitors blocks or becomes blocked by one or more black creatures, Serra Inquisitors gets +2/+0 until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "serra inquisitors",
+  "colorIdentity": [
+    "W"
+  ]
+}

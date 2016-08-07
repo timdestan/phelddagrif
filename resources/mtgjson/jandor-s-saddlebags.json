@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Jandor's Saddlebags",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{3}, {T}: Untap target creature.",
+  "imageName": "jandor's saddlebags"
+}

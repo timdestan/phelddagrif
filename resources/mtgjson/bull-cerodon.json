@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Bull Cerodon",
+  "manaCost": "{4}{R}{W}",
+  "cmc": 6,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Vigilance, haste",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "bull cerodon",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

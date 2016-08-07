@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Duty-Bound Dead",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Skeleton",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Skeleton"
+  ],
+  "text": "Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\n{3}{B}: Regenerate Duty-Bound Dead. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",
+  "power": "0",
+  "toughness": "2",
+  "imageName": "duty-bound dead",
+  "colorIdentity": [
+    "B"
+  ]
+}

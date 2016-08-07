@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Golgari Thug",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "When Golgari Thug dies, put target creature card from your graveyard on top of your library.\nDredge 4 (If you would draw a card, instead you may put exactly four cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "golgari thug",
+  "colorIdentity": [
+    "B"
+  ]
+}

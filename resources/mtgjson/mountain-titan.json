@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Mountain Titan",
+  "manaCost": "{2}{B}{R}",
+  "cmc": 4,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Giant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant"
+  ],
+  "text": "{1}{R}{R}: Until end of turn, whenever you cast a black spell, put a +1/+1 counter on Mountain Titan.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "mountain titan",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

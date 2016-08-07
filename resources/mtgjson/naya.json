@@ -1,0 +1,13 @@
+{
+  "layout": "plane",
+  "name": "Naya",
+  "type": "Plane — Alara",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Alara"
+  ],
+  "text": "You may play any number of lands on each of your turns.\nWhenever you roll CHAOS, target red, green, or white creature you control gets +1/+1 until end of turn for each land you control.",
+  "imageName": "naya"
+}

@@ -1,0 +1,28 @@
+{
+  "layout": "double-faced",
+  "name": "Hanweir Militia Captain",
+  "names": [
+    "Hanweir Militia Captain",
+    "Westvale Cult Leader"
+  ],
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "At the beginning of your upkeep, if you control four or more creatures, transform Hanweir Militia Captain.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "hanweir militia captain",
+  "colorIdentity": [
+    "W"
+  ]
+}

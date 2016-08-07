@@ -1,0 +1,29 @@
+{
+  "layout": "split",
+  "name": "Why",
+  "names": [
+    "Who",
+    "What",
+    "When",
+    "Where",
+    "Why"
+  ],
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target enchantment.",
+  "imageName": "why",
+  "colorIdentity": [
+    "G",
+    "B",
+    "U",
+    "R",
+    "W"
+  ]
+}

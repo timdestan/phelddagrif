@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Goblin Outlander",
+  "manaCost": "{B}{R}",
+  "cmc": 2,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Goblin Scout",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Scout"
+  ],
+  "text": "Protection from white",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "goblin outlander",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

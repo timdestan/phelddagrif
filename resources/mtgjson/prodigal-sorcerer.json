@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Prodigal Sorcerer",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{T}: Prodigal Sorcerer deals 1 damage to target creature or player.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "prodigal sorcerer",
+  "colorIdentity": [
+    "U"
+  ]
+}

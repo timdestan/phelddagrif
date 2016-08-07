@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Heartstone",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Activated abilities of creatures cost {1} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.",
+  "imageName": "heartstone"
+}

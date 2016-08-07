@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Vinelasher Kudzu",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Plant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Plant"
+  ],
+  "text": "Whenever a land enters the battlefield under your control, put a +1/+1 counter on Vinelasher Kudzu.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "vinelasher kudzu",
+  "colorIdentity": [
+    "G"
+  ]
+}

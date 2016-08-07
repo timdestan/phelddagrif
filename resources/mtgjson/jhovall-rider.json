@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Jhovall Rider",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Rebel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rebel"
+  ],
+  "text": "Trample",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "jhovall rider",
+  "colorIdentity": [
+    "W"
+  ]
+}

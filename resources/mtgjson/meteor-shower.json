@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Meteor Shower",
+  "manaCost": "{X}{X}{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Meteor Shower deals X plus 1 damage divided as you choose among any number of target creatures and/or players.",
+  "imageName": "meteor shower",
+  "colorIdentity": [
+    "R"
+  ]
+}

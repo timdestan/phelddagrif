@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Kabira Evangel",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric",
+    "Ally"
+  ],
+  "text": "Whenever Kabira Evangel or another Ally enters the battlefield under your control, you may choose a color. If you do, Allies you control gain protection from the chosen color until end of turn.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "kabira evangel",
+  "colorIdentity": [
+    "W"
+  ]
+}

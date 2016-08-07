@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Thassa's Devourer",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment Creature — Elemental",
+  "types": [
+    "Enchantment",
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Constellation — Whenever Thassa's Devourer or another enchantment enters the battlefield under your control, target player puts the top two cards of his or her library into his or her graveyard.",
+  "power": "2",
+  "toughness": "6",
+  "imageName": "thassa's devourer",
+  "colorIdentity": [
+    "U"
+  ]
+}

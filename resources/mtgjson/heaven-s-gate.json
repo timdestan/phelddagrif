@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Heaven's Gate",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Any number of target creatures become white until end of turn.",
+  "imageName": "heaven's gate",
+  "colorIdentity": [
+    "W"
+  ]
+}

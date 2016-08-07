@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Blood-Chin Fanatic",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Orc Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Orc",
+    "Warrior"
+  ],
+  "text": "{1}{B}, Sacrifice another Warrior creature: Target player loses X life and you gain X life, where X is the sacrificed creature's power.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "blood-chin fanatic",
+  "colorIdentity": [
+    "B"
+  ]
+}

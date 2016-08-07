@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Icatian Lieutenant",
+  "manaCost": "{W}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "{1}{W}: Target Soldier creature gets +1/+0 until end of turn.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "icatian lieutenant",
+  "colorIdentity": [
+    "W"
+  ]
+}

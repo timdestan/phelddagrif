@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Wicked Reward",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "As an additional cost to cast Wicked Reward, sacrifice a creature.\nTarget creature gets +4/+2 until end of turn.",
+  "imageName": "wicked reward",
+  "colorIdentity": [
+    "B"
+  ]
+}

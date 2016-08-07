@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Wurmcalling",
+  "manaCost": "{X}{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Buyback {2}{G} (You may pay an additional {2}{G} as you cast this spell. If you do, put this card into your hand as it resolves.)\nPut an X/X green Wurm creature token onto the battlefield.",
+  "imageName": "wurmcalling",
+  "colorIdentity": [
+    "G"
+  ]
+}

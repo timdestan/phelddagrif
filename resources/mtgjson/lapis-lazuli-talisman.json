@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Lapis Lazuli Talisman",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Whenever a player casts a blue spell, you may pay {3}. If you do, untap target permanent.",
+  "imageName": "lapis lazuli talisman"
+}

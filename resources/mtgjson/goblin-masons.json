@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Goblin Masons",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "When Goblin Masons dies, destroy target Wall.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "goblin masons",
+  "colorIdentity": [
+    "R"
+  ]
+}

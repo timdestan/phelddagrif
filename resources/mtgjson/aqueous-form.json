@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Aqueous Form",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature can't be blocked.\nWhenever enchanted creature attacks, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "imageName": "aqueous form",
+  "colorIdentity": [
+    "U"
+  ]
+}

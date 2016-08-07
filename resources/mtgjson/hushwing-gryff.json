@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Hushwing Gryff",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Hippogriff",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hippogriff"
+  ],
+  "text": "Flash (You may cast this spell any time you could cast an instant.)\nFlying\nCreatures entering the battlefield don't cause abilities to trigger.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "hushwing gryff",
+  "colorIdentity": [
+    "W"
+  ]
+}

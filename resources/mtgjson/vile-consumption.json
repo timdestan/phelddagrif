@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Vile Consumption",
+  "manaCost": "{1}{U}{B}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "All creatures have \"At the beginning of your upkeep, sacrifice this creature unless you pay 1 life.\"",
+  "imageName": "vile consumption",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

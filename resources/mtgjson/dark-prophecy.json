@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dark Prophecy",
+  "manaCost": "{B}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a creature you control dies, you draw a card and you lose 1 life.",
+  "imageName": "dark prophecy",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Urza's Tower",
+  "type": "Land — Urza’s Tower",
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Urza’s",
+    "Tower"
+  ],
+  "text": "{T}: Add {C} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {C}{C}{C} to your mana pool instead.",
+  "imageName": "urza's tower"
+}

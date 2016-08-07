@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Volrath's Gardens",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{2}, Tap an untapped creature you control: You gain 2 life. Activate this ability only any time you could cast a sorcery.",
+  "imageName": "volrath's gardens",
+  "colorIdentity": [
+    "G"
+  ]
+}

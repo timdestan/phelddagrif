@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ulvenwald Mysteries",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a nontoken creature you control dies, investigate. (Put a colorless Clue artifact token onto the battlefield with \"{2}, Sacrifice this artifact: Draw a card.\")\nWhenever you sacrifice a Clue, put a 1/1 white Human Soldier creature token onto the battlefield.",
+  "imageName": "ulvenwald mysteries",
+  "colorIdentity": [
+    "G"
+  ]
+}

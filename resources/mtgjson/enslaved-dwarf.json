@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Enslaved Dwarf",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dwarf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dwarf"
+  ],
+  "text": "{R}, Sacrifice Enslaved Dwarf: Target black creature gets +1/+0 and gains first strike until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "enslaved dwarf",
+  "colorIdentity": [
+    "R"
+  ]
+}

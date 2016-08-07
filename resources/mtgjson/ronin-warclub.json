@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Ronin Warclub",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature gets +2/+1.\nWhenever a creature enters the battlefield under your control, attach Ronin Warclub to that creature.\nEquip {5} ({5}: Attach to target creature you control. Equip only as a sorcery.)",
+  "imageName": "ronin warclub"
+}

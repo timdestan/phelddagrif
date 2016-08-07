@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kashi-Tribe Elite",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Snake Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Snake",
+    "Warrior"
+  ],
+  "text": "Legendary Snakes you control have shroud. (They can't be the targets of spells or abilities.)\nWhenever Kashi-Tribe Elite deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "kashi-tribe elite",
+  "colorIdentity": [
+    "G"
+  ]
+}

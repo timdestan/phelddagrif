@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Refocus",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Untap target creature.\nDraw a card.",
+  "imageName": "refocus",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Skyhunter Skirmisher",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Cat Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat",
+    "Knight"
+  ],
+  "text": "Flying, double strike",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "skyhunter skirmisher",
+  "colorIdentity": [
+    "W"
+  ]
+}

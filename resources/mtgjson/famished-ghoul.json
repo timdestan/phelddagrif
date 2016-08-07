@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Famished Ghoul",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "{1}{B}, Sacrifice Famished Ghoul: Exile up to two target cards from a single graveyard.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "famished ghoul",
+  "colorIdentity": [
+    "B"
+  ]
+}

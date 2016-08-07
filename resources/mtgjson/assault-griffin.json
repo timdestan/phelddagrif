@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Assault Griffin",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Griffin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Griffin"
+  ],
+  "text": "Flying",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "assault griffin",
+  "colorIdentity": [
+    "W"
+  ]
+}

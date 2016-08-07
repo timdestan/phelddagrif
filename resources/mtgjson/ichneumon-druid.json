@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ichneumon Druid",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Druid"
+  ],
+  "text": "Whenever an opponent casts an instant spell other than the first instant spell that player casts each turn, Ichneumon Druid deals 4 damage to him or her.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "ichneumon druid",
+  "colorIdentity": [
+    "G"
+  ]
+}

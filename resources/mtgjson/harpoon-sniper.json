@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Harpoon Sniper",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Merfolk Archer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Archer"
+  ],
+  "text": "{W}, {T}: Harpoon Sniper deals X damage to target attacking or blocking creature, where X is the number of Merfolk you control.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "harpoon sniper",
+  "colorIdentity": [
+    "W"
+  ]
+}

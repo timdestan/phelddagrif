@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Lumengrid Warden",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "power": "1",
+  "toughness": "3",
+  "imageName": "lumengrid warden",
+  "colorIdentity": [
+    "U"
+  ]
+}

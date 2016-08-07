@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Curse of Shallow Graves",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment — Aura Curse",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura",
+    "Curse"
+  ],
+  "text": "Enchant player\nWhenever a player attacks enchanted player with one or more creatures, that attacking player may put a 2/2 black Zombie creature token onto the battlefield tapped.",
+  "imageName": "curse of shallow graves",
+  "colorIdentity": [
+    "B"
+  ]
+}

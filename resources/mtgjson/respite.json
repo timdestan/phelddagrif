@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Respite",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Prevent all combat damage that would be dealt this turn. You gain 1 life for each attacking creature.",
+  "imageName": "respite",
+  "colorIdentity": [
+    "G"
+  ]
+}

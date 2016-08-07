@@ -1,0 +1,34 @@
+{
+  "layout": "normal",
+  "name": "Sliver Legion",
+  "manaCost": "{W}{U}{B}{R}{G}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "type": "Legendary Creature — Sliver",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "All Sliver creatures get +1/+1 for each other Sliver on the battlefield.",
+  "power": "7",
+  "toughness": "7",
+  "imageName": "sliver legion",
+  "colorIdentity": [
+    "W",
+    "U",
+    "B",
+    "R",
+    "G"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Worldly Tutor",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Search your library for a creature card and reveal that card. Shuffle your library, then put the card on top of it.",
+  "imageName": "worldly tutor",
+  "colorIdentity": [
+    "G"
+  ]
+}

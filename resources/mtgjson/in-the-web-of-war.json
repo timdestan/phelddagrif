@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "In the Web of War",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a creature enters the battlefield under your control, it gets +2/+0 and gains haste until end of turn.",
+  "imageName": "in the web of war",
+  "colorIdentity": [
+    "R"
+  ]
+}

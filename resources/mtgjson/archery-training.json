@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Archery Training",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nAt the beginning of your upkeep, you may put an arrow counter on Archery Training.\nEnchanted creature has \"{T}: This creature deals X damage to target attacking or blocking creature, where X is the number of arrow counters on Archery Training.\"",
+  "imageName": "archery training",
+  "colorIdentity": [
+    "W"
+  ]
+}

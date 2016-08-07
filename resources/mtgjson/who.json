@@ -1,0 +1,29 @@
+{
+  "layout": "split",
+  "name": "Who",
+  "names": [
+    "Who",
+    "What",
+    "When",
+    "Where",
+    "Why"
+  ],
+  "manaCost": "{X}{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target player gains X life.",
+  "imageName": "who",
+  "colorIdentity": [
+    "G",
+    "B",
+    "U",
+    "R",
+    "W"
+  ]
+}

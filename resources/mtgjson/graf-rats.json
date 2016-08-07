@@ -1,0 +1,28 @@
+{
+  "layout": "meld",
+  "name": "Graf Rats",
+  "names": [
+    "Graf Rats",
+    "Midnight Scavengers",
+    "Chittering Host"
+  ],
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Rat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rat"
+  ],
+  "text": "At the beginning of combat on your turn, if you both own and control Graf Rats and a creature named Midnight Scavengers, exile them, then meld them into Chittering Host.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "graf rats",
+  "colorIdentity": [
+    "B"
+  ]
+}

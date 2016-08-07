@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Fervent Denial",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell.\nFlashback {5}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "fervent denial",
+  "colorIdentity": [
+    "U"
+  ]
+}

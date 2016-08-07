@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Indestructible Aura",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Prevent all damage that would be dealt to target creature this turn.",
+  "imageName": "indestructible aura",
+  "colorIdentity": [
+    "W"
+  ]
+}

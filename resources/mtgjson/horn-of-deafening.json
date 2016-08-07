@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Horn of Deafening",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, {T}: Prevent all combat damage that would be dealt by target creature this turn.",
+  "imageName": "horn of deafening"
+}

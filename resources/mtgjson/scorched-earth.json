@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Scorched Earth",
+  "manaCost": "{X}{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "As an additional cost to cast Scorched Earth, discard X land cards.\nDestroy X target lands.",
+  "imageName": "scorched earth",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Military Intelligence",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever you attack with two or more creatures, draw a card.",
+  "imageName": "military intelligence",
+  "colorIdentity": [
+    "U"
+  ]
+}

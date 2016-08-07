@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Natural Selection",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle his or her library.",
+  "imageName": "natural selection"
+}

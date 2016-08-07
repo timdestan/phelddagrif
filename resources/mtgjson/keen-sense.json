@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Keen Sense",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nWhenever enchanted creature deals damage to an opponent, you may draw a card.",
+  "imageName": "keen sense",
+  "colorIdentity": [
+    "G"
+  ]
+}

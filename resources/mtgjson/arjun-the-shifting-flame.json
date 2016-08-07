@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Arjun, the Shifting Flame",
+  "manaCost": "{4}{U}{R}",
+  "cmc": 6,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Legendary Creature — Sphinx Wizard",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sphinx",
+    "Wizard"
+  ],
+  "text": "Flying\nWhenever you cast a spell, put the cards in your hand on the bottom of your library in any order, then draw that many cards.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "arjun, the shifting flame",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

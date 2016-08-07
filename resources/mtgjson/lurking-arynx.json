@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Lurking Arynx",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Cat Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat",
+    "Beast"
+  ],
+  "text": "Formidable — {2}{G}: Target creature blocks Lurking Arynx this turn if able. Activate this ability only if creatures you control have total power 8 or greater.",
+  "power": "3",
+  "toughness": "5",
+  "imageName": "lurking arynx",
+  "colorIdentity": [
+    "G"
+  ]
+}

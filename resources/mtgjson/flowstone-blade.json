@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Flowstone Blade",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\n{R}: Enchanted creature gets +1/-1 until end of turn.",
+  "imageName": "flowstone blade",
+  "colorIdentity": [
+    "R"
+  ]
+}

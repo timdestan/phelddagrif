@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Spearbreaker Behemoth",
+  "manaCost": "{5}{G}{G}",
+  "cmc": 7,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Indestructible\n{1}: Target creature with power 5 or greater gains indestructible until end of turn.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "spearbreaker behemoth",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Storm World",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "World Enchantment",
+  "supertypes": [
+    "World"
+  ],
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of each player's upkeep, Storm World deals X damage to that player, where X is 4 minus the number of cards in his or her hand.",
+  "imageName": "storm world",
+  "colorIdentity": [
+    "R"
+  ]
+}

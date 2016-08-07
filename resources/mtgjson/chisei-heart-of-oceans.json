@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Chisei, Heart of Oceans",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Legendary Creature — Spirit",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying\nAt the beginning of your upkeep, sacrifice Chisei, Heart of Oceans unless you remove a counter from a permanent you control.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "chisei, heart of oceans",
+  "colorIdentity": [
+    "U"
+  ]
+}

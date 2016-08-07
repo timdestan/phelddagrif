@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Impact Tremors",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a creature enters the battlefield under your control, Impact Tremors deals 1 damage to each opponent.",
+  "imageName": "impact tremors",
+  "colorIdentity": [
+    "R"
+  ]
+}

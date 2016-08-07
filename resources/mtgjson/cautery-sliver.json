@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Cautery Sliver",
+  "manaCost": "{R}{W}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "All Slivers have \"{1}, Sacrifice this permanent: This permanent deals 1 damage to target creature or player.\"\nAll Slivers have \"{1}, Sacrifice this permanent: Prevent the next 1 damage that would be dealt to target Sliver creature or player this turn.\"",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "cautery sliver",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

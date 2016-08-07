@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Crag Puca",
+  "manaCost": "{U/R}{U/R}{U/R}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Creature — Shapeshifter",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Shapeshifter"
+  ],
+  "text": "{U/R}: Switch Crag Puca's power and toughness until end of turn.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "crag puca",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

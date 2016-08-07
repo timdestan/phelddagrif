@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Spark Jolt",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Spark Jolt deals 1 damage to target creature or player. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "imageName": "spark jolt",
+  "colorIdentity": [
+    "R"
+  ]
+}

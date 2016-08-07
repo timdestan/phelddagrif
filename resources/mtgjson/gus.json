@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Gus",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Summon — Gus",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Gus"
+  ],
+  "text": "Gus comes into play with one +1/+1 counter on it for each game you have lost to your opponent since you last won a Magic game against him or her.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "gus",
+  "colorIdentity": [
+    "G"
+  ]
+}

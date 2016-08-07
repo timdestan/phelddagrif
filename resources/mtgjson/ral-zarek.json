@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ral Zarek",
+  "manaCost": "{2}{U}{R}",
+  "cmc": 4,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Planeswalker — Ral",
+  "types": [
+    "Planeswalker"
+  ],
+  "subtypes": [
+    "Ral"
+  ],
+  "text": "+1: Tap target permanent, then untap another target permanent.\n−2: Ral Zarek deals 3 damage to target creature or player.\n−7: Flip five coins. Take an extra turn after this one for each coin that comes up heads.",
+  "loyalty": 4,
+  "imageName": "ral zarek",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

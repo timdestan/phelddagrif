@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Martial Coup",
+  "manaCost": "{X}{W}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put X 1/1 white Soldier creature tokens onto the battlefield. If X is 5 or more, destroy all other creatures.",
+  "imageName": "martial coup",
+  "colorIdentity": [
+    "W"
+  ]
+}

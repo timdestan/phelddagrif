@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Warmind Infantry",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Soldier"
+  ],
+  "text": "Battalion — Whenever Warmind Infantry and at least two other creatures attack, Warmind Infantry gets +2/+0 until end of turn.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "warmind infantry",
+  "colorIdentity": [
+    "R"
+  ]
+}

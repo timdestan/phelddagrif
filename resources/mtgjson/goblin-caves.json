@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Goblin Caves",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant land\nAs long as enchanted land is a basic Mountain, Goblin creatures get +0/+2.",
+  "imageName": "goblin caves",
+  "colorIdentity": [
+    "R"
+  ]
+}

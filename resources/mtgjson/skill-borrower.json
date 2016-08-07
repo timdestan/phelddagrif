@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Skill Borrower",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Artifact Creature — Human Wizard",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Play with the top card of your library revealed.\nAs long as the top card of your library is an artifact or creature card, Skill Borrower has all activated abilities of that card. (If any of the abilities use that card's name, use this creature's name instead.)",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "skill borrower",
+  "colorIdentity": [
+    "U"
+  ]
+}

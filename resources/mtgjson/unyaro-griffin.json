@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Unyaro Griffin",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Griffin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Griffin"
+  ],
+  "text": "Flying\nSacrifice Unyaro Griffin: Counter target red instant or sorcery spell.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "unyaro griffin",
+  "colorIdentity": [
+    "W"
+  ]
+}

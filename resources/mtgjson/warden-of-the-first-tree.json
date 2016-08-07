@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Warden of the First Tree",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human"
+  ],
+  "text": "{1}{W/B}: Warden of the First Tree becomes a Human Warrior with base power and toughness 3/3.\n{2}{W/B}{W/B}: If Warden of the First Tree is a Warrior, it becomes a Human Spirit Warrior with trample and lifelink.\n{3}{W/B}{W/B}{W/B}: If Warden of the First Tree is a Spirit, put five +1/+1 counters on it.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "warden of the first tree",
+  "colorIdentity": [
+    "G",
+    "W",
+    "B"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Boris Devilboon",
+  "manaCost": "{3}{B}{R}",
+  "cmc": 5,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Legendary Creature — Zombie Wizard",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Wizard"
+  ],
+  "text": "{2}{B}{R}, {T}: Put a 1/1 black and red Demon creature token named Minor Demon onto the battlefield.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "boris devilboon",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

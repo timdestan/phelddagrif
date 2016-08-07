@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Plague of Vermin",
+  "manaCost": "{6}{B}",
+  "cmc": 7,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Starting with you, each player may pay any amount of life. Repeat this process until no one pays life. Each player puts a 1/1 black Rat creature token onto the battlefield for each 1 life he or she paid this way.",
+  "imageName": "plague of vermin",
+  "colorIdentity": [
+    "B"
+  ]
+}

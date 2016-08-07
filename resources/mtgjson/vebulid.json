@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Vebulid",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "Vebulid enters the battlefield with a +1/+1 counter on it.\nAt the beginning of your upkeep, you may put a +1/+1 counter on Vebulid.\nWhen Vebulid attacks or blocks, destroy it at end of combat.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "vebulid",
+  "colorIdentity": [
+    "B"
+  ]
+}

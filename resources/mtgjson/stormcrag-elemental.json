@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Stormcrag Elemental",
+  "manaCost": "{5}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Trample\nMegamorph {4}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "stormcrag elemental",
+  "colorIdentity": [
+    "R"
+  ]
+}

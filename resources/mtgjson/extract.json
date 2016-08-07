@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Extract",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Search target player's library for a card and exile it. Then that player shuffles his or her library.",
+  "imageName": "extract",
+  "colorIdentity": [
+    "U"
+  ]
+}

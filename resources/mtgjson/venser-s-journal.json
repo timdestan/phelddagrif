@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Venser's Journal",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "You have no maximum hand size.\nAt the beginning of your upkeep, you gain 1 life for each card in your hand.",
+  "imageName": "venser's journal"
+}

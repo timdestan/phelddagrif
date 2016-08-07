@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wellwisher",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf"
+  ],
+  "text": "{T}: You gain 1 life for each Elf on the battlefield.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "wellwisher",
+  "colorIdentity": [
+    "G"
+  ]
+}

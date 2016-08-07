@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Puppet Conjurer",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Artifact Creature — Human Wizard",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{U}, {T}: Put a 0/1 blue Homunculus artifact creature token onto the battlefield.\nAt the beginning of your upkeep, sacrifice a Homunculus.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "puppet conjurer",
+  "colorIdentity": [
+    "B",
+    "U"
+  ]
+}

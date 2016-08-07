@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Iona's Judgment",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Exile target creature or enchantment.",
+  "imageName": "iona's judgment",
+  "colorIdentity": [
+    "W"
+  ]
+}

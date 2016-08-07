@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Holy Day",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Prevent all combat damage that would be dealt this turn.",
+  "imageName": "holy day",
+  "colorIdentity": [
+    "W"
+  ]
+}

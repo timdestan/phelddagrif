@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sliptide Serpent",
+  "manaCost": "{4}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Serpent",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Serpent"
+  ],
+  "text": "{3}{U}: Return Sliptide Serpent to its owner's hand.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "sliptide serpent",
+  "colorIdentity": [
+    "U"
+  ]
+}

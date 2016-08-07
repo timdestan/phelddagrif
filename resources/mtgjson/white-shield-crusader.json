@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "White Shield Crusader",
+  "manaCost": "{W}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "Protection from black\n{W}: White Shield Crusader gains flying until end of turn.\n{W}{W}: White Shield Crusader gets +1/+0 until end of turn.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "white shield crusader",
+  "colorIdentity": [
+    "W"
+  ]
+}

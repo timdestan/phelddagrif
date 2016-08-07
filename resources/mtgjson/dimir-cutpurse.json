@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Dimir Cutpurse",
+  "manaCost": "{1}{U}{B}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Whenever Dimir Cutpurse deals combat damage to a player, that player discards a card and you draw a card.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "dimir cutpurse",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dripping Dead",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Dripping Dead can't block.\nWhenever Dripping Dead deals combat damage to a creature, destroy that creature. It can't be regenerated.",
+  "power": "4",
+  "toughness": "1",
+  "imageName": "dripping dead",
+  "colorIdentity": [
+    "B"
+  ]
+}

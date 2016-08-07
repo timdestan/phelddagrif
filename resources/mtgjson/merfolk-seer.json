@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Merfolk Seer",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Wizard"
+  ],
+  "text": "When Merfolk Seer dies, you may pay {1}{U}. If you do, draw a card.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "merfolk seer",
+  "colorIdentity": [
+    "U"
+  ]
+}

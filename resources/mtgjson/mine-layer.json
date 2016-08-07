@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Mine Layer",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dwarf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dwarf"
+  ],
+  "text": "{1}{R}, {T}: Put a mine counter on target land.\nWhenever a land with a mine counter on it becomes tapped, destroy it.\nWhen Mine Layer leaves the battlefield, remove all mine counters from all lands.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "mine layer",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Cockatrice",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Cockatrice",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cockatrice"
+  ],
+  "text": "Flying\nWhenever Cockatrice blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "cockatrice",
+  "colorIdentity": [
+    "G"
+  ]
+}

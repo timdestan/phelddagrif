@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Devastation Tide",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Return all nonland permanents to their owners' hands.\nMiracle {1}{U} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+  "imageName": "devastation tide",
+  "colorIdentity": [
+    "U"
+  ]
+}

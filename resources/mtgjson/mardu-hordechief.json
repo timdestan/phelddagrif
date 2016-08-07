@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Mardu Hordechief",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "Raid — When Mardu Hordechief enters the battlefield, if you attacked with a creature this turn, put a 1/1 white Warrior creature token onto the battlefield.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "mardu hordechief",
+  "colorIdentity": [
+    "W"
+  ]
+}

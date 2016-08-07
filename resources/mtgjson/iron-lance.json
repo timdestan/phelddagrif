@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Iron Lance",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{3}, {T}: Target creature gains first strike until end of turn.",
+  "imageName": "iron lance"
+}

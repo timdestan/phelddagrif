@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Bubbling Muck",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Until end of turn, whenever a player taps a Swamp for mana, that player adds {B} to his or her mana pool (in addition to the mana the land produces).",
+  "imageName": "bubbling muck",
+  "colorIdentity": [
+    "B"
+  ]
+}

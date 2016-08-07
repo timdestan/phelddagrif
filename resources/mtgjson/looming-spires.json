@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Looming Spires",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Looming Spires enters the battlefield tapped.\nWhen Looming Spires enters the battlefield, target creature gets +1/+1 and gains first strike until end of turn.\n{T}: Add {R} to your mana pool.",
+  "imageName": "looming spires",
+  "colorIdentity": [
+    "R"
+  ]
+}

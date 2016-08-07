@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Mystic Compass",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{1}, {T}: Target land becomes the basic land type of your choice until end of turn.",
+  "imageName": "mystic compass"
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Memory Crystal",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Buyback costs cost {2} less.",
+  "imageName": "memory crystal"
+}

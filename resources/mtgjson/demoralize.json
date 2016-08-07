@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Demoralize",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "All creatures gain menace until end of turn. (They can't be blocked except by two or more creatures.)\nThreshold — If seven or more cards are in your graveyard, creatures can't block this turn.",
+  "imageName": "demoralize",
+  "colorIdentity": [
+    "R"
+  ]
+}

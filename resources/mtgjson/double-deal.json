@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Double Deal",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Choose another player. Double Deal deals 3 damage to that player now and deals an additional 3 damage to the player at the beginning of the next game with the player.",
+  "imageName": "double deal",
+  "colorIdentity": [
+    "R"
+  ]
+}

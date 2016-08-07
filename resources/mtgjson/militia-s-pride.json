@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Militia's Pride",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Tribal Enchantment — Kithkin",
+  "types": [
+    "Tribal",
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Kithkin"
+  ],
+  "text": "Whenever a nontoken creature you control attacks, you may pay {W}. If you do, put a 1/1 white Kithkin Soldier creature token onto the battlefield tapped and attacking.",
+  "imageName": "militia's pride",
+  "colorIdentity": [
+    "W"
+  ]
+}

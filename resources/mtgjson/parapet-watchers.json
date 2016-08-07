@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Parapet Watchers",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Kithkin Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kithkin",
+    "Soldier"
+  ],
+  "text": "{W/U}: Parapet Watchers gets +0/+1 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "parapet watchers",
+  "colorIdentity": [
+    "U",
+    "W"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Noose Constrictor",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Snake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Snake"
+  ],
+  "text": "Reach\nDiscard a card: Noose Constrictor gets +1/+1 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "noose constrictor",
+  "colorIdentity": [
+    "G"
+  ]
+}

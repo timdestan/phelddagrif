@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Spike Jester",
+  "manaCost": "{B}{R}",
+  "cmc": 2,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Goblin Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Warrior"
+  ],
+  "text": "Haste",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "spike jester",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

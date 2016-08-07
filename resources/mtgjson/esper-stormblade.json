@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Esper Stormblade",
+  "manaCost": "{W/B}{U}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Blue",
+    "Black"
+  ],
+  "type": "Artifact Creature — Vedalken Wizard",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Vedalken",
+    "Wizard"
+  ],
+  "text": "As long as you control another multicolored permanent, Esper Stormblade gets +1/+1 and has flying.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "esper stormblade",
+  "colorIdentity": [
+    "W",
+    "U",
+    "B"
+  ]
+}

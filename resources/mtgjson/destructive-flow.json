@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Destructive Flow",
+  "manaCost": "{B}{R}{G}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of each player's upkeep, that player sacrifices a nonbasic land.",
+  "imageName": "destructive flow",
+  "colorIdentity": [
+    "B",
+    "R",
+    "G"
+  ]
+}

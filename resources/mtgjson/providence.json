@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Providence",
+  "manaCost": "{5}{W}{W}",
+  "cmc": 7,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, your life total becomes 26.\nYour life total becomes 26.",
+  "imageName": "providence",
+  "colorIdentity": [
+    "W"
+  ]
+}

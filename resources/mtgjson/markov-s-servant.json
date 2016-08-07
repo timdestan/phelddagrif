@@ -1,0 +1,24 @@
+{
+  "layout": "double-faced",
+  "name": "Markov's Servant",
+  "names": [
+    "Chosen of Markov",
+    "Markov's Servant"
+  ],
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire"
+  ],
+  "power": "4",
+  "toughness": "4",
+  "imageName": "markov's servant",
+  "colorIdentity": [
+    "B"
+  ]
+}

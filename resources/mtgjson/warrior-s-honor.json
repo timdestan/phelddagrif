@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Warrior's Honor",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Creatures you control get +1/+1 until end of turn.",
+  "imageName": "warrior's honor",
+  "colorIdentity": [
+    "W"
+  ]
+}

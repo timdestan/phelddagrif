@@ -1,0 +1,16 @@
+{
+  "layout": "normal",
+  "name": "Boros Signet",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{1}, {T}: Add {R}{W} to your mana pool.",
+  "imageName": "boros signet",
+  "colorIdentity": [
+    "R",
+    "W"
+  ]
+}

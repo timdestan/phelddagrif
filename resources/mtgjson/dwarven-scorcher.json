@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dwarven Scorcher",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dwarf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dwarf"
+  ],
+  "text": "Sacrifice Dwarven Scorcher: Dwarven Scorcher deals 1 damage to target creature unless that creature's controller has Dwarven Scorcher deal 2 damage to him or her.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "dwarven scorcher",
+  "colorIdentity": [
+    "R"
+  ]
+}

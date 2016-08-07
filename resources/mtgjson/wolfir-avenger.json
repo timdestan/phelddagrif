@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Wolfir Avenger",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wolf Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wolf",
+    "Warrior"
+  ],
+  "text": "Flash (You may cast this spell any time you could cast an instant.)\n{1}{G}: Regenerate Wolfir Avenger.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "wolfir avenger",
+  "colorIdentity": [
+    "G"
+  ]
+}

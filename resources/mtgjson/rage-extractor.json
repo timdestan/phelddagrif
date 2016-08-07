@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rage Extractor",
+  "manaCost": "{4}{R/P}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "({R/P} can be paid with either {R} or 2 life.)\nWhenever you cast a spell with {P} in its mana cost, Rage Extractor deals damage equal to that spell's converted mana cost to target creature or player.",
+  "imageName": "rage extractor",
+  "colorIdentity": [
+    "R"
+  ]
+}

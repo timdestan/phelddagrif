@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Artful Dodge",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target creature can't be blocked this turn.\nFlashback {U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "artful dodge",
+  "colorIdentity": [
+    "U"
+  ]
+}

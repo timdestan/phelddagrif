@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mortal's Ardor",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gets +1/+1 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)",
+  "imageName": "mortal's ardor",
+  "colorIdentity": [
+    "W"
+  ]
+}

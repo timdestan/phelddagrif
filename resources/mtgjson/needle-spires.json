@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Needle Spires",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Needle Spires enters the battlefield tapped.\n{T}: Add {R} or {W} to your mana pool.\n{2}{R}{W}: Needle Spires becomes a 2/1 red and white Elemental creature with double strike until end of turn. It's still a land.",
+  "imageName": "needle spires",
+  "colorIdentity": [
+    "R",
+    "W"
+  ]
+}

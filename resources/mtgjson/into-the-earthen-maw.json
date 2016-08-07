@@ -1,0 +1,10 @@
+{
+  "layout": "scheme",
+  "name": "Into the Earthen Maw",
+  "type": "Scheme",
+  "types": [
+    "Scheme"
+  ],
+  "text": "When you set this scheme in motion, exile up to one target creature with flying, up to one target creature without flying, and all cards from up to one target opponent's graveyard.",
+  "imageName": "into the earthen maw"
+}

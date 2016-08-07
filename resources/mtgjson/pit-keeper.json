@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Pit Keeper",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "When Pit Keeper enters the battlefield, if you have four or more creature cards in your graveyard, you may return target creature card from your graveyard to your hand.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "pit keeper",
+  "colorIdentity": [
+    "B"
+  ]
+}

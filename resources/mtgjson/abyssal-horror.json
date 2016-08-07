@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Abyssal Horror",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "Flying\nWhen Abyssal Horror enters the battlefield, target player discards two cards.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "abyssal horror",
+  "colorIdentity": [
+    "B"
+  ]
+}

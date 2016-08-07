@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Abyssal Gatekeeper",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "When Abyssal Gatekeeper dies, each player sacrifices a creature.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "abyssal gatekeeper",
+  "colorIdentity": [
+    "B"
+  ]
+}

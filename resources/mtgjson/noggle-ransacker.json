@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Noggle Ransacker",
+  "manaCost": "{2}{U/R}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Creature — Noggle Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Noggle",
+    "Rogue"
+  ],
+  "text": "When Noggle Ransacker enters the battlefield, each player draws two cards, then discards a card at random.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "noggle ransacker",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

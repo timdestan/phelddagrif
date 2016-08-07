@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Lodestone Bauble",
+  "manaCost": "{0}",
+  "cmc": 0,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{1}, {T}, Sacrifice Lodestone Bauble: Put up to four target basic land cards from a player's graveyard on top of his or her library in any order. That player draws a card at the beginning of the next turn's upkeep.",
+  "imageName": "lodestone bauble"
+}

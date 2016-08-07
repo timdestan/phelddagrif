@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Nightscape Familiar",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Blue spells and red spells you cast cost {1} less to cast.\n{1}{B}: Regenerate Nightscape Familiar.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "nightscape familiar",
+  "colorIdentity": [
+    "B"
+  ]
+}

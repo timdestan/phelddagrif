@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Gather Courage",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nTarget creature gets +2/+2 until end of turn.",
+  "imageName": "gather courage",
+  "colorIdentity": [
+    "G"
+  ]
+}

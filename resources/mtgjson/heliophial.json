@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Heliophial",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)\n{2}, Sacrifice Heliophial: Heliophial deals damage equal to the number of charge counters on it to target creature or player.",
+  "imageName": "heliophial"
+}

@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Reya Dawnbringer",
+  "manaCost": "{6}{W}{W}{W}",
+  "cmc": 9,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Creature — Angel",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nAt the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield.",
+  "power": "4",
+  "toughness": "6",
+  "imageName": "reya dawnbringer",
+  "colorIdentity": [
+    "W"
+  ]
+}

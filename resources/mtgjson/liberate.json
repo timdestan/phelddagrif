@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Liberate",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Exile target creature you control. Return that card to the battlefield under its owner's control at the beginning of the next end step.",
+  "imageName": "liberate",
+  "colorIdentity": [
+    "W"
+  ]
+}

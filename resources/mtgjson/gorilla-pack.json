@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Gorilla Pack",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Ape",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ape"
+  ],
+  "text": "Gorilla Pack can't attack unless defending player controls a Forest.\nWhen you control no Forests, sacrifice Gorilla Pack.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "gorilla pack",
+  "colorIdentity": [
+    "G"
+  ]
+}

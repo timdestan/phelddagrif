@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Vish Kal, Blood Arbiter",
+  "manaCost": "{4}{W}{B}{B}",
+  "cmc": 7,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Legendary Creature — Vampire",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire"
+  ],
+  "text": "Flying, lifelink\nSacrifice a creature: Put X +1/+1 counters on Vish Kal, Blood Arbiter, where X is the sacrificed creature's power.\nRemove all +1/+1 counters from Vish Kal: Target creature gets -1/-1 until end of turn for each +1/+1 counter removed this way.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "vish kal, blood arbiter",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

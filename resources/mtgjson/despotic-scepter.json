@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Despotic Scepter",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}: Destroy target permanent you own. It can't be regenerated.",
+  "imageName": "despotic scepter"
+}

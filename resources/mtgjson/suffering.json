@@ -1,0 +1,23 @@
+{
+  "layout": "split",
+  "name": "Suffering",
+  "names": [
+    "Pain",
+    "Suffering"
+  ],
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target land.",
+  "imageName": "suffering",
+  "colorIdentity": [
+    "R",
+    "B"
+  ]
+}

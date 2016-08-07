@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Apprentice Necromancer",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Wizard"
+  ],
+  "text": "{B}, {T}, Sacrifice Apprentice Necromancer: Return target creature card from your graveyard to the battlefield. That creature gains haste. At the beginning of the next end step, sacrifice it.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "apprentice necromancer",
+  "colorIdentity": [
+    "B"
+  ]
+}

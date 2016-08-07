@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Argivian Blacksmith",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Artificer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Artificer"
+  ],
+  "text": "{T}: Prevent the next 2 damage that would be dealt to target artifact creature this turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "argivian blacksmith",
+  "colorIdentity": [
+    "W"
+  ]
+}

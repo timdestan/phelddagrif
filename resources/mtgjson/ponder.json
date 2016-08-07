@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ponder",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Look at the top three cards of your library, then put them back in any order. You may shuffle your library.\nDraw a card.",
+  "imageName": "ponder",
+  "colorIdentity": [
+    "U"
+  ]
+}

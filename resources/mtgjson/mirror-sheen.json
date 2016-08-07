@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Mirror Sheen",
+  "manaCost": "{1}{U/R}{U/R}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{1}{U/R}{U/R}: Copy target instant or sorcery spell that targets you. You may choose new targets for the copy.",
+  "imageName": "mirror sheen",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

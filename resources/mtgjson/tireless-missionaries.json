@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Tireless Missionaries",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "When Tireless Missionaries enters the battlefield, you gain 3 life.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "tireless missionaries",
+  "colorIdentity": [
+    "W"
+  ]
+}

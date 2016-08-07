@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Chromatic Sphere",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{1}, {T}, Sacrifice Chromatic Sphere: Add one mana of any color to your mana pool. Draw a card.",
+  "imageName": "chromatic sphere"
+}

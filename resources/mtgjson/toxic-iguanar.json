@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Toxic Iguanar",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Lizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Lizard"
+  ],
+  "text": "Toxic Iguanar has deathtouch as long as you control a green permanent. (Any amount of damage a creature with deathtouch deals to a creature is enough to destroy it.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "toxic iguanar",
+  "colorIdentity": [
+    "R"
+  ]
+}

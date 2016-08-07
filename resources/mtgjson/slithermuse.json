@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Slithermuse",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "When Slithermuse leaves the battlefield, choose an opponent. If that player has more cards in hand than you, draw cards equal to the difference.\nEvoke {3}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "slithermuse",
+  "colorIdentity": [
+    "U"
+  ]
+}

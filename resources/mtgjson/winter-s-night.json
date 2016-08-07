@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Winter's Night",
+  "manaCost": "{R}{G}{W}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Red",
+    "Green"
+  ],
+  "type": "World Enchantment",
+  "supertypes": [
+    "World"
+  ],
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a player taps a snow land for mana, that player adds one mana to his or her mana pool of any type that land produced. That land doesn't untap during its controller's next untap step.",
+  "imageName": "winter's night",
+  "colorIdentity": [
+    "W",
+    "R",
+    "G"
+  ]
+}

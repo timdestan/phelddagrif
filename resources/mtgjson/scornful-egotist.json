@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Scornful Egotist",
+  "manaCost": "{7}{U}",
+  "cmc": 8,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Morph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "scornful egotist",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Iroas, God of Victory",
+  "manaCost": "{2}{R}{W}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Legendary Enchantment Creature — God",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Enchantment",
+    "Creature"
+  ],
+  "subtypes": [
+    "God"
+  ],
+  "text": "Indestructible\nAs long as your devotion to red and white is less than seven, Iroas isn't a creature.\nCreatures you control have menace. (They can't be blocked except by two or more creatures.)\nPrevent all damage that would be dealt to attacking creatures you control.",
+  "power": "7",
+  "toughness": "4",
+  "imageName": "iroas, god of victory",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

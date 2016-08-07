@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Marsh Boa",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Snake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Snake"
+  ],
+  "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "marsh boa",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Rootwater Hunter",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk"
+  ],
+  "text": "{T}: Rootwater Hunter deals 1 damage to target creature or player.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "rootwater hunter",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Duskdale Wurm",
+  "manaCost": "{5}{G}{G}",
+  "cmc": 7,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "text": "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)",
+  "power": "7",
+  "toughness": "7",
+  "imageName": "duskdale wurm",
+  "colorIdentity": [
+    "G"
+  ]
+}

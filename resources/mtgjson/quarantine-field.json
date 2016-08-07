@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Quarantine Field",
+  "manaCost": "{X}{X}{W}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Quarantine Field enters the battlefield with X isolation counters on it.\nWhen Quarantine Field enters the battlefield, for each isolation counter on it, exile up to one target nonland permanent an opponent controls until Quarantine Field leaves the battlefield.",
+  "imageName": "quarantine field",
+  "colorIdentity": [
+    "W"
+  ]
+}

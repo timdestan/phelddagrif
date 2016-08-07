@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Overwhelming Intellect",
+  "manaCost": "{4}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target creature spell. Draw cards equal to that spell's converted mana cost.",
+  "imageName": "overwhelming intellect",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Lava Zombie",
+  "manaCost": "{1}{B}{R}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "When Lava Zombie enters the battlefield, return a black or red creature you control to its owner's hand.\n{2}: Lava Zombie gets +1/+0 until end of turn.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "lava zombie",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

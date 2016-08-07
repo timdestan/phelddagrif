@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Amnesia",
+  "manaCost": "{3}{U}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target player reveals his or her hand and discards all nonland cards.",
+  "imageName": "amnesia",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Crazed Goblin",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Warrior"
+  ],
+  "text": "Crazed Goblin attacks each turn if able.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "crazed goblin",
+  "colorIdentity": [
+    "R"
+  ]
+}

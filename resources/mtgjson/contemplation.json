@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Contemplation",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever you cast a spell, you gain 1 life.",
+  "imageName": "contemplation",
+  "colorIdentity": [
+    "W"
+  ]
+}

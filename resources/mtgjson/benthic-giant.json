@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Benthic Giant",
+  "manaCost": "{5}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Giant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant"
+  ],
+  "text": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "benthic giant",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Malachite Golem",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "{1}{G}: Malachite Golem gains trample until end of turn.",
+  "power": "5",
+  "toughness": "3",
+  "imageName": "malachite golem",
+  "colorIdentity": [
+    "G"
+  ]
+}

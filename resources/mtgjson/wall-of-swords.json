@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wall of Swords",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender (This creature can't attack.)\nFlying",
+  "power": "3",
+  "toughness": "5",
+  "imageName": "wall of swords",
+  "colorIdentity": [
+    "W"
+  ]
+}

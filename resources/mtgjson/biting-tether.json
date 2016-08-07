@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Biting Tether",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nYou control enchanted creature.\nAt the beginning of your upkeep, put a -1/-1 counter on enchanted creature.",
+  "imageName": "biting tether",
+  "colorIdentity": [
+    "U"
+  ]
+}

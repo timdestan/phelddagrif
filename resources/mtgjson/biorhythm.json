@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Biorhythm",
+  "manaCost": "{6}{G}{G}",
+  "cmc": 8,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Each player's life total becomes the number of creatures he or she controls.",
+  "imageName": "biorhythm",
+  "colorIdentity": [
+    "G"
+  ]
+}

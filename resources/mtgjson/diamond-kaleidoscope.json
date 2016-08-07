@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Diamond Kaleidoscope",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{3}, {T}: Put a 0/1 colorless Prism artifact creature token onto the battlefield.\nSacrifice a Prism token: Add one mana of any color to your mana pool.",
+  "imageName": "diamond kaleidoscope"
+}

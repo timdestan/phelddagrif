@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Blazing Hellhound",
+  "manaCost": "{2}{B}{R}",
+  "cmc": 4,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Elemental Hound",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Hound"
+  ],
+  "text": "{1}, Sacrifice another creature: Blazing Hellhound deals 1 damage to target creature or player.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "blazing hellhound",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

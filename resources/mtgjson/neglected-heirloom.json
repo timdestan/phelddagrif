@@ -1,0 +1,19 @@
+{
+  "layout": "double-faced",
+  "name": "Neglected Heirloom",
+  "names": [
+    "Neglected Heirloom",
+    "Ashmouth Blade"
+  ],
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature gets +1/+1.\nWhen equipped creature transforms, transform Neglected Heirloom.\nEquip {1}",
+  "imageName": "neglected heirloom"
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Shell Skulkin",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Scarecrow",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Scarecrow"
+  ],
+  "text": "{3}: Target blue creature gains shroud until end of turn. (It can't be the target of spells or abilities.)",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "shell skulkin"
+}

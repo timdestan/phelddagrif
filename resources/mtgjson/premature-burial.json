@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Premature Burial",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target nonblack creature that entered the battlefield since your last turn ended.",
+  "imageName": "premature burial",
+  "colorIdentity": [
+    "B"
+  ]
+}

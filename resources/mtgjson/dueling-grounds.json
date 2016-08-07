@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Dueling Grounds",
+  "manaCost": "{1}{G}{W}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "No more than one creature can attack each turn.\nNo more than one creature can block each turn.",
+  "imageName": "dueling grounds",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

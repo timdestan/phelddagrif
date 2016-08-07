@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Firemane Angel",
+  "manaCost": "{3}{R}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying, first strike\nAt the beginning of your upkeep, if Firemane Angel is in your graveyard or on the battlefield, you may gain 1 life.\n{6}{R}{R}{W}{W}: Return Firemane Angel from your graveyard to the battlefield. Activate this ability only during your upkeep.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "firemane angel",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

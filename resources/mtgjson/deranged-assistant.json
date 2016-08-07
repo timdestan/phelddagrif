@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Deranged Assistant",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{T}, Put the top card of your library into your graveyard: Add {C} to your mana pool.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "deranged assistant",
+  "colorIdentity": [
+    "U"
+  ]
+}

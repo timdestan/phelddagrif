@@ -1,0 +1,26 @@
+{
+  "layout": "double-faced",
+  "name": "Gatstaf Howler",
+  "names": [
+    "Gatstaf Shepherd",
+    "Gatstaf Howler"
+  ],
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Werewolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Werewolf"
+  ],
+  "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Gatstaf Howler.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "gatstaf howler",
+  "colorIdentity": [
+    "G"
+  ]
+}

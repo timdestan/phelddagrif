@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Aven Windreader",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Bird Soldier Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird",
+    "Soldier",
+    "Wizard"
+  ],
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\n{1}{U}: Target player reveals the top card of his or her library.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "aven windreader",
+  "colorIdentity": [
+    "U"
+  ]
+}

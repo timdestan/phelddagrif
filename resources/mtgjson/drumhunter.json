@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Drumhunter",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Druid Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Druid",
+    "Warrior"
+  ],
+  "text": "At the beginning of your end step, if you control a creature with power 5 or greater, you may draw a card.\n{T}: Add {C} to your mana pool.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "drumhunter",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Wishmonger",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Unicorn Monger",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Unicorn",
+    "Monger"
+  ],
+  "text": "{2}: Target creature gains protection from the color of its controller's choice until end of turn. Any player may activate this ability.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "wishmonger",
+  "colorIdentity": [
+    "W"
+  ]
+}

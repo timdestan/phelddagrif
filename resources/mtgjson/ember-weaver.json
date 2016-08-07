@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ember Weaver",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Spider",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spider"
+  ],
+  "text": "Reach (This creature can block creatures with flying.)\nAs long as you control a red permanent, Ember Weaver gets +1/+0 and has first strike.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "ember weaver",
+  "colorIdentity": [
+    "G"
+  ]
+}

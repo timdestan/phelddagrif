@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Hunting Moa",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Bird Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird",
+    "Beast"
+  ],
+  "text": "Echo {2}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Hunting Moa enters the battlefield or dies, put a +1/+1 counter on target creature.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "hunting moa",
+  "colorIdentity": [
+    "G"
+  ]
+}

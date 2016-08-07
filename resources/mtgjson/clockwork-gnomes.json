@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Clockwork Gnomes",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Gnome",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Gnome"
+  ],
+  "text": "{3}, {T}: Regenerate target artifact creature.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "clockwork gnomes"
+}

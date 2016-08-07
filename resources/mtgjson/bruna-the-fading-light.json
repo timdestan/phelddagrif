@@ -1,0 +1,32 @@
+{
+  "layout": "meld",
+  "name": "Bruna, the Fading Light",
+  "names": [
+    "Bruna, the Fading Light",
+    "Gisela, the Broken Blade",
+    "Brisela, Voice of Nightmares"
+  ],
+  "manaCost": "{5}{W}{W}",
+  "cmc": 7,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Creature — Angel Horror",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel",
+    "Horror"
+  ],
+  "text": "When you cast Bruna, the Fading Light, you may return target Angel or Human creature card from your graveyard to the battlefield.\nFlying, vigilance\n(Melds with Gisela, the Broken Blade.)",
+  "power": "5",
+  "toughness": "7",
+  "imageName": "bruna, the fading light",
+  "colorIdentity": [
+    "W"
+  ]
+}

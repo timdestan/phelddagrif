@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Vedalken Infuser",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Vedalken Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vedalken",
+    "Wizard"
+  ],
+  "text": "At the beginning of your upkeep, you may put a charge counter on target artifact.",
+  "power": "1",
+  "toughness": "4",
+  "imageName": "vedalken infuser",
+  "colorIdentity": [
+    "U"
+  ]
+}

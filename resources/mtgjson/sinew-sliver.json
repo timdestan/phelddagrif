@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sinew Sliver",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "All Sliver creatures get +1/+1.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "sinew sliver",
+  "colorIdentity": [
+    "W"
+  ]
+}

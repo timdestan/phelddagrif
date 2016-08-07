@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Snow Hound",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Hound",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hound"
+  ],
+  "text": "{1}, {T}: Return Snow Hound and target green or blue creature you control to their owner's hand.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "snow hound",
+  "colorIdentity": [
+    "W"
+  ]
+}

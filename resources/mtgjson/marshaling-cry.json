@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Marshaling Cry",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Creatures you control get +1/+1 and gain vigilance until end of turn.\nCycling {2} ({2}, Discard this card: Draw a card.)\nFlashback {3}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "marshaling cry",
+  "colorIdentity": [
+    "W"
+  ]
+}

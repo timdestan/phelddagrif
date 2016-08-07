@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Thick-Skinned Goblin",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Shaman"
+  ],
+  "text": "You may pay {0} rather than pay the echo cost for permanents you control.\n{R}: Thick-Skinned Goblin gains protection from red until end of turn.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "thick-skinned goblin",
+  "colorIdentity": [
+    "R"
+  ]
+}

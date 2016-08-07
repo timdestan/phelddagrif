@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Nirkana Assassin",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire Assassin Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Assassin",
+    "Ally"
+  ],
+  "text": "Whenever you gain life, Nirkana Assassin gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "nirkana assassin",
+  "colorIdentity": [
+    "B"
+  ]
+}

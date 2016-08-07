@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Putrid Warrior",
+  "manaCost": "{W}{B}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Creature — Zombie Soldier Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Soldier",
+    "Warrior"
+  ],
+  "text": "Whenever Putrid Warrior deals damage, choose one —\n• Each player loses 1 life.\n• Each player gains 1 life.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "putrid warrior",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

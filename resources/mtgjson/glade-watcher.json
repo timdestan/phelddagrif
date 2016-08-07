@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Glade Watcher",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Defender\nFormidable — {G}: Glade Watcher can attack this turn as though it didn't have defender. Activate this ability only if creatures you control have total power 8 or greater.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "glade watcher",
+  "colorIdentity": [
+    "G"
+  ]
+}

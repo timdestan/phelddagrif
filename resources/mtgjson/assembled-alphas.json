@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Assembled Alphas",
+  "manaCost": "{5}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Wolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wolf"
+  ],
+  "text": "Whenever Assembled Alphas blocks or becomes blocked by a creature, Assembled Alphas deals 3 damage to that creature and 3 damage to that creature's controller.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "assembled alphas",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "layout": "plane",
+  "name": "Sokenzan",
+  "type": "Plane — Kamigawa",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Kamigawa"
+  ],
+  "text": "All creatures get +1/+1 and have haste.\nWhenever you roll CHAOS, untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.",
+  "imageName": "sokenzan"
+}

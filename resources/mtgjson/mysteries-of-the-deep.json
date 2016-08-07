@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mysteries of the Deep",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Draw two cards.\nLandfall — If you had a land enter the battlefield under your control this turn, draw three cards instead.",
+  "imageName": "mysteries of the deep",
+  "colorIdentity": [
+    "U"
+  ]
+}

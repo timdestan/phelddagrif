@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Commander's Authority",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature has \"At the beginning of your upkeep, put a 1/1 white Human creature token onto the battlefield.\"",
+  "imageName": "commander's authority",
+  "colorIdentity": [
+    "W"
+  ]
+}

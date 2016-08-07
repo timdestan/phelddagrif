@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Myojin of Infinite Rage",
+  "manaCost": "{7}{R}{R}{R}",
+  "cmc": 10,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Creature — Spirit",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Myojin of Infinite Rage enters the battlefield with a divinity counter on it if you cast it from your hand.\nMyojin of Infinite Rage has indestructible as long as it has a divinity counter on it.\nRemove a divinity counter from Myojin of Infinite Rage: Destroy all lands.",
+  "power": "7",
+  "toughness": "4",
+  "imageName": "myojin of infinite rage",
+  "colorIdentity": [
+    "R"
+  ]
+}

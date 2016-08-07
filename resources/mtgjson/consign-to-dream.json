@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Consign to Dream",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Return target permanent to its owner's hand. If that permanent is red or green, put it on top of its owner's library instead.",
+  "imageName": "consign to dream",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Vodalian Serpent",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Serpent",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Serpent"
+  ],
+  "text": "Kicker {2} (You may pay an additional {2} as you cast this spell.)\nVodalian Serpent can't attack unless defending player controls an Island.\nIf Vodalian Serpent was kicked, it enters the battlefield with four +1/+1 counters on it.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "vodalian serpent",
+  "colorIdentity": [
+    "U"
+  ]
+}

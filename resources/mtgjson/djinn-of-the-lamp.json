@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Djinn of the Lamp",
+  "manaCost": "{5}{U}{U}",
+  "cmc": 7,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Djinn",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Djinn"
+  ],
+  "text": "Flying",
+  "power": "5",
+  "toughness": "6",
+  "imageName": "djinn of the lamp",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Dauthi Horror",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Dauthi Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dauthi",
+    "Horror"
+  ],
+  "text": "Shadow (This creature can block or be blocked by only creatures with shadow.)\nDauthi Horror can't be blocked by white creatures.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "dauthi horror",
+  "colorIdentity": [
+    "B"
+  ]
+}

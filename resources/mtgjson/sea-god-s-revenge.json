@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sea God's Revenge",
+  "manaCost": "{5}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Return up to three target creatures your opponents control to their owners' hands. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "imageName": "sea god's revenge",
+  "colorIdentity": [
+    "U"
+  ]
+}

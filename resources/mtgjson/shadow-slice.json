@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Shadow Slice",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target opponent loses 3 life.\nCipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)",
+  "imageName": "shadow slice",
+  "colorIdentity": [
+    "B"
+  ]
+}

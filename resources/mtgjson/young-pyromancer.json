@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Young Pyromancer",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Shaman"
+  ],
+  "text": "Whenever you cast an instant or sorcery spell, put a 1/1 red Elemental creature token onto the battlefield.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "young pyromancer",
+  "colorIdentity": [
+    "R"
+  ]
+}

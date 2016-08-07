@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Vivid Grove",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Vivid Grove enters the battlefield tapped with two charge counters on it.\n{T}: Add {G} to your mana pool.\n{T}, Remove a charge counter from Vivid Grove: Add one mana of any color to your mana pool.",
+  "imageName": "vivid grove",
+  "colorIdentity": [
+    "G"
+  ]
+}

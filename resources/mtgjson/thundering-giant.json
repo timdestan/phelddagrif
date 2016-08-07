@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Thundering Giant",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Giant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant"
+  ],
+  "text": "Haste (This creature can attack and {T} as soon as it comes under your control.)",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "thundering giant",
+  "colorIdentity": [
+    "R"
+  ]
+}

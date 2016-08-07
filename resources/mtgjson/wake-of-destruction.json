@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Wake of Destruction",
+  "manaCost": "{3}{R}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target land and all other lands with the same name as that land.",
+  "imageName": "wake of destruction",
+  "colorIdentity": [
+    "R"
+  ]
+}

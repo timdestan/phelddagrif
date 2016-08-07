@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Rathi Dragon",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhen Rathi Dragon enters the battlefield, sacrifice it unless you sacrifice two Mountains.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "rathi dragon",
+  "colorIdentity": [
+    "R"
+  ]
+}

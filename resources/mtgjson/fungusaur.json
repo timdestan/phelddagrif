@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Fungusaur",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Fungus Lizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Fungus",
+    "Lizard"
+  ],
+  "text": "Whenever Fungusaur is dealt damage, put a +1/+1 counter on it.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "fungusaur",
+  "colorIdentity": [
+    "G"
+  ]
+}

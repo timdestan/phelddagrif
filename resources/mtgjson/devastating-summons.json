@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Devastating Summons",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "As an additional cost to cast Devastating Summons, sacrifice X lands.\nPut two X/X red Elemental creature tokens onto the battlefield.",
+  "imageName": "devastating summons",
+  "colorIdentity": [
+    "R"
+  ]
+}

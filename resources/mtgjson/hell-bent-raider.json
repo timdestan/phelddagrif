@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Hell-Bent Raider",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Barbarian",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Barbarian"
+  ],
+  "text": "First strike, haste\nDiscard a card at random: Hell-Bent Raider gains protection from white until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "hell-bent raider",
+  "colorIdentity": [
+    "R"
+  ]
+}

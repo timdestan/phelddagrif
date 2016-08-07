@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rapid Decay",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Exile up to three target cards from a single graveyard.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+  "imageName": "rapid decay",
+  "colorIdentity": [
+    "B"
+  ]
+}

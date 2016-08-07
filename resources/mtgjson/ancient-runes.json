@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ancient Runes",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of each player's upkeep, Ancient Runes deals damage to that player equal to the number of artifacts he or she controls.",
+  "imageName": "ancient runes",
+  "colorIdentity": [
+    "R"
+  ]
+}

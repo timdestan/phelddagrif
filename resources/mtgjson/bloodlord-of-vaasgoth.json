@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Bloodlord of Vaasgoth",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Warrior"
+  ],
+  "text": "Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)\nFlying\nWhenever you cast a Vampire creature spell, it gains bloodthirst 3.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "bloodlord of vaasgoth",
+  "colorIdentity": [
+    "B"
+  ]
+}

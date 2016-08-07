@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Orzhov Pontiff",
+  "manaCost": "{1}{W}{B}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "Haunt (When this creature dies, exile it haunting target creature.)\nWhen Orzhov Pontiff enters the battlefield or the creature it haunts dies, choose one —\n• Creatures you control get +1/+1 until end of turn.\n• Creatures you don't control get -1/-1 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "orzhov pontiff",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

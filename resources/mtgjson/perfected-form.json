@@ -1,0 +1,27 @@
+{
+  "layout": "double-faced",
+  "name": "Perfected Form",
+  "names": [
+    "Aberrant Researcher",
+    "Perfected Form"
+  ],
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Insect Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect",
+    "Horror"
+  ],
+  "text": "Flying",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "perfected form",
+  "colorIdentity": [
+    "U"
+  ]
+}

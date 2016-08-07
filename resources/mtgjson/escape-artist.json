@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Escape Artist",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Escape Artist can't be blocked.\n{U}, Discard a card: Return Escape Artist to its owner's hand.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "escape artist",
+  "colorIdentity": [
+    "U"
+  ]
+}

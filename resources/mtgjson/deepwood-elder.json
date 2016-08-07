@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Deepwood Elder",
+  "manaCost": "{G}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Dryad Spellshaper",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dryad",
+    "Spellshaper"
+  ],
+  "text": "{X}{G}{G}, {T}, Discard a card: X target lands become Forests until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "deepwood elder",
+  "colorIdentity": [
+    "G"
+  ]
+}

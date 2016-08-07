@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Rogue's Gloves",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Whenever equipped creature deals combat damage to a player, you may draw a card.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+  "imageName": "rogue's gloves"
+}

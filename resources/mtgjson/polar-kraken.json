@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Polar Kraken",
+  "manaCost": "{8}{U}{U}{U}",
+  "cmc": 11,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Kraken",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kraken"
+  ],
+  "text": "Trample\nPolar Kraken enters the battlefield tapped.\nCumulative upkeep—Sacrifice a land. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",
+  "power": "11",
+  "toughness": "11",
+  "imageName": "polar kraken",
+  "colorIdentity": [
+    "U"
+  ]
+}

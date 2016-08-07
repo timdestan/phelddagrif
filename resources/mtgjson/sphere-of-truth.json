@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sphere of Truth",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "If a white source would deal damage to you, prevent 2 of that damage.",
+  "imageName": "sphere of truth",
+  "colorIdentity": [
+    "W"
+  ]
+}

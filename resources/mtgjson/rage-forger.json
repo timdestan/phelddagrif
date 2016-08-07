@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Rage Forger",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Shaman"
+  ],
+  "text": "When Rage Forger enters the battlefield, put a +1/+1 counter on each other Shaman creature you control.\nWhenever a creature you control with a +1/+1 counter on it attacks, you may have that creature deal 1 damage to target player.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "rage forger",
+  "colorIdentity": [
+    "R"
+  ]
+}

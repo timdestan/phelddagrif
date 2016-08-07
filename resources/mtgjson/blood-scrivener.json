@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Blood Scrivener",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Wizard"
+  ],
+  "text": "If you would draw a card while you have no cards in hand, instead draw two cards and lose 1 life.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "blood scrivener",
+  "colorIdentity": [
+    "B"
+  ]
+}

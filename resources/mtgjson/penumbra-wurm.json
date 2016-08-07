@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Penumbra Wurm",
+  "manaCost": "{5}{G}{G}",
+  "cmc": 7,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "text": "Trample\nWhen Penumbra Wurm dies, put a 6/6 black Wurm creature token with trample onto the battlefield.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "penumbra wurm",
+  "colorIdentity": [
+    "G"
+  ]
+}

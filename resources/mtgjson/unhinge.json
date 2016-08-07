@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Unhinge",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target player discards a card.\nDraw a card.",
+  "imageName": "unhinge",
+  "colorIdentity": [
+    "B"
+  ]
+}

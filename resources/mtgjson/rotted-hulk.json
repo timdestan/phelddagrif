@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Rotted Hulk",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "power": "2",
+  "toughness": "5",
+  "imageName": "rotted hulk",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Pain Magnification",
+  "manaCost": "{1}{B}{R}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever an opponent is dealt 3 or more damage by a single source, that player discards a card.",
+  "imageName": "pain magnification",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Battle Brawler",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Orc Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Orc",
+    "Warrior"
+  ],
+  "text": "As long as you control a red or white permanent, Battle Brawler gets +1/+0 and has first strike.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "battle brawler",
+  "colorIdentity": [
+    "B"
+  ]
+}

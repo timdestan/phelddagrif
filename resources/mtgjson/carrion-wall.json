@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Carrion Wall",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender (This creature can't attack.)\n{1}{B}: Regenerate Carrion Wall.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "carrion wall",
+  "colorIdentity": [
+    "B"
+  ]
+}

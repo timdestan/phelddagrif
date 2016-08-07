@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Vulpine Goliath",
+  "manaCost": "{4}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Fox",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Fox"
+  ],
+  "text": "Trample",
+  "power": "6",
+  "toughness": "5",
+  "imageName": "vulpine goliath",
+  "colorIdentity": [
+    "G"
+  ]
+}

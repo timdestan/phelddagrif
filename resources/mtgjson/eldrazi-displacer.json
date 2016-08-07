@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Eldrazi Displacer",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "type": "Creature — Eldrazi",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi"
+  ],
+  "text": "Devoid (This card has no color.)\n{2}{C}: Exile another target creature, then return it to the battlefield tapped under its owner's control. ({C} represents colorless mana.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "eldrazi displacer",
+  "colorIdentity": [
+    "W"
+  ]
+}

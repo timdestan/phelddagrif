@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Sunspire Gatekeepers",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "When Sunspire Gatekeepers enters the battlefield, if you control two or more Gates, put a 2/2 white Knight creature token with vigilance onto the battlefield.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "sunspire gatekeepers",
+  "colorIdentity": [
+    "W"
+  ]
+}

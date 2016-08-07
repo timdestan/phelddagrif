@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Phyrexian Rebirth",
+  "manaCost": "{4}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy all creatures, then put an X/X colorless Horror artifact creature token onto the battlefield, where X is the number of creatures destroyed this way.",
+  "imageName": "phyrexian rebirth",
+  "colorIdentity": [
+    "W"
+  ]
+}

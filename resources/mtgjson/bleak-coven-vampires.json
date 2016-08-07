@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Bleak Coven Vampires",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Warrior"
+  ],
+  "text": "Metalcraft — When Bleak Coven Vampires enters the battlefield, if you control three or more artifacts, target player loses 4 life and you gain 4 life.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "bleak coven vampires",
+  "colorIdentity": [
+    "B"
+  ]
+}

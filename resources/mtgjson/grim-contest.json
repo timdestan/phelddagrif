@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Grim Contest",
+  "manaCost": "{1}{B}{G}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose target creature you control and target creature an opponent controls. Each of those creatures deals damage equal to its toughness to the other.",
+  "imageName": "grim contest",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

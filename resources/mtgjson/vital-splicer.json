@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Vital Splicer",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Artificer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Artificer"
+  ],
+  "text": "When Vital Splicer enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield.\n{1}: Regenerate target Golem you control.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "vital splicer",
+  "colorIdentity": [
+    "G"
+  ]
+}

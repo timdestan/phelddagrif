@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mishra's War Machine",
+  "manaCost": "{7}",
+  "cmc": 7,
+  "type": "Artifact Creature — Juggernaut",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Juggernaut"
+  ],
+  "text": "Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)\nAt the beginning of your upkeep, Mishra's War Machine deals 3 damage to you unless you discard a card. If Mishra's War Machine deals damage to you this way, tap it.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "mishra's war machine"
+}

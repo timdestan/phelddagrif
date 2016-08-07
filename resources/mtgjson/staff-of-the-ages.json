@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Staff of the Ages",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Creatures with landwalk abilities can be blocked as though they didn't have those abilities.",
+  "imageName": "staff of the ages"
+}

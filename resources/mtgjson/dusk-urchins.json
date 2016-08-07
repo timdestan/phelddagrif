@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dusk Urchins",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Ouphe",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ouphe"
+  ],
+  "text": "Whenever Dusk Urchins attacks or blocks, put a -1/-1 counter on it.\nWhen Dusk Urchins dies, draw a card for each -1/-1 counter on it.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "dusk urchins",
+  "colorIdentity": [
+    "B"
+  ]
+}

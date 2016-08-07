@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Tinker",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "As an additional cost to cast Tinker, sacrifice an artifact.\nSearch your library for an artifact card and put that card onto the battlefield. Then shuffle your library.",
+  "imageName": "tinker",
+  "colorIdentity": [
+    "U"
+  ]
+}

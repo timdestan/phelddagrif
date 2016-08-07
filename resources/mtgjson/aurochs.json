@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Aurochs",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Aurochs",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Aurochs"
+  ],
+  "text": "Trample\nWhenever Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "aurochs",
+  "colorIdentity": [
+    "G"
+  ]
+}

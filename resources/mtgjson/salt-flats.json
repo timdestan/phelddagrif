@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Salt Flats",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Salt Flats enters the battlefield tapped.\n{T}: Add {C} to your mana pool.\n{T}: Add {W} or {B} to your mana pool. Salt Flats deals 1 damage to you.",
+  "imageName": "salt flats",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

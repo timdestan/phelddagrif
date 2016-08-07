@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Part Water",
+  "manaCost": "{X}{X}{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "X target creatures gain islandwalk until end of turn. (They can't be blocked as long as defending player controls an Island.)",
+  "imageName": "part water",
+  "colorIdentity": [
+    "U"
+  ]
+}

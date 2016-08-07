@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Stronghold Taskmaster",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Giant Minion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant",
+    "Minion"
+  ],
+  "text": "Other black creatures get -1/-1.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "stronghold taskmaster",
+  "colorIdentity": [
+    "B"
+  ]
+}

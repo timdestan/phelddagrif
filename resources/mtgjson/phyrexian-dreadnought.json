@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Phyrexian Dreadnought",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact Creature — Dreadnought",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Dreadnought"
+  ],
+  "text": "Trample\nWhen Phyrexian Dreadnought enters the battlefield, sacrifice it unless you sacrifice any number of creatures with total power 12 or greater.",
+  "power": "12",
+  "toughness": "12",
+  "imageName": "phyrexian dreadnought"
+}

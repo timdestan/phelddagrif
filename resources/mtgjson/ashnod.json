@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Ashnod",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "Whenever a creature deals damage to you, destroy it.",
+  "imageName": "ashnod",
+  "hand": 1,
+  "life": -8
+}

@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Bloodhall Priest",
+  "manaCost": "{2}{B}{R}",
+  "cmc": 4,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Vampire Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Cleric"
+  ],
+  "text": "Whenever Bloodhall Priest enters the battlefield or attacks, if you have no cards in hand, Bloodhall Priest deals 2 damage to target creature or player.\nMadness {1}{B}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "bloodhall priest",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

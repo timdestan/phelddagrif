@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Curse of Chaos",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment — Aura Curse",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura",
+    "Curse"
+  ],
+  "text": "Enchant player\nWhenever a player attacks enchanted player with one or more creatures, that attacking player may discard a card. If the player does, he or she draws a card.",
+  "imageName": "curse of chaos",
+  "colorIdentity": [
+    "R"
+  ]
+}

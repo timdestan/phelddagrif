@@ -1,0 +1,26 @@
+{
+  "layout": "double-faced",
+  "name": "Vildin-Pack Alpha",
+  "names": [
+    "Geier Reach Bandit",
+    "Vildin-Pack Alpha"
+  ],
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Werewolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Werewolf"
+  ],
+  "text": "Whenever a Werewolf enters the battlefield under your control, you may transform it.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Vildin-Pack Alpha.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "vildin-pack alpha",
+  "colorIdentity": [
+    "R"
+  ]
+}

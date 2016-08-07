@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Jhessian Zombies",
+  "manaCost": "{4}{U}{B}",
+  "cmc": 6,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nIslandcycling {2}, swampcycling {2} ({2}, Discard this card: Search your library for an Island or Swamp card, reveal it, and put it into your hand. Then shuffle your library.)",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "jhessian zombies",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Bloodthirsty Ogre",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Ogre Warrior Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ogre",
+    "Warrior",
+    "Shaman"
+  ],
+  "text": "{T}: Put a devotion counter on Bloodthirsty Ogre.\n{T}: Target creature gets -X/-X until end of turn, where X is the number of devotion counters on Bloodthirsty Ogre. Activate this ability only if you control a Demon.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "bloodthirsty ogre",
+  "colorIdentity": [
+    "B"
+  ]
+}

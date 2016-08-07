@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Flowstone Channeler",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Spellshaper",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Spellshaper"
+  ],
+  "text": "{1}{R}, {T}, Discard a card: Target creature gets +1/-1 and gains haste until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "flowstone channeler",
+  "colorIdentity": [
+    "R"
+  ]
+}

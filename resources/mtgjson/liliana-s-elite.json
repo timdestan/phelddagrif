@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Liliana's Elite",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Liliana's Elite gets +1/+1 for each creature card in your graveyard.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "liliana's elite",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Alchor's Tomb",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, {T}: Target permanent you control becomes the color of your choice. (This effect lasts indefinitely.)",
+  "imageName": "alchor's tomb"
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Vampire Nocturnus Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "Play with the top card of your library revealed.\nAs long as the top card of your library is black, black creatures you control get +2/+1.",
+  "imageName": "vampire nocturnus avatar",
+  "hand": -1,
+  "life": -2
+}

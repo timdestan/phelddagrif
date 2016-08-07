@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Tower Gargoyle",
+  "manaCost": "{1}{W}{U}{B}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Blue",
+    "Black"
+  ],
+  "type": "Artifact Creature — Gargoyle",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Gargoyle"
+  ],
+  "text": "Flying",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "tower gargoyle",
+  "colorIdentity": [
+    "W",
+    "U",
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sparkmage's Gambit",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Sparkmage's Gambit deals 1 damage to each of up to two target creatures. Those creatures can't block this turn.",
+  "imageName": "sparkmage's gambit",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Invigorate",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "If you control a Forest, rather than pay Invigorate's mana cost, you may have an opponent gain 3 life.\nTarget creature gets +4/+4 until end of turn.",
+  "imageName": "invigorate",
+  "colorIdentity": [
+    "G"
+  ]
+}

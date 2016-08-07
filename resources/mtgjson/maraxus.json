@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Maraxus",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "Creatures you control get +1/+0.",
+  "imageName": "maraxus",
+  "hand": 1,
+  "life": 2
+}

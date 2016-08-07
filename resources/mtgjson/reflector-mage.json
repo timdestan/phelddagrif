@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Reflector Mage",
+  "manaCost": "{1}{W}{U}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "When Reflector Mage enters the battlefield, return target creature an opponent controls to its owner's hand. That creature's owner can't cast spells with the same name as that creature until your next turn.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "reflector mage",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

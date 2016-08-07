@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Magus of the Candelabra",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{X}, {T}: Untap X target lands.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "magus of the candelabra",
+  "colorIdentity": [
+    "G"
+  ]
+}

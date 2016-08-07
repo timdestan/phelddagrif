@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Trespasser il-Vec",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "Discard a card: Trespasser il-Vec gains shadow until end of turn. (It can block or be blocked by only creatures with shadow.)",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "trespasser il-vec",
+  "colorIdentity": [
+    "B"
+  ]
+}

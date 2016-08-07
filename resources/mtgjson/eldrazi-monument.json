@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Eldrazi Monument",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Creatures you control get +1/+1 and have flying and indestructible.\nAt the beginning of your upkeep, sacrifice a creature. If you can't, sacrifice Eldrazi Monument.",
+  "imageName": "eldrazi monument"
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Accumulated Knowledge",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Draw a card, then draw cards equal to the number of cards named Accumulated Knowledge in all graveyards.",
+  "imageName": "accumulated knowledge",
+  "colorIdentity": [
+    "U"
+  ]
+}

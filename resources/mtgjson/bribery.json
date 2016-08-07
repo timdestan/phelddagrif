@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Bribery",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Search target opponent's library for a creature card and put that card onto the battlefield under your control. Then that player shuffles his or her library.",
+  "imageName": "bribery",
+  "colorIdentity": [
+    "U"
+  ]
+}

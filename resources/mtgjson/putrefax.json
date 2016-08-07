@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Putrefax",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "Trample, haste\nInfect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nAt the beginning of the end step, sacrifice Putrefax.",
+  "power": "5",
+  "toughness": "3",
+  "imageName": "putrefax",
+  "colorIdentity": [
+    "G"
+  ]
+}

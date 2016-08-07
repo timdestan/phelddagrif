@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Enchantment Alteration",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Attach target Aura attached to a creature or land to another permanent of that type.",
+  "imageName": "enchantment alteration",
+  "colorIdentity": [
+    "U"
+  ]
+}

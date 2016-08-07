@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Tsabo's Web",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "When Tsabo's Web enters the battlefield, draw a card.\nEach land with an activated ability that isn't a mana ability doesn't untap during its controller's untap step.",
+  "imageName": "tsabo's web"
+}

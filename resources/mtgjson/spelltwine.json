@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Spelltwine",
+  "manaCost": "{5}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Exile target instant or sorcery card from your graveyard and target instant or sorcery card from an opponent's graveyard. Copy those cards. Cast the copies if able without paying their mana costs. Exile Spelltwine.",
+  "imageName": "spelltwine",
+  "colorIdentity": [
+    "U"
+  ]
+}

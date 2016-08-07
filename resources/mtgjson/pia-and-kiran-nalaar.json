@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Pia and Kiran Nalaar",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Creature — Human Artificer",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Artificer"
+  ],
+  "text": "When Pia and Kiran Nalaar enters the battlefield, put two 1/1 colorless Thopter artifact creature tokens with flying onto the battlefield.\n{2}{R}, Sacrifice an artifact: Pia and Kiran Nalaar deals 2 damage to target creature or player.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "pia and kiran nalaar",
+  "colorIdentity": [
+    "R"
+  ]
+}

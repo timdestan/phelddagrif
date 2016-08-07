@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Folk Medicine",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "You gain 1 life for each creature you control.\nFlashback {1}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "folk medicine",
+  "colorIdentity": [
+    "G",
+    "W"
+  ]
+}

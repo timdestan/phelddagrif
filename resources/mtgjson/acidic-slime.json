@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Acidic Slime",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Ooze",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ooze"
+  ],
+  "text": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)\nWhen Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "acidic slime",
+  "colorIdentity": [
+    "G"
+  ]
+}

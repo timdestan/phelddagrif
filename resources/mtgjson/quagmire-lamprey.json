@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Quagmire Lamprey",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Fish",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Fish"
+  ],
+  "text": "Whenever Quagmire Lamprey becomes blocked by a creature, put a -1/-1 counter on that creature.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "quagmire lamprey",
+  "colorIdentity": [
+    "B"
+  ]
+}

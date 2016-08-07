@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ridge Rannet",
+  "manaCost": "{5}{R}{R}",
+  "cmc": 7,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Cycling {2} ({2}, Discard this card: Draw a card.)",
+  "power": "6",
+  "toughness": "4",
+  "imageName": "ridge rannet",
+  "colorIdentity": [
+    "R"
+  ]
+}

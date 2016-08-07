@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Gorilla Chieftain",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Ape",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ape"
+  ],
+  "text": "{1}{G}: Regenerate Gorilla Chieftain.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "gorilla chieftain",
+  "colorIdentity": [
+    "G"
+  ]
+}

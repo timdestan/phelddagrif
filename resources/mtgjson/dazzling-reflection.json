@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dazzling Reflection",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "You gain life equal to target creature's power. The next time that creature would deal damage this turn, prevent that damage.",
+  "imageName": "dazzling reflection",
+  "colorIdentity": [
+    "W"
+  ]
+}

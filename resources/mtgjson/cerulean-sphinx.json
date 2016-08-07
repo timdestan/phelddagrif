@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Cerulean Sphinx",
+  "manaCost": "{4}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Sphinx",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sphinx"
+  ],
+  "text": "Flying\n{U}: Cerulean Sphinx's owner shuffles it into his or her library.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "cerulean sphinx",
+  "colorIdentity": [
+    "U"
+  ]
+}

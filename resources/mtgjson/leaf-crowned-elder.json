@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Leaf-Crowned Elder",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Treefolk Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Treefolk",
+    "Shaman"
+  ],
+  "text": "Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Leaf-Crowned Elder, you may reveal it. If you do, you may play that card without paying its mana cost.",
+  "power": "3",
+  "toughness": "5",
+  "imageName": "leaf-crowned elder",
+  "colorIdentity": [
+    "G"
+  ]
+}

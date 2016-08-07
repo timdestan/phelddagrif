@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Overrule",
+  "manaCost": "{X}{W}{U}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell unless its controller pays {X}. You gain X life.",
+  "imageName": "overrule",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

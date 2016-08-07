@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Suq'Ata Firewalker",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Suq'Ata Firewalker can't be the target of red spells or abilities from red sources.\n{T}: Suq'Ata Firewalker deals 1 damage to target creature or player.",
+  "power": "0",
+  "toughness": "1",
+  "imageName": "suq'ata firewalker",
+  "colorIdentity": [
+    "U"
+  ]
+}

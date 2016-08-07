@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Cho-Arrim Alchemist",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Spellshaper",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Spellshaper"
+  ],
+  "text": "{1}{W}{W}, {T}, Discard a card: The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "cho-arrim alchemist",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Hoverguard Observer",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Drone",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drone"
+  ],
+  "text": "Flying\nHoverguard Observer can block only creatures with flying.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "hoverguard observer",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Fire Whip",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature you control\nEnchanted creature has \"{T}: This creature deals 1 damage to target creature or player.\"\nSacrifice Fire Whip: Fire Whip deals 1 damage to target creature or player.",
+  "imageName": "fire whip",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Battering Craghorn",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goat Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goat",
+    "Beast"
+  ],
+  "text": "First strike\nMorph {1}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "battering craghorn",
+  "colorIdentity": [
+    "R"
+  ]
+}

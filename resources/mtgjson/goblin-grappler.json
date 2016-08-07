@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Goblin Grappler",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "Provoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "goblin grappler",
+  "colorIdentity": [
+    "R"
+  ]
+}

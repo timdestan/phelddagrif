@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Matca Rioters",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "Domain — Matca Rioters's power and toughness are each equal to the number of basic land types among lands you control.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "matca rioters",
+  "colorIdentity": [
+    "G"
+  ]
+}

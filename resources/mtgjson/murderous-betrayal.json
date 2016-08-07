@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Murderous Betrayal",
+  "manaCost": "{B}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{B}{B}, Pay half your life, rounded up: Destroy target nonblack creature. It can't be regenerated.",
+  "imageName": "murderous betrayal",
+  "colorIdentity": [
+    "B"
+  ]
+}

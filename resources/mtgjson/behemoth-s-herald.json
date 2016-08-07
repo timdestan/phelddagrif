@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Behemoth's Herald",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Shaman"
+  ],
+  "text": "{2}{G}, {T}, Sacrifice a red creature, a green creature, and a white creature: Search your library for a card named Godsire and put it onto the battlefield. Then shuffle your library.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "behemoth's herald",
+  "colorIdentity": [
+    "G"
+  ]
+}

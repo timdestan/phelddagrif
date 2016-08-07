@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Kokusho, the Evening Star",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Legendary Creature — Dragon Spirit",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon",
+    "Spirit"
+  ],
+  "text": "Flying\nWhen Kokusho, the Evening Star dies, each opponent loses 5 life. You gain life equal to the life lost this way.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "kokusho, the evening star",
+  "colorIdentity": [
+    "B"
+  ]
+}

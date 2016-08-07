@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Heavy Infantry",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "When Heavy Infantry enters the battlefield, tap target creature an opponent controls.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "heavy infantry",
+  "colorIdentity": [
+    "W"
+  ]
+}

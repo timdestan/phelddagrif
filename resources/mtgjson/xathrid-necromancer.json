@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Xathrid Necromancer",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Whenever Xathrid Necromancer or another Human creature you control dies, put a 2/2 black Zombie creature token onto the battlefield tapped.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "xathrid necromancer",
+  "colorIdentity": [
+    "B"
+  ]
+}

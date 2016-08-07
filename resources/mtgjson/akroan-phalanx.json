@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Akroan Phalanx",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Vigilance\n{2}{R}: Creatures you control get +1/+0 until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "akroan phalanx",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

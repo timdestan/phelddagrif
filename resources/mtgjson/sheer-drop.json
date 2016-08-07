@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sheer Drop",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target tapped creature.\nAwaken 3—{5}{W} (If you cast this spell for {5}{W}, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",
+  "imageName": "sheer drop",
+  "colorIdentity": [
+    "W"
+  ]
+}

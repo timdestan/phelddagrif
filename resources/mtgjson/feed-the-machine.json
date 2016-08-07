@@ -1,0 +1,10 @@
+{
+  "layout": "scheme",
+  "name": "Feed the Machine",
+  "type": "Scheme",
+  "types": [
+    "Scheme"
+  ],
+  "text": "When you set this scheme in motion, target opponent chooses self or others. If that player chooses self, he or she sacrifices two creatures. If the player chooses others, each of your other opponents sacrifices a creature.",
+  "imageName": "feed the machine"
+}

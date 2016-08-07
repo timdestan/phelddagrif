@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Ascendant Evincar",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Legendary Creature — Vampire",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire"
+  ],
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nOther black creatures get +1/+1.\nNonblack creatures get -1/-1.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "ascendant evincar",
+  "colorIdentity": [
+    "B"
+  ]
+}

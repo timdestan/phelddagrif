@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Lost in the Mist",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell. Return target permanent to its owner's hand.",
+  "imageName": "lost in the mist",
+  "colorIdentity": [
+    "U"
+  ]
+}

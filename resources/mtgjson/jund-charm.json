@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Jund Charm",
+  "manaCost": "{B}{R}{G}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose one —\n• Exile all cards from target player's graveyard.\n• Jund Charm deals 2 damage to each creature.\n• Put two +1/+1 counters on target creature.",
+  "imageName": "jund charm",
+  "colorIdentity": [
+    "B",
+    "R",
+    "G"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Charging Paladin",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "Whenever Charging Paladin attacks, it gets +0/+3 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "charging paladin",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Devilthorn Fox",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Fox",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Fox"
+  ],
+  "power": "3",
+  "toughness": "1",
+  "imageName": "devilthorn fox",
+  "colorIdentity": [
+    "W"
+  ]
+}

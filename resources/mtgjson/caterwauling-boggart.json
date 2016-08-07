@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Caterwauling Boggart",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Shaman"
+  ],
+  "text": "Goblins you control and Elementals you control have menace. (They can't be blocked except by two or more creatures.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "caterwauling boggart",
+  "colorIdentity": [
+    "R"
+  ]
+}

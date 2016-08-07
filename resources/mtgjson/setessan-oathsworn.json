@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Setessan Oathsworn",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Satyr Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Satyr",
+    "Warrior"
+  ],
+  "text": "Heroic — Whenever you cast a spell that targets Setessan Oathsworn, put two +1/+1 counters on Setessan Oathsworn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "setessan oathsworn",
+  "colorIdentity": [
+    "G"
+  ]
+}

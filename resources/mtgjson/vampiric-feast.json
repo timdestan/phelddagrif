@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Vampiric Feast",
+  "manaCost": "{5}{B}{B}",
+  "cmc": 7,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Vampiric Feast deals 4 damage to target creature or player and you gain 4 life.",
+  "imageName": "vampiric feast",
+  "colorIdentity": [
+    "B"
+  ]
+}

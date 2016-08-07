@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Psychatog",
+  "manaCost": "{1}{U}{B}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Creature — Atog",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Atog"
+  ],
+  "text": "Discard a card: Psychatog gets +1/+1 until end of turn.\nExile two cards from your graveyard: Psychatog gets +1/+1 until end of turn.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "psychatog",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

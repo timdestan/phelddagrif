@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Fanatical Fever",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gets +3/+0 and gains trample until end of turn.",
+  "imageName": "fanatical fever",
+  "colorIdentity": [
+    "G"
+  ]
+}

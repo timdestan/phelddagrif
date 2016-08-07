@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Burn the Impure",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Burn the Impure deals 3 damage to target creature. If that creature has infect, Burn the Impure deals 3 damage to that creature's controller.",
+  "imageName": "burn the impure",
+  "colorIdentity": [
+    "R"
+  ]
+}

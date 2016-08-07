@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Rancid Rats",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Rat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Rat"
+  ],
+  "text": "Skulk (This creature can't be blocked by creatures with greater power.)\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "rancid rats",
+  "colorIdentity": [
+    "B"
+  ]
+}

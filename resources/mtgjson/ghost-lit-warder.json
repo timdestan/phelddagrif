@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ghost-Lit Warder",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "{3}{U}, {T}: Counter target spell unless its controller pays {2}.\nChannel — {3}{U}, Discard Ghost-Lit Warder: Counter target spell unless its controller pays {4}.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "ghost-lit warder",
+  "colorIdentity": [
+    "U"
+  ]
+}

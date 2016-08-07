@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Resounding Roar",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gets +3/+3 until end of turn.\nCycling {5}{R}{G}{W} ({5}{R}{G}{W}, Discard this card: Draw a card.)\nWhen you cycle Resounding Roar, target creature gets +6/+6 until end of turn.",
+  "imageName": "resounding roar",
+  "colorIdentity": [
+    "G",
+    "R",
+    "W"
+  ]
+}

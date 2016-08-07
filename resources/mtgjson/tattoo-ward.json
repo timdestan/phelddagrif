@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Tattoo Ward",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets +1/+1 and has protection from enchantments. This effect doesn't remove Tattoo Ward.\nSacrifice Tattoo Ward: Destroy target enchantment.",
+  "imageName": "tattoo ward",
+  "colorIdentity": [
+    "W"
+  ]
+}

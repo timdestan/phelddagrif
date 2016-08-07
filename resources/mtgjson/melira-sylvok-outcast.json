@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Melira, Sylvok Outcast",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Legendary Creature — Human Scout",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Scout"
+  ],
+  "text": "You can't get poison counters.\nCreatures you control can't have -1/-1 counters placed on them.\nCreatures your opponents control lose infect.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "melira, sylvok outcast",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "layout": "double-faced",
+  "name": "Chosen of Markov",
+  "names": [
+    "Chosen of Markov",
+    "Markov's Servant"
+  ],
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human"
+  ],
+  "text": "{T}, Tap an untapped Vampire you control: Transform Chosen of Markov.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "chosen of markov",
+  "colorIdentity": [
+    "B"
+  ]
+}

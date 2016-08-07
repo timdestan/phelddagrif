@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Megatherium",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Trample\nWhen Megatherium enters the battlefield, sacrifice it unless you pay {1} for each card in your hand.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "megatherium",
+  "colorIdentity": [
+    "G"
+  ]
+}

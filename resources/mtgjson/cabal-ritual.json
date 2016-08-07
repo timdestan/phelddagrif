@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Cabal Ritual",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Add {B}{B}{B} to your mana pool.\nThreshold — Add {B}{B}{B}{B}{B} to your mana pool instead if seven or more cards are in your graveyard.",
+  "imageName": "cabal ritual",
+  "colorIdentity": [
+    "B"
+  ]
+}

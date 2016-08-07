@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Swarm Surge",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Devoid (This card has no color.)\nCreatures you control get +2/+0 until end of turn. Colorless creatures you control also gain first strike until end of turn.",
+  "imageName": "swarm surge",
+  "colorIdentity": [
+    "B"
+  ]
+}

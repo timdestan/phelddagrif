@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ivory Giant",
+  "manaCost": "{5}{W}{W}",
+  "cmc": 7,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Giant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant"
+  ],
+  "text": "When Ivory Giant enters the battlefield, tap all nonwhite creatures.\nSuspend 5—{W} (Rather than cast this card from your hand, you may pay {W} and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "ivory giant",
+  "colorIdentity": [
+    "W"
+  ]
+}

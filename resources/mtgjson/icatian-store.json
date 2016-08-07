@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Icatian Store",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Icatian Store enters the battlefield tapped.\nYou may choose not to untap Icatian Store during your untap step.\nAt the beginning of your upkeep, if Icatian Store is tapped, put a storage counter on it.\n{T}, Remove any number of storage counters from Icatian Store: Add {W} to your mana pool for each storage counter removed this way.",
+  "imageName": "icatian store",
+  "colorIdentity": [
+    "W"
+  ]
+}

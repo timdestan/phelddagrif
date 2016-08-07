@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Staggershock",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Staggershock deals 2 damage to target creature or player.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+  "imageName": "staggershock",
+  "colorIdentity": [
+    "R"
+  ]
+}

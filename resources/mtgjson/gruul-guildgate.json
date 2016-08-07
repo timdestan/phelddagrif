@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Gruul Guildgate",
+  "type": "Land — Gate",
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Gate"
+  ],
+  "text": "Gruul Guildgate enters the battlefield tapped.\n{T}: Add {R} or {G} to your mana pool.",
+  "imageName": "gruul guildgate",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

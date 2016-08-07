@@ -1,0 +1,21 @@
+{
+  "layout": "double-faced",
+  "name": "Aurora of Emrakul",
+  "names": [
+    "Cryptolith Fragment",
+    "Aurora of Emrakul"
+  ],
+  "cmc": 3,
+  "type": "Creature — Eldrazi Reflection",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Reflection"
+  ],
+  "text": "Flying, deathtouch\nWhenever Aurora of Emrakul attacks, each opponent loses 3 life.",
+  "power": "1",
+  "toughness": "4",
+  "imageName": "aurora of emrakul"
+}

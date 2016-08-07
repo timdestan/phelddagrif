@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Writ of Passage",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nWhenever enchanted creature attacks, if its power is 2 or less, it can't be blocked this turn.\nForecast — {1}{U}, Reveal Writ of Passage from your hand: Target creature with power 2 or less can't be blocked this turn. (Activate this ability only during your upkeep and only once each turn.)",
+  "imageName": "writ of passage",
+  "colorIdentity": [
+    "U"
+  ]
+}

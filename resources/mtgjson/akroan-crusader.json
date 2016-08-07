@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Akroan Crusader",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Heroic — Whenever you cast a spell that targets Akroan Crusader, put a 1/1 red Soldier creature token with haste onto the battlefield.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "akroan crusader",
+  "colorIdentity": [
+    "R"
+  ]
+}

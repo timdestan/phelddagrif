@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Wirewood Elf",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Druid"
+  ],
+  "text": "{T}: Add {G} to your mana pool.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "wirewood elf",
+  "colorIdentity": [
+    "G"
+  ]
+}

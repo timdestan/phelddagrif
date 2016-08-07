@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Defiant Strike",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gets +1/+0 until end of turn.\nDraw a card.",
+  "imageName": "defiant strike",
+  "colorIdentity": [
+    "W"
+  ]
+}

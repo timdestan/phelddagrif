@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Angel's Herald",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "{2}{W}, {T}, Sacrifice a green creature, a white creature, and a blue creature: Search your library for a card named Empyrial Archangel and put it onto the battlefield. Then shuffle your library.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "angel's herald",
+  "colorIdentity": [
+    "W"
+  ]
+}

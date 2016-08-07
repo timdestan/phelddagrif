@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Gaea's Bounty",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Search your library for up to two Forest cards, reveal those cards, and put them into your hand. Then shuffle your library.",
+  "imageName": "gaea's bounty",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Pick the Brain",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target opponent reveals his or her hand. You choose a nonland card from it and exile that card.\nDelirium — If there are four or more card types among cards in your graveyard, search that player's graveyard, hand, and library for any number of cards with the same name as the exiled card, exile those cards, then that player shuffles his or her library.",
+  "imageName": "pick the brain",
+  "colorIdentity": [
+    "B"
+  ]
+}

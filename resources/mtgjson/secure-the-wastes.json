@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Secure the Wastes",
+  "manaCost": "{X}{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Put X 1/1 white Warrior creature tokens onto the battlefield.",
+  "imageName": "secure the wastes",
+  "colorIdentity": [
+    "W"
+  ]
+}

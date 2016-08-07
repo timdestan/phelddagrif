@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Hum of the Radix",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Each artifact spell costs {1} more to cast for each artifact its controller controls.",
+  "imageName": "hum of the radix",
+  "colorIdentity": [
+    "G"
+  ]
+}

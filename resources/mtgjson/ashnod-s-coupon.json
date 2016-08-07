@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Ashnod's Coupon",
+  "manaCost": "{0}",
+  "cmc": 0,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}, Sacrifice Ashnod's Coupon: Target player gets you target drink.\nErrata: You pay any costs for the drink.",
+  "imageName": "ashnod's coupon"
+}

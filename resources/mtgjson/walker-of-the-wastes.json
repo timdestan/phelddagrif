@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Walker of the Wastes",
+  "manaCost": "{4}{C}",
+  "cmc": 5,
+  "type": "Creature — Eldrazi",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi"
+  ],
+  "text": "({C} represents colorless mana.)\nTrample\nWalker of the Wastes gets +1/+1 for each land you control named Wastes.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "walker of the wastes"
+}

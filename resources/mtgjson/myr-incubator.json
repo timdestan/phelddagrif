@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Myr Incubator",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{6}, {T}, Sacrifice Myr Incubator: Search your library for any number of artifact cards, exile them, then put that many 1/1 colorless Myr artifact creature tokens onto the battlefield. Then shuffle your library.",
+  "imageName": "myr incubator"
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sip of Hemlock",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target creature. Its controller loses 2 life.",
+  "imageName": "sip of hemlock",
+  "colorIdentity": [
+    "B"
+  ]
+}

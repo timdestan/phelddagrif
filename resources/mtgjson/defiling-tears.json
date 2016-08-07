@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Defiling Tears",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Until end of turn, target creature becomes black, gets +1/-1, and gains \"{B}: Regenerate this creature.\"",
+  "imageName": "defiling tears",
+  "colorIdentity": [
+    "B"
+  ]
+}

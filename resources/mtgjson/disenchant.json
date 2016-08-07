@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Disenchant",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target artifact or enchantment.",
+  "imageName": "disenchant",
+  "colorIdentity": [
+    "W"
+  ]
+}

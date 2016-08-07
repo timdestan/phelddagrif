@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Stasis Snare",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen Stasis Snare enters the battlefield, exile target creature an opponent controls until Stasis Snare leaves the battlefield. (That creature returns under its owner's control.)",
+  "imageName": "stasis snare",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Declaration of Naught",
+  "manaCost": "{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "As Declaration of Naught enters the battlefield, name a card.\n{U}: Counter target spell with the chosen name.",
+  "imageName": "declaration of naught",
+  "colorIdentity": [
+    "U"
+  ]
+}

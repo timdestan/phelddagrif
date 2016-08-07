@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Nyx Weaver",
+  "manaCost": "{1}{B}{G}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Enchantment Creature — Spider",
+  "types": [
+    "Enchantment",
+    "Creature"
+  ],
+  "subtypes": [
+    "Spider"
+  ],
+  "text": "Reach\nAt the beginning of your upkeep, put the top two cards of your library into your graveyard.\n{1}{B}{G}, Exile Nyx Weaver: Return target card from your graveyard to your hand.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "nyx weaver",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

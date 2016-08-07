@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Farrel's Zealot",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human"
+  ],
+  "text": "Whenever Farrel's Zealot attacks and isn't blocked, you may have it deal 3 damage to target creature. If you do, Farrel's Zealot assigns no combat damage this turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "farrel's zealot",
+  "colorIdentity": [
+    "W"
+  ]
+}

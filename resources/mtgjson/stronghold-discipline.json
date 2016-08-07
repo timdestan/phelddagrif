@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Stronghold Discipline",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Each player loses 1 life for each creature he or she controls.",
+  "imageName": "stronghold discipline",
+  "colorIdentity": [
+    "B"
+  ]
+}

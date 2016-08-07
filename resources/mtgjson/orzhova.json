@@ -1,0 +1,13 @@
+{
+  "layout": "plane",
+  "name": "Orzhova",
+  "type": "Plane — Ravnica",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Ravnica"
+  ],
+  "text": "When you planeswalk away from Orzhova, each player returns all creature cards from his or her graveyard to the battlefield.\nWhenever you roll CHAOS, for each opponent, exile up to one target creature card from that player's graveyard.",
+  "imageName": "orzhova"
+}

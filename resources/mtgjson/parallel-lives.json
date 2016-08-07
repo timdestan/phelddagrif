@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Parallel Lives",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "If an effect would put one or more tokens onto the battlefield under your control, it puts twice that many of those tokens onto the battlefield instead.",
+  "imageName": "parallel lives",
+  "colorIdentity": [
+    "G"
+  ]
+}

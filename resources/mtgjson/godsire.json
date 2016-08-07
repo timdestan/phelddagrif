@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Godsire",
+  "manaCost": "{4}{R}{G}{G}{W}",
+  "cmc": 8,
+  "colors": [
+    "White",
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Vigilance\n{T}: Put an 8/8 Beast creature token that's red, green, and white onto the battlefield.",
+  "power": "8",
+  "toughness": "8",
+  "imageName": "godsire",
+  "colorIdentity": [
+    "W",
+    "R",
+    "G"
+  ]
+}

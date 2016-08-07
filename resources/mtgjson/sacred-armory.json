@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Sacred Armory",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}: Target creature gets +1/+0 until end of turn.",
+  "imageName": "sacred armory"
+}

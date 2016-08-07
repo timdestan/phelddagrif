@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Hollowborn Barghest",
+  "manaCost": "{5}{B}{B}",
+  "cmc": 7,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Demon Hound",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon",
+    "Hound"
+  ],
+  "text": "At the beginning of your upkeep, if you have no cards in hand, each opponent loses 2 life.\nAt the beginning of each opponent's upkeep, if that player has no cards in hand, he or she loses 2 life.",
+  "power": "7",
+  "toughness": "6",
+  "imageName": "hollowborn barghest",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sand Golem",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "When a spell or ability an opponent controls causes you to discard Sand Golem, return Sand Golem from your graveyard to the battlefield with a +1/+1 counter on it at the beginning of the next end step.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "sand golem"
+}

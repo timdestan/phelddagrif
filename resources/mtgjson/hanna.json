@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Hanna",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "Spells you cast cost {1} less to cast.",
+  "imageName": "hanna",
+  "hand": 1,
+  "life": -5
+}

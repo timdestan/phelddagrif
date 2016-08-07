@@ -1,0 +1,13 @@
+{
+  "layout": "plane",
+  "name": "The Eon Fog",
+  "type": "Plane — Equilor",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Equilor"
+  ],
+  "text": "Players skip their untap steps.\nWhenever you roll CHAOS, untap all permanents you control.",
+  "imageName": "the eon fog"
+}

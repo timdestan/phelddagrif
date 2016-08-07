@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Kor Entanglers",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kor Soldier Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kor",
+    "Soldier",
+    "Ally"
+  ],
+  "text": "Rally — Whenever Kor Entanglers or another Ally enters the battlefield under your control, tap target creature an opponent controls.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "kor entanglers",
+  "colorIdentity": [
+    "W"
+  ]
+}

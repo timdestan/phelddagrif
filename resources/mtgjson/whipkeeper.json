@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Whipkeeper",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dwarf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dwarf"
+  ],
+  "text": "{T}: Whipkeeper deals damage to target creature equal to the damage already dealt to it this turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "whipkeeper",
+  "colorIdentity": [
+    "R"
+  ]
+}

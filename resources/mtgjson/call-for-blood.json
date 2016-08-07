@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Call for Blood",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant — Arcane",
+  "types": [
+    "Instant"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "As an additional cost to cast Call for Blood, sacrifice a creature.\nTarget creature gets -X/-X until end of turn, where X is the sacrificed creature's power.",
+  "imageName": "call for blood",
+  "colorIdentity": [
+    "B"
+  ]
+}

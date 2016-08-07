@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Trench Gorger",
+  "manaCost": "{6}{U}{U}",
+  "cmc": 8,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Leviathan",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Leviathan"
+  ],
+  "text": "Trample\nWhen Trench Gorger enters the battlefield, you may search your library for any number of land cards, exile them, then shuffle your library. If you do, Trench Gorger has base power and base toughness each equal to the number of cards exiled this way.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "trench gorger",
+  "colorIdentity": [
+    "U"
+  ]
+}

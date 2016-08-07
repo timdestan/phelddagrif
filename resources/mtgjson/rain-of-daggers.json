@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rain of Daggers",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy all creatures target opponent controls. You lose 2 life for each creature destroyed this way.",
+  "imageName": "rain of daggers",
+  "colorIdentity": [
+    "B"
+  ]
+}

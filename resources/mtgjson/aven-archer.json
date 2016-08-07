@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Aven Archer",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Bird Soldier Archer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird",
+    "Soldier",
+    "Archer"
+  ],
+  "text": "Flying\n{2}{W}, {T}: Aven Archer deals 2 damage to target attacking or blocking creature.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "aven archer",
+  "colorIdentity": [
+    "W"
+  ]
+}

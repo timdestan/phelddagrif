@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sideswipe",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "You may change any targets of target Arcane spell.",
+  "imageName": "sideswipe",
+  "colorIdentity": [
+    "R"
+  ]
+}

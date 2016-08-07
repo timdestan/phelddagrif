@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Hoof Skulkin",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Scarecrow",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Scarecrow"
+  ],
+  "text": "{3}: Target green creature gets +1/+1 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "hoof skulkin"
+}

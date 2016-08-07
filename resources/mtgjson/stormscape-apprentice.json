@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Stormscape Apprentice",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{W}, {T}: Tap target creature.\n{B}, {T}: Target player loses 1 life.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "stormscape apprentice",
+  "colorIdentity": [
+    "U",
+    "W",
+    "B"
+  ]
+}

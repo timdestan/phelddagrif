@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Crown of the Ages",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{4}, {T}: Attach target Aura attached to a creature to another creature.",
+  "imageName": "crown of the ages"
+}

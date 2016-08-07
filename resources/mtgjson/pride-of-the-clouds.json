@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Pride of the Clouds",
+  "manaCost": "{W}{U}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Creature — Elemental Cat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Cat"
+  ],
+  "text": "Flying\nPride of the Clouds gets +1/+1 for each other creature with flying on the battlefield.\nForecast — {2}{W}{U}, Reveal Pride of the Clouds from your hand: Put a 1/1 white and blue Bird creature token with flying onto the battlefield. (Activate this ability only during your upkeep and only once each turn.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "pride of the clouds",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

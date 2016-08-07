@@ -1,0 +1,35 @@
+{
+  "layout": "normal",
+  "name": "Sliver Overlord",
+  "manaCost": "{W}{U}{B}{R}{G}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "type": "Legendary Creature — Sliver Mutant",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver",
+    "Mutant"
+  ],
+  "text": "{3}: Search your library for a Sliver card, reveal that card, and put it into your hand. Then shuffle your library.\n{3}: Gain control of target Sliver. (This effect lasts indefinitely.)",
+  "power": "7",
+  "toughness": "7",
+  "imageName": "sliver overlord",
+  "colorIdentity": [
+    "W",
+    "U",
+    "B",
+    "R",
+    "G"
+  ]
+}

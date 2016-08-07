@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Scythe of the Wretched",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature gets +2/+2.\nWhenever a creature dealt damage by equipped creature this turn dies, return that card to the battlefield under your control. Attach Scythe of the Wretched to that creature.\nEquip {4}",
+  "imageName": "scythe of the wretched"
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Trumpet Blast",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Attacking creatures get +2/+0 until end of turn.",
+  "imageName": "trumpet blast",
+  "colorIdentity": [
+    "R"
+  ]
+}

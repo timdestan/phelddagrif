@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Biovisionary",
+  "manaCost": "{1}{G}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "At the beginning of the end step, if you control four or more creatures named Biovisionary, you win the game.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "biovisionary",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

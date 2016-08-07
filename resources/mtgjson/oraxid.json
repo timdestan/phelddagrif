@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Oraxid",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Crab Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Crab",
+    "Beast"
+  ],
+  "text": "Protection from red",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "oraxid",
+  "colorIdentity": [
+    "U"
+  ]
+}

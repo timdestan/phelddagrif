@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Tempt with Vengeance",
+  "manaCost": "{X}{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Tempting offer — Put X 1/1 red Elemental creature tokens with haste onto the battlefield. Each opponent may put X 1/1 red Elemental creature tokens with haste onto the battlefield. For each player who does, put X 1/1 red Elemental creature tokens with haste onto the battlefield.",
+  "imageName": "tempt with vengeance",
+  "colorIdentity": [
+    "R"
+  ]
+}

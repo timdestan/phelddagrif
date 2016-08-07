@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Tresserhorn Sinks",
+  "type": "Snow Land",
+  "supertypes": [
+    "Snow"
+  ],
+  "types": [
+    "Land"
+  ],
+  "text": "Tresserhorn Sinks enters the battlefield tapped.\n{T}: Add {B} or {R} to your mana pool.",
+  "imageName": "tresserhorn sinks",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

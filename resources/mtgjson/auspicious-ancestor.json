@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Auspicious Ancestor",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "When Auspicious Ancestor dies, you gain 3 life.\nWhenever a player casts a white spell, you may pay {1}. If you do, you gain 1 life.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "auspicious ancestor",
+  "colorIdentity": [
+    "W"
+  ]
+}

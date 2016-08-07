@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Silver Seraph",
+  "manaCost": "{5}{W}{W}{W}",
+  "cmc": 8,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nThreshold — Other creatures you control get +2/+2 as long as seven or more cards are in your graveyard.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "silver seraph",
+  "colorIdentity": [
+    "W"
+  ]
+}

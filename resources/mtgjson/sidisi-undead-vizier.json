@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Sidisi, Undead Vizier",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Legendary Creature — Zombie Naga",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Naga"
+  ],
+  "text": "Deathtouch\nExploit (When this creature enters the battlefield, you may sacrifice a creature.)\nWhen Sidisi, Undead Vizier exploits a creature, you may search your library for a card, put it into your hand, then shuffle your library.",
+  "power": "4",
+  "toughness": "6",
+  "imageName": "sidisi, undead vizier",
+  "colorIdentity": [
+    "B"
+  ]
+}

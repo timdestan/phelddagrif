@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Vicious Hunger",
+  "manaCost": "{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Vicious Hunger deals 2 damage to target creature and you gain 2 life.",
+  "imageName": "vicious hunger",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Remand",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell. If that spell is countered this way, put it into its owner's hand instead of into that player's graveyard.\nDraw a card.",
+  "imageName": "remand",
+  "colorIdentity": [
+    "U"
+  ]
+}

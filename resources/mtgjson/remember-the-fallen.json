@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Remember the Fallen",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Choose one or both —\n• Return target creature card from your graveyard to your hand.\n• Return target artifact card from your graveyard to your hand.",
+  "imageName": "remember the fallen",
+  "colorIdentity": [
+    "W"
+  ]
+}

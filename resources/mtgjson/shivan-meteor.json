@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Shivan Meteor",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Shivan Meteor deals 13 damage to target creature.\nSuspend 2—{1}{R}{R} (Rather than cast this card from your hand, you may pay {1}{R}{R} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)",
+  "imageName": "shivan meteor",
+  "colorIdentity": [
+    "R"
+  ]
+}

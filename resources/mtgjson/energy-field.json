@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Energy Field",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Prevent all damage that would be dealt to you by sources you don't control.\nWhen a card is put into your graveyard from anywhere, sacrifice Energy Field.",
+  "imageName": "energy field",
+  "colorIdentity": [
+    "U"
+  ]
+}

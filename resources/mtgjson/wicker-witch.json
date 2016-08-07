@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Wicker Witch",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Scarecrow",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Scarecrow"
+  ],
+  "power": "3",
+  "toughness": "1",
+  "imageName": "wicker witch"
+}

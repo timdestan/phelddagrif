@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Serra Sphinx",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Sphinx",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sphinx"
+  ],
+  "text": "Flying, vigilance",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "serra sphinx",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Blood Funnel",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Noncreature spells you cast cost {2} less to cast.\nWhenever you cast a noncreature spell, counter that spell unless you sacrifice a creature.",
+  "imageName": "blood funnel",
+  "colorIdentity": [
+    "B"
+  ]
+}

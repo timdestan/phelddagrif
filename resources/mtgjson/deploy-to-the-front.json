@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Deploy to the Front",
+  "manaCost": "{5}{W}{W}",
+  "cmc": 7,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put X 1/1 white Soldier creature tokens onto the battlefield, where X is the number of creatures on the battlefield.",
+  "imageName": "deploy to the front",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Feral Ridgewolf",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Wolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wolf"
+  ],
+  "text": "Trample\n{1}{R}: Feral Ridgewolf gets +2/+0 until end of turn.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "feral ridgewolf",
+  "colorIdentity": [
+    "R"
+  ]
+}

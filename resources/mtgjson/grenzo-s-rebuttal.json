@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Grenzo's Rebuttal",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put a 4/4 red Ogre creature token onto the battlefield. Starting with you, each player chooses an artifact, a creature, and a land from among the permanents controlled by the player to his or her left. Destroy each permanent chosen this way.",
+  "imageName": "grenzo's rebuttal",
+  "colorIdentity": [
+    "R"
+  ]
+}

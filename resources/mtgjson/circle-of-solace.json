@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Circle of Solace",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "As Circle of Solace enters the battlefield, choose a creature type.\n{1}{W}: The next time a creature of the chosen type would deal damage to you this turn, prevent that damage.",
+  "imageName": "circle of solace",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sun's Bounty",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "You gain 4 life.\nRecover {1}{W} (When a creature is put into your graveyard from the battlefield, you may pay {1}{W}. If you do, return this card from your graveyard to your hand. Otherwise, exile this card.)",
+  "imageName": "sun's bounty",
+  "colorIdentity": [
+    "W"
+  ]
+}

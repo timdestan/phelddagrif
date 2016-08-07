@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Voracious Hatchling",
+  "manaCost": "{3}{W/B}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Lifelink\nVoracious Hatchling enters the battlefield with four -1/-1 counters on it.\nWhenever you cast a white spell, remove a -1/-1 counter from Voracious Hatchling.\nWhenever you cast a black spell, remove a -1/-1 counter from Voracious Hatchling.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "voracious hatchling",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

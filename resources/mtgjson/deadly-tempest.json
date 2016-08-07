@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Deadly Tempest",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy all creatures. Each player loses life equal to the number of creatures he or she controlled that were destroyed this way.",
+  "imageName": "deadly tempest",
+  "colorIdentity": [
+    "B"
+  ]
+}

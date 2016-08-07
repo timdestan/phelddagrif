@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Abu Ja'far",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human"
+  ],
+  "text": "When Abu Ja'far dies, destroy all creatures blocking or blocked by it. They can't be regenerated.",
+  "power": "0",
+  "toughness": "1",
+  "imageName": "abu ja'far",
+  "colorIdentity": [
+    "W"
+  ]
+}

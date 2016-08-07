@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Eerie Interlude",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Exile any number of target creatures you control. Return those cards to the battlefield under their owner's control at the beginning of the next end step.",
+  "imageName": "eerie interlude",
+  "colorIdentity": [
+    "W"
+  ]
+}

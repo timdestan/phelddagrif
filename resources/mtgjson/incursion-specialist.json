@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Incursion Specialist",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Whenever you cast your second spell each turn, Incursion Specialist gets +2/+0 until end of turn and can't be blocked this turn.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "incursion specialist",
+  "colorIdentity": [
+    "U"
+  ]
+}

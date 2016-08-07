@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Off Balance",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature can't attack or block this turn.",
+  "imageName": "off balance",
+  "colorIdentity": [
+    "W"
+  ]
+}

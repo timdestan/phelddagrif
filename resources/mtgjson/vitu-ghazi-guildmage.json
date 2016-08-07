@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Vitu-Ghazi Guildmage",
+  "manaCost": "{G}{W}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Dryad Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dryad",
+    "Shaman"
+  ],
+  "text": "{4}{G}{W}: Put a 3/3 green Centaur creature token onto the battlefield.\n{2}{G}{W}: Populate. (Put a token onto the battlefield that's a copy of a creature token you control.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "vitu-ghazi guildmage",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

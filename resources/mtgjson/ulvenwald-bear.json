@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ulvenwald Bear",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Bear",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bear"
+  ],
+  "text": "Morbid — When Ulvenwald Bear enters the battlefield, if a creature died this turn, put two +1/+1 counters on target creature.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "ulvenwald bear",
+  "colorIdentity": [
+    "G"
+  ]
+}

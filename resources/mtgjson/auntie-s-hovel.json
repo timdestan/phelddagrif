@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Auntie's Hovel",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "As Auntie's Hovel enters the battlefield, you may reveal a Goblin card from your hand. If you don't, Auntie's Hovel enters the battlefield tapped.\n{T}: Add {B} or {R} to your mana pool.",
+  "imageName": "auntie's hovel",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

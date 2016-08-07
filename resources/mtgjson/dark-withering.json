@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dark Withering",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target nonblack creature.\nMadness {B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+  "imageName": "dark withering",
+  "colorIdentity": [
+    "B"
+  ]
+}

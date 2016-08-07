@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Gibbering Fiend",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Devil",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Devil"
+  ],
+  "text": "When Gibbering Fiend enters the battlefield, it deals 1 damage to each opponent.\nDelirium — At the beginning of each opponent's upkeep, if there are four or more card types among cards in your graveyard, Gibbering Fiend deals 1 damage to that player.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "gibbering fiend",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Soulblade Djinn",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Djinn",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Djinn"
+  ],
+  "text": "Flying\nWhenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "soulblade djinn",
+  "colorIdentity": [
+    "U"
+  ]
+}

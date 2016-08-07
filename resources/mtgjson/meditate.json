@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Meditate",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Draw four cards. You skip your next turn.",
+  "imageName": "meditate",
+  "colorIdentity": [
+    "U"
+  ]
+}

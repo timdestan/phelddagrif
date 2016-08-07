@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Savage Gorilla",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Ape",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ape"
+  ],
+  "text": "{U}{B}, {T}, Sacrifice Savage Gorilla: Target creature gets -3/-3 until end of turn. Draw a card.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "savage gorilla",
+  "colorIdentity": [
+    "G",
+    "U",
+    "B"
+  ]
+}

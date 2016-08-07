@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Ma Chao, Western Warrior",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Creature — Human Soldier Warrior",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier",
+    "Warrior"
+  ],
+  "text": "Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nWhenever Ma Chao, Western Warrior attacks alone, it can't be blocked this combat.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "ma chao, western warrior",
+  "colorIdentity": [
+    "R"
+  ]
+}

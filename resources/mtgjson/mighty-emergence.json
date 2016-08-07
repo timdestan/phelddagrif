@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mighty Emergence",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a creature with power 5 or greater enters the battlefield under your control, you may put two +1/+1 counters on it.",
+  "imageName": "mighty emergence",
+  "colorIdentity": [
+    "G"
+  ]
+}

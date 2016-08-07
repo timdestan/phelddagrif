@@ -1,0 +1,31 @@
+{
+  "layout": "normal",
+  "name": "Roon of the Hidden Realm",
+  "manaCost": "{2}{G}{W}{U}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Blue",
+    "Green"
+  ],
+  "type": "Legendary Creature — Rhino Soldier",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rhino",
+    "Soldier"
+  ],
+  "text": "Vigilance, trample\n{2}, {T}: Exile another target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "roon of the hidden realm",
+  "colorIdentity": [
+    "W",
+    "U",
+    "G"
+  ]
+}

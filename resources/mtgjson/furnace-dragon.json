@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Furnace Dragon",
+  "manaCost": "{6}{R}{R}{R}",
+  "cmc": 9,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nFlying\nWhen Furnace Dragon enters the battlefield, if you cast it from your hand, exile all artifacts.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "furnace dragon",
+  "colorIdentity": [
+    "R"
+  ]
+}

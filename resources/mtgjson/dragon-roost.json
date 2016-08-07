@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dragon Roost",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{5}{R}{R}: Put a 5/5 red Dragon creature token with flying onto the battlefield. (It can't be blocked except by creatures with flying or reach.)",
+  "imageName": "dragon roost",
+  "colorIdentity": [
+    "R"
+  ]
+}

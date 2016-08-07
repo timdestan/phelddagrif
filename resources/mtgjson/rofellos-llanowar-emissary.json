@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Rofellos, Llanowar Emissary",
+  "manaCost": "{G}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Legendary Creature — Elf Druid",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Druid"
+  ],
+  "text": "{T}: Add {G} to your mana pool for each Forest you control.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "rofellos, llanowar emissary",
+  "colorIdentity": [
+    "G"
+  ]
+}

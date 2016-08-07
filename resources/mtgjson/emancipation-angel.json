@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Emancipation Angel",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nWhen Emancipation Angel enters the battlefield, return a permanent you control to its owner's hand.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "emancipation angel",
+  "colorIdentity": [
+    "W"
+  ]
+}

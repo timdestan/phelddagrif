@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Venarian Glimmer",
+  "manaCost": "{X}{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target player reveals his or her hand. You choose a nonland card with converted mana cost X or less from it. That player discards that card.",
+  "imageName": "venarian glimmer",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Hopping Automaton",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "text": "{0}: Hopping Automaton gets -1/-1 and gains flying until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "hopping automaton"
+}

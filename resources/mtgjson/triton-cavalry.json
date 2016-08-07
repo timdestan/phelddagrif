@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Triton Cavalry",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Soldier"
+  ],
+  "text": "Heroic — Whenever you cast a spell that targets Triton Cavalry, you may return target enchantment to its owner's hand.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "triton cavalry",
+  "colorIdentity": [
+    "U"
+  ]
+}

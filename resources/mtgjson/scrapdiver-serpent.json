@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Scrapdiver Serpent",
+  "manaCost": "{5}{U}{U}",
+  "cmc": 7,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Serpent",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Serpent"
+  ],
+  "text": "Scrapdiver Serpent can't be blocked as long as defending player controls an artifact.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "scrapdiver serpent",
+  "colorIdentity": [
+    "U"
+  ]
+}

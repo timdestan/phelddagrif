@@ -1,0 +1,14 @@
+{
+  "layout": "token",
+  "name": "Elephant",
+  "type": "Creature — Elephant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elephant"
+  ],
+  "power": "3",
+  "toughness": "3",
+  "imageName": "elephant"
+}

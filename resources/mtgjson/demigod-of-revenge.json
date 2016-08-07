@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Demigod of Revenge",
+  "manaCost": "{B/R}{B/R}{B/R}{B/R}{B/R}",
+  "cmc": 5,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Spirit Avatar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit",
+    "Avatar"
+  ],
+  "text": "Flying, haste\nWhen you cast Demigod of Revenge, return all cards named Demigod of Revenge from your graveyard to the battlefield.",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "demigod of revenge",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

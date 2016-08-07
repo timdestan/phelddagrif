@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Princess Lucrezia",
+  "manaCost": "{3}{U}{U}{B}",
+  "cmc": 6,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Legendary Creature — Human Wizard",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{T}: Add {U} to your mana pool.",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "princess lucrezia",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

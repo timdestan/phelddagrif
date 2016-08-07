@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rootborn Defenses",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Populate. Creatures you control gain indestructible until end of turn. (To populate, put a token onto the battlefield that's a copy of a creature token you control. Damage and effects that say \"destroy\" don't destroy creatures with indestructible.)",
+  "imageName": "rootborn defenses",
+  "colorIdentity": [
+    "W"
+  ]
+}

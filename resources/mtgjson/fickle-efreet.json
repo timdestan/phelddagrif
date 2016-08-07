@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Fickle Efreet",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Efreet",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Efreet"
+  ],
+  "text": "Whenever Fickle Efreet attacks or blocks, flip a coin at end of combat. If you lose the flip, an opponent gains control of Fickle Efreet.",
+  "power": "5",
+  "toughness": "2",
+  "imageName": "fickle efreet",
+  "colorIdentity": [
+    "R"
+  ]
+}

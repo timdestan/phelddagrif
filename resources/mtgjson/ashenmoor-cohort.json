@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ashenmoor Cohort",
+  "manaCost": "{5}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Elemental Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Warrior"
+  ],
+  "text": "Ashenmoor Cohort gets +1/+1 as long as you control another black creature.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "ashenmoor cohort",
+  "colorIdentity": [
+    "B"
+  ]
+}

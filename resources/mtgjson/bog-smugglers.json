@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Bog Smugglers",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Mercenary",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Mercenary"
+  ],
+  "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "bog smugglers",
+  "colorIdentity": [
+    "B"
+  ]
+}

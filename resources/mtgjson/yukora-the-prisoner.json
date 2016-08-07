@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Yukora, the Prisoner",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Legendary Creature — Demon Spirit",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon",
+    "Spirit"
+  ],
+  "text": "When Yukora, the Prisoner leaves the battlefield, sacrifice all non-Ogre creatures you control.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "yukora, the prisoner",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Displace",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Exile up to two target creatures you control, then return those cards to the battlefield under their owner's control.",
+  "imageName": "displace",
+  "colorIdentity": [
+    "U"
+  ]
+}

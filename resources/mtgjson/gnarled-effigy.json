@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Gnarled Effigy",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{4}, {T}: Put a -1/-1 counter on target creature.",
+  "imageName": "gnarled effigy"
+}

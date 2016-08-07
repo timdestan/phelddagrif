@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kalonian Twingrove",
+  "manaCost": "{5}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Treefolk Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Treefolk",
+    "Warrior"
+  ],
+  "text": "Kalonian Twingrove's power and toughness are each equal to the number of Forests you control.\nWhen Kalonian Twingrove enters the battlefield, put a green Treefolk Warrior creature token onto the battlefield with \"This creature's power and toughness are each equal to the number of Forests you control.\"",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "kalonian twingrove",
+  "colorIdentity": [
+    "G"
+  ]
+}

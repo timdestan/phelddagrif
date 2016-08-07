@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Caldera Lake",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Caldera Lake enters the battlefield tapped.\n{T}: Add {C} to your mana pool.\n{T}: Add {U} or {R} to your mana pool. Caldera Lake deals 1 damage to you.",
+  "imageName": "caldera lake",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

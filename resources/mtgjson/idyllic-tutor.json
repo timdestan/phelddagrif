@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Idyllic Tutor",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Search your library for an enchantment card, reveal it, and put it into your hand. Then shuffle your library.",
+  "imageName": "idyllic tutor",
+  "colorIdentity": [
+    "W"
+  ]
+}

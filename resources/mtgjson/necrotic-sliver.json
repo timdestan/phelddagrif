@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Necrotic Sliver",
+  "manaCost": "{1}{W}{B}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "All Slivers have \"{3}, Sacrifice this permanent: Destroy target permanent.\"",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "necrotic sliver",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

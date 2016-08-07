@@ -1,0 +1,25 @@
+{
+  "layout": "split",
+  "name": "Run",
+  "names": [
+    "Hit",
+    "Run"
+  ],
+  "manaCost": "{3}{R}{G}",
+  "cmc": 5,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Attacking creatures you control get +1/+0 until end of turn for each other attacking creature.",
+  "imageName": "run",
+  "colorIdentity": [
+    "R",
+    "G",
+    "B"
+  ]
+}

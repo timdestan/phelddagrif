@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Lost Order of Jarkeld",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "As Lost Order of Jarkeld enters the battlefield, choose an opponent.\nLost Order of Jarkeld's power and toughness are each equal to 1 plus the number of creatures the chosen player controls.",
+  "power": "1+*",
+  "toughness": "1+*",
+  "imageName": "lost order of jarkeld",
+  "colorIdentity": [
+    "W"
+  ]
+}

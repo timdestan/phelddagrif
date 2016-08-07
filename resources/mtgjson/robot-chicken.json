@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Robot Chicken",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Chicken Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Chicken",
+    "Construct"
+  ],
+  "text": "Whenever you cast a spell, put a 0/1 colorless Egg artifact creature token onto the battlefield.\nWhenever an Egg you control is put into a graveyard from the battlefield, destroy target artifact or creature.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "robot chicken"
+}

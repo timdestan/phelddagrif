@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Yixlid Jailer",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Wizard"
+  ],
+  "text": "Cards in graveyards lose all abilities.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "yixlid jailer",
+  "colorIdentity": [
+    "B"
+  ]
+}

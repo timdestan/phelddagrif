@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Baneslayer Angel",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying, first strike, lifelink, protection from Demons and from Dragons",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "baneslayer angel",
+  "colorIdentity": [
+    "W"
+  ]
+}

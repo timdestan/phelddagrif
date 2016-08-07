@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Reverent Mantra",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "You may exile a white card from your hand rather than pay Reverent Mantra's mana cost.\nChoose a color. All creatures gain protection from the chosen color until end of turn.",
+  "imageName": "reverent mantra",
+  "colorIdentity": [
+    "W"
+  ]
+}

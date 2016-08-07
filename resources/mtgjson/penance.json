@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Penance",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Put a card from your hand on top of your library: The next time a black or red source of your choice would deal damage this turn, prevent that damage.",
+  "imageName": "penance",
+  "colorIdentity": [
+    "W"
+  ]
+}

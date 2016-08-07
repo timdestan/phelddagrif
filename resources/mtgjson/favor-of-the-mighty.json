@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Favor of the Mighty",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Tribal Enchantment — Giant",
+  "types": [
+    "Tribal",
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Giant"
+  ],
+  "text": "Each creature with the highest converted mana cost has protection from all colors.",
+  "imageName": "favor of the mighty",
+  "colorIdentity": [
+    "W"
+  ]
+}

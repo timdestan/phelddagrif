@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Karoo Meerkat",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Mongoose",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Mongoose"
+  ],
+  "text": "Protection from blue",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "karoo meerkat",
+  "colorIdentity": [
+    "G"
+  ]
+}

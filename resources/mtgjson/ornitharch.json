@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ornitharch",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Archon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Archon"
+  ],
+  "text": "Flying\nTribute 2 (As this creature enters the battlefield, an opponent of your choice may place two +1/+1 counters on it.)\nWhen Ornitharch enters the battlefield, if tribute wasn't paid, put two 1/1 white Bird creature tokens with flying onto the battlefield.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "ornitharch",
+  "colorIdentity": [
+    "W"
+  ]
+}

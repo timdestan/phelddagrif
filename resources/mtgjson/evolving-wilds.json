@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Evolving Wilds",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}, Sacrifice Evolving Wilds: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.",
+  "imageName": "evolving wilds"
+}

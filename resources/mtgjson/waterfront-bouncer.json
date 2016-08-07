@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Waterfront Bouncer",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Spellshaper",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Spellshaper"
+  ],
+  "text": "{U}, {T}, Discard a card: Return target creature to its owner's hand.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "waterfront bouncer",
+  "colorIdentity": [
+    "U"
+  ]
+}

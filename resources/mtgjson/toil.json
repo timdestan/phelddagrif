@@ -1,0 +1,23 @@
+{
+  "layout": "split",
+  "name": "Toil",
+  "names": [
+    "Toil",
+    "Trouble"
+  ],
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target player draws two cards and loses 2 life.\nFuse (You may cast one or both halves of this card from your hand.)",
+  "imageName": "toil",
+  "colorIdentity": [
+    "R",
+    "B"
+  ]
+}

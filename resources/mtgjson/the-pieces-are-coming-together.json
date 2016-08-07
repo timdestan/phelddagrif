@@ -1,0 +1,10 @@
+{
+  "layout": "scheme",
+  "name": "The Pieces Are Coming Together",
+  "type": "Scheme",
+  "types": [
+    "Scheme"
+  ],
+  "text": "When you set this scheme in motion, draw two cards. Artifact spells you cast this turn cost {2} less to cast.",
+  "imageName": "the pieces are coming together"
+}

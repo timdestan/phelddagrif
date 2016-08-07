@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Spinning Darkness",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "You may exile the top three black cards of your graveyard rather than pay Spinning Darkness's mana cost.\nSpinning Darkness deals 3 damage to target nonblack creature. You gain 3 life.",
+  "imageName": "spinning darkness",
+  "colorIdentity": [
+    "B"
+  ]
+}

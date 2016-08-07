@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Degavolver",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Volver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Volver"
+  ],
+  "text": "Kicker {1}{B} and/or {R} (You may pay an additional {1}{B} and/or {R} as you cast this spell.)\nIf Degavolver was kicked with its {1}{B} kicker, it enters the battlefield with two +1/+1 counters on it and with \"Pay 3 life: Regenerate Degavolver.\"\nIf Degavolver was kicked with its {R} kicker, it enters the battlefield with a +1/+1 counter on it and with first strike.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "degavolver",
+  "colorIdentity": [
+    "W",
+    "B",
+    "R"
+  ]
+}

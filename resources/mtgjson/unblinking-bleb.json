@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Unblinking Bleb",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Illusion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Illusion"
+  ],
+  "text": "Morph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhenever Unblinking Bleb or another permanent is turned face up, you may scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "unblinking bleb",
+  "colorIdentity": [
+    "U"
+  ]
+}

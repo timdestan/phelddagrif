@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Painwracker Oni",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Demon Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon",
+    "Spirit"
+  ],
+  "text": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nAt the beginning of your upkeep, sacrifice a creature if you don't control an Ogre.",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "painwracker oni",
+  "colorIdentity": [
+    "B"
+  ]
+}

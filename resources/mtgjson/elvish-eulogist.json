@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Elvish Eulogist",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Shaman"
+  ],
+  "text": "Sacrifice Elvish Eulogist: You gain 1 life for each Elf card in your graveyard.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "elvish eulogist",
+  "colorIdentity": [
+    "G"
+  ]
+}

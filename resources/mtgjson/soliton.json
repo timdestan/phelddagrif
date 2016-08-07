@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Soliton",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact Creature — Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "text": "{U}: Untap Soliton.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "soliton",
+  "colorIdentity": [
+    "U"
+  ]
+}

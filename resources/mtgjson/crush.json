@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Crush",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target noncreature artifact.",
+  "imageName": "crush",
+  "colorIdentity": [
+    "R"
+  ]
+}

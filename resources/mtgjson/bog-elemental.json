@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Bog Elemental",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Protection from white\nAt the beginning of your upkeep, sacrifice Bog Elemental unless you sacrifice a land.",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "bog elemental",
+  "colorIdentity": [
+    "B"
+  ]
+}

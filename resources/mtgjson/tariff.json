@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Tariff",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Each player sacrifices the creature he or she controls with the highest converted mana cost unless he or she pays that creature's mana cost. If two or more creatures a player controls are tied for highest cost, that player chooses one.",
+  "imageName": "tariff",
+  "colorIdentity": [
+    "W"
+  ]
+}

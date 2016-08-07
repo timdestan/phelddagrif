@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kor Hookmaster",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kor Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kor",
+    "Soldier"
+  ],
+  "text": "When Kor Hookmaster enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "kor hookmaster",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Aysen Bureaucrats",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Advisor",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Advisor"
+  ],
+  "text": "{T}: Tap target creature with power 2 or less.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "aysen bureaucrats",
+  "colorIdentity": [
+    "W"
+  ]
+}

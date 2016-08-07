@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Sunforger",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature gets +4/+0.\n{R}{W}, Unattach Sunforger: Search your library for a red or white instant card with converted mana cost 4 or less and cast that card without paying its mana cost. Then shuffle your library.\nEquip {3}",
+  "imageName": "sunforger",
+  "colorIdentity": [
+    "R",
+    "W"
+  ]
+}

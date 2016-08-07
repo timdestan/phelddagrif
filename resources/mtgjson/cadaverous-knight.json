@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Cadaverous Knight",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Knight"
+  ],
+  "text": "Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\n{1}{B}{B}: Regenerate Cadaverous Knight.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "cadaverous knight",
+  "colorIdentity": [
+    "B"
+  ]
+}

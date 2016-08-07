@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Entreat the Angels",
+  "manaCost": "{X}{X}{W}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put X 4/4 white Angel creature tokens with flying onto the battlefield.\nMiracle {X}{W}{W} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+  "imageName": "entreat the angels",
+  "colorIdentity": [
+    "W"
+  ]
+}

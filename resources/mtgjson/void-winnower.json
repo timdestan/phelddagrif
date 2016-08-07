@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Void Winnower",
+  "manaCost": "{9}",
+  "cmc": 9,
+  "type": "Creature — Eldrazi",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi"
+  ],
+  "text": "Your opponents can't cast spells with even converted mana costs. (Zero is even.)\nYour opponents can't block with creatures with even converted mana costs.",
+  "power": "11",
+  "toughness": "9",
+  "imageName": "void winnower"
+}

@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Bloodbraid Elf",
+  "manaCost": "{2}{R}{G}",
+  "cmc": 4,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Elf Berserker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Berserker"
+  ],
+  "text": "Haste\nCascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "bloodbraid elf",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Mogg War Marshal",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Warrior"
+  ],
+  "text": "Echo {1}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Mogg War Marshal enters the battlefield or dies, put a 1/1 red Goblin creature token onto the battlefield.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "mogg war marshal",
+  "colorIdentity": [
+    "R"
+  ]
+}

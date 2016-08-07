@@ -1,0 +1,31 @@
+{
+  "layout": "flip",
+  "name": "Shidako, Broodmistress",
+  "names": [
+    "Orochi Eggwatcher",
+    "Shidako, Broodmistress"
+  ],
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Legendary Creature — Snake Shaman",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Snake",
+    "Shaman"
+  ],
+  "text": "{G}, Sacrifice a creature: Target creature gets +3/+3 until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "shidako, broodmistress",
+  "colorIdentity": [
+    "G"
+  ]
+}

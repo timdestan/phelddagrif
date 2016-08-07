@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Humble Budoka",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Monk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Monk"
+  ],
+  "text": "Shroud (This creature can't be the target of spells or abilities.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "humble budoka",
+  "colorIdentity": [
+    "G"
+  ]
+}

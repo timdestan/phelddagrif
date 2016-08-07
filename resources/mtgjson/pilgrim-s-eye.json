@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Pilgrim's Eye",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Thopter",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Thopter"
+  ],
+  "text": "Flying\nWhen Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "pilgrim's eye"
+}

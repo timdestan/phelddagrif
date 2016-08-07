@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Shadowborn Demon",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Demon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon"
+  ],
+  "text": "Flying\nWhen Shadowborn Demon enters the battlefield, destroy target non-Demon creature.\nAt the beginning of your upkeep, if there are fewer than six creature cards in your graveyard, sacrifice a creature.",
+  "power": "5",
+  "toughness": "6",
+  "imageName": "shadowborn demon",
+  "colorIdentity": [
+    "B"
+  ]
+}

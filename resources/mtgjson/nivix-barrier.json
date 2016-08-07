@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Nivix Barrier",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Illusion Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Illusion",
+    "Wall"
+  ],
+  "text": "Flash (You may cast this spell any time you could cast an instant.)\nDefender (This creature can't attack.)\nWhen Nivix Barrier enters the battlefield, target attacking creature gets -4/-0 until end of turn.",
+  "power": "0",
+  "toughness": "4",
+  "imageName": "nivix barrier",
+  "colorIdentity": [
+    "U"
+  ]
+}

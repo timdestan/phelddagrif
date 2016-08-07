@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Phyrexian Lens",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}, Pay 1 life: Add one mana of any color to your mana pool.",
+  "imageName": "phyrexian lens"
+}

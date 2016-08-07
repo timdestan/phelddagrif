@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Pointy Finger of Doom",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{3}, {T}: Spin Pointy Finger of Doom in the middle of the table so that it rotates completely at least once, then destroy the closest permanent the finger points to.",
+  "imageName": "pointy finger of doom"
+}

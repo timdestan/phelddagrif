@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Giant's Ire",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Tribal Sorcery — Giant",
+  "types": [
+    "Tribal",
+    "Sorcery"
+  ],
+  "subtypes": [
+    "Giant"
+  ],
+  "text": "Giant's Ire deals 4 damage to target player. If you control a Giant, draw a card.",
+  "imageName": "giant's ire",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ulvenwald Tracker",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Shaman"
+  ],
+  "text": "{1}{G}, {T}: Target creature you control fights another target creature. (Each deals damage equal to its power to the other.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "ulvenwald tracker",
+  "colorIdentity": [
+    "G"
+  ]
+}

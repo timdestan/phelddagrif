@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Hematite Golem",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "{1}{R}: Hematite Golem gets +2/+0 until end of turn.",
+  "power": "1",
+  "toughness": "4",
+  "imageName": "hematite golem",
+  "colorIdentity": [
+    "R"
+  ]
+}

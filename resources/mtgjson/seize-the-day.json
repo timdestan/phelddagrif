@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Seize the Day",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Untap target creature. After this main phase, there is an additional combat phase followed by an additional main phase.\nFlashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "seize the day",
+  "colorIdentity": [
+    "R"
+  ]
+}

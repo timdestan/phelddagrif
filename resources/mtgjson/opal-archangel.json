@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Opal Archangel",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "When an opponent casts a creature spell, if Opal Archangel is an enchantment, Opal Archangel becomes a 5/5 Angel creature with flying and vigilance.",
+  "imageName": "opal archangel",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Reaper of Flight Moonsilver",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nDelirium — Sacrifice another creature: Reaper of Flight Moonsilver gets +2/+1 until end of turn. Activate this ability only if there are four or more card types among cards in your graveyard.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "reaper of flight moonsilver",
+  "colorIdentity": [
+    "W"
+  ]
+}

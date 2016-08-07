@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Gleemax",
+  "manaCost": "{1000000}",
+  "cmc": 1000000,
+  "type": "Legendary Artifact",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Artifact"
+  ],
+  "text": "You choose all targets for all spells and abilities.",
+  "imageName": "gleemax"
+}

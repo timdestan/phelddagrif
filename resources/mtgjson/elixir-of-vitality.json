@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Elixir of Vitality",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Elixir of Vitality enters the battlefield tapped.\n{T}, Sacrifice Elixir of Vitality: You gain 4 life.\n{8}, {T}, Sacrifice Elixir of Vitality: You gain 8 life.",
+  "imageName": "elixir of vitality"
+}

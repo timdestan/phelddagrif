@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Amrou Kithkin",
+  "manaCost": "{W}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kithkin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kithkin"
+  ],
+  "text": "Amrou Kithkin can't be blocked by creatures with power 3 or greater.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "amrou kithkin",
+  "colorIdentity": [
+    "W"
+  ]
+}

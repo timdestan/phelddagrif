@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Marchesa's Smuggler",
+  "manaCost": "{U}{R}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Creature — Human Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)\n{1}{U}{R}: Target creature you control gains haste until end of turn and can't be blocked this turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "marchesa's smuggler",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

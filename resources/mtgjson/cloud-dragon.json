@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Cloud Dragon",
+  "manaCost": "{5}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Illusion Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Illusion",
+    "Dragon"
+  ],
+  "text": "Flying\nCloud Dragon can block only creatures with flying.",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "cloud dragon",
+  "colorIdentity": [
+    "U"
+  ]
+}

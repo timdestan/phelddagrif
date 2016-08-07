@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Battleground Geist",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying\nOther Spirit creatures you control get +1/+0.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "battleground geist",
+  "colorIdentity": [
+    "U"
+  ]
+}

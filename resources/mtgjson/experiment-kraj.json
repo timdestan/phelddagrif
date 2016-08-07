@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Experiment Kraj",
+  "manaCost": "{2}{G}{G}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Legendary Creature — Ooze Mutant",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ooze",
+    "Mutant"
+  ],
+  "text": "Experiment Kraj has all activated abilities of each other creature with a +1/+1 counter on it.\n{T}: Put a +1/+1 counter on target creature.",
+  "power": "4",
+  "toughness": "6",
+  "imageName": "experiment kraj",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Grave Scrabbler",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Madness {1}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)\nWhen Grave Scrabbler enters the battlefield, if its madness cost was paid, you may return target creature card from a graveyard to its owner's hand.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "grave scrabbler",
+  "colorIdentity": [
+    "B"
+  ]
+}

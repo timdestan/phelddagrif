@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Carnage Altar",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{3}, Sacrifice a creature: Draw a card.",
+  "imageName": "carnage altar"
+}

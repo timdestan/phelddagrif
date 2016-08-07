@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Supreme Exemplar",
+  "manaCost": "{6}{U}",
+  "cmc": 7,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Flying\nChampion an Elemental (When this enters the battlefield, sacrifice it unless you exile another Elemental you control. When this leaves the battlefield, that card returns to the battlefield.)",
+  "power": "10",
+  "toughness": "10",
+  "imageName": "supreme exemplar",
+  "colorIdentity": [
+    "U"
+  ]
+}

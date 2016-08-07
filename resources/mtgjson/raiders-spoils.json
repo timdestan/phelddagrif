@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Raiders' Spoils",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Creatures you control get +1/+0.\nWhenever a Warrior you control deals combat damage to a player, you may pay 1 life. If you do, draw a card.",
+  "imageName": "raiders' spoils",
+  "colorIdentity": [
+    "B"
+  ]
+}

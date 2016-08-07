@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Ivory Tower",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus 4.",
+  "imageName": "ivory tower"
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Watchdog",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Hound",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Hound"
+  ],
+  "text": "Watchdog blocks each turn if able.\nAs long as Watchdog is untapped, all creatures attacking you get -1/-0.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "watchdog"
+}

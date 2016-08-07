@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Shoal Serpent",
+  "manaCost": "{5}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Serpent",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Serpent"
+  ],
+  "text": "Defender\nLandfall — Whenever a land enters the battlefield under your control, Shoal Serpent loses defender until end of turn.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "shoal serpent",
+  "colorIdentity": [
+    "U"
+  ]
+}

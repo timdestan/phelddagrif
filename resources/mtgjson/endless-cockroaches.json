@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Endless Cockroaches",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "When Endless Cockroaches dies, return it to its owner's hand.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "endless cockroaches",
+  "colorIdentity": [
+    "B"
+  ]
+}

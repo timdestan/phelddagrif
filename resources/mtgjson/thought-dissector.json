@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Thought Dissector",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{X}, {T}: Target opponent reveals cards from the top of his or her library until an artifact card or X cards are revealed, whichever comes first. If an artifact card is revealed this way, put it onto the battlefield under your control and sacrifice Thought Dissector. Put the rest of the revealed cards into that player's graveyard.",
+  "imageName": "thought dissector"
+}

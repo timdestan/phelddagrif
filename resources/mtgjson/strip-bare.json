@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Strip Bare",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy all Auras and Equipment attached to target creature.",
+  "imageName": "strip bare",
+  "colorIdentity": [
+    "W"
+  ]
+}

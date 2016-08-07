@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sacred Mesa",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, sacrifice Sacred Mesa unless you sacrifice a Pegasus.\n{1}{W}: Put a 1/1 white Pegasus creature token with flying onto the battlefield.",
+  "imageName": "sacred mesa",
+  "colorIdentity": [
+    "W"
+  ]
+}

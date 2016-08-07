@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Rootwater Alligator",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Crocodile",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Crocodile"
+  ],
+  "text": "Sacrifice a Forest: Regenerate Rootwater Alligator.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "rootwater alligator",
+  "colorIdentity": [
+    "G"
+  ]
+}

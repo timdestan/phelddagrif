@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Timmerian Fiends",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "Remove Timmerian Fiends from your deck before playing if you're not playing for ante.\n{B}{B}{B}, Sacrifice Timmerian Fiends: The owner of target artifact may ante the top card of his or her library. If that player doesn't, exchange ownership of that artifact and Timmerian Fiends. Put the artifact card into your graveyard and Timmerian Fiends from anywhere into that player's graveyard. This change in ownership is permanent.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "timmerian fiends",
+  "colorIdentity": [
+    "B"
+  ]
+}

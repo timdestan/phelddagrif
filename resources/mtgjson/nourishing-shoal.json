@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Nourishing Shoal",
+  "manaCost": "{X}{G}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant — Arcane",
+  "types": [
+    "Instant"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "You may exile a green card with converted mana cost X from your hand rather than pay Nourishing Shoal's mana cost.\nYou gain X life.",
+  "imageName": "nourishing shoal",
+  "colorIdentity": [
+    "G"
+  ]
+}

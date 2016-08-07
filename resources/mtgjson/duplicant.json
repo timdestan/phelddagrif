@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Duplicant",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Artifact Creature — Shapeshifter",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Shapeshifter"
+  ],
+  "text": "Imprint — When Duplicant enters the battlefield, you may exile target nontoken creature.\nAs long as a card exiled with Duplicant is a creature card, Duplicant has the power, toughness, and creature types of the last creature card exiled with Duplicant. It's still a Shapeshifter.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "duplicant"
+}

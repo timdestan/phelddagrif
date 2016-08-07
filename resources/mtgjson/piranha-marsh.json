@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Piranha Marsh",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Piranha Marsh enters the battlefield tapped.\nWhen Piranha Marsh enters the battlefield, target player loses 1 life.\n{T}: Add {B} to your mana pool.",
+  "imageName": "piranha marsh",
+  "colorIdentity": [
+    "B"
+  ]
+}

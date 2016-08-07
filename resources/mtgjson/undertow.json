@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Undertow",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Creatures with islandwalk can be blocked as though they didn't have islandwalk.",
+  "imageName": "undertow",
+  "colorIdentity": [
+    "U"
+  ]
+}

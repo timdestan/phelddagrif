@@ -1,0 +1,16 @@
+{
+  "layout": "normal",
+  "name": "Restore Balance",
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Suspend 6—{W} (Rather than cast this card from your hand, pay {W} and exile it with six time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)\nEach player chooses a number of lands he or she controls equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players sacrifice creatures and discard cards the same way.",
+  "imageName": "restore balance",
+  "colorIdentity": [
+    "W"
+  ]
+}

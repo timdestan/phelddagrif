@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Null Profusion",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Skip your draw step.\nWhenever you play a card, draw a card.\nYour maximum hand size is two.",
+  "imageName": "null profusion",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Shu Elite Infantry",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "power": "3",
+  "toughness": "3",
+  "imageName": "shu elite infantry",
+  "colorIdentity": [
+    "W"
+  ]
+}

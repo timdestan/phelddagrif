@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Anger",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Incarnation",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Incarnation"
+  ],
+  "text": "Haste\nAs long as Anger is in your graveyard and you control a Mountain, creatures you control have haste.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "anger",
+  "colorIdentity": [
+    "R"
+  ]
+}

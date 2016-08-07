@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Dragonstalker",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Bird Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird",
+    "Soldier"
+  ],
+  "text": "Flying, protection from Dragons",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "dragonstalker",
+  "colorIdentity": [
+    "W"
+  ]
+}

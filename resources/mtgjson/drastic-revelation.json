@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Drastic Revelation",
+  "manaCost": "{2}{U}{B}{R}",
+  "cmc": 5,
+  "colors": [
+    "Blue",
+    "Black",
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Discard your hand. Draw seven cards, then discard three cards at random.",
+  "imageName": "drastic revelation",
+  "colorIdentity": [
+    "U",
+    "B",
+    "R"
+  ]
+}

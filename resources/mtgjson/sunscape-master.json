@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Sunscape Master",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{G}{G}, {T}: Creatures you control get +2/+2 until end of turn.\n{U}{U}, {T}: Return target creature to its owner's hand.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "sunscape master",
+  "colorIdentity": [
+    "W",
+    "G",
+    "U"
+  ]
+}

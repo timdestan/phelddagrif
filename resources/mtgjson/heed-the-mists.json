@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Heed the Mists",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery — Arcane",
+  "types": [
+    "Sorcery"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "Put the top card of your library into your graveyard, then draw cards equal to that card's converted mana cost.",
+  "imageName": "heed the mists",
+  "colorIdentity": [
+    "U"
+  ]
+}

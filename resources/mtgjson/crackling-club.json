@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Crackling Club",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets +1/+0.\nSacrifice Crackling Club: Crackling Club deals 1 damage to target creature.",
+  "imageName": "crackling club",
+  "colorIdentity": [
+    "R"
+  ]
+}

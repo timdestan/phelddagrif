@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sylvan Library",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your draw step, you may draw two additional cards. If you do, choose two cards in your hand drawn this turn. For each of those cards, pay 4 life or put the card on top of your library.",
+  "imageName": "sylvan library",
+  "colorIdentity": [
+    "G"
+  ]
+}

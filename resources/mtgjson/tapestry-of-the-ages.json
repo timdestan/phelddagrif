@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Tapestry of the Ages",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, {T}: Draw a card. Activate this ability only if you've cast a noncreature spell this turn.",
+  "imageName": "tapestry of the ages"
+}

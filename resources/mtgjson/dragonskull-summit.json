@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Dragonskull Summit",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Dragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain.\n{T}: Add {B} or {R} to your mana pool.",
+  "imageName": "dragonskull summit",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

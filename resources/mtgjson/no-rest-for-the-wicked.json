@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "No Rest for the Wicked",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Sacrifice No Rest for the Wicked: Return to your hand all creature cards in your graveyard that were put there from the battlefield this turn.",
+  "imageName": "no rest for the wicked",
+  "colorIdentity": [
+    "B"
+  ]
+}

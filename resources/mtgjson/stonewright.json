@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Stonewright",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Shaman"
+  ],
+  "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Stonewright is paired with another creature, each of those creatures has \"{R}: This creature gets +1/+0 until end of turn.\"",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "stonewright",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Smother",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target creature with converted mana cost 3 or less. It can't be regenerated.",
+  "imageName": "smother",
+  "colorIdentity": [
+    "B"
+  ]
+}

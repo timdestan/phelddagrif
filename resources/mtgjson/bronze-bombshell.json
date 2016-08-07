@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Bronze Bombshell",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "text": "When a player other than Bronze Bombshell's owner controls it, that player sacrifices it. If the player does, Bronze Bombshell deals 7 damage to him or her.",
+  "power": "4",
+  "toughness": "1",
+  "imageName": "bronze bombshell"
+}

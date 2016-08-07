@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Somber Hoverguard",
+  "manaCost": "{5}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Drone",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drone"
+  ],
+  "text": "Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nFlying",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "somber hoverguard",
+  "colorIdentity": [
+    "U"
+  ]
+}

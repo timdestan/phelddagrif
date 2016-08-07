@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Doomed Traveler",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "When Doomed Traveler dies, put a 1/1 white Spirit creature token with flying onto the battlefield.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "doomed traveler",
+  "colorIdentity": [
+    "W"
+  ]
+}

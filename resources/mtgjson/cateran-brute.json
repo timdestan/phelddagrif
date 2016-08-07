@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Cateran Brute",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror Mercenary",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror",
+    "Mercenary"
+  ],
+  "text": "{2}, {T}: Search your library for a Mercenary permanent card with converted mana cost 2 or less and put it onto the battlefield. Then shuffle your library.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "cateran brute",
+  "colorIdentity": [
+    "B"
+  ]
+}

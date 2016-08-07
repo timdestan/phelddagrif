@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Scourge of Skola Vale",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Hydra",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hydra"
+  ],
+  "text": "Trample\nScourge of Skola Vale enters the battlefield with two +1/+1 counters on it.\n{T}, Sacrifice another creature: Put a number of +1/+1 counters on Scourge of Skola Vale equal to the sacrificed creature's toughness.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "scourge of skola vale",
+  "colorIdentity": [
+    "G"
+  ]
+}

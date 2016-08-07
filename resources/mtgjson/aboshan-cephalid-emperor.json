@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Aboshan, Cephalid Emperor",
+  "manaCost": "{4}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Legendary Creature — Cephalid",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cephalid"
+  ],
+  "text": "Tap an untapped Cephalid you control: Tap target permanent.\n{U}{U}{U}: Tap all creatures without flying.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "aboshan, cephalid emperor",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Mindslaver",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Legendary Artifact",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Artifact"
+  ],
+  "text": "{4}, {T}, Sacrifice Mindslaver: You control target player during that player's next turn. (You see all cards that player could see and make all decisions for the player.)",
+  "imageName": "mindslaver"
+}

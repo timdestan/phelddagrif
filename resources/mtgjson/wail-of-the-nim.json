@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Wail of the Nim",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose one —\n• Regenerate each creature you control.\n• Wail of the Nim deals 1 damage to each creature and each player.\nEntwine {B} (Choose both if you pay the entwine cost.)",
+  "imageName": "wail of the nim",
+  "colorIdentity": [
+    "B"
+  ]
+}

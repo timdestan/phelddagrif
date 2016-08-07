@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Perish",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy all green creatures. They can't be regenerated.",
+  "imageName": "perish",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Enter the Infinite",
+  "manaCost": "{8}{U}{U}{U}{U}",
+  "cmc": 12,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Draw cards equal to the number of cards in your library, then put a card from your hand on top of your library. You have no maximum hand size until your next turn.",
+  "imageName": "enter the infinite",
+  "colorIdentity": [
+    "U"
+  ]
+}

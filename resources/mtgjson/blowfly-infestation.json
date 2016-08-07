@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Blowfly Infestation",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a creature dies, if it had a -1/-1 counter on it, put a -1/-1 counter on target creature.",
+  "imageName": "blowfly infestation",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Torch Fiend",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Devil",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Devil"
+  ],
+  "text": "{R}, Sacrifice Torch Fiend: Destroy target artifact.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "torch fiend",
+  "colorIdentity": [
+    "R"
+  ]
+}

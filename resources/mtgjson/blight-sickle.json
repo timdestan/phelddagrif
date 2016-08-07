@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Blight Sickle",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature gets +1/+0 and has wither. (It deals damage to creatures in the form of -1/-1 counters.)\nEquip {2}",
+  "imageName": "blight sickle"
+}

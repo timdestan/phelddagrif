@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Elvish Scrapper",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf"
+  ],
+  "text": "{G}, {T}, Sacrifice Elvish Scrapper: Destroy target artifact.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "elvish scrapper",
+  "colorIdentity": [
+    "G"
+  ]
+}

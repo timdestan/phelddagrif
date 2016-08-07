@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Spike Weaver",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Spike",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spike"
+  ],
+  "text": "Spike Weaver enters the battlefield with three +1/+1 counters on it.\n{2}, Remove a +1/+1 counter from Spike Weaver: Put a +1/+1 counter on target creature.\n{1}, Remove a +1/+1 counter from Spike Weaver: Prevent all combat damage that would be dealt this turn.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "spike weaver",
+  "colorIdentity": [
+    "G"
+  ]
+}

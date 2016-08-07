@@ -1,0 +1,10 @@
+{
+  "layout": "scheme",
+  "name": "Which of You Burns Brightest?",
+  "type": "Scheme",
+  "types": [
+    "Scheme"
+  ],
+  "text": "When you set this scheme in motion, you may pay {X}. If you do, this scheme deals X damage to target opponent and each creature he or she controls.",
+  "imageName": "which of you burns brightest"
+}

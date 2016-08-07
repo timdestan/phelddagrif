@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Font of Fortunes",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{1}{U}, Sacrifice Font of Fortunes: Draw two cards.",
+  "imageName": "font of fortunes",
+  "colorIdentity": [
+    "U"
+  ]
+}

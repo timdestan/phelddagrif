@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Heroes' Reunion",
+  "manaCost": "{G}{W}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target player gains 7 life.",
+  "imageName": "heroes' reunion",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

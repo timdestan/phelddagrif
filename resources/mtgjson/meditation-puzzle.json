@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Meditation Puzzle",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nYou gain 8 life.",
+  "imageName": "meditation puzzle",
+  "colorIdentity": [
+    "W"
+  ]
+}

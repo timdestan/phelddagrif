@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Nested Ghoul",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Warrior"
+  ],
+  "text": "Whenever a source deals damage to Nested Ghoul, put a 2/2 black Zombie creature token onto the battlefield.",
+  "power": "4",
+  "toughness": "2",
+  "imageName": "nested ghoul",
+  "colorIdentity": [
+    "B"
+  ]
+}

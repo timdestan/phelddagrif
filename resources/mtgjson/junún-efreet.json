@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Junún Efreet",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Efreet",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Efreet"
+  ],
+  "text": "Flying\nAt the beginning of your upkeep, sacrifice Junún Efreet unless you pay {B}{B}.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "junún efreet",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Cinder Glade",
+  "type": "Land — Mountain Forest",
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Mountain",
+    "Forest"
+  ],
+  "text": "({T}: Add {R} or {G} to your mana pool.)\nCinder Glade enters the battlefield tapped unless you control two or more basic lands.",
+  "imageName": "cinder glade",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Swift Reckoning",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, you may cast Swift Reckoning as though it had flash. (You may cast it any time you could cast an instant.)\nDestroy target tapped creature.",
+  "imageName": "swift reckoning",
+  "colorIdentity": [
+    "W"
+  ]
+}

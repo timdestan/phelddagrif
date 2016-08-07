@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Vodalian Merchant",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk"
+  ],
+  "text": "When Vodalian Merchant enters the battlefield, draw a card, then discard a card.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "vodalian merchant",
+  "colorIdentity": [
+    "U"
+  ]
+}

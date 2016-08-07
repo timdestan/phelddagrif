@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Taste of Paradise",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "As an additional cost to cast Taste of Paradise, you may pay {1}{G} any number of times.\nYou gain 3 life plus an additional 3 life for each additional {1}{G} you paid.",
+  "imageName": "taste of paradise",
+  "colorIdentity": [
+    "G"
+  ]
+}

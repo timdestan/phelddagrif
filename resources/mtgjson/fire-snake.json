@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Fire Snake",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Snake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Snake"
+  ],
+  "text": "When Fire Snake dies, destroy target land.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "fire snake",
+  "colorIdentity": [
+    "R"
+  ]
+}

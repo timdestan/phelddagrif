@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Tropical Island",
+  "type": "Land — Forest Island",
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Forest",
+    "Island"
+  ],
+  "text": "({T}: Add {G} or {U} to your mana pool.)",
+  "imageName": "tropical island",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Selesnya Evangel",
+  "manaCost": "{G}{W}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Elf Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Shaman"
+  ],
+  "text": "{1}, {T}, Tap an untapped creature you control: Put a 1/1 green Saproling creature token onto the battlefield.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "selesnya evangel",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

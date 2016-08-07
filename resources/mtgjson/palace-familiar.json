@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Palace Familiar",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\nWhen Palace Familiar dies, draw a card.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "palace familiar",
+  "colorIdentity": [
+    "U"
+  ]
+}

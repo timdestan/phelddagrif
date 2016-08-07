@@ -1,0 +1,30 @@
+{
+  "layout": "normal",
+  "name": "Halfdane",
+  "manaCost": "{1}{W}{U}{B}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Blue",
+    "Black"
+  ],
+  "type": "Legendary Creature — Shapeshifter",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Shapeshifter"
+  ],
+  "text": "At the beginning of your upkeep, change Halfdane's base power and toughness to the power and toughness of target creature other than Halfdane until the end of your next upkeep.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "halfdane",
+  "colorIdentity": [
+    "W",
+    "U",
+    "B"
+  ]
+}

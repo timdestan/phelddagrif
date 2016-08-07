@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Scaled Hulk",
+  "manaCost": "{5}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Whenever you cast a Spirit or Arcane spell, Scaled Hulk gets +2/+2 until end of turn.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "scaled hulk",
+  "colorIdentity": [
+    "G"
+  ]
+}

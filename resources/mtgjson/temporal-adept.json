@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Temporal Adept",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{U}{U}{U}, {T}: Return target permanent to its owner's hand.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "temporal adept",
+  "colorIdentity": [
+    "U"
+  ]
+}

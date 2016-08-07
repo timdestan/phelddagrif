@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Leave No Trace",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Radiance — Destroy target enchantment and each other enchantment that shares a color with it.",
+  "imageName": "leave no trace",
+  "colorIdentity": [
+    "W"
+  ]
+}

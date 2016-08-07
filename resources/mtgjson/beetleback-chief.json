@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Beetleback Chief",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Warrior"
+  ],
+  "text": "When Beetleback Chief enters the battlefield, put two 1/1 red Goblin creature tokens onto the battlefield.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "beetleback chief",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Minotaur Tactician",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Minotaur",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Minotaur"
+  ],
+  "text": "Haste\nMinotaur Tactician gets +1/+1 as long as you control a white creature.\nMinotaur Tactician gets +1/+1 as long as you control a blue creature.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "minotaur tactician",
+  "colorIdentity": [
+    "R"
+  ]
+}

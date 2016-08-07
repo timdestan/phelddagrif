@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Riot Devils",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Devil",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Devil"
+  ],
+  "power": "2",
+  "toughness": "3",
+  "imageName": "riot devils",
+  "colorIdentity": [
+    "R"
+  ]
+}

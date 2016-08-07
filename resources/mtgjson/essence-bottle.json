@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Essence Bottle",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{3}, {T}: Put an elixir counter on Essence Bottle.\n{T}, Remove all elixir counters from Essence Bottle: You gain 2 life for each elixir counter removed this way.",
+  "imageName": "essence bottle"
+}

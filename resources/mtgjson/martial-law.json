@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Martial Law",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, detain target creature an opponent controls. (Until your next turn, that creature can't attack or block and its activated abilities can't be activated.)",
+  "imageName": "martial law",
+  "colorIdentity": [
+    "W"
+  ]
+}

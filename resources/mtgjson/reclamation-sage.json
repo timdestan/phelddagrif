@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Reclamation Sage",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Shaman"
+  ],
+  "text": "When Reclamation Sage enters the battlefield, you may destroy target artifact or enchantment.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "reclamation sage",
+  "colorIdentity": [
+    "G"
+  ]
+}

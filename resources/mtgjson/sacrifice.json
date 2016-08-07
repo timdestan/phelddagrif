@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sacrifice",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "As an additional cost to cast Sacrifice, sacrifice a creature.\nAdd to your mana pool an amount of {B} equal to the sacrificed creature's converted mana cost.",
+  "imageName": "sacrifice",
+  "colorIdentity": [
+    "B"
+  ]
+}

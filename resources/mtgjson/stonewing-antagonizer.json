@@ -1,0 +1,22 @@
+{
+  "layout": "double-faced",
+  "name": "Stonewing Antagonizer",
+  "names": [
+    "Thraben Gargoyle",
+    "Stonewing Antagonizer"
+  ],
+  "cmc": 1,
+  "type": "Artifact Creature — Gargoyle Horror",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Gargoyle",
+    "Horror"
+  ],
+  "text": "Flying",
+  "power": "4",
+  "toughness": "2",
+  "imageName": "stonewing antagonizer"
+}

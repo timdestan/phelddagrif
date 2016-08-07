@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kor Aeronaut",
+  "manaCost": "{W}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kor Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kor",
+    "Soldier"
+  ],
+  "text": "Kicker {1}{W} (You may pay an additional {1}{W} as you cast this spell.)\nFlying\nWhen Kor Aeronaut enters the battlefield, if it was kicked, target creature gains flying until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "kor aeronaut",
+  "colorIdentity": [
+    "W"
+  ]
+}

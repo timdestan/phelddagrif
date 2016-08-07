@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Restock",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Return two target cards from your graveyard to your hand. Exile Restock.",
+  "imageName": "restock",
+  "colorIdentity": [
+    "G"
+  ]
+}

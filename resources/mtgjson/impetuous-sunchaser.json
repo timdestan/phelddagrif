@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Impetuous Sunchaser",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Flying, haste\nImpetuous Sunchaser attacks each turn if able.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "impetuous sunchaser",
+  "colorIdentity": [
+    "R"
+  ]
+}

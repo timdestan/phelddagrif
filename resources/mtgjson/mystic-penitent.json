@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Mystic Penitent",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Nomad Mystic",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Nomad",
+    "Mystic"
+  ],
+  "text": "Vigilance\nThreshold — As long as seven or more cards are in your graveyard, Mystic Penitent gets +1/+1 and has flying.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "mystic penitent",
+  "colorIdentity": [
+    "W"
+  ]
+}

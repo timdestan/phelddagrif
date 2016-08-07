@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Starlit Angel",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "starlit angel",
+  "colorIdentity": [
+    "W"
+  ]
+}

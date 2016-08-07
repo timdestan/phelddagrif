@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Goatnapper",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Rogue"
+  ],
+  "text": "When Goatnapper enters the battlefield, untap target Goat and gain control of it until end of turn. It gains haste until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "goatnapper",
+  "colorIdentity": [
+    "R"
+  ]
+}

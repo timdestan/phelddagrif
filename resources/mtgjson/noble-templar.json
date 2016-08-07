@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Noble Templar",
+  "manaCost": "{5}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric",
+    "Soldier"
+  ],
+  "text": "Vigilance\nPlainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, and put it into your hand. Then shuffle your library.)",
+  "power": "3",
+  "toughness": "6",
+  "imageName": "noble templar",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "layout": "normal",
+  "name": "Ruhan of the Fomori",
+  "manaCost": "{1}{R}{W}{U}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Blue",
+    "Red"
+  ],
+  "type": "Legendary Creature — Giant Warrior",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant",
+    "Warrior"
+  ],
+  "text": "At the beginning of combat on your turn, choose an opponent at random. Ruhan of the Fomori attacks that player this combat if able.",
+  "power": "7",
+  "toughness": "7",
+  "imageName": "ruhan of the fomori",
+  "colorIdentity": [
+    "W",
+    "U",
+    "R"
+  ]
+}

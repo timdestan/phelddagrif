@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mizzium Mortars",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Mizzium Mortars deals 4 damage to target creature you don't control.\nOverload {3}{R}{R}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")",
+  "imageName": "mizzium mortars",
+  "colorIdentity": [
+    "R"
+  ]
+}

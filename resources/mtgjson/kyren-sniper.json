@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Kyren Sniper",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "At the beginning of your upkeep, you may have Kyren Sniper deal 1 damage to target player.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "kyren sniper",
+  "colorIdentity": [
+    "R"
+  ]
+}

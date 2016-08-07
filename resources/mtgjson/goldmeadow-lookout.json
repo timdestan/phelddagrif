@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Goldmeadow Lookout",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kithkin Spellshaper",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kithkin",
+    "Spellshaper"
+  ],
+  "text": "{W}, {T}, Discard a card: Put a 1/1 white Kithkin Soldier creature token named Goldmeadow Harrier onto the battlefield. It has \"{W}, {T}: Tap target creature.\"",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "goldmeadow lookout",
+  "colorIdentity": [
+    "W"
+  ]
+}

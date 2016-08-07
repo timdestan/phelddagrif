@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Engulfing Flames",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Engulfing Flames deals 1 damage to target creature. It can't be regenerated this turn.\nFlashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "engulfing flames",
+  "colorIdentity": [
+    "R"
+  ]
+}

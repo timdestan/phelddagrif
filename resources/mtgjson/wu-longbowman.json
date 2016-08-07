@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Wu Longbowman",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Soldier Archer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier",
+    "Archer"
+  ],
+  "text": "{T}: Wu Longbowman deals 1 damage to target creature or player. Activate this ability only during your turn, before attackers are declared.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "wu longbowman",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Hagra Diabolist",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Ogre Shaman Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ogre",
+    "Shaman",
+    "Ally"
+  ],
+  "text": "Whenever Hagra Diabolist or another Ally enters the battlefield under your control, you may have target player lose life equal to the number of Allies you control.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "hagra diabolist",
+  "colorIdentity": [
+    "B"
+  ]
+}

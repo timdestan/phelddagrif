@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Raka Sanctuary",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, if you control a white or blue permanent, Raka Sanctuary deals 1 damage to target creature. If you control a white permanent and a blue permanent, Raka Sanctuary deals 3 damage to that creature instead.",
+  "imageName": "raka sanctuary",
+  "colorIdentity": [
+    "R"
+  ]
+}

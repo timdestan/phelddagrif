@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Titan's Strength",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gets +3/+1 until end of turn. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "imageName": "titan's strength",
+  "colorIdentity": [
+    "R"
+  ]
+}

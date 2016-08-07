@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Oathsworn Giant",
+  "manaCost": "{4}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Giant Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant",
+    "Soldier"
+  ],
+  "text": "Vigilance\nOther creatures you control get +0/+2 and have vigilance.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "oathsworn giant",
+  "colorIdentity": [
+    "W"
+  ]
+}

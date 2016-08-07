@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Artillerize",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "As an additional cost to cast Artillerize, sacrifice an artifact or creature.\nArtillerize deals 5 damage to target creature or player.",
+  "imageName": "artillerize",
+  "colorIdentity": [
+    "R"
+  ]
+}

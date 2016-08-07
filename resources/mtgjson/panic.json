@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Panic",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Cast Panic only during combat before blockers are declared.\nTarget creature can't block this turn.\nDraw a card at the beginning of the next turn's upkeep.",
+  "imageName": "panic",
+  "colorIdentity": [
+    "R"
+  ]
+}

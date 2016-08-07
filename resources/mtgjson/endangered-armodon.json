@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Endangered Armodon",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elephant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elephant"
+  ],
+  "text": "When you control a creature with toughness 2 or less, sacrifice Endangered Armodon.",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "endangered armodon",
+  "colorIdentity": [
+    "G"
+  ]
+}

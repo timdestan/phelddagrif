@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kinsbaile Balloonist",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kithkin Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kithkin",
+    "Soldier"
+  ],
+  "text": "Flying\nWhenever Kinsbaile Balloonist attacks, you may have target creature gain flying until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "kinsbaile balloonist",
+  "colorIdentity": [
+    "W"
+  ]
+}

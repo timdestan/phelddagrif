@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Chandra's Ignition",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target creature you control deals damage equal to its power to each other creature and each opponent.",
+  "imageName": "chandra's ignition",
+  "colorIdentity": [
+    "R"
+  ]
+}

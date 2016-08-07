@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Malfegor Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "Whenever a creature enters the battlefield under your control, if it was unearthed, it gets +3/+0.\nWhenever a creature you control is exiled, if it was unearthed, shuffle that card into its owner's library.",
+  "imageName": "malfegor avatar",
+  "hand": 2,
+  "life": -2
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Riding Red Hare",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target creature gets +3/+3 and gains horsemanship until end of turn. (It can't be blocked except by creatures with horsemanship.)",
+  "imageName": "riding red hare",
+  "colorIdentity": [
+    "W"
+  ]
+}

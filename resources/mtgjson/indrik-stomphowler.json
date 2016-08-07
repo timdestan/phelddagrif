@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Indrik Stomphowler",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "When Indrik Stomphowler enters the battlefield, destroy target artifact or enchantment.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "indrik stomphowler",
+  "colorIdentity": [
+    "G"
+  ]
+}

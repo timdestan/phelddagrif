@@ -1,0 +1,25 @@
+{
+  "layout": "leveler",
+  "name": "Transcendent Master",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric Avatar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric",
+    "Avatar"
+  ],
+  "text": "Level up {1} ({1}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 6-11\n6/6\nLifelink\nLEVEL 12+\n9/9\nLifelink, indestructible",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "transcendent master",
+  "colorIdentity": [
+    "W"
+  ]
+}

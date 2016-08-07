@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Sunblade Elf",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Warrior"
+  ],
+  "text": "Sunblade Elf gets +1/+1 as long as you control a Plains.\n{4}{W}: Creatures you control get +1/+1 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "sunblade elf",
+  "colorIdentity": [
+    "G",
+    "W"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Kozilek's Return",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Devoid (This card has no color.)\nKozilek's Return deals 2 damage to each creature.\nWhenever you cast an Eldrazi creature spell with converted mana cost 7 or greater, you may exile Kozilek's Return from your graveyard. If you do, Kozilek's Return deals 5 damage to each creature.",
+  "imageName": "kozilek's return",
+  "colorIdentity": [
+    "R"
+  ]
+}

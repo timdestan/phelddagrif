@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Grove of the Guardian",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{3}{G}{W}, {T}, Tap two untapped creatures you control, Sacrifice Grove of the Guardian: Put an 8/8 green and white Elemental creature token with vigilance onto the battlefield.",
+  "imageName": "grove of the guardian",
+  "colorIdentity": [
+    "G",
+    "W"
+  ]
+}

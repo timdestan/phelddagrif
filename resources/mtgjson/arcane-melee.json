@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Arcane Melee",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Instant and sorcery spells cost {2} less to cast.",
+  "imageName": "arcane melee",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "layout": "plane",
+  "name": "Lethe Lake",
+  "type": "Plane — Arkhos",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Arkhos"
+  ],
+  "text": "At the beginning of your upkeep, put the top ten cards of your library into your graveyard.\nWhenever you roll CHAOS, target player puts the top ten cards of his or her library into his or her graveyard.",
+  "imageName": "lethe lake"
+}

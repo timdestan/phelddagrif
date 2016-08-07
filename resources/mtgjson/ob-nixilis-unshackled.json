@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Ob Nixilis, Unshackled",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Legendary Creature — Demon",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon"
+  ],
+  "text": "Flying, trample\nWhenever an opponent searches his or her library, that player sacrifices a creature and loses 10 life.\nWhenever another creature dies, put a +1/+1 counter on Ob Nixilis, Unshackled.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "ob nixilis, unshackled",
+  "colorIdentity": [
+    "B"
+  ]
+}

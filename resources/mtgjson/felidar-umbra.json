@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Felidar Umbra",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature has lifelink.\n{1}{W}: Attach Felidar Umbra to target creature you control.\nTotem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)",
+  "imageName": "felidar umbra",
+  "colorIdentity": [
+    "W"
+  ]
+}

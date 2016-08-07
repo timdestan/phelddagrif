@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Great Sable Stag",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elk"
+  ],
+  "text": "Great Sable Stag can't be countered.\nProtection from blue and from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything blue or black.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "great sable stag",
+  "colorIdentity": [
+    "G"
+  ]
+}

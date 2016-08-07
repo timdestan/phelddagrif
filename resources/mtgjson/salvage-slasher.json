@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Salvage Slasher",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Artifact Creature — Human Rogue",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "Salvage Slasher gets +1/+0 for each artifact card in your graveyard.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "salvage slasher",
+  "colorIdentity": [
+    "B"
+  ]
+}

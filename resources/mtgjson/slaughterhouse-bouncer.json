@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Slaughterhouse Bouncer",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Ogre Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ogre",
+    "Warrior"
+  ],
+  "text": "Hellbent — When Slaughterhouse Bouncer dies, if you have no cards in hand, target creature gets -3/-3 until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "slaughterhouse bouncer",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Tempest of Light",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy all enchantments.",
+  "imageName": "tempest of light",
+  "colorIdentity": [
+    "W"
+  ]
+}

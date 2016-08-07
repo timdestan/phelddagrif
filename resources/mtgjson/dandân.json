@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dandân",
+  "manaCost": "{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Fish",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Fish"
+  ],
+  "text": "Dandân can't attack unless defending player controls an Island.\nWhen you control no Islands, sacrifice Dandân.",
+  "power": "4",
+  "toughness": "1",
+  "imageName": "dandân",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Warren Weirding",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Tribal Sorcery — Goblin",
+  "types": [
+    "Tribal",
+    "Sorcery"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "Target player sacrifices a creature. If a Goblin is sacrificed this way, that player puts two 1/1 black Goblin Rogue creature tokens onto the battlefield, and those tokens gain haste until end of turn.",
+  "imageName": "warren weirding",
+  "colorIdentity": [
+    "B"
+  ]
+}

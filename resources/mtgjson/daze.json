@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Daze",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "You may return an Island you control to its owner's hand rather than pay Daze's mana cost.\nCounter target spell unless its controller pays {1}.",
+  "imageName": "daze",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Linessa, Zephyr Mage",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Legendary Creature — Human Wizard",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{X}{U}{U}, {T}: Return target creature with converted mana cost X to its owner's hand.\nGrandeur — Discard another card named Linessa, Zephyr Mage: Target player returns a creature he or she controls to its owner's hand, then repeats this process for an artifact, an enchantment, and a land.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "linessa, zephyr mage",
+  "colorIdentity": [
+    "U"
+  ]
+}

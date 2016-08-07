@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Thunderblust",
+  "manaCost": "{2}{R}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Haste\nThunderblust has trample as long as it has a -1/-1 counter on it.\nPersist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",
+  "power": "7",
+  "toughness": "2",
+  "imageName": "thunderblust",
+  "colorIdentity": [
+    "R"
+  ]
+}

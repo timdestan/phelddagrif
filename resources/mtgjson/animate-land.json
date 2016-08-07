@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Animate Land",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Until end of turn, target land becomes a 3/3 creature that's still a land.",
+  "imageName": "animate land",
+  "colorIdentity": [
+    "G"
+  ]
+}

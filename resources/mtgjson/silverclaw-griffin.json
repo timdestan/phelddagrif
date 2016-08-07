@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Silverclaw Griffin",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Griffin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Griffin"
+  ],
+  "text": "Flying, first strike",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "silverclaw griffin",
+  "colorIdentity": [
+    "W"
+  ]
+}

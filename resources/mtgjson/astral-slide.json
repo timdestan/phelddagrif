@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Astral Slide",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a player cycles a card, you may exile target creature. If you do, return that card to the battlefield under its owner's control at the beginning of the next end step.",
+  "imageName": "astral slide",
+  "colorIdentity": [
+    "W"
+  ]
+}

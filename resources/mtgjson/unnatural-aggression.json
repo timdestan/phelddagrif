@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Unnatural Aggression",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Devoid (This card has no color.)\nTarget creature you control fights target creature an opponent controls. If the creature an opponent controls would die this turn, exile it instead.",
+  "imageName": "unnatural aggression",
+  "colorIdentity": [
+    "G"
+  ]
+}

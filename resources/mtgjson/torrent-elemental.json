@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Torrent Elemental",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Flying\nWhenever Torrent Elemental attacks, tap all creatures defending player controls.\n{3}{B/G}{B/G}: Put Torrent Elemental from exile onto the battlefield tapped. Activate this ability only any time you could cast a sorcery.",
+  "power": "3",
+  "toughness": "5",
+  "imageName": "torrent elemental",
+  "colorIdentity": [
+    "U",
+    "B",
+    "G"
+  ]
+}

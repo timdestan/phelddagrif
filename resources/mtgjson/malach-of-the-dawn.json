@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Malach of the Dawn",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\n{W}{W}{W}: Regenerate Malach of the Dawn.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "malach of the dawn",
+  "colorIdentity": [
+    "W"
+  ]
+}

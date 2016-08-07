@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Gutless Ghoul",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Snow Creature — Zombie",
+  "supertypes": [
+    "Snow"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "{1}, Sacrifice a creature: You gain 2 life.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "gutless ghoul",
+  "colorIdentity": [
+    "B"
+  ]
+}

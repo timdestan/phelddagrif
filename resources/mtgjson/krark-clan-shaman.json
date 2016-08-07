@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Krark-Clan Shaman",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Shaman"
+  ],
+  "text": "Sacrifice an artifact: Krark-Clan Shaman deals 1 damage to each creature without flying.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "krark-clan shaman",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Treasure Hunt",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Reveal cards from the top of your library until you reveal a nonland card, then put all cards revealed this way into your hand.",
+  "imageName": "treasure hunt",
+  "colorIdentity": [
+    "U"
+  ]
+}

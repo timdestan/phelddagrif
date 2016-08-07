@@ -1,0 +1,23 @@
+{
+  "layout": "split",
+  "name": "Away",
+  "names": [
+    "Far",
+    "Away"
+  ],
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target player sacrifices a creature.\nFuse (You may cast one or both halves of this card from your hand.)",
+  "imageName": "away",
+  "colorIdentity": [
+    "B",
+    "U"
+  ]
+}

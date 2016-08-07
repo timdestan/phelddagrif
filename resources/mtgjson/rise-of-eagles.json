@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rise of Eagles",
+  "manaCost": "{4}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put two 2/2 blue Bird enchantment creature tokens with flying onto the battlefield. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "imageName": "rise of eagles",
+  "colorIdentity": [
+    "U"
+  ]
+}

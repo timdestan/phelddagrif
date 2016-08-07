@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Infernal Spawn of Infernal Spawn of Evil",
+  "manaCost": "{8}{B}{B}",
+  "cmc": 10,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Demon Child",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon",
+    "Child"
+  ],
+  "text": "Flying, first strike, trample\nIf you say \"I'm coming, too\" as you search your library, you may pay {1}{B} and reveal Infernal Spawn of Infernal Spawn of Evil from your library to have it deal 2 damage to a player of your choice. Do this no more than once each turn.",
+  "power": "8",
+  "toughness": "8",
+  "imageName": "infernal spawn of infernal spawn of evil",
+  "colorIdentity": [
+    "B"
+  ]
+}

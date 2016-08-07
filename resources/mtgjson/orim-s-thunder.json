@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Orim's Thunder",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Kicker {R} (You may pay an additional {R} as you cast this spell.)\nDestroy target artifact or enchantment. If Orim's Thunder was kicked, it deals damage equal to that permanent's converted mana cost to target creature.",
+  "imageName": "orim's thunder",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

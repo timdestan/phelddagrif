@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Silent Assassin",
+  "manaCost": "{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Mercenary Assassin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Mercenary",
+    "Assassin"
+  ],
+  "text": "{3}{B}: Destroy target blocking creature at end of combat.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "silent assassin",
+  "colorIdentity": [
+    "B"
+  ]
+}

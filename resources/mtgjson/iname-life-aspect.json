@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Iname, Life Aspect",
+  "manaCost": "{4}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Legendary Creature — Spirit",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "When Iname, Life Aspect dies, you may exile it. If you do, return any number of target Spirit cards from your graveyard to your hand.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "iname, life aspect",
+  "colorIdentity": [
+    "G"
+  ]
+}

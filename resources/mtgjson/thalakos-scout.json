@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Thalakos Scout",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Thalakos Soldier Scout",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Thalakos",
+    "Soldier",
+    "Scout"
+  ],
+  "text": "Shadow (This creature can block or be blocked by only creatures with shadow.)\nDiscard a card: Return Thalakos Scout to its owner's hand.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "thalakos scout",
+  "colorIdentity": [
+    "U"
+  ]
+}

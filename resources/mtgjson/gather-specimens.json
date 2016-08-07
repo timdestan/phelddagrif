@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Gather Specimens",
+  "manaCost": "{3}{U}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "If a creature would enter the battlefield under an opponent's control this turn, it enters the battlefield under your control instead.",
+  "imageName": "gather specimens",
+  "colorIdentity": [
+    "U"
+  ]
+}

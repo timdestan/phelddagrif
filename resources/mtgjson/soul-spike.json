@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Soul Spike",
+  "manaCost": "{5}{B}{B}",
+  "cmc": 7,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "You may exile two black cards from your hand rather than pay Soul Spike's mana cost.\nSoul Spike deals 4 damage to target creature or player and you gain 4 life.",
+  "imageName": "soul spike",
+  "colorIdentity": [
+    "B"
+  ]
+}

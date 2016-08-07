@@ -1,0 +1,25 @@
+{
+  "layout": "split",
+  "name": "Hit",
+  "names": [
+    "Hit",
+    "Run"
+  ],
+  "manaCost": "{1}{B}{R}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target player sacrifices an artifact or creature. Hit deals damage to that player equal to that permanent's converted mana cost.",
+  "imageName": "hit",
+  "colorIdentity": [
+    "R",
+    "G",
+    "B"
+  ]
+}

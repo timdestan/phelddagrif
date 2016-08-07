@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Rimehorn Aurochs",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Snow Creature — Aurochs",
+  "supertypes": [
+    "Snow"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Aurochs"
+  ],
+  "text": "Trample\nWhenever Rimehorn Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.\n{2}{S}: Target creature blocks target creature this turn if able. ({S} can be paid with one mana from a snow permanent.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "rimehorn aurochs",
+  "colorIdentity": [
+    "G"
+  ]
+}

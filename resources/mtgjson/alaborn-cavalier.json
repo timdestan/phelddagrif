@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Alaborn Cavalier",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "Whenever Alaborn Cavalier attacks, you may tap target creature.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "alaborn cavalier",
+  "colorIdentity": [
+    "W"
+  ]
+}

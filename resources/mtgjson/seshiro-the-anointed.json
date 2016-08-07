@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Seshiro the Anointed",
+  "manaCost": "{4}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Legendary Creature — Snake Monk",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Snake",
+    "Monk"
+  ],
+  "text": "Other Snake creatures you control get +2/+2.\nWhenever a Snake you control deals combat damage to a player, you may draw a card.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "seshiro the anointed",
+  "colorIdentity": [
+    "G"
+  ]
+}

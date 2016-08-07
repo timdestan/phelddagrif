@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Goblin Game",
+  "manaCost": "{5}{R}{R}",
+  "cmc": 7,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Each player hides at least one item, then all players reveal them simultaneously. Each player loses life equal to the number of items he or she revealed. The player who revealed the fewest items then loses half his or her life, rounded up. If two or more players are tied for fewest, each loses half his or her life, rounded up.",
+  "imageName": "goblin game",
+  "colorIdentity": [
+    "R"
+  ]
+}

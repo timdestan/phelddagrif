@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dread Wight",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "At end of combat, put a paralyzation counter on each creature blocking or blocked by Dread Wight and tap those creatures. Each of those creatures doesn't untap during its controller's untap step for as long as it has a paralyzation counter on it. Each of those creatures gains \"{4}: Remove a paralyzation counter from this creature.\"",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "dread wight",
+  "colorIdentity": [
+    "B"
+  ]
+}

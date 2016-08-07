@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Bird Maiden",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Bird"
+  ],
+  "text": "Flying",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "bird maiden",
+  "colorIdentity": [
+    "R"
+  ]
+}

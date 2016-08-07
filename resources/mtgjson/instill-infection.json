@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Instill Infection",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Put a -1/-1 counter on target creature.\nDraw a card.",
+  "imageName": "instill infection",
+  "colorIdentity": [
+    "B"
+  ]
+}

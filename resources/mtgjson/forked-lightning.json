@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Forked Lightning",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Forked Lightning deals 4 damage divided as you choose among one, two, or three target creatures.",
+  "imageName": "forked lightning",
+  "colorIdentity": [
+    "R"
+  ]
+}

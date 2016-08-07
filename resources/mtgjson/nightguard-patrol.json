@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Nightguard Patrol",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "First strike, vigilance",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "nightguard patrol",
+  "colorIdentity": [
+    "W"
+  ]
+}

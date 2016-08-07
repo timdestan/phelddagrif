@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Welding Jar",
+  "manaCost": "{0}",
+  "cmc": 0,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Sacrifice Welding Jar: Regenerate target artifact.",
+  "imageName": "welding jar"
+}

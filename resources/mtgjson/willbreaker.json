@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Willbreaker",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Whenever a creature an opponent controls becomes the target of a spell or ability you control, gain control of that creature for as long as you control Willbreaker.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "willbreaker",
+  "colorIdentity": [
+    "U"
+  ]
+}

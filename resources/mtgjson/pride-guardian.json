@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Pride Guardian",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Cat Monk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat",
+    "Monk"
+  ],
+  "text": "Defender\nWhenever Pride Guardian blocks, you gain 3 life.",
+  "power": "0",
+  "toughness": "3",
+  "imageName": "pride guardian",
+  "colorIdentity": [
+    "W"
+  ]
+}

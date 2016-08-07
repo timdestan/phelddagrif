@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Reap",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Return up to X target cards from your graveyard to your hand, where X is the number of black permanents target opponent controls as you cast Reap.",
+  "imageName": "reap",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Ordered Migration",
+  "manaCost": "{3}{W}{U}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Domain — Put a 1/1 blue Bird creature token with flying onto the battlefield for each basic land type among lands you control.",
+  "imageName": "ordered migration",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

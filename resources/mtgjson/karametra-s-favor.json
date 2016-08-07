@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Karametra's Favor",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nWhen Karametra's Favor enters the battlefield, draw a card.\nEnchanted creature has \"{T}: Add one mana of any color to your mana pool.\"",
+  "imageName": "karametra's favor",
+  "colorIdentity": [
+    "G"
+  ]
+}

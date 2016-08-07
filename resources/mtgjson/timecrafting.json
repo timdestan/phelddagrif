@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Timecrafting",
+  "manaCost": "{X}{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose one —\n• Remove X time counters from target permanent or suspended card.\n• Put X time counters on target permanent with a time counter on it or suspended card.",
+  "imageName": "timecrafting",
+  "colorIdentity": [
+    "R"
+  ]
+}

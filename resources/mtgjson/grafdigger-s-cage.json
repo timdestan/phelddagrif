@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Grafdigger's Cage",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Creature cards can't enter the battlefield from graveyards or libraries.\nPlayers can't cast cards in graveyards or libraries.",
+  "imageName": "grafdigger's cage"
+}

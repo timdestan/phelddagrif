@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Call to Glory",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Untap all creatures you control. Samurai creatures you control get +1/+1 until end of turn.",
+  "imageName": "call to glory",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Spelljack",
+  "manaCost": "{3}{U}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard. You may play it without paying its mana cost for as long as it remains exiled. (If it has X in its mana cost, X is 0.)",
+  "imageName": "spelljack",
+  "colorIdentity": [
+    "U"
+  ]
+}

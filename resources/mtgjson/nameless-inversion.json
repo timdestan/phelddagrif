@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Nameless Inversion",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Tribal Instant — Shapeshifter",
+  "types": [
+    "Tribal",
+    "Instant"
+  ],
+  "subtypes": [
+    "Shapeshifter"
+  ],
+  "text": "Changeling (This card is every creature type.)\nTarget creature gets +3/-3 and loses all creature types until end of turn.",
+  "imageName": "nameless inversion",
+  "colorIdentity": [
+    "B"
+  ]
+}

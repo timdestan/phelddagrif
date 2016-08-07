@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Mind Whip",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nAt the beginning of the upkeep of enchanted creature's controller, that player may pay {3}. If he or she doesn't, Mind Whip deals 2 damage to that player and you tap that creature.",
+  "imageName": "mind whip",
+  "colorIdentity": [
+    "B"
+  ]
+}

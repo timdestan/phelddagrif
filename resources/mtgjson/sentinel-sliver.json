@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sentinel Sliver",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "Sliver creatures you control have vigilance. (Attacking doesn't cause them to tap.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "sentinel sliver",
+  "colorIdentity": [
+    "W"
+  ]
+}

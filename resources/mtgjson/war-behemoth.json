@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "War Behemoth",
+  "manaCost": "{5}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Morph {4}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+  "power": "3",
+  "toughness": "6",
+  "imageName": "war behemoth",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Saprazzan Skerry",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Saprazzan Skerry enters the battlefield tapped with two depletion counters on it.\n{T}, Remove a depletion counter from Saprazzan Skerry: Add {U}{U} to your mana pool. If there are no depletion counters on Saprazzan Skerry, sacrifice it.",
+  "imageName": "saprazzan skerry",
+  "colorIdentity": [
+    "U"
+  ]
+}

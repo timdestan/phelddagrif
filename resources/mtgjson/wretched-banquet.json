@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Wretched Banquet",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target creature if it has the least power or is tied for least power among creatures on the battlefield.",
+  "imageName": "wretched banquet",
+  "colorIdentity": [
+    "B"
+  ]
+}

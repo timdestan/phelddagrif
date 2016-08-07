@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Shepherd of the Lost",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying, first strike, vigilance",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "shepherd of the lost",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Morale",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Attacking creatures get +1/+1 until end of turn.",
+  "imageName": "morale",
+  "colorIdentity": [
+    "W"
+  ]
+}

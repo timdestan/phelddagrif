@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Benalish Knight",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "Flash (You may cast this spell any time you could cast an instant.)\nFirst strike (This creature deals combat damage before creatures without first strike.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "benalish knight",
+  "colorIdentity": [
+    "W"
+  ]
+}

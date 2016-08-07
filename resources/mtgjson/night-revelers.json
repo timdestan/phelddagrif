@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Night Revelers",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Vampire",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire"
+  ],
+  "text": "Night Revelers has haste as long as an opponent controls a Human.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "night revelers",
+  "colorIdentity": [
+    "R"
+  ]
+}

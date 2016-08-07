@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Hearthfire Hobgoblin",
+  "manaCost": "{R/W}{R/W}{R/W}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Creature — Goblin Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Soldier"
+  ],
+  "text": "Double strike",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "hearthfire hobgoblin",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

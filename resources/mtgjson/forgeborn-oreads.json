@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Forgeborn Oreads",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment Creature — Nymph",
+  "types": [
+    "Enchantment",
+    "Creature"
+  ],
+  "subtypes": [
+    "Nymph"
+  ],
+  "text": "Constellation — Whenever Forgeborn Oreads or another enchantment enters the battlefield under your control, Forgeborn Oreads deals 1 damage to target creature or player.",
+  "power": "4",
+  "toughness": "2",
+  "imageName": "forgeborn oreads",
+  "colorIdentity": [
+    "R"
+  ]
+}

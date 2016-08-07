@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Rendclaw Trow",
+  "manaCost": "{2}{B/G}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Creature — Troll",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Troll"
+  ],
+  "text": "Wither (This deals damage to creatures in the form of -1/-1 counters.)\nPersist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "rendclaw trow",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

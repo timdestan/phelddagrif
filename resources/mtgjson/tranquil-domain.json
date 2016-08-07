@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Tranquil Domain",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy all non-Aura enchantments.",
+  "imageName": "tranquil domain",
+  "colorIdentity": [
+    "G"
+  ]
+}

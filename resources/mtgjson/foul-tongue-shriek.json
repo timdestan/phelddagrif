@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Foul-Tongue Shriek",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target opponent loses 1 life for each attacking creature you control. You gain that much life.",
+  "imageName": "foul-tongue shriek",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "layout": "normal",
+  "name": "Bartel Runeaxe",
+  "manaCost": "{3}{B}{R}{G}",
+  "cmc": 6,
+  "colors": [
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "type": "Legendary Creature — Giant Warrior",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant",
+    "Warrior"
+  ],
+  "text": "Vigilance\nBartel Runeaxe can't be the target of Aura spells.",
+  "power": "6",
+  "toughness": "5",
+  "imageName": "bartel runeaxe",
+  "colorIdentity": [
+    "B",
+    "R",
+    "G"
+  ]
+}

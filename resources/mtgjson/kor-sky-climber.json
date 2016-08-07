@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Kor Sky Climber",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kor Soldier Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kor",
+    "Soldier",
+    "Ally"
+  ],
+  "text": "{1}{W}: Kor Sky Climber gains flying until end of turn.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "kor sky climber",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Anvilwrought Raptor",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Bird",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying, first strike",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "anvilwrought raptor"
+}

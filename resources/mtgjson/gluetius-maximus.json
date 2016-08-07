@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Gluetius Maximus",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "As Gluetius Maximus comes into play, an opponent chooses one of your fingers. (Thumbs are fingers, too.)\nWhen the chosen finger isn't touching Gluetius Maximus, sacrifice Gluetius Maximus.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "gluetius maximus",
+  "colorIdentity": [
+    "G"
+  ]
+}

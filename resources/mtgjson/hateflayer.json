@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Hateflayer",
+  "manaCost": "{5}{R}{R}",
+  "cmc": 7,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Wither (This deals damage to creatures in the form of -1/-1 counters.)\n{2}{R}, {Q}: Hateflayer deals damage equal to its power to target creature or player. ({Q} is the untap symbol.)",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "hateflayer",
+  "colorIdentity": [
+    "R"
+  ]
+}

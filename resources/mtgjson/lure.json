@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Lure",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nAll creatures able to block enchanted creature do so.",
+  "imageName": "lure",
+  "colorIdentity": [
+    "G"
+  ]
+}

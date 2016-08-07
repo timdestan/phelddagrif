@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Spectral Shield",
+  "manaCost": "{1}{W}{U}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets +0/+2 and can't be the target of spells.",
+  "imageName": "spectral shield",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

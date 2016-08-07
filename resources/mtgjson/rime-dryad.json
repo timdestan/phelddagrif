@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Rime Dryad",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Dryad",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dryad"
+  ],
+  "text": "Snow forestwalk (This creature can't be blocked as long as defending player controls a snow Forest.)",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "rime dryad",
+  "colorIdentity": [
+    "G"
+  ]
+}

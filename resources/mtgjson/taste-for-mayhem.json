@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Taste for Mayhem",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets +2/+0.\nHellbent — Enchanted creature gets an additional +2/+0 as long as you have no cards in hand.",
+  "imageName": "taste for mayhem",
+  "colorIdentity": [
+    "R"
+  ]
+}

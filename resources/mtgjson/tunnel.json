@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Tunnel",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target Wall. It can't be regenerated.",
+  "imageName": "tunnel",
+  "colorIdentity": [
+    "R"
+  ]
+}

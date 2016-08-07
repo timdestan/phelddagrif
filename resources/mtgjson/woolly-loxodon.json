@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Woolly Loxodon",
+  "manaCost": "{5}{G}{G}",
+  "cmc": 7,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elephant Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elephant",
+    "Warrior"
+  ],
+  "text": "Morph {5}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+  "power": "6",
+  "toughness": "7",
+  "imageName": "woolly loxodon",
+  "colorIdentity": [
+    "G"
+  ]
+}

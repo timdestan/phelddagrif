@@ -1,0 +1,31 @@
+{
+  "layout": "normal",
+  "name": "Sek'Kuar, Deathkeeper",
+  "manaCost": "{2}{B}{R}{G}",
+  "cmc": 5,
+  "colors": [
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "type": "Legendary Creature — Orc Shaman",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Orc",
+    "Shaman"
+  ],
+  "text": "Whenever another nontoken creature you control dies, put a 3/1 black and red Graveborn creature token with haste onto the battlefield.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "sek'kuar, deathkeeper",
+  "colorIdentity": [
+    "B",
+    "R",
+    "G"
+  ]
+}

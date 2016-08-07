@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ogre Berserker",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Ogre Berserker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ogre",
+    "Berserker"
+  ],
+  "text": "Haste",
+  "power": "4",
+  "toughness": "2",
+  "imageName": "ogre berserker",
+  "colorIdentity": [
+    "R"
+  ]
+}

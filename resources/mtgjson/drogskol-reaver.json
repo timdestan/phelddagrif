@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Drogskol Reaver",
+  "manaCost": "{5}{W}{U}",
+  "cmc": 7,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying, double strike, lifelink\nWhenever you gain life, draw a card.",
+  "power": "3",
+  "toughness": "5",
+  "imageName": "drogskol reaver",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

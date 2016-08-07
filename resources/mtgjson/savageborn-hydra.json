@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Savageborn Hydra",
+  "manaCost": "{X}{R}{G}",
+  "cmc": 2,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Hydra",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hydra"
+  ],
+  "text": "Double strike\nSavageborn Hydra enters the battlefield with X +1/+1 counters on it.\n{1}{R/G}: Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could cast a sorcery.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "savageborn hydra",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

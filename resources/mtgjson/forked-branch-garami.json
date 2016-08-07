@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Forked-Branch Garami",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Soulshift 4, soulshift 4 (When this creature dies, you may return up to two target Spirit cards with converted mana cost 4 or less from your graveyard to your hand.)",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "forked-branch garami",
+  "colorIdentity": [
+    "G"
+  ]
+}

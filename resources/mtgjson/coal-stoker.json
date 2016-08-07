@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Coal Stoker",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "When Coal Stoker enters the battlefield, if you cast it from your hand, add {R}{R}{R} to your mana pool.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "coal stoker",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Reward the Faithful",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Any number of target players each gain life equal to the highest converted mana cost among permanents you control.",
+  "imageName": "reward the faithful",
+  "colorIdentity": [
+    "W"
+  ]
+}

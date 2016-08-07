@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Vedalken Plotter",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Vedalken Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vedalken",
+    "Wizard"
+  ],
+  "text": "When Vedalken Plotter enters the battlefield, exchange control of target land you control and target land an opponent controls.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "vedalken plotter",
+  "colorIdentity": [
+    "U"
+  ]
+}

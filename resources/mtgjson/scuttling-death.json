@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Scuttling Death",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Sacrifice Scuttling Death: Target creature gets -1/-1 until end of turn.\nSoulshift 4 (When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)",
+  "power": "4",
+  "toughness": "2",
+  "imageName": "scuttling death",
+  "colorIdentity": [
+    "B"
+  ]
+}

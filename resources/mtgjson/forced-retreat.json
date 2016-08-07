@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Forced Retreat",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put target creature on top of its owner's library.",
+  "imageName": "forced retreat",
+  "colorIdentity": [
+    "U"
+  ]
+}

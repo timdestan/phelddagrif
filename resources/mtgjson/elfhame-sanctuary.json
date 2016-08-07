@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Elfhame Sanctuary",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, you may search your library for a basic land card, reveal that card, and put it into your hand. If you do, you skip your draw step this turn and shuffle your library.",
+  "imageName": "elfhame sanctuary",
+  "colorIdentity": [
+    "G"
+  ]
+}

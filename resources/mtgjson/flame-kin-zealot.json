@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Flame-Kin Zealot",
+  "manaCost": "{1}{R}{R}{W}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Creature — Elemental Berserker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Berserker"
+  ],
+  "text": "When Flame-Kin Zealot enters the battlefield, creatures you control get +1/+1 and gain haste until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "flame-kin zealot",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

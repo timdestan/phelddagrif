@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Hua Tuo, Honored Physician",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Legendary Creature — Human",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human"
+  ],
+  "text": "{T}: Put target creature card from your graveyard on top of your library. Activate this ability only during your turn, before attackers are declared.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "hua tuo, honored physician",
+  "colorIdentity": [
+    "G"
+  ]
+}

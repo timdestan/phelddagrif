@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Adarkar Wastes",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{T}: Add {W} or {U} to your mana pool. Adarkar Wastes deals 1 damage to you.",
+  "imageName": "adarkar wastes",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

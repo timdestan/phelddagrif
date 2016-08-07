@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Archon of the Triumvirate",
+  "manaCost": "{5}{W}{U}",
+  "cmc": 7,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Creature — Archon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Archon"
+  ],
+  "text": "Flying\nWhenever Archon of the Triumvirate attacks, detain up to two target nonland permanents your opponents control. (Until your next turn, those permanents can't attack or block and their activated abilities can't be activated.)",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "archon of the triumvirate",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

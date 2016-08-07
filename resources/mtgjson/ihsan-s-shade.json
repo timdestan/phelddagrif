@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Ihsan's Shade",
+  "manaCost": "{3}{B}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Legendary Creature — Shade Knight",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Shade",
+    "Knight"
+  ],
+  "text": "Protection from white",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "ihsan's shade",
+  "colorIdentity": [
+    "B"
+  ]
+}

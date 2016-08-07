@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Struggle for Sanity",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target opponent reveals his or her hand. That player exiles a card from it, then you exile a card from it. Repeat this process until all cards in that hand have been exiled. That player returns the cards he or she exiled this way to his or her hand and puts the rest into his or her graveyard.",
+  "imageName": "struggle for sanity",
+  "colorIdentity": [
+    "B"
+  ]
+}

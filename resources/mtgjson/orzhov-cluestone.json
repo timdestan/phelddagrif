@@ -1,0 +1,16 @@
+{
+  "layout": "normal",
+  "name": "Orzhov Cluestone",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}: Add {W} or {B} to your mana pool.\n{W}{B}, {T}, Sacrifice Orzhov Cluestone: Draw a card.",
+  "imageName": "orzhov cluestone",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

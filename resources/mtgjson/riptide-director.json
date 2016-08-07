@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Riptide Director",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{2}{U}{U}, {T}: Draw a card for each Wizard you control.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "riptide director",
+  "colorIdentity": [
+    "U"
+  ]
+}

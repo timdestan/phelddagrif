@@ -1,0 +1,24 @@
+{
+  "layout": "leveler",
+  "name": "Zulaport Enforcer",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "Level up {4} ({4}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-2\n3/3\nLEVEL 3+\n5/5\nZulaport Enforcer can't be blocked except by black creatures.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "zulaport enforcer",
+  "colorIdentity": [
+    "B"
+  ]
+}

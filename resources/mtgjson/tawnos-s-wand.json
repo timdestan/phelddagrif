@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Tawnos's Wand",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, {T}: Target creature with power 2 or less can't be blocked this turn.",
+  "imageName": "tawnos's wand"
+}

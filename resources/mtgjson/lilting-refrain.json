@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Lilting Refrain",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, you may put a verse counter on Lilting Refrain.\nSacrifice Lilting Refrain: Counter target spell unless its controller pays {X}, where X is the number of verse counters on Lilting Refrain.",
+  "imageName": "lilting refrain",
+  "colorIdentity": [
+    "U"
+  ]
+}

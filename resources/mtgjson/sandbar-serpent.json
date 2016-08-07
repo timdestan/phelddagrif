@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sandbar Serpent",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Serpent",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Serpent"
+  ],
+  "text": "Cycling {2} ({2}, Discard this card: Draw a card.)",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "sandbar serpent",
+  "colorIdentity": [
+    "U"
+  ]
+}

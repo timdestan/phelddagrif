@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Darkwater Catacombs",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{1}, {T}: Add {U}{B} to your mana pool.",
+  "imageName": "darkwater catacombs",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

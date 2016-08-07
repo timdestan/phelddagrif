@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Monstrous Hound",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Hound",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hound"
+  ],
+  "text": "Monstrous Hound can't attack unless you control more lands than defending player.\nMonstrous Hound can't block unless you control more lands than attacking player.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "monstrous hound",
+  "colorIdentity": [
+    "R"
+  ]
+}

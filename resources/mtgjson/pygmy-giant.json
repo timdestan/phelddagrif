@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Pygmy Giant",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Giant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant"
+  ],
+  "text": "{R}, {T}, Sacrifice a creature: Pygmy Giant deals X damage to target creature, where X is a number in the sacrificed creature's text box.",
+  "power": "0",
+  "toughness": "2",
+  "imageName": "pygmy giant",
+  "colorIdentity": [
+    "R"
+  ]
+}

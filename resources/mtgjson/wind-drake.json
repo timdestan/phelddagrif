@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wind Drake",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flying",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "wind drake",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Swarm of Rats",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Rat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rat"
+  ],
+  "text": "Swarm of Rats's power is equal to the number of Rats you control.",
+  "power": "*",
+  "toughness": "1",
+  "imageName": "swarm of rats",
+  "colorIdentity": [
+    "B"
+  ]
+}

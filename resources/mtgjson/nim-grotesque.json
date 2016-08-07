@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Nim Grotesque",
+  "manaCost": "{6}{B}",
+  "cmc": 7,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Nim Grotesque gets +1/+0 for each artifact you control.",
+  "power": "3",
+  "toughness": "6",
+  "imageName": "nim grotesque",
+  "colorIdentity": [
+    "B"
+  ]
+}

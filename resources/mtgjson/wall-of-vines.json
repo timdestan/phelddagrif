@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Wall of Vines",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Plant Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Plant",
+    "Wall"
+  ],
+  "text": "Defender (This creature can't attack.)\nReach (This creature can block creatures with flying.)",
+  "power": "0",
+  "toughness": "3",
+  "imageName": "wall of vines",
+  "colorIdentity": [
+    "G"
+  ]
+}

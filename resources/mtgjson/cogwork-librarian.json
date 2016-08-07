@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Cogwork Librarian",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "text": "Draft Cogwork Librarian face up.\nAs you draft a card, you may draft an additional card from that booster pack. If you do, put Cogwork Librarian into that booster pack.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "cogwork librarian"
+}

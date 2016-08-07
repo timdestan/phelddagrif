@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Ondu Champion",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Minotaur Warrior Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Minotaur",
+    "Warrior",
+    "Ally"
+  ],
+  "text": "Rally — Whenever Ondu Champion or another Ally enters the battlefield under your control, creatures you control gain trample until end of turn.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "ondu champion",
+  "colorIdentity": [
+    "R"
+  ]
+}

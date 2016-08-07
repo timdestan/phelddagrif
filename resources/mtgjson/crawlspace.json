@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Crawlspace",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "No more than two creatures can attack you each combat.",
+  "imageName": "crawlspace"
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Magus of the Coffers",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{2}, {T}: Add {B} to your mana pool for each Swamp you control.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "magus of the coffers",
+  "colorIdentity": [
+    "B"
+  ]
+}

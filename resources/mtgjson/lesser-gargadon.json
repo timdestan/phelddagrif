@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Lesser Gargadon",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Whenever Lesser Gargadon attacks or blocks, sacrifice a land.",
+  "power": "6",
+  "toughness": "4",
+  "imageName": "lesser gargadon",
+  "colorIdentity": [
+    "R"
+  ]
+}

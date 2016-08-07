@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Trench Wurm",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "text": "{2}{R}, {T}: Destroy target nonbasic land.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "trench wurm",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ironhoof Ox",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Ox",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ox"
+  ],
+  "text": "Ironhoof Ox can't be blocked by more than one creature.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "ironhoof ox",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Double Header",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flying\nWhen Double Header comes into play, you may return target permanent with a two-word name to its owner's hand.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "double header",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Setessan Battle Priest",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "Heroic — Whenever you cast a spell that targets Setessan Battle Priest, you gain 2 life.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "setessan battle priest",
+  "colorIdentity": [
+    "W"
+  ]
+}

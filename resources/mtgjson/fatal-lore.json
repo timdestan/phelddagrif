@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Fatal Lore",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "An opponent chooses one —\n• You draw three cards.\n• You destroy up to two target creatures that player controls. They can't be regenerated. That player draws up to three cards.",
+  "imageName": "fatal lore",
+  "colorIdentity": [
+    "B"
+  ]
+}

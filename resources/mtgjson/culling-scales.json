@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Culling Scales",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "At the beginning of your upkeep, destroy target nonland permanent with the lowest converted mana cost. (If two or more permanents are tied for lowest cost, target any one of them.)",
+  "imageName": "culling scales"
+}

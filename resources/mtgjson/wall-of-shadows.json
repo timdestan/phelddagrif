@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wall of Shadows",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender (This creature can't attack.)\nPrevent all damage that would be dealt to Wall of Shadows by creatures it's blocking.\nWall of Shadows can't be the target of spells that can target only Walls or of abilities that can target only Walls.",
+  "power": "0",
+  "toughness": "1",
+  "imageName": "wall of shadows",
+  "colorIdentity": [
+    "B"
+  ]
+}

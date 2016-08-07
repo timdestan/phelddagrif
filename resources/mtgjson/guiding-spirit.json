@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Guiding Spirit",
+  "manaCost": "{1}{W}{U}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Creature — Angel Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel",
+    "Spirit"
+  ],
+  "text": "Flying\n{T}: If the top card of target player's graveyard is a creature card, put that card on top of that player's library.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "guiding spirit",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

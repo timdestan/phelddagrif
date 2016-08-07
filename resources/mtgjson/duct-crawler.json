@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Duct Crawler",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "{1}{R}: Target creature can't block Duct Crawler this turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "duct crawler",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Blood Crypt",
+  "type": "Land — Swamp Mountain",
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Swamp",
+    "Mountain"
+  ],
+  "text": "({T}: Add {B} or {R} to your mana pool.)\nAs Blood Crypt enters the battlefield, you may pay 2 life. If you don't, Blood Crypt enters the battlefield tapped.",
+  "imageName": "blood crypt",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

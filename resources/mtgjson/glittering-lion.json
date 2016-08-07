@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Glittering Lion",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Cat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat"
+  ],
+  "text": "Prevent all damage that would be dealt to Glittering Lion.\n{3}: Until end of turn, Glittering Lion loses \"Prevent all damage that would be dealt to Glittering Lion.\" Any player may activate this ability.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "glittering lion",
+  "colorIdentity": [
+    "W"
+  ]
+}

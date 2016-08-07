@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Belligerent Whiptail",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "text": "Landfall — Whenever a land enters the battlefield under your control, Belligerent Whiptail gains first strike until end of turn.",
+  "power": "4",
+  "toughness": "2",
+  "imageName": "belligerent whiptail",
+  "colorIdentity": [
+    "R"
+  ]
+}

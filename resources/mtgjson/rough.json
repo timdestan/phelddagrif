@@ -1,0 +1,22 @@
+{
+  "layout": "split",
+  "name": "Rough",
+  "names": [
+    "Rough",
+    "Tumble"
+  ],
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Rough deals 2 damage to each creature without flying.",
+  "imageName": "rough",
+  "colorIdentity": [
+    "R"
+  ]
+}

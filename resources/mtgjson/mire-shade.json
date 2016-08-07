@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Mire Shade",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Shade",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Shade"
+  ],
+  "text": "{B}, Sacrifice a Swamp: Put a +1/+1 counter on Mire Shade. Activate this ability only any time you could cast a sorcery.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "mire shade",
+  "colorIdentity": [
+    "B"
+  ]
+}

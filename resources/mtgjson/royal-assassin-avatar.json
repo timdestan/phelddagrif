@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Royal Assassin Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "At the beginning of your upkeep, you draw a card and you lose 1 life.",
+  "imageName": "royal assassin avatar",
+  "hand": -2,
+  "life": 0
+}

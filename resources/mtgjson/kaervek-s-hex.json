@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Kaervek's Hex",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Kaervek's Hex deals 1 damage to each nonblack creature and an additional 1 damage to each green creature.",
+  "imageName": "kaervek's hex",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Spell Crumple",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell. If that spell is countered this way, put it on the bottom of its owner's library instead of into that player's graveyard. Put Spell Crumple on the bottom of its owner's library.",
+  "imageName": "spell crumple",
+  "colorIdentity": [
+    "U"
+  ]
+}

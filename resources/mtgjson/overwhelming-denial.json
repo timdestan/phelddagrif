@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Overwhelming Denial",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Surge {U}{U} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)\nOverwhelming Denial can't be countered by spells or abilities.\nCounter target spell.",
+  "imageName": "overwhelming denial",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mind Peel",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Buyback {2}{B}{B} (You may pay an additional {2}{B}{B} as you cast this spell. If you do, put this card into your hand as it resolves.)\nTarget player discards a card.",
+  "imageName": "mind peel",
+  "colorIdentity": [
+    "B"
+  ]
+}

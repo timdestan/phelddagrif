@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Field Marshal",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Other Soldier creatures get +1/+1 and have first strike. (They deal combat damage before creatures without first strike.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "field marshal",
+  "colorIdentity": [
+    "W"
+  ]
+}

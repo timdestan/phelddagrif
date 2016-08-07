@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Sire of Stagnation",
+  "manaCost": "{4}{U}{B}",
+  "cmc": 6,
+  "type": "Creature — Eldrazi",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi"
+  ],
+  "text": "Devoid (This card has no color.)\nWhenever a land enters the battlefield under an opponent's control, that player exiles the top two cards of his or her library and you draw two cards.",
+  "power": "5",
+  "toughness": "7",
+  "imageName": "sire of stagnation",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

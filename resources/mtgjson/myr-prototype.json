@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Myr Prototype",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact Creature — Myr",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Myr"
+  ],
+  "text": "At the beginning of your upkeep, put a +1/+1 counter on Myr Prototype.\nMyr Prototype can't attack or block unless you pay {1} for each +1/+1 counter on it.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "myr prototype"
+}

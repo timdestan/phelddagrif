@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Benalish Heralds",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "{3}{U}, {T}: Draw a card.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "benalish heralds",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Merfolk Assassin",
+  "manaCost": "{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Assassin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Assassin"
+  ],
+  "text": "{T}: Destroy target creature with islandwalk.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "merfolk assassin",
+  "colorIdentity": [
+    "U"
+  ]
+}

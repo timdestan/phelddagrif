@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Riot Ringleader",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "Whenever Riot Ringleader attacks, Human creatures you control get +1/+0 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "riot ringleader",
+  "colorIdentity": [
+    "R"
+  ]
+}

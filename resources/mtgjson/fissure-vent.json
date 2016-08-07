@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Fissure Vent",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Choose one or both —\n• Destroy target artifact.\n• Destroy target nonbasic land.",
+  "imageName": "fissure vent",
+  "colorIdentity": [
+    "R"
+  ]
+}

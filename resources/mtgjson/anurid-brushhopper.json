@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Anurid Brushhopper",
+  "manaCost": "{1}{G}{W}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Frog Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Frog",
+    "Beast"
+  ],
+  "text": "Discard two cards: Exile Anurid Brushhopper. Return it to the battlefield under its owner's control at the beginning of the next end step.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "anurid brushhopper",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

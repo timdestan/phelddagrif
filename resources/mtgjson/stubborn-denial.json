@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Stubborn Denial",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target noncreature spell unless its controller pays {1}.\nFerocious — If you control a creature with power 4 or greater, counter that spell instead.",
+  "imageName": "stubborn denial",
+  "colorIdentity": [
+    "U"
+  ]
+}

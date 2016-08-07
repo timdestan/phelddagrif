@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Heal the Scars",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Regenerate target creature. You gain life equal to that creature's toughness.",
+  "imageName": "heal the scars",
+  "colorIdentity": [
+    "G"
+  ]
+}

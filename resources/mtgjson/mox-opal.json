@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Mox Opal",
+  "manaCost": "{0}",
+  "cmc": 0,
+  "type": "Legendary Artifact",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Artifact"
+  ],
+  "text": "Metalcraft — {T}: Add one mana of any color to your mana pool. Activate this ability only if you control three or more artifacts.",
+  "imageName": "mox opal"
+}

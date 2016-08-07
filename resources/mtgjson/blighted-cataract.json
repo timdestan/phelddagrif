@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Blighted Cataract",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{5}{U}, {T}, Sacrifice Blighted Cataract: Draw two cards.",
+  "imageName": "blighted cataract",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Soltari Trooper",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Soltari Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Soltari",
+    "Soldier"
+  ],
+  "text": "Shadow (This creature can block or be blocked by only creatures with shadow.)\nWhenever Soltari Trooper attacks, it gets +1/+1 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "soltari trooper",
+  "colorIdentity": [
+    "W"
+  ]
+}

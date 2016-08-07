@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Bearscape",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{1}{G}, Exile two cards from your graveyard: Put a 2/2 green Bear creature token onto the battlefield.",
+  "imageName": "bearscape",
+  "colorIdentity": [
+    "G"
+  ]
+}

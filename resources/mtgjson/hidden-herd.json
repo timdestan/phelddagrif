@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Hidden Herd",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "When an opponent plays a nonbasic land, if Hidden Herd is an enchantment, Hidden Herd becomes a 3/3 Beast creature.",
+  "imageName": "hidden herd",
+  "colorIdentity": [
+    "G"
+  ]
+}

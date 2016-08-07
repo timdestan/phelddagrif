@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Anax and Cymede",
+  "manaCost": "{1}{R}{W}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Legendary Creature — Human Soldier",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "First strike, vigilance\nHeroic — Whenever you cast a spell that targets Anax and Cymede, creatures you control get +1/+1 and gain trample until end of turn.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "anax and cymede",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Escaped Shapeshifter",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Shapeshifter",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Shapeshifter"
+  ],
+  "text": "As long as an opponent controls a creature with flying not named Escaped Shapeshifter, Escaped Shapeshifter has flying. The same is true for first strike, trample, and protection from any color.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "escaped shapeshifter",
+  "colorIdentity": [
+    "U"
+  ]
+}

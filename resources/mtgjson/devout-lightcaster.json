@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Devout Lightcaster",
+  "manaCost": "{W}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kor Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kor",
+    "Cleric"
+  ],
+  "text": "Protection from black\nWhen Devout Lightcaster enters the battlefield, exile target black permanent.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "devout lightcaster",
+  "colorIdentity": [
+    "W"
+  ]
+}

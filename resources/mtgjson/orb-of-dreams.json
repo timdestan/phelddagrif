@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Orb of Dreams",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Permanents enter the battlefield tapped.",
+  "imageName": "orb of dreams"
+}

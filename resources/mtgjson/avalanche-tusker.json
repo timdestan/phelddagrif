@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Avalanche Tusker",
+  "manaCost": "{2}{G}{U}{R}",
+  "cmc": 5,
+  "colors": [
+    "Blue",
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Elephant Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elephant",
+    "Warrior"
+  ],
+  "text": "Whenever Avalanche Tusker attacks, target creature defending player controls blocks it this combat if able.",
+  "power": "6",
+  "toughness": "4",
+  "imageName": "avalanche tusker",
+  "colorIdentity": [
+    "U",
+    "R",
+    "G"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Implements of Sacrifice",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{1}, {T}, Sacrifice Implements of Sacrifice: Add two mana of any one color to your mana pool.",
+  "imageName": "implements of sacrifice"
+}

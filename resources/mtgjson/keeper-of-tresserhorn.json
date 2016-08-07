@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Keeper of Tresserhorn",
+  "manaCost": "{5}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Avatar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Avatar"
+  ],
+  "text": "Whenever Keeper of Tresserhorn attacks and isn't blocked, it assigns no combat damage this turn and defending player loses 2 life.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "keeper of tresserhorn",
+  "colorIdentity": [
+    "B"
+  ]
+}

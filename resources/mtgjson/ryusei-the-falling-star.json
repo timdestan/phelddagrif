@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Ryusei, the Falling Star",
+  "manaCost": "{5}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Creature — Dragon Spirit",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon",
+    "Spirit"
+  ],
+  "text": "Flying\nWhen Ryusei, the Falling Star dies, it deals 5 damage to each creature without flying.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "ryusei, the falling star",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Shower of Sparks",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Shower of Sparks deals 1 damage to target creature and 1 damage to target player.",
+  "imageName": "shower of sparks",
+  "colorIdentity": [
+    "R"
+  ]
+}

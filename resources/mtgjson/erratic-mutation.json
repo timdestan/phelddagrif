@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Erratic Mutation",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose target creature. Reveal cards from the top of your library until you reveal a nonland card. That creature gets +X/-X until end of turn, where X is that card's converted mana cost. Put all cards revealed this way on the bottom of your library in any order.",
+  "imageName": "erratic mutation",
+  "colorIdentity": [
+    "U"
+  ]
+}

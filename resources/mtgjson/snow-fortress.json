@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Snow Fortress",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact Creature — Wall",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender (This creature can't attack.)\n{1}: Snow Fortress gets +1/+0 until end of turn.\n{1}: Snow Fortress gets +0/+1 until end of turn.\n{3}: Snow Fortress deals 1 damage to target creature without flying that's attacking you.",
+  "power": "0",
+  "toughness": "4",
+  "imageName": "snow fortress"
+}

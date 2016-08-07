@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mogg Infestation",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy all creatures target player controls. For each creature that died this way, put two 1/1 red Goblin creature tokens onto the battlefield under that player's control.",
+  "imageName": "mogg infestation",
+  "colorIdentity": [
+    "R"
+  ]
+}

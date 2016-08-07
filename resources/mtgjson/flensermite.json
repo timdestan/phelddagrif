@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Flensermite",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Gremlin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Gremlin"
+  ],
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nLifelink (Damage dealt by this creature also causes you to gain that much life.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "flensermite",
+  "colorIdentity": [
+    "B"
+  ]
+}

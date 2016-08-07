@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Welkin Tern",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nWelkin Tern can block only creatures with flying.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "welkin tern",
+  "colorIdentity": [
+    "U"
+  ]
+}

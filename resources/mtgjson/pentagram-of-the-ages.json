@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Pentagram of the Ages",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{4}, {T}: The next time a source of your choice would deal damage to you this turn, prevent that damage.",
+  "imageName": "pentagram of the ages"
+}

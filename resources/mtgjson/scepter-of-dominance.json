@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Scepter of Dominance",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{W}, {T}: Tap target permanent.",
+  "imageName": "scepter of dominance",
+  "colorIdentity": [
+    "W"
+  ]
+}

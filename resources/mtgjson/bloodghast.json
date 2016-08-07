@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Bloodghast",
+  "manaCost": "{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Spirit"
+  ],
+  "text": "Bloodghast can't block.\nBloodghast has haste as long as an opponent has 10 or less life.\nLandfall — Whenever a land enters the battlefield under your control, you may return Bloodghast from your graveyard to the battlefield.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "bloodghast",
+  "colorIdentity": [
+    "B"
+  ]
+}

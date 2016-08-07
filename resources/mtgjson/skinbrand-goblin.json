@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Skinbrand Goblin",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Warrior"
+  ],
+  "text": "Bloodrush — {R}, Discard Skinbrand Goblin: Target attacking creature gets +2/+1 until end of turn.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "skinbrand goblin",
+  "colorIdentity": [
+    "R"
+  ]
+}

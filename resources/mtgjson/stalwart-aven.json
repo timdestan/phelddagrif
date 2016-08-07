@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Stalwart Aven",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Bird Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird",
+    "Soldier"
+  ],
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nRenown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "stalwart aven",
+  "colorIdentity": [
+    "W"
+  ]
+}

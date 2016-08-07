@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Nahiri's Wrath",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "As an additional cost to cast Nahiri's Wrath, discard X cards.\nNahiri's Wrath deals damage equal to the total converted mana cost of the discarded cards to each of up to X target creatures and/or planeswalkers.",
+  "imageName": "nahiri's wrath",
+  "colorIdentity": [
+    "R"
+  ]
+}

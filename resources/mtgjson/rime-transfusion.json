@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Rime Transfusion",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Snow Enchantment — Aura",
+  "supertypes": [
+    "Snow"
+  ],
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets +2/+1 and has \"{S}: This creature can't be blocked this turn except by snow creatures.\" ({S} can be paid with one mana from a snow permanent.)",
+  "imageName": "rime transfusion",
+  "colorIdentity": [
+    "B"
+  ]
+}

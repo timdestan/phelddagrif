@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Scorching Missile",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Scorching Missile deals 4 damage to target player.\nFlashback {9}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "scorching missile",
+  "colorIdentity": [
+    "R"
+  ]
+}

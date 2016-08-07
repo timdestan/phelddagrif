@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Blood-Toll Harpy",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Harpy",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Harpy"
+  ],
+  "text": "Flying\nWhen Blood-Toll Harpy enters the battlefield, each player loses 1 life.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "blood-toll harpy",
+  "colorIdentity": [
+    "B"
+  ]
+}

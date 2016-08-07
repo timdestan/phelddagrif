@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Symbol of Unsummoning",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Return target creature to its owner's hand.\nDraw a card.",
+  "imageName": "symbol of unsummoning",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Wetland Sambar",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Elk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elk"
+  ],
+  "power": "2",
+  "toughness": "1",
+  "imageName": "wetland sambar",
+  "colorIdentity": [
+    "U"
+  ]
+}

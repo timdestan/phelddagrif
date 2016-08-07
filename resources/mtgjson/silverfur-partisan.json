@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Silverfur Partisan",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wolf Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wolf",
+    "Warrior"
+  ],
+  "text": "Trample\nWhenever a Wolf or Werewolf you control becomes the target of an instant or sorcery spell, put a 2/2 green Wolf creature token onto the battlefield.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "silverfur partisan",
+  "colorIdentity": [
+    "G"
+  ]
+}

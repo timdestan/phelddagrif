@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Brutal Nightstalker",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Nightstalker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Nightstalker"
+  ],
+  "text": "When Brutal Nightstalker enters the battlefield, you may have target opponent discard a card.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "brutal nightstalker",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Cinder Hellion",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Hellion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hellion"
+  ],
+  "text": "Trample\nWhen Cinder Hellion enters the battlefield, it deals 2 damage to target opponent.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "cinder hellion",
+  "colorIdentity": [
+    "R"
+  ]
+}

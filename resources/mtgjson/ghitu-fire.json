@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ghitu Fire",
+  "manaCost": "{X}{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "You may cast Ghitu Fire as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)\nGhitu Fire deals X damage to target creature or player.",
+  "imageName": "ghitu fire",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Godo's Irregulars",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "{R}: Godo's Irregulars deals 1 damage to target creature blocking it.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "godo's irregulars",
+  "colorIdentity": [
+    "R"
+  ]
+}

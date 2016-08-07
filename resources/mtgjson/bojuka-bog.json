@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Bojuka Bog",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Bojuka Bog enters the battlefield tapped.\nWhen Bojuka Bog enters the battlefield, exile all cards from target player's graveyard.\n{T}: Add {B} to your mana pool.",
+  "imageName": "bojuka bog",
+  "colorIdentity": [
+    "B"
+  ]
+}

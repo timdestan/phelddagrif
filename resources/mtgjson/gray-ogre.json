@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Gray Ogre",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Ogre",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ogre"
+  ],
+  "power": "2",
+  "toughness": "2",
+  "imageName": "gray ogre",
+  "colorIdentity": [
+    "R"
+  ]
+}

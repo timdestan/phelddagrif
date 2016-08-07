@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Radiant's Judgment",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target creature with power 4 or greater.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+  "imageName": "radiant's judgment",
+  "colorIdentity": [
+    "W"
+  ]
+}

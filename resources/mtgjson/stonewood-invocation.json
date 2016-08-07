@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Stonewood Invocation",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)\nTarget creature gets +5/+5 and gains shroud until end of turn. (It can't be the target of spells or abilities.)",
+  "imageName": "stonewood invocation",
+  "colorIdentity": [
+    "G"
+  ]
+}

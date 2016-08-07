@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Koth's Courier",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "koth's courier",
+  "colorIdentity": [
+    "R"
+  ]
+}

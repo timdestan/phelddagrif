@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Riot Spikes",
+  "manaCost": "{B/R}",
+  "cmc": 1,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "({B/R} can be paid with either {B} or {R}.)\nEnchant creature\nEnchanted creature gets +2/-1.",
+  "imageName": "riot spikes",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

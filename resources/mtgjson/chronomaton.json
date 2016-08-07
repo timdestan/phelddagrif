@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Chronomaton",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "{1}, {T}: Put a +1/+1 counter on Chronomaton.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "chronomaton"
+}

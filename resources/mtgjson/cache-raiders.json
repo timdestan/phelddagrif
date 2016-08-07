@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Cache Raiders",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Rogue"
+  ],
+  "text": "At the beginning of your upkeep, return a permanent you control to its owner's hand.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "cache raiders",
+  "colorIdentity": [
+    "U"
+  ]
+}

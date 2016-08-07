@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Subterranean Spirit",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Spirit"
+  ],
+  "text": "Protection from red\n{T}: Subterranean Spirit deals 1 damage to each creature without flying.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "subterranean spirit",
+  "colorIdentity": [
+    "R"
+  ]
+}

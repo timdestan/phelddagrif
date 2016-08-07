@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Chaosphere",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "World Enchantment",
+  "supertypes": [
+    "World"
+  ],
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Creatures with flying can block only creatures with flying.\nCreatures without flying have reach. (They can block creatures with flying.)",
+  "imageName": "chaosphere",
+  "colorIdentity": [
+    "R"
+  ]
+}

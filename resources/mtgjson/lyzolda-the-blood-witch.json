@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Lyzolda, the Blood Witch",
+  "manaCost": "{1}{B}{R}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Legendary Creature — Human Cleric",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "{2}, Sacrifice a creature: Lyzolda, the Blood Witch deals 2 damage to target creature or player if the sacrificed creature was red. Draw a card if the sacrificed creature was black.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "lyzolda, the blood witch",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Scorchwalker",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Bloodrush — {1}{R}{R}, Discard Scorchwalker: Target attacking creature gets +5/+1 until end of turn.",
+  "power": "5",
+  "toughness": "1",
+  "imageName": "scorchwalker",
+  "colorIdentity": [
+    "R"
+  ]
+}

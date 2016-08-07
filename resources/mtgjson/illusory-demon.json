@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Illusory Demon",
+  "manaCost": "{1}{U}{B}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Creature — Demon Illusion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon",
+    "Illusion"
+  ],
+  "text": "Flying\nWhen you cast a spell, sacrifice Illusory Demon.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "illusory demon",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

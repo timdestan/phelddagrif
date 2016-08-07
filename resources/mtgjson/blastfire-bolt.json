@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Blastfire Bolt",
+  "manaCost": "{5}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Blastfire Bolt deals 5 damage to target creature. Destroy all Equipment attached to that creature.",
+  "imageName": "blastfire bolt",
+  "colorIdentity": [
+    "R"
+  ]
+}

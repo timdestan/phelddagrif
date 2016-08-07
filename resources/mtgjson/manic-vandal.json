@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Manic Vandal",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "When Manic Vandal enters the battlefield, destroy target artifact.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "manic vandal",
+  "colorIdentity": [
+    "R"
+  ]
+}

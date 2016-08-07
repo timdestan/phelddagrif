@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Thought Harvester",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "type": "Creature — Eldrazi Drone",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Drone"
+  ],
+  "text": "Devoid (This card has no color.)\nFlying\nWhenever you cast a colorless spell, target opponent exiles the top card of his or her library.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "thought harvester",
+  "colorIdentity": [
+    "U"
+  ]
+}

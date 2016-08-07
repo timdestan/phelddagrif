@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Spiketail Drakeling",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flying\nSacrifice Spiketail Drakeling: Counter target spell unless its controller pays {2}.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "spiketail drakeling",
+  "colorIdentity": [
+    "U"
+  ]
+}

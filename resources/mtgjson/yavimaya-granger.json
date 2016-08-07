@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Yavimaya Granger",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf"
+  ],
+  "text": "Echo {2}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Yavimaya Granger enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "yavimaya granger",
+  "colorIdentity": [
+    "G"
+  ]
+}

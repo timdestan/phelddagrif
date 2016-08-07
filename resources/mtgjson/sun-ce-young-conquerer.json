@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Sun Ce, Young Conquerer",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Legendary Creature — Human Soldier",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nWhen Sun Ce, Young Conquerer enters the battlefield, you may return target creature to its owner's hand.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "sun ce, young conquerer",
+  "colorIdentity": [
+    "U"
+  ]
+}

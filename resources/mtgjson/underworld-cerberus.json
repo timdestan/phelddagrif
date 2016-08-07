@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Underworld Cerberus",
+  "manaCost": "{3}{B}{R}",
+  "cmc": 5,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Hound",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hound"
+  ],
+  "text": "Underworld Cerberus can't be blocked except by three or more creatures.\nCards in graveyards can't be the targets of spells or abilities.\nWhen Underworld Cerberus dies, exile it and each player returns all creature cards from his or her graveyard to his or her hand.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "underworld cerberus",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Servant of Tymaret",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Inspired — Whenever Servant of Tymaret becomes untapped, each opponent loses 1 life. You gain life equal to the life lost this way.\n{2}{B}: Regenerate Servant of Tymaret.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "servant of tymaret",
+  "colorIdentity": [
+    "B"
+  ]
+}

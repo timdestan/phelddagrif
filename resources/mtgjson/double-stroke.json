@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Double Stroke",
+  "type": "Conspiracy",
+  "types": [
+    "Conspiracy"
+  ],
+  "text": "Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)\nWhenever you cast an instant or sorcery spell with the chosen name, you may copy it. You may choose new targets for the copy.",
+  "imageName": "double stroke"
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Shield of the Righteous",
+  "manaCost": "{W}{U}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature gets +0/+2 and has vigilance.\nWhenever equipped creature blocks a creature, that creature doesn't untap during its controller's next untap step.\nEquip {2}",
+  "imageName": "shield of the righteous",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

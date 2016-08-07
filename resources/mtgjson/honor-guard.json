@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Honor Guard",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "{W}: Honor Guard gets +0/+1 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "honor guard",
+  "colorIdentity": [
+    "W"
+  ]
+}

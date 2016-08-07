@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Surge of Thoughtweft",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Tribal Instant — Kithkin",
+  "types": [
+    "Tribal",
+    "Instant"
+  ],
+  "subtypes": [
+    "Kithkin"
+  ],
+  "text": "Creatures you control get +1/+1 until end of turn. If you control a Kithkin, draw a card.",
+  "imageName": "surge of thoughtweft",
+  "colorIdentity": [
+    "W"
+  ]
+}

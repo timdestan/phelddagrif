@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sundering Vitae",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nDestroy target artifact or enchantment.",
+  "imageName": "sundering vitae",
+  "colorIdentity": [
+    "G"
+  ]
+}

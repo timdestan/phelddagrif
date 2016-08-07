@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Frostling",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Sacrifice Frostling: Frostling deals 1 damage to target creature.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "frostling",
+  "colorIdentity": [
+    "R"
+  ]
+}

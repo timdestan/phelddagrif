@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Hymn to Tourach",
+  "manaCost": "{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target player discards two cards at random.",
+  "imageName": "hymn to tourach",
+  "colorIdentity": [
+    "B"
+  ]
+}

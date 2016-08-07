@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Pedantic Learning",
+  "manaCost": "{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a land card is put into your graveyard from your library, you may pay {1}. If you do, draw a card.",
+  "imageName": "pedantic learning",
+  "colorIdentity": [
+    "U"
+  ]
+}

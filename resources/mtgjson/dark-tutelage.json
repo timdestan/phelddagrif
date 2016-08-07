@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dark Tutelage",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost.",
+  "imageName": "dark tutelage",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Chimeric Idol",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{0}: Tap all lands you control. Chimeric Idol becomes a 3/3 Turtle artifact creature until end of turn.",
+  "imageName": "chimeric idol"
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Port Inspector",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human"
+  ],
+  "text": "Whenever Port Inspector becomes blocked, you may look at defending player's hand.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "port inspector",
+  "colorIdentity": [
+    "U"
+  ]
+}

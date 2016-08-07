@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Niveous Wisps",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature becomes white until end of turn. Tap that creature.\nDraw a card.",
+  "imageName": "niveous wisps",
+  "colorIdentity": [
+    "W"
+  ]
+}

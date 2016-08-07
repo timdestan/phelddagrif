@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Spirit of the Hunt",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wolf Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wolf",
+    "Spirit"
+  ],
+  "text": "Flash\nWhen Spirit of the Hunt enters the battlefield, each other creature you control that's a Wolf or a Werewolf gets +0/+3 until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "spirit of the hunt",
+  "colorIdentity": [
+    "G"
+  ]
+}

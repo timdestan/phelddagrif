@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Arashin Cleric",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "When Arashin Cleric enters the battlefield, you gain 3 life.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "arashin cleric",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Arcbound Overseer",
+  "manaCost": "{8}",
+  "cmc": 8,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "At the beginning of your upkeep, put a +1/+1 counter on each creature with modular you control.\nModular 6 (This enters the battlefield with six +1/+1 counters on it. When it dies, you may put its +1/+1 counters on target artifact creature.)",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "arcbound overseer"
+}

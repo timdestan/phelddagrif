@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Setessan Tactics",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Strive — Setessan Tactics costs {G} more to cast for each target beyond the first.\nUntil end of turn, any number of target creatures each get +1/+1 and gain \"{T}: This creature fights another target creature.\"",
+  "imageName": "setessan tactics",
+  "colorIdentity": [
+    "G"
+  ]
+}

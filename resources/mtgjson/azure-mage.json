@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Azure Mage",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{3}{U}: Draw a card.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "azure mage",
+  "colorIdentity": [
+    "U"
+  ]
+}

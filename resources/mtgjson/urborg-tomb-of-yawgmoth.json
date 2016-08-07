@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Urborg, Tomb of Yawgmoth",
+  "type": "Legendary Land",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Land"
+  ],
+  "text": "Each land is a Swamp in addition to its other land types.",
+  "imageName": "urborg, tomb of yawgmoth"
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Blood-Chin Rager",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "Whenever Blood-Chin Rager attacks, Warrior creatures you control gain menace until end of turn. (They can't be blocked except by two or more creatures.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "blood-chin rager",
+  "colorIdentity": [
+    "B"
+  ]
+}

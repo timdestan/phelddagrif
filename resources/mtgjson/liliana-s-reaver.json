@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Liliana's Reaver",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Deathtouch\nWhenever Liliana's Reaver deals combat damage to a player, that player discards a card and you put a 2/2 black Zombie creature token onto the battlefield tapped.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "liliana's reaver",
+  "colorIdentity": [
+    "B"
+  ]
+}

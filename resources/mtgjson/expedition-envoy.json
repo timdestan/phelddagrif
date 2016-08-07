@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Expedition Envoy",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Scout Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Scout",
+    "Ally"
+  ],
+  "power": "2",
+  "toughness": "1",
+  "imageName": "expedition envoy",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Safe Passage",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Prevent all damage that would be dealt to you and creatures you control this turn.",
+  "imageName": "safe passage",
+  "colorIdentity": [
+    "W"
+  ]
+}

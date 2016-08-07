@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Show and Tell",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Each player may put an artifact, creature, enchantment, or land card from his or her hand onto the battlefield.",
+  "imageName": "show and tell",
+  "colorIdentity": [
+    "U"
+  ]
+}

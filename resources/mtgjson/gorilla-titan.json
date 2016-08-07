@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Gorilla Titan",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Ape",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ape"
+  ],
+  "text": "Trample\nGorilla Titan gets +4/+4 as long as there are no cards in your graveyard.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "gorilla titan",
+  "colorIdentity": [
+    "G"
+  ]
+}

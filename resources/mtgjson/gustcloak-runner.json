@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Gustcloak Runner",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Whenever Gustcloak Runner becomes blocked, you may untap it and remove it from combat.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "gustcloak runner",
+  "colorIdentity": [
+    "W"
+  ]
+}

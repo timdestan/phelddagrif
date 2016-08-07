@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Lifted by Clouds",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant — Arcane",
+  "types": [
+    "Instant"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "Target creature gains flying until end of turn.\nSplice onto Arcane {1}{U} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+  "imageName": "lifted by clouds",
+  "colorIdentity": [
+    "U"
+  ]
+}

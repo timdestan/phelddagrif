@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Balduvian Frostwaker",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{U}, {T}: Target snow land becomes a 2/2 blue Elemental creature with flying. It's still a land.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "balduvian frostwaker",
+  "colorIdentity": [
+    "U"
+  ]
+}

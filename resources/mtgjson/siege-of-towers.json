@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Siege of Towers",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Replicate {1}{R} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)\nTarget Mountain becomes a 3/1 creature. It's still a land.",
+  "imageName": "siege of towers",
+  "colorIdentity": [
+    "R"
+  ]
+}

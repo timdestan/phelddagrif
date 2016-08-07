@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Saprazzan Legate",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Soldier"
+  ],
+  "text": "Flying\nIf an opponent controls a Mountain and you control an Island, you may cast Saprazzan Legate without paying its mana cost.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "saprazzan legate",
+  "colorIdentity": [
+    "U"
+  ]
+}

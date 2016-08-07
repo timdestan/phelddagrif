@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Mistform Ultimus",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Legendary Creature — Illusion",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Illusion"
+  ],
+  "text": "Mistform Ultimus is every creature type (even if this card isn't on the battlefield).",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "mistform ultimus",
+  "colorIdentity": [
+    "U"
+  ]
+}

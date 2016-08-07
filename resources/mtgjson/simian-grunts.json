@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Simian Grunts",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Ape",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ape"
+  ],
+  "text": "Flash\nEcho {2}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "simian grunts",
+  "colorIdentity": [
+    "G"
+  ]
+}

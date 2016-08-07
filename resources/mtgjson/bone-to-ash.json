@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Bone to Ash",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target creature spell.\nDraw a card.",
+  "imageName": "bone to ash",
+  "colorIdentity": [
+    "U"
+  ]
+}

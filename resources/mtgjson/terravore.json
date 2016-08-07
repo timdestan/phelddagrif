@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Terravore",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Lhurgoyf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Lhurgoyf"
+  ],
+  "text": "Trample\nTerravore's power and toughness are each equal to the number of land cards in all graveyards.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "terravore",
+  "colorIdentity": [
+    "G"
+  ]
+}

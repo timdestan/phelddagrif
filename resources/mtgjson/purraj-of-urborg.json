@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Purraj of Urborg",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Legendary Creature — Cat Warrior",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat",
+    "Warrior"
+  ],
+  "text": "Purraj of Urborg has first strike as long as it's attacking.\nWhenever a player casts a black spell, you may pay {B}. If you do, put a +1/+1 counter on Purraj of Urborg.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "purraj of urborg",
+  "colorIdentity": [
+    "B"
+  ]
+}

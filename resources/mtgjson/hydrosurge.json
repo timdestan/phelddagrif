@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Hydrosurge",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gets -5/-0 until end of turn.",
+  "imageName": "hydrosurge",
+  "colorIdentity": [
+    "U"
+  ]
+}

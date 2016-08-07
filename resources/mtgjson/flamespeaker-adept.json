@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Flamespeaker Adept",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Shaman"
+  ],
+  "text": "Whenever you scry, Flamespeaker Adept gets +2/+0 and gains first strike until end of turn.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "flamespeaker adept",
+  "colorIdentity": [
+    "R"
+  ]
+}

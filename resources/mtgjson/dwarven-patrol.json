@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dwarven Patrol",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dwarf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dwarf"
+  ],
+  "text": "Dwarven Patrol doesn't untap during your untap step.\nWhenever you cast a nonred spell, untap Dwarven Patrol.",
+  "power": "4",
+  "toughness": "2",
+  "imageName": "dwarven patrol",
+  "colorIdentity": [
+    "R"
+  ]
+}

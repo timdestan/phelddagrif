@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Opal Lake Gatekeepers",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Vedalken Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vedalken",
+    "Soldier"
+  ],
+  "text": "When Opal Lake Gatekeepers enters the battlefield, if you control two or more Gates, you may draw a card.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "opal lake gatekeepers",
+  "colorIdentity": [
+    "U"
+  ]
+}

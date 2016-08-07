@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Regal Force",
+  "manaCost": "{4}{G}{G}{G}",
+  "cmc": 7,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "When Regal Force enters the battlefield, draw a card for each green creature you control.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "regal force",
+  "colorIdentity": [
+    "G"
+  ]
+}

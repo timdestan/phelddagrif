@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Meekstone",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Creatures with power 3 or greater don't untap during their controllers' untap steps.",
+  "imageName": "meekstone"
+}

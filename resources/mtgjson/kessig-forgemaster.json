@@ -1,0 +1,29 @@
+{
+  "layout": "double-faced",
+  "name": "Kessig Forgemaster",
+  "names": [
+    "Kessig Forgemaster",
+    "Flameheart Werewolf"
+  ],
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Shaman Werewolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Shaman",
+    "Werewolf"
+  ],
+  "text": "Whenever Kessig Forgemaster blocks or becomes blocked by a creature, Kessig Forgemaster deals 1 damage to that creature.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Kessig Forgemaster.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "kessig forgemaster",
+  "colorIdentity": [
+    "R"
+  ]
+}

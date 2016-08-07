@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Fog Elemental",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhen Fog Elemental attacks or blocks, sacrifice it at end of combat.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "fog elemental",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Village Survivors",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human"
+  ],
+  "text": "Vigilance\nFateful hour — As long as you have 5 or less life, other creatures you control have vigilance.",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "village survivors",
+  "colorIdentity": [
+    "G"
+  ]
+}

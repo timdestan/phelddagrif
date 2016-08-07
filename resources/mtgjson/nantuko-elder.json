@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Nantuko Elder",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Insect Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect",
+    "Druid"
+  ],
+  "text": "{T}: Add {C}{G} to your mana pool.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "nantuko elder",
+  "colorIdentity": [
+    "G"
+  ]
+}

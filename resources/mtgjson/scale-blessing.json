@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Scale Blessing",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Bolster 1, then put a +1/+1 counter on each creature you control with a +1/+1 counter on it. (To bolster 1, choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)",
+  "imageName": "scale blessing",
+  "colorIdentity": [
+    "W"
+  ]
+}

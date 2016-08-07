@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Undo",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Return two target creatures to their owners' hands.",
+  "imageName": "undo",
+  "colorIdentity": [
+    "U"
+  ]
+}

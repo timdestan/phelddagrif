@@ -1,0 +1,15 @@
+{
+  "layout": "token",
+  "name": "Demon",
+  "type": "Creature — Demon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon"
+  ],
+  "text": "Flying",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "demon"
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Tresserhorn Skyknight",
+  "manaCost": "{5}{B}{B}",
+  "cmc": 7,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Knight"
+  ],
+  "text": "Flying\nPrevent all damage that would be dealt to Tresserhorn Skyknight by creatures with first strike.",
+  "power": "5",
+  "toughness": "3",
+  "imageName": "tresserhorn skyknight",
+  "colorIdentity": [
+    "B"
+  ]
+}

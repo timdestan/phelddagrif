@@ -1,0 +1,25 @@
+{
+  "layout": "double-faced",
+  "name": "Infectious Curse",
+  "names": [
+    "Accursed Witch",
+    "Infectious Curse"
+  ],
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment — Aura Curse",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura",
+    "Curse"
+  ],
+  "text": "Enchant player\nSpells you cast that target enchanted player cost {1} less to cast.\nAt the beginning of enchanted player's upkeep, that player loses 1 life and you gain 1 life.",
+  "imageName": "infectious curse",
+  "colorIdentity": [
+    "B"
+  ]
+}

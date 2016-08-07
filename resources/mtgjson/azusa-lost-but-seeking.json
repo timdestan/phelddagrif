@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Azusa, Lost but Seeking",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Legendary Creature — Human Monk",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Monk"
+  ],
+  "text": "You may play two additional lands on each of your turns.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "azusa, lost but seeking",
+  "colorIdentity": [
+    "G"
+  ]
+}

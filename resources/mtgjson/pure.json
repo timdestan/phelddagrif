@@ -1,0 +1,25 @@
+{
+  "layout": "split",
+  "name": "Pure",
+  "names": [
+    "Pure",
+    "Simple"
+  ],
+  "manaCost": "{1}{R}{G}",
+  "cmc": 3,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target multicolored permanent.",
+  "imageName": "pure",
+  "colorIdentity": [
+    "W",
+    "G",
+    "R"
+  ]
+}

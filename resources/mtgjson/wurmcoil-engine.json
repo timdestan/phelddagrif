@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Wurmcoil Engine",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Artifact Creature — Wurm",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "text": "Deathtouch, lifelink\nWhen Wurmcoil Engine dies, put a 3/3 colorless Wurm artifact creature token with deathtouch and a 3/3 colorless Wurm artifact creature token with lifelink onto the battlefield.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "wurmcoil engine"
+}

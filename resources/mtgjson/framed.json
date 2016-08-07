@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Framed!",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Tap or untap all permanents by the artist of your choice.",
+  "imageName": "framed!",
+  "colorIdentity": [
+    "U"
+  ]
+}

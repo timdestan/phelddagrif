@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Traveler's Amulet",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{1}, Sacrifice Traveler's Amulet: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.",
+  "imageName": "traveler's amulet"
+}

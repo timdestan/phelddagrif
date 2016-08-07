@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Squeeze",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Sorcery spells cost {3} more to cast.",
+  "imageName": "squeeze",
+  "colorIdentity": [
+    "U"
+  ]
+}

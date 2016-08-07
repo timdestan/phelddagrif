@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ornithopter",
+  "manaCost": "{0}",
+  "cmc": 0,
+  "type": "Artifact Creature — Thopter",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Thopter"
+  ],
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)",
+  "power": "0",
+  "toughness": "2",
+  "imageName": "ornithopter"
+}

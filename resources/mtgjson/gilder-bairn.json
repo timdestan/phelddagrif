@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Gilder Bairn",
+  "manaCost": "{1}{G/U}{G/U}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Creature — Ouphe",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ouphe"
+  ],
+  "text": "{2}{G/U}, {Q}: For each counter on target permanent, put another of those counters on that permanent. ({Q} is the untap symbol.)",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "gilder bairn",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

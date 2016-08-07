@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Aerial Formation",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Strive — Aerial Formation costs {2}{U} more to cast for each target beyond the first.\nAny number of target creatures each get +1/+1 and gain flying until end of turn.",
+  "imageName": "aerial formation",
+  "colorIdentity": [
+    "U"
+  ]
+}

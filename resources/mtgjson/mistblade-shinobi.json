@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Mistblade Shinobi",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Ninja",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Ninja"
+  ],
+  "text": "Ninjutsu {U} ({U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Mistblade Shinobi deals combat damage to a player, you may return target creature that player controls to its owner's hand.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "mistblade shinobi",
+  "colorIdentity": [
+    "U"
+  ]
+}

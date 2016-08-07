@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Ephara's Radiance",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature has \"{1}{W}, {T}: You gain 3 life.\"",
+  "imageName": "ephara's radiance",
+  "colorIdentity": [
+    "W"
+  ]
+}

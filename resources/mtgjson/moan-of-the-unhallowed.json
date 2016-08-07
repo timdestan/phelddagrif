@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Moan of the Unhallowed",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put two 2/2 black Zombie creature tokens onto the battlefield.\nFlashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "moan of the unhallowed",
+  "colorIdentity": [
+    "B"
+  ]
+}

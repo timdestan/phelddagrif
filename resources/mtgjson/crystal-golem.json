@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Crystal Golem",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "At the beginning of your end step, Crystal Golem phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "crystal golem"
+}

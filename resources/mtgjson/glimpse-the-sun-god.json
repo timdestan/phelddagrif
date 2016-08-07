@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Glimpse the Sun God",
+  "manaCost": "{X}{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Tap X target creatures. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "imageName": "glimpse the sun god",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Viridian Shaman",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Shaman"
+  ],
+  "text": "When Viridian Shaman enters the battlefield, destroy target artifact.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "viridian shaman",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Rakshasa Gravecaller",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Cat Demon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat",
+    "Demon"
+  ],
+  "text": "Exploit (When this creature enters the battlefield, you may sacrifice a creature.)\nWhen Rakshasa Gravecaller exploits a creature, put two 2/2 black Zombie creature tokens onto the battlefield.",
+  "power": "3",
+  "toughness": "6",
+  "imageName": "rakshasa gravecaller",
+  "colorIdentity": [
+    "B"
+  ]
+}

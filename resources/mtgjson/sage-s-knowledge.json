@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sage's Knowledge",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Return target sorcery card from your graveyard to your hand.",
+  "imageName": "sage's knowledge",
+  "colorIdentity": [
+    "U"
+  ]
+}

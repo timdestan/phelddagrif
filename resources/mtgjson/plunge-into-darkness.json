@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Plunge into Darkness",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose one —\n• Sacrifice any number of creatures, then you gain 3 life for each sacrificed creature.\n• Pay X life, then look at the top X cards of your library. Put one of those cards into your hand and exile the rest.\nEntwine {B} (Choose both if you pay the entwine cost.)",
+  "imageName": "plunge into darkness",
+  "colorIdentity": [
+    "B"
+  ]
+}

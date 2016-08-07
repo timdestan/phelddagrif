@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Unburial Rites",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Return target creature card from your graveyard to the battlefield.\nFlashback {3}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "unburial rites",
+  "colorIdentity": [
+    "B",
+    "W"
+  ]
+}

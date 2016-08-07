@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Cinder Pyromancer",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Shaman"
+  ],
+  "text": "{T}: Cinder Pyromancer deals 1 damage to target player.\nWhenever you cast a red spell, you may untap Cinder Pyromancer.",
+  "power": "0",
+  "toughness": "1",
+  "imageName": "cinder pyromancer",
+  "colorIdentity": [
+    "R"
+  ]
+}

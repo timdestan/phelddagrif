@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Bazaar of Baghdad",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Draw two cards, then discard three cards.",
+  "imageName": "bazaar of baghdad"
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Leonin Relic-Warder",
+  "manaCost": "{W}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Cat Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat",
+    "Cleric"
+  ],
+  "text": "When Leonin Relic-Warder enters the battlefield, you may exile target artifact or enchantment.\nWhen Leonin Relic-Warder leaves the battlefield, return the exiled card to the battlefield under its owner's control.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "leonin relic-warder",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "layout": "double-faced",
+  "name": "Pious Evangel",
+  "names": [
+    "Pious Evangel",
+    "Wayward Disciple"
+  ],
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "Whenever Pious Evangel or another creature enters the battlefield under your control, you gain 1 life.\n{2}, {T}, Sacrifice another permanent: Transform Pious Evangel.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "pious evangel",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

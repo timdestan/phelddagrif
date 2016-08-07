@@ -1,0 +1,16 @@
+{
+  "layout": "normal",
+  "name": "Yavimaya Hollow",
+  "type": "Legendary Land",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{G}, {T}: Regenerate target creature.",
+  "imageName": "yavimaya hollow",
+  "colorIdentity": [
+    "G"
+  ]
+}

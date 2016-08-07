@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Benthic Djinn",
+  "manaCost": "{2}{U}{B}",
+  "cmc": 4,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Creature — Djinn",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Djinn"
+  ],
+  "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nAt the beginning of your upkeep, you lose 2 life.",
+  "power": "5",
+  "toughness": "3",
+  "imageName": "benthic djinn",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

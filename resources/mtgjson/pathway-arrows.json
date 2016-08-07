@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Pathway Arrows",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature has \"{2}, {T}: This creature deals 1 damage to target creature. If a colorless creature is dealt damage this way, tap it.\"\nEquip {2}",
+  "imageName": "pathway arrows"
+}

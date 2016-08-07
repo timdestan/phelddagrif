@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Emerald Medallion",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Green spells you cast cost {1} less to cast.",
+  "imageName": "emerald medallion"
+}

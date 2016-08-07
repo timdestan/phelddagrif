@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Druid Lyrist",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Druid"
+  ],
+  "text": "{G}, {T}, Sacrifice Druid Lyrist: Destroy target enchantment.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "druid lyrist",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Vengeful Archon",
+  "manaCost": "{4}{W}{W}{W}",
+  "cmc": 7,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Archon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Archon"
+  ],
+  "text": "Flying\n{X}: Prevent the next X damage that would be dealt to you this turn. If damage is prevented this way, Vengeful Archon deals that much damage to target player.",
+  "power": "7",
+  "toughness": "7",
+  "imageName": "vengeful archon",
+  "colorIdentity": [
+    "W"
+  ]
+}

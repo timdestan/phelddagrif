@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Dwarven Strike Force",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dwarf Berserker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dwarf",
+    "Berserker"
+  ],
+  "text": "Discard a card at random: Dwarven Strike Force gains first strike and haste until end of turn.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "dwarven strike force",
+  "colorIdentity": [
+    "R"
+  ]
+}

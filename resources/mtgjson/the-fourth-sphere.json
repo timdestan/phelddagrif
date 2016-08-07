@@ -1,0 +1,13 @@
+{
+  "layout": "plane",
+  "name": "The Fourth Sphere",
+  "type": "Plane — Phyrexia",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Phyrexia"
+  ],
+  "text": "At the beginning of your upkeep, sacrifice a nonblack creature.\nWhenever you roll CHAOS, put a 2/2 black Zombie creature token onto the battlefield.",
+  "imageName": "the fourth sphere"
+}

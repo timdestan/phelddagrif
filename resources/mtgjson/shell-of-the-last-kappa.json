@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Shell of the Last Kappa",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Legendary Artifact",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Artifact"
+  ],
+  "text": "{3}, {T}: Exile target instant or sorcery spell that targets you. (The spell has no effect.)\n{3}, {T}, Sacrifice Shell of the Last Kappa: You may cast a card exiled with Shell of the Last Kappa without paying its mana cost.",
+  "imageName": "shell of the last kappa"
+}

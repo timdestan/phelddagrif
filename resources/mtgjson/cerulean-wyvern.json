@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Cerulean Wyvern",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flying, protection from green",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "cerulean wyvern",
+  "colorIdentity": [
+    "U"
+  ]
+}

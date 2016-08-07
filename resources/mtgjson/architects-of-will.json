@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Architects of Will",
+  "manaCost": "{2}{U}{B}",
+  "cmc": 4,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Artifact Creature — Human Wizard",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "When Architects of Will enters the battlefield, look at the top three cards of target player's library, then put them back in any order.\nCycling {U/B} ({U/B}, Discard this card: Draw a card.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "architects of will",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

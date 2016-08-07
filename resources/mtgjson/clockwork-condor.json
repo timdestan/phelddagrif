@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Clockwork Condor",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Bird",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\nClockwork Condor enters the battlefield with three +1/+1 counters on it.\nWhenever Clockwork Condor attacks or blocks, remove a +1/+1 counter from it at end of combat.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "clockwork condor"
+}

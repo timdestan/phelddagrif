@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Vial of Poison",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{1}, Sacrifice Vial of Poison: Target creature gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)",
+  "imageName": "vial of poison"
+}

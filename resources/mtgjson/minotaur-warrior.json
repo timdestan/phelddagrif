@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Minotaur Warrior",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Minotaur Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Minotaur",
+    "Warrior"
+  ],
+  "power": "2",
+  "toughness": "3",
+  "imageName": "minotaur warrior",
+  "colorIdentity": [
+    "R"
+  ]
+}

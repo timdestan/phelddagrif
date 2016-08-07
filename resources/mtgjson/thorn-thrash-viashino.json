@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Thorn-Thrash Viashino",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Viashino Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Viashino",
+    "Warrior"
+  ],
+  "text": "Devour 2 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.)\n{G}: Thorn-Thrash Viashino gains trample until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "thorn-thrash viashino",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

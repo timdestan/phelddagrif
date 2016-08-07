@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Doomgape",
+  "manaCost": "{4}{B/G}{B/G}{B/G}",
+  "cmc": 7,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Trample\nAt the beginning of your upkeep, sacrifice a creature. You gain life equal to that creature's toughness.",
+  "power": "10",
+  "toughness": "10",
+  "imageName": "doomgape",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

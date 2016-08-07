@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Reverse the Sands",
+  "manaCost": "{6}{W}{W}",
+  "cmc": 8,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Redistribute any number of players' life totals. (Each of those players gets one life total back.)",
+  "imageName": "reverse the sands",
+  "colorIdentity": [
+    "W"
+  ]
+}

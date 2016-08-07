@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Stampeding Wildebeests",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Antelope Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Antelope",
+    "Beast"
+  ],
+  "text": "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)\nAt the beginning of your upkeep, return a green creature you control to its owner's hand.",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "stampeding wildebeests",
+  "colorIdentity": [
+    "G"
+  ]
+}

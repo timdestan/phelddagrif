@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Workhorse",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Artifact Creature — Horse",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Horse"
+  ],
+  "text": "Workhorse enters the battlefield with four +1/+1 counters on it.\nRemove a +1/+1 counter from Workhorse: Add {C} to your mana pool.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "workhorse"
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dreamcatcher",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Whenever you cast a Spirit or Arcane spell, you may sacrifice Dreamcatcher. If you do, draw a card.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "dreamcatcher",
+  "colorIdentity": [
+    "U"
+  ]
+}

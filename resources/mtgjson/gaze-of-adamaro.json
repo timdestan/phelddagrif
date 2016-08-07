@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Gaze of Adamaro",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant — Arcane",
+  "types": [
+    "Instant"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "Gaze of Adamaro deals damage to target player equal to the number of cards in that player's hand.",
+  "imageName": "gaze of adamaro",
+  "colorIdentity": [
+    "R"
+  ]
+}

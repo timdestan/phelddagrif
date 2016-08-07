@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Scapegoat",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "As an additional cost to cast Scapegoat, sacrifice a creature.\nReturn any number of target creatures you control to their owner's hand.",
+  "imageName": "scapegoat",
+  "colorIdentity": [
+    "W"
+  ]
+}

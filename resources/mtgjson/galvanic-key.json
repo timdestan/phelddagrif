@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Galvanic Key",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Flash\n{3}, {T}: Untap target artifact.",
+  "imageName": "galvanic key"
+}

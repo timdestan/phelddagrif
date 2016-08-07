@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Sandsteppe Outcast",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "When Sandsteppe Outcast enters the battlefield, choose one —\n• Put a +1/+1 counter on Sandsteppe Outcast.\n• Put a 1/1 white Spirit creature token with flying onto the battlefield.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "sandsteppe outcast",
+  "colorIdentity": [
+    "W"
+  ]
+}

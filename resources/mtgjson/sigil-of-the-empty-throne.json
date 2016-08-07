@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sigil of the Empty Throne",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever you cast an enchantment spell, put a 4/4 white Angel creature token with flying onto the battlefield.",
+  "imageName": "sigil of the empty throne",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Assquatch",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Donkey Lord",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Donkey",
+    "Lord"
+  ],
+  "text": "Each other Donkey gets +1½/+1½.\nWhenever another Donkey comes into play, untap target creature and gain control of it until end of turn. That creature gains haste until end of turn.",
+  "power": "3.5",
+  "toughness": "3.5",
+  "imageName": "assquatch",
+  "colorIdentity": [
+    "R"
+  ]
+}

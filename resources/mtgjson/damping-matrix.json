@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Damping Matrix",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Activated abilities of artifacts and creatures can't be activated unless they're mana abilities.",
+  "imageName": "damping matrix"
+}

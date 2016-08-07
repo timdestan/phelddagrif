@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Join the Ranks",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Put two 1/1 white Soldier Ally creature tokens onto the battlefield.",
+  "imageName": "join the ranks",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Kentaro, the Smiling Cat",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Creature — Human Samurai",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Samurai"
+  ],
+  "text": "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nYou may pay {X} rather than pay the mana cost for Samurai spells you cast, where X is that spell's converted mana cost.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "kentaro, the smiling cat",
+  "colorIdentity": [
+    "W"
+  ]
+}

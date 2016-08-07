@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Gore Vassal",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Hound",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hound"
+  ],
+  "text": "Sacrifice Gore Vassal: Put a -1/-1 counter on target creature. Then if that creature's toughness is 1 or greater, regenerate it.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "gore vassal",
+  "colorIdentity": [
+    "W"
+  ]
+}

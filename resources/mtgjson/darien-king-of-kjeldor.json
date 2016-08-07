@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Darien, King of Kjeldor",
+  "manaCost": "{4}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Creature — Human Soldier",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Whenever you're dealt damage, you may put that many 1/1 white Soldier creature tokens onto the battlefield.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "darien, king of kjeldor",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Nefarious Lich",
+  "manaCost": "{B}{B}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "If damage would be dealt to you, exile that many cards from your graveyard instead. If you can't, you lose the game.\nIf you would gain life, draw that many cards instead.\nWhen Nefarious Lich leaves the battlefield, you lose the game.",
+  "imageName": "nefarious lich",
+  "colorIdentity": [
+    "B"
+  ]
+}

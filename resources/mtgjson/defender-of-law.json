@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Defender of Law",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "Flash\nProtection from red",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "defender of law",
+  "colorIdentity": [
+    "W"
+  ]
+}

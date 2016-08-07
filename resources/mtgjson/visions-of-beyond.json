@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Visions of Beyond",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Draw a card. If a graveyard has twenty or more cards in it, draw three cards instead.",
+  "imageName": "visions of beyond",
+  "colorIdentity": [
+    "U"
+  ]
+}

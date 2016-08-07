@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Eron the Relentless",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Creature — Human Rogue",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "Haste\n{R}{R}{R}: Regenerate Eron the Relentless.",
+  "power": "5",
+  "toughness": "2",
+  "imageName": "eron the relentless",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Explore",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "You may play an additional land this turn.\nDraw a card.",
+  "imageName": "explore",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Vexing Sphinx",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Sphinx",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sphinx"
+  ],
+  "text": "Flying\nCumulative upkeep—Discard a card. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhen Vexing Sphinx dies, draw a card for each age counter on it.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "vexing sphinx",
+  "colorIdentity": [
+    "U"
+  ]
+}

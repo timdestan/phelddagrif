@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Grave Sifter",
+  "manaCost": "{5}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elemental Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Beast"
+  ],
+  "text": "When Grave Sifter enters the battlefield, each player chooses a creature type and returns any number of cards of that type from his or her graveyard to his or her hand.",
+  "power": "5",
+  "toughness": "7",
+  "imageName": "grave sifter",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Containment Membrane",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Surge {U} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)\nEnchant creature\nEnchanted creature doesn't untap during its controller's untap step.",
+  "imageName": "containment membrane",
+  "colorIdentity": [
+    "U"
+  ]
+}

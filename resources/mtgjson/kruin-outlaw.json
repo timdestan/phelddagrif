@@ -1,0 +1,29 @@
+{
+  "layout": "double-faced",
+  "name": "Kruin Outlaw",
+  "names": [
+    "Kruin Outlaw",
+    "Terror of Kruin Pass"
+  ],
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Rogue Werewolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue",
+    "Werewolf"
+  ],
+  "text": "First strike\nAt the beginning of each upkeep, if no spells were cast last turn, transform Kruin Outlaw.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "kruin outlaw",
+  "colorIdentity": [
+    "R"
+  ]
+}

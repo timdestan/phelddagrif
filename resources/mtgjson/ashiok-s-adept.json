@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ashiok's Adept",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Heroic — Whenever you cast a spell that targets Ashiok's Adept, each opponent discards a card.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "ashiok's adept",
+  "colorIdentity": [
+    "B"
+  ]
+}

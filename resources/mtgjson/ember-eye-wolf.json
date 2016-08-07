@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ember-Eye Wolf",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Wolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wolf"
+  ],
+  "text": "Haste\n{1}{R}: Ember-Eye Wolf gets +2/+0 until end of turn.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "ember-eye wolf",
+  "colorIdentity": [
+    "R"
+  ]
+}

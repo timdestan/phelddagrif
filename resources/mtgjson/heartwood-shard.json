@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Heartwood Shard",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{3}, {T} or {G}, {T}: Target creature gains trample until end of turn.",
+  "imageName": "heartwood shard",
+  "colorIdentity": [
+    "G"
+  ]
+}

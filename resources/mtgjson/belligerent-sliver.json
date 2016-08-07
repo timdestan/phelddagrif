@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Belligerent Sliver",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "Sliver creatures you control have menace. (They can't be blocked except by two or more creatures.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "belligerent sliver",
+  "colorIdentity": [
+    "R"
+  ]
+}

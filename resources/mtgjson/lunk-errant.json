@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Lunk Errant",
+  "manaCost": "{5}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Giant Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant",
+    "Warrior"
+  ],
+  "text": "Whenever Lunk Errant attacks alone, it gets +1/+1 and gains trample until end of turn.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "lunk errant",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Havengul Skaab",
+  "manaCost": "{5}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Zombie Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Horror"
+  ],
+  "text": "Whenever Havengul Skaab attacks, return another creature you control to its owner's hand.",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "havengul skaab",
+  "colorIdentity": [
+    "U"
+  ]
+}

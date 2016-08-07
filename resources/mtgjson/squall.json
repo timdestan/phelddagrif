@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Squall",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Squall deals 2 damage to each creature with flying.",
+  "imageName": "squall",
+  "colorIdentity": [
+    "G"
+  ]
+}

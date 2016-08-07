@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Gravestorm",
+  "manaCost": "{B}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, target opponent may exile a card from his or her graveyard. If that player doesn't, you may draw a card.",
+  "imageName": "gravestorm",
+  "colorIdentity": [
+    "B"
+  ]
+}

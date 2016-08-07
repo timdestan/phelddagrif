@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Aphetto Grifter",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Tap two untapped Wizards you control: Tap target permanent.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "aphetto grifter",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "layout": "normal",
+  "name": "Mistveil Plains",
+  "type": "Land — Plains",
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Plains"
+  ],
+  "text": "({T}: Add {W} to your mana pool.)\nMistveil Plains enters the battlefield tapped.\n{W}, {T}: Put target card from your graveyard on the bottom of your library. Activate this ability only if you control two or more white permanents.",
+  "imageName": "mistveil plains",
+  "colorIdentity": [
+    "W"
+  ]
+}

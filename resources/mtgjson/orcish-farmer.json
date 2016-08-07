@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Orcish Farmer",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Orc",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Orc"
+  ],
+  "text": "{T}: Target land becomes a Swamp until its controller's next untap step.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "orcish farmer",
+  "colorIdentity": [
+    "R"
+  ]
+}

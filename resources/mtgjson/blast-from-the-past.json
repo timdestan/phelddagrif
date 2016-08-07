@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Blast from the Past",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Madness {R}, cycling {1}{R}, kicker {2}{R}, flashback {3}{R}, buyback {4}{R}\nBlast from the Past deals 2 damage to target creature or player.\nIf the kicker cost was paid, put a 1/1 red Goblin creature token into play.",
+  "imageName": "blast from the past",
+  "colorIdentity": [
+    "R"
+  ]
+}

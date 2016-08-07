@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Great Wall",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Creatures with plainswalk can be blocked as though they didn't have plainswalk.",
+  "imageName": "great wall",
+  "colorIdentity": [
+    "W"
+  ]
+}

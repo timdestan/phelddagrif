@@ -1,0 +1,31 @@
+{
+  "layout": "normal",
+  "name": "Narset, Enlightened Master",
+  "manaCost": "{3}{U}{R}{W}",
+  "cmc": 6,
+  "colors": [
+    "White",
+    "Blue",
+    "Red"
+  ],
+  "type": "Legendary Creature — Human Monk",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Monk"
+  ],
+  "text": "First strike, hexproof\nWhenever Narset, Enlightened Master attacks, exile the top four cards of your library. Until end of turn, you may cast noncreature cards exiled with Narset this turn without paying their mana costs.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "narset, enlightened master",
+  "colorIdentity": [
+    "W",
+    "U",
+    "R"
+  ]
+}

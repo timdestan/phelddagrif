@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Dreg Mangler",
+  "manaCost": "{1}{B}{G}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Creature — Plant Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Plant",
+    "Zombie"
+  ],
+  "text": "Haste\nScavenge {3}{B}{G} ({3}{B}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "dreg mangler",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

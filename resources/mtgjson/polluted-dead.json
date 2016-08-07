@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Polluted Dead",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "When Polluted Dead dies, destroy target land.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "polluted dead",
+  "colorIdentity": [
+    "B"
+  ]
+}

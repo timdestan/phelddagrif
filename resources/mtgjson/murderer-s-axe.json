@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Murderer's Axe",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature gets +2/+2.\nEquip—Discard a card.",
+  "imageName": "murderer's axe"
+}

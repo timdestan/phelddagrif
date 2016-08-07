@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Poison the Well",
+  "manaCost": "{2}{B/R}{B/R}",
+  "cmc": 4,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target land. Poison the Well deals 2 damage to that land's controller.",
+  "imageName": "poison the well",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

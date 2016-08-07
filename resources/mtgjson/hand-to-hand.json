@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Hand to Hand",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "During combat, players can't cast instant spells or activate abilities that aren't mana abilities.",
+  "imageName": "hand to hand",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Sorceress Queen",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{T}: Target creature other than Sorceress Queen has base power and toughness 0/2 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "sorceress queen",
+  "colorIdentity": [
+    "B"
+  ]
+}

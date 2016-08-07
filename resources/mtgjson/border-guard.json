@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Border Guard",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "power": "1",
+  "toughness": "4",
+  "imageName": "border guard",
+  "colorIdentity": [
+    "W"
+  ]
+}

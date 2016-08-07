@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Leonin Abunas",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Cat Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat",
+    "Cleric"
+  ],
+  "text": "Artifacts you control have hexproof. (They can't be the targets of spells or abilities your opponents control.)",
+  "power": "2",
+  "toughness": "5",
+  "imageName": "leonin abunas",
+  "colorIdentity": [
+    "W"
+  ]
+}

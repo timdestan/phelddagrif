@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Serpent Warrior",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Snake Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Snake",
+    "Warrior"
+  ],
+  "text": "When Serpent Warrior enters the battlefield, you lose 3 life.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "serpent warrior",
+  "colorIdentity": [
+    "B"
+  ]
+}

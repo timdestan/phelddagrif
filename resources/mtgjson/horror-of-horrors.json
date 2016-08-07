@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Horror of Horrors",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Sacrifice a Swamp: Regenerate target black creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",
+  "imageName": "horror of horrors",
+  "colorIdentity": [
+    "B"
+  ]
+}

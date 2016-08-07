@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Corrosive Mentor",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Elemental Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Rogue"
+  ],
+  "text": "Black creatures you control have wither. (They deal damage to creatures in the form of -1/-1 counters.)",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "corrosive mentor",
+  "colorIdentity": [
+    "B"
+  ]
+}

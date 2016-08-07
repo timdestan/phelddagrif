@@ -1,0 +1,13 @@
+{
+  "layout": "plane",
+  "name": "Jund",
+  "type": "Plane — Alara",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Alara"
+  ],
+  "text": "Whenever a player casts a black, red, or green creature spell, it gains devour 5. (As the creature enters the battlefield, its controller may sacrifice any number of creatures. The creature enters the battlefield with five times that many +1/+1 counters on it.)\nWhenever you roll CHAOS, put two 1/1 red Goblin creature tokens onto the battlefield.",
+  "imageName": "jund"
+}

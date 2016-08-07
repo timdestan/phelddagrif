@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Lightwalker",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "Lightwalker has flying as long as it has a +1/+1 counter on it.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "lightwalker",
+  "colorIdentity": [
+    "W"
+  ]
+}

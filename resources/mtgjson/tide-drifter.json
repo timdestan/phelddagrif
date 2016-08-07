@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Tide Drifter",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "type": "Creature — Eldrazi Drone",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Drone"
+  ],
+  "text": "Devoid (This card has no color.)\nOther colorless creatures you control get +0/+1.",
+  "power": "0",
+  "toughness": "5",
+  "imageName": "tide drifter",
+  "colorIdentity": [
+    "U"
+  ]
+}

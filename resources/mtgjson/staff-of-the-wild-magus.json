@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Staff of the Wild Magus",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Whenever you cast a green spell or a Forest enters the battlefield under your control, you gain 1 life.",
+  "imageName": "staff of the wild magus"
+}

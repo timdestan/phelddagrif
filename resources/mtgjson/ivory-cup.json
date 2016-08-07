@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Ivory Cup",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Whenever a player casts a white spell, you may pay {1}. If you do, you gain 1 life.",
+  "imageName": "ivory cup"
+}

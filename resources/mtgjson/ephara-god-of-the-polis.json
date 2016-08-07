@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Ephara, God of the Polis",
+  "manaCost": "{2}{W}{U}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Legendary Enchantment Creature — God",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Enchantment",
+    "Creature"
+  ],
+  "subtypes": [
+    "God"
+  ],
+  "text": "Indestructible\nAs long as your devotion to white and blue is less than seven, Ephara isn't a creature.\nAt the beginning of each upkeep, if you had another creature enter the battlefield under your control last turn, draw a card.",
+  "power": "6",
+  "toughness": "5",
+  "imageName": "ephara, god of the polis",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

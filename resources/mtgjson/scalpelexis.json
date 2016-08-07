@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Scalpelexis",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever Scalpelexis deals combat damage to a player, that player exiles the top four cards of his or her library. If two or more of those cards have the same name, repeat this process.",
+  "power": "1",
+  "toughness": "5",
+  "imageName": "scalpelexis",
+  "colorIdentity": [
+    "U"
+  ]
+}

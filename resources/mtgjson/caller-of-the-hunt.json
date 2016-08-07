@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Caller of the Hunt",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human"
+  ],
+  "text": "As an additional cost to cast Caller of the Hunt, choose a creature type.\nCaller of the Hunt's power and toughness are each equal to the number of creatures of the chosen type on the battlefield.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "caller of the hunt",
+  "colorIdentity": [
+    "G"
+  ]
+}

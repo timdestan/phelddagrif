@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Tinder Farm",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Tinder Farm enters the battlefield tapped.\n{T}: Add {G} to your mana pool.\n{T}, Sacrifice Tinder Farm: Add {R}{W} to your mana pool.",
+  "imageName": "tinder farm",
+  "colorIdentity": [
+    "G",
+    "R",
+    "W"
+  ]
+}

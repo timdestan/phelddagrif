@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Cloud Elemental",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Flying\nCloud Elemental can block only creatures with flying.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "cloud elemental",
+  "colorIdentity": [
+    "U"
+  ]
+}

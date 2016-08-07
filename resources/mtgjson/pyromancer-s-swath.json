@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Pyromancer's Swath",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "If an instant or sorcery source you control would deal damage to a creature or player, it deals that much damage plus 2 to that creature or player instead.\nAt the beginning of each end step, discard your hand.",
+  "imageName": "pyromancer's swath",
+  "colorIdentity": [
+    "R"
+  ]
+}

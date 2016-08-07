@@ -1,0 +1,28 @@
+{
+  "layout": "double-faced",
+  "name": "Daring Sleuth",
+  "names": [
+    "Daring Sleuth",
+    "Bearer of Overwhelming Truths"
+  ],
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "When you sacrifice a Clue, transform Daring Sleuth.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "daring sleuth",
+  "colorIdentity": [
+    "U"
+  ]
+}

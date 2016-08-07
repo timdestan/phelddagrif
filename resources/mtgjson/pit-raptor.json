@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Pit Raptor",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Bird Mercenary",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird",
+    "Mercenary"
+  ],
+  "text": "Flying, first strike\nAt the beginning of your upkeep, sacrifice Pit Raptor unless you pay {2}{B}{B}.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "pit raptor",
+  "colorIdentity": [
+    "B"
+  ]
+}

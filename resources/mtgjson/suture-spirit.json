@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Suture Spirit",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying\n{W/B}{W/B}{W/B}: Regenerate target creature.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "suture spirit",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

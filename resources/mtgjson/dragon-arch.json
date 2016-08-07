@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Dragon Arch",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, {T}: You may put a multicolored creature card from your hand onto the battlefield.",
+  "imageName": "dragon arch"
+}

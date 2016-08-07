@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Lightning Strike",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Lightning Strike deals 3 damage to target creature or player.",
+  "imageName": "lightning strike",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Citanul Hierophants",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Druid"
+  ],
+  "text": "Creatures you control have \"{T}: Add {G} to your mana pool.\"",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "citanul hierophants",
+  "colorIdentity": [
+    "G"
+  ]
+}

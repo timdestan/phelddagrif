@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Wormfang Turtle",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Nightmare Turtle Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Nightmare",
+    "Turtle",
+    "Beast"
+  ],
+  "text": "When Wormfang Turtle enters the battlefield, exile a land you control.\nWhen Wormfang Turtle leaves the battlefield, return the exiled card to the battlefield under its owner's control.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "wormfang turtle",
+  "colorIdentity": [
+    "U"
+  ]
+}

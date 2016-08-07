@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Roaring Slagwurm",
+  "manaCost": "{5}{G}{G}",
+  "cmc": 7,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "text": "Whenever Roaring Slagwurm attacks, tap all artifacts.",
+  "power": "6",
+  "toughness": "4",
+  "imageName": "roaring slagwurm",
+  "colorIdentity": [
+    "G"
+  ]
+}

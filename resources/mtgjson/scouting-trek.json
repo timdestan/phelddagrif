@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Scouting Trek",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Search your library for any number of basic land cards. Reveal those cards, then shuffle your library and put them on top of it.",
+  "imageName": "scouting trek",
+  "colorIdentity": [
+    "G"
+  ]
+}

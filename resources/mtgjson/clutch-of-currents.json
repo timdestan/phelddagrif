@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Clutch of Currents",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Return target creature to its owner's hand.\nAwaken 3—{4}{U} (If you cast this spell for {4}{U}, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",
+  "imageName": "clutch of currents",
+  "colorIdentity": [
+    "U"
+  ]
+}

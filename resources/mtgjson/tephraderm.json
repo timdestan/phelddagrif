@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Tephraderm",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Whenever a creature deals damage to Tephraderm, Tephraderm deals that much damage to that creature.\nWhenever a spell deals damage to Tephraderm, Tephraderm deals that much damage to that spell's controller.",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "tephraderm",
+  "colorIdentity": [
+    "R"
+  ]
+}

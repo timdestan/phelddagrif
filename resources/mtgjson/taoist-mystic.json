@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Taoist Mystic",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Mystic",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Mystic"
+  ],
+  "text": "Taoist Mystic can't be blocked by creatures with horsemanship.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "taoist mystic",
+  "colorIdentity": [
+    "G"
+  ]
+}

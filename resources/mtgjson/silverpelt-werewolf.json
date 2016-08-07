@@ -1,0 +1,25 @@
+{
+  "layout": "double-faced",
+  "name": "Silverpelt Werewolf",
+  "names": [
+    "Lambholt Elder",
+    "Silverpelt Werewolf"
+  ],
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Werewolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Werewolf"
+  ],
+  "text": "Whenever Silverpelt Werewolf deals combat damage to a player, draw a card.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Silverpelt Werewolf.",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "silverpelt werewolf",
+  "colorIdentity": [
+    "G"
+  ]
+}

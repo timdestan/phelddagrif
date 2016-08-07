@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Order of the White Shield",
+  "manaCost": "{W}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "Protection from black\n{W}: Order of the White Shield gains first strike until end of turn.\n{W}{W}: Order of the White Shield gets +1/+0 until end of turn.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "order of the white shield",
+  "colorIdentity": [
+    "W"
+  ]
+}

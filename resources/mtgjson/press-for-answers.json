@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Press for Answers",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Tap target creature. It doesn't untap during its controller's next untap step.\nInvestigate. (Put a colorless Clue artifact token onto the battlefield with \"{2}, Sacrifice this artifact: Draw a card.\")",
+  "imageName": "press for answers",
+  "colorIdentity": [
+    "U"
+  ]
+}

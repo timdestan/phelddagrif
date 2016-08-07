@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Research the Deep",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Draw a card. Clash with an opponent. If you win, return Research the Deep to its owner's hand. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)",
+  "imageName": "research the deep",
+  "colorIdentity": [
+    "U"
+  ]
+}

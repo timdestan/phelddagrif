@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Mardu Ascendancy",
+  "manaCost": "{R}{W}{B}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Black",
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a nontoken creature you control attacks, put a 1/1 red Goblin creature token onto the battlefield tapped and attacking.\nSacrifice Mardu Ascendancy: Creatures you control get +0/+3 until end of turn.",
+  "imageName": "mardu ascendancy",
+  "colorIdentity": [
+    "W",
+    "B",
+    "R"
+  ]
+}

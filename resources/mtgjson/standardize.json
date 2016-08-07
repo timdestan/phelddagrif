@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Standardize",
+  "manaCost": "{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose a creature type other than Wall. Each creature becomes that type until end of turn.",
+  "imageName": "standardize",
+  "colorIdentity": [
+    "U"
+  ]
+}

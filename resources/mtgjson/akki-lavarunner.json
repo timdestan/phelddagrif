@@ -1,0 +1,28 @@
+{
+  "layout": "flip",
+  "name": "Akki Lavarunner",
+  "names": [
+    "Akki Lavarunner",
+    "Tok-Tok, Volcano Born"
+  ],
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Warrior"
+  ],
+  "text": "Haste\nWhenever Akki Lavarunner deals damage to an opponent, flip it.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "akki lavarunner",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Maw of Kozilek",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "type": "Creature — Eldrazi Drone",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Drone"
+  ],
+  "text": "Devoid (This card has no color.)\n{C}: Maw of Kozilek gets +2/-2 until end of turn. ({C} represents colorless mana.)",
+  "power": "2",
+  "toughness": "5",
+  "imageName": "maw of kozilek",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mind Swords",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "If you control a Swamp, you may sacrifice a creature rather than pay Mind Swords's mana cost.\nEach player exiles two cards from his or her hand.",
+  "imageName": "mind swords",
+  "colorIdentity": [
+    "B"
+  ]
+}

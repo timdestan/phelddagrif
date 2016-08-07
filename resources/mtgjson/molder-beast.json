@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Molder Beast",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Trample\nWhenever an artifact is put into a graveyard from the battlefield, Molder Beast gets +2/+0 until end of turn.",
+  "power": "5",
+  "toughness": "3",
+  "imageName": "molder beast",
+  "colorIdentity": [
+    "G"
+  ]
+}

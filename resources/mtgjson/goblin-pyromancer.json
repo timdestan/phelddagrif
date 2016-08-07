@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Goblin Pyromancer",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Wizard"
+  ],
+  "text": "When Goblin Pyromancer enters the battlefield, Goblin creatures get +3/+0 until end of turn.\nAt the beginning of the end step, destroy all Goblins.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "goblin pyromancer",
+  "colorIdentity": [
+    "R"
+  ]
+}

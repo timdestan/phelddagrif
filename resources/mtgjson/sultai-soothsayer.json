@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Sultai Soothsayer",
+  "manaCost": "{2}{B}{G}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue",
+    "Black",
+    "Green"
+  ],
+  "type": "Creature — Naga Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Naga",
+    "Shaman"
+  ],
+  "text": "When Sultai Soothsayer enters the battlefield, look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.",
+  "power": "2",
+  "toughness": "5",
+  "imageName": "sultai soothsayer",
+  "colorIdentity": [
+    "U",
+    "B",
+    "G"
+  ]
+}

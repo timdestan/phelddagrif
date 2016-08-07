@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Basalt Monolith",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Basalt Monolith doesn't untap during your untap step.\n{T}: Add {C}{C}{C} to your mana pool.\n{3}: Untap Basalt Monolith.",
+  "imageName": "basalt monolith"
+}

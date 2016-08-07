@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Vexing Scuttler",
+  "manaCost": "{8}",
+  "cmc": 8,
+  "type": "Creature — Eldrazi Crab",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Crab"
+  ],
+  "text": "Emerge {6}{U} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)\nWhen you cast Vexing Scuttler, you may return target instant or sorcery card from your graveyard to your hand.",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "vexing scuttler",
+  "colorIdentity": [
+    "U"
+  ]
+}

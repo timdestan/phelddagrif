@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Armored Ascension",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets +1/+1 for each Plains you control and has flying.",
+  "imageName": "armored ascension",
+  "colorIdentity": [
+    "W"
+  ]
+}

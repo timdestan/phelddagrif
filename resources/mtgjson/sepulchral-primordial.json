@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sepulchral Primordial",
+  "manaCost": "{5}{B}{B}",
+  "cmc": 7,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Avatar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Avatar"
+  ],
+  "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nWhen Sepulchral Primordial enters the battlefield, for each opponent, you may put up to one target creature card from that player's graveyard onto the battlefield under your control.",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "sepulchral primordial",
+  "colorIdentity": [
+    "B"
+  ]
+}

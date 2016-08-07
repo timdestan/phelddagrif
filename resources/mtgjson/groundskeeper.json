@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Groundskeeper",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Druid"
+  ],
+  "text": "{1}{G}: Return target basic land card from your graveyard to your hand.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "groundskeeper",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Bulwark",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, Bulwark deals X damage to target opponent, where X is the number of cards in your hand minus the number of cards in that player's hand.",
+  "imageName": "bulwark",
+  "colorIdentity": [
+    "R"
+  ]
+}

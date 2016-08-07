@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Stromkirk Patrol",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Soldier"
+  ],
+  "text": "Whenever Stromkirk Patrol deals combat damage to a player, put a +1/+1 counter on it.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "stromkirk patrol",
+  "colorIdentity": [
+    "B"
+  ]
+}

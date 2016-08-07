@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Hidden Path",
+  "manaCost": "{2}{G}{G}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Green creatures have forestwalk. (They can't be blocked as long as defending player controls a Forest.)",
+  "imageName": "hidden path",
+  "colorIdentity": [
+    "G"
+  ]
+}

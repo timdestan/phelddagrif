@@ -1,0 +1,26 @@
+{
+  "layout": "double-faced",
+  "name": "Krallenhorde Howler",
+  "names": [
+    "Duskwatch Recruiter",
+    "Krallenhorde Howler"
+  ],
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Werewolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Werewolf"
+  ],
+  "text": "Creature spells you cast cost {1} less to cast.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Krallenhorde Howler.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "krallenhorde howler",
+  "colorIdentity": [
+    "G"
+  ]
+}

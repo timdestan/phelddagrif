@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Feast of Dreams",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target enchanted creature or enchantment creature.",
+  "imageName": "feast of dreams",
+  "colorIdentity": [
+    "B"
+  ]
+}

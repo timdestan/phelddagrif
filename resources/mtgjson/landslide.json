@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Landslide",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Sacrifice any number of Mountains. Landslide deals that much damage to target player.",
+  "imageName": "landslide",
+  "colorIdentity": [
+    "R"
+  ]
+}

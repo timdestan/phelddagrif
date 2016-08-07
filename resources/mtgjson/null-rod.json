@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Null Rod",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Activated abilities of artifacts can't be activated.",
+  "imageName": "null rod"
+}

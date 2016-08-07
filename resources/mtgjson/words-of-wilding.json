@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Words of Wilding",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{1}: The next time you would draw a card this turn, put a 2/2 green Bear creature token onto the battlefield instead.",
+  "imageName": "words of wilding",
+  "colorIdentity": [
+    "G"
+  ]
+}

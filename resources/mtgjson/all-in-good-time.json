@@ -1,0 +1,10 @@
+{
+  "layout": "scheme",
+  "name": "All in Good Time",
+  "type": "Scheme",
+  "types": [
+    "Scheme"
+  ],
+  "text": "When you set this scheme in motion, take an extra turn after this one. Schemes can't be set in motion that turn.",
+  "imageName": "all in good time"
+}

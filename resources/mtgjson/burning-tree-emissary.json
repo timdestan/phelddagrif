@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Burning-Tree Emissary",
+  "manaCost": "{R/G}{R/G}",
+  "cmc": 2,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Human Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Shaman"
+  ],
+  "text": "When Burning-Tree Emissary enters the battlefield, add {R}{G} to your mana pool.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "burning-tree emissary",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

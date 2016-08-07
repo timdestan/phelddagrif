@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Burnt Offering",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "As an additional cost to cast Burnt Offering, sacrifice a creature.\nAdd X mana in any combination of {B} and/or {R} to your mana pool, where X is the sacrificed creature's converted mana cost.",
+  "imageName": "burnt offering",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

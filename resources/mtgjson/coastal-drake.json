@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Coastal Drake",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flying\n{1}{U}, {T}: Return target Kavu to its owner's hand.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "coastal drake",
+  "colorIdentity": [
+    "U"
+  ]
+}

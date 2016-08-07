@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Servant of Volrath",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Minion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Minion"
+  ],
+  "text": "When Servant of Volrath leaves the battlefield, sacrifice a creature.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "servant of volrath",
+  "colorIdentity": [
+    "B"
+  ]
+}

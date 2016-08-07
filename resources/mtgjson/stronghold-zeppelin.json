@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Stronghold Zeppelin",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human"
+  ],
+  "text": "Flying\nStronghold Zeppelin can block only creatures with flying.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "stronghold zeppelin",
+  "colorIdentity": [
+    "U"
+  ]
+}

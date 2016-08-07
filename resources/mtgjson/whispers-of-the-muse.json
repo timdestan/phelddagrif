@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Whispers of the Muse",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Buyback {5} (You may pay an additional {5} as you cast this spell. If you do, put this card into your hand as it resolves.)\nDraw a card.",
+  "imageName": "whispers of the muse",
+  "colorIdentity": [
+    "U"
+  ]
+}

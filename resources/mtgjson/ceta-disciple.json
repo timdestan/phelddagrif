@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Ceta Disciple",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Wizard"
+  ],
+  "text": "{R}, {T}: Target creature gets +2/+0 until end of turn.\n{G}, {T}: Add one mana of any color to your mana pool.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "ceta disciple",
+  "colorIdentity": [
+    "U",
+    "R",
+    "G"
+  ]
+}

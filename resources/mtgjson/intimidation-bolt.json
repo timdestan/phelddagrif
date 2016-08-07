@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Intimidation Bolt",
+  "manaCost": "{1}{R}{W}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Intimidation Bolt deals 3 damage to target creature. Other creatures can't attack this turn.",
+  "imageName": "intimidation bolt",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

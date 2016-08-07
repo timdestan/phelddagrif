@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Thrun, the Last Troll",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Legendary Creature — Troll Shaman",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Troll",
+    "Shaman"
+  ],
+  "text": "Thrun, the Last Troll can't be countered.\nHexproof (This creature can't be the target of spells or abilities your opponents control.)\n{1}{G}: Regenerate Thrun.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "thrun, the last troll",
+  "colorIdentity": [
+    "G"
+  ]
+}

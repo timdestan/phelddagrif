@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Breakthrough",
+  "manaCost": "{X}{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Draw four cards, then choose X cards in your hand and discard the rest.",
+  "imageName": "breakthrough",
+  "colorIdentity": [
+    "U"
+  ]
+}

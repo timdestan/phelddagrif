@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Meishin, the Mind Cage",
+  "manaCost": "{4}{U}{U}{U}",
+  "cmc": 7,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Legendary Enchantment",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Enchantment"
+  ],
+  "text": "All creatures get -X/-0, where X is the number of cards in your hand.",
+  "imageName": "meishin, the mind cage",
+  "colorIdentity": [
+    "U"
+  ]
+}

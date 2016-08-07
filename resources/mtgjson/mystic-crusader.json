@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Mystic Crusader",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Nomad Mystic",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Nomad",
+    "Mystic"
+  ],
+  "text": "Protection from black and from red\nThreshold — As long as seven or more cards are in your graveyard, Mystic Crusader gets +1/+1 and has flying.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "mystic crusader",
+  "colorIdentity": [
+    "W"
+  ]
+}

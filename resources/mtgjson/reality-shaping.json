@@ -1,0 +1,10 @@
+{
+  "layout": "phenomenon",
+  "name": "Reality Shaping",
+  "type": "Phenomenon",
+  "types": [
+    "Phenomenon"
+  ],
+  "text": "When you encounter Reality Shaping, starting with you, each player may put a permanent card from his or her hand onto the battlefield. (Then planeswalk away from this phenomenon.)",
+  "imageName": "reality shaping"
+}

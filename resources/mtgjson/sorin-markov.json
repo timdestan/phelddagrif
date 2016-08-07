@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Sorin Markov",
+  "manaCost": "{3}{B}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Planeswalker — Sorin",
+  "types": [
+    "Planeswalker"
+  ],
+  "subtypes": [
+    "Sorin"
+  ],
+  "text": "+2: Sorin Markov deals 2 damage to target creature or player and you gain 2 life.\n−3: Target opponent's life total becomes 10.\n−7: You control target player during that player's next turn.",
+  "loyalty": 4,
+  "imageName": "sorin markov",
+  "colorIdentity": [
+    "B"
+  ]
+}

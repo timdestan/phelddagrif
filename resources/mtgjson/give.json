@@ -1,0 +1,23 @@
+{
+  "layout": "split",
+  "name": "Give",
+  "names": [
+    "Give",
+    "Take"
+  ],
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put three +1/+1 counters on target creature.\nFuse (You may cast one or both halves of this card from your hand.)",
+  "imageName": "give",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Howlpack Wolf",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Wolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wolf"
+  ],
+  "text": "Howlpack Wolf can't block unless you control another Wolf or Werewolf.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "howlpack wolf",
+  "colorIdentity": [
+    "R"
+  ]
+}

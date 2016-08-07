@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Foster",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a creature you control dies, you may pay {1}. If you do, reveal cards from the top of your library until you reveal a creature card. Put that card into your hand and the rest into your graveyard.",
+  "imageName": "foster",
+  "colorIdentity": [
+    "G"
+  ]
+}

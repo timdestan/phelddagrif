@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Saproling Symbiosis",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "You may cast Saproling Symbiosis as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)\nPut a 1/1 green Saproling creature token onto the battlefield for each creature you control.",
+  "imageName": "saproling symbiosis",
+  "colorIdentity": [
+    "G"
+  ]
+}

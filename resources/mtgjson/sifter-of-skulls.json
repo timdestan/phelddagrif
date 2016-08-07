@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Sifter of Skulls",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "type": "Creature — Eldrazi",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi"
+  ],
+  "text": "Devoid (This card has no color.)\nWhenever another nontoken creature you control dies, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has \"Sacrifice this creature: Add {C} to your mana pool.\" ({C} represents colorless mana.)",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "sifter of skulls",
+  "colorIdentity": [
+    "B"
+  ]
+}

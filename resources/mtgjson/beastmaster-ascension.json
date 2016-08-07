@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Beastmaster Ascension",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a creature you control attacks, you may put a quest counter on Beastmaster Ascension.\nAs long as Beastmaster Ascension has seven or more quest counters on it, creatures you control get +5/+5.",
+  "imageName": "beastmaster ascension",
+  "colorIdentity": [
+    "G"
+  ]
+}

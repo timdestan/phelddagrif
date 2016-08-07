@@ -1,0 +1,28 @@
+{
+  "layout": "flip",
+  "name": "Budoka Gardener",
+  "names": [
+    "Budoka Gardener",
+    "Dokai, Weaver of Life"
+  ],
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Monk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Monk"
+  ],
+  "text": "{T}: You may put a land card from your hand onto the battlefield. If you control ten or more lands, flip Budoka Gardener.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "budoka gardener",
+  "colorIdentity": [
+    "G"
+  ]
+}

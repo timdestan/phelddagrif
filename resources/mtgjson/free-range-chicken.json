@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Free-Range Chicken",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Summon — Chicken",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Chicken"
+  ],
+  "text": "{1}{G}: Roll two six-sided dice. If both die rolls are the same, Free-Range Chicken gets +X/+X until end of turn, where X is the number rolled on each die. Otherwise, if the total rolled is equal to any other total you have rolled this turn for Free-Range Chicken, sacrifice it. (For example, if you roll two 3s, Free-Range Chicken gets +3/+3. If you roll a total of 6 for Free-Range Chicken later in that turn, sacrifice it.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "free-range chicken",
+  "colorIdentity": [
+    "G"
+  ]
+}

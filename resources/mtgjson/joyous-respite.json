@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Joyous Respite",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery — Arcane",
+  "types": [
+    "Sorcery"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "You gain 1 life for each land you control.",
+  "imageName": "joyous respite",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Zombie Musher",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Snow Creature — Zombie",
+  "supertypes": [
+    "Snow"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Snow landwalk (This creature can't be blocked as long as defending player controls a snow land.)\n{S}: Regenerate Zombie Musher. ({S} can be paid with one mana from a snow permanent.)",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "zombie musher",
+  "colorIdentity": [
+    "B"
+  ]
+}

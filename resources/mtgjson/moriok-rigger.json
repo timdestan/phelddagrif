@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Moriok Rigger",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Rogue Rigger",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue",
+    "Rigger"
+  ],
+  "text": "Whenever an artifact is put into a graveyard from the battlefield, you may put a +1/+1 counter on Moriok Rigger.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "moriok rigger",
+  "colorIdentity": [
+    "B"
+  ]
+}

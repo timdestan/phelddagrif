@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Jungle Troll",
+  "manaCost": "{1}{R}{G}",
+  "cmc": 3,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Troll",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Troll"
+  ],
+  "text": "{R}: Regenerate Jungle Troll.\n{G}: Regenerate Jungle Troll.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "jungle troll",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Thoughtrender Lamia",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment Creature — Lamia",
+  "types": [
+    "Enchantment",
+    "Creature"
+  ],
+  "subtypes": [
+    "Lamia"
+  ],
+  "text": "Constellation — Whenever Thoughtrender Lamia or another enchantment enters the battlefield under your control, each opponent discards a card.",
+  "power": "5",
+  "toughness": "3",
+  "imageName": "thoughtrender lamia",
+  "colorIdentity": [
+    "B"
+  ]
+}

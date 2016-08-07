@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Disciple of Kangee",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{U}, {T}: Target creature gains flying and becomes blue until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "disciple of kangee",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

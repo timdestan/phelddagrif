@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Dread Slaver",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Horror"
+  ],
+  "text": "Whenever a creature dealt damage by Dread Slaver this turn dies, return it to the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.",
+  "power": "3",
+  "toughness": "5",
+  "imageName": "dread slaver",
+  "colorIdentity": [
+    "B"
+  ]
+}

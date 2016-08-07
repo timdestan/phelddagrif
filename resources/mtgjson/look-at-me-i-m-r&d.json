@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Look at Me, I'm R&D",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "As Look at Me, I'm R&D comes into play, choose a number and a second number one higher or one lower than that number.\nAll instances of the first chosen number on permanents, spells, and cards in any zone are the second chosen number.",
+  "imageName": "look at me, i'm r&d",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Sage's Dousing",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Tribal Instant — Wizard",
+  "types": [
+    "Tribal",
+    "Instant"
+  ],
+  "subtypes": [
+    "Wizard"
+  ],
+  "text": "Counter target spell unless its controller pays {3}. If you control a Wizard, draw a card.",
+  "imageName": "sage's dousing",
+  "colorIdentity": [
+    "U"
+  ]
+}

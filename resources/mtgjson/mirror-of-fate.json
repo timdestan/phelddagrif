@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Mirror of Fate",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}, Sacrifice Mirror of Fate: Choose up to seven face-up exiled cards you own. Exile all the cards from your library, then put the chosen cards on top of your library.",
+  "imageName": "mirror of fate"
+}

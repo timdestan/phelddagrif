@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Grimoire Thief",
+  "manaCost": "{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Rogue"
+  ],
+  "text": "Whenever Grimoire Thief becomes tapped, exile the top three cards of target opponent's library face down.\nYou may look at cards exiled with Grimoire Thief.\n{U}, Sacrifice Grimoire Thief: Turn all cards exiled with Grimoire Thief face up. Counter all spells with those names.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "grimoire thief",
+  "colorIdentity": [
+    "U"
+  ]
+}

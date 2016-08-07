@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Lagac Lizard",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Lizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Lizard"
+  ],
+  "power": "3",
+  "toughness": "3",
+  "imageName": "lagac lizard",
+  "colorIdentity": [
+    "R"
+  ]
+}

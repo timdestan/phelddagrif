@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Surprise Deployment",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Cast Surprise Deployment only during combat.\nYou may put a nonwhite creature card from your hand onto the battlefield. At the beginning of the next end step, return that creature to your hand. (Return it only if it's on the battlefield.)",
+  "imageName": "surprise deployment",
+  "colorIdentity": [
+    "W"
+  ]
+}

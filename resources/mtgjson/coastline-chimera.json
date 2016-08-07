@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Coastline Chimera",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Chimera",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Chimera"
+  ],
+  "text": "Flying\n{1}{W}: Coastline Chimera can block an additional creature this turn.",
+  "power": "1",
+  "toughness": "5",
+  "imageName": "coastline chimera",
+  "colorIdentity": [
+    "U",
+    "W"
+  ]
+}

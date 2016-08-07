@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Demolish",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target artifact or land.",
+  "imageName": "demolish",
+  "colorIdentity": [
+    "R"
+  ]
+}

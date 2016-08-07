@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ember Hauler",
+  "manaCost": "{R}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "{1}, Sacrifice Ember Hauler: Ember Hauler deals 2 damage to target creature or player.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "ember hauler",
+  "colorIdentity": [
+    "R"
+  ]
+}

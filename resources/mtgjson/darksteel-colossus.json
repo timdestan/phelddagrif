@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Darksteel Colossus",
+  "manaCost": "{11}",
+  "cmc": 11,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "Trample, indestructible\nIf Darksteel Colossus would be put into a graveyard from anywhere, reveal Darksteel Colossus and shuffle it into its owner's library instead.",
+  "power": "11",
+  "toughness": "11",
+  "imageName": "darksteel colossus"
+}

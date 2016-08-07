@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Sink into Takenuma",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery — Arcane",
+  "types": [
+    "Sorcery"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "Sweep — Return any number of Swamps you control to their owner's hand. Target player discards a card for each Swamp returned this way.",
+  "imageName": "sink into takenuma",
+  "colorIdentity": [
+    "B"
+  ]
+}

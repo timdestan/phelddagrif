@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Cerebral Vortex",
+  "manaCost": "{1}{U}{R}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target player draws two cards, then Cerebral Vortex deals damage to that player equal to the number of cards he or she has drawn this turn.",
+  "imageName": "cerebral vortex",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

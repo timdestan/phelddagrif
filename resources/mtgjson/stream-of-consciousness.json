@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Stream of Consciousness",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant — Arcane",
+  "types": [
+    "Instant"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "Target player shuffles up to four target cards from his or her graveyard into his or her library.",
+  "imageName": "stream of consciousness",
+  "colorIdentity": [
+    "U"
+  ]
+}

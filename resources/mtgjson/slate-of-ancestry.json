@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Slate of Ancestry",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{4}, {T}, Discard your hand: Draw a card for each creature you control.",
+  "imageName": "slate of ancestry"
+}

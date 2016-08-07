@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Mist Raven",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\nWhen Mist Raven enters the battlefield, return target creature to its owner's hand.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "mist raven",
+  "colorIdentity": [
+    "U"
+  ]
+}

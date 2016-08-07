@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Severed Legion",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "severed legion",
+  "colorIdentity": [
+    "B"
+  ]
+}

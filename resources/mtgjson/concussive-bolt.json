@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Concussive Bolt",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Concussive Bolt deals 4 damage to target player.\nMetalcraft — If you control three or more artifacts, creatures that player controls can't block this turn.",
+  "imageName": "concussive bolt",
+  "colorIdentity": [
+    "R"
+  ]
+}

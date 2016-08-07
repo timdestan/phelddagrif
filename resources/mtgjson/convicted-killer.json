@@ -1,0 +1,28 @@
+{
+  "layout": "double-faced",
+  "name": "Convicted Killer",
+  "names": [
+    "Convicted Killer",
+    "Branded Howler"
+  ],
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Werewolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Werewolf"
+  ],
+  "text": "At the beginning of each upkeep, if no spells were cast last turn, transform Convicted Killer.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "convicted killer",
+  "colorIdentity": [
+    "R"
+  ]
+}

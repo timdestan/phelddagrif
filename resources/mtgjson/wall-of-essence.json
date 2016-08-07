@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wall of Essence",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender (This creature can't attack.)\nWhenever Wall of Essence is dealt combat damage, you gain that much life.",
+  "power": "0",
+  "toughness": "4",
+  "imageName": "wall of essence",
+  "colorIdentity": [
+    "W"
+  ]
+}

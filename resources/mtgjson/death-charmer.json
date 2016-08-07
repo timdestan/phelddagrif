@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Death Charmer",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Worm Mercenary",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Worm",
+    "Mercenary"
+  ],
+  "text": "Whenever Death Charmer deals combat damage to a creature, that creature's controller loses 2 life unless he or she pays {2}.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "death charmer",
+  "colorIdentity": [
+    "B"
+  ]
+}

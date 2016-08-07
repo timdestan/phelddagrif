@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Elderwood Scion",
+  "manaCost": "{3}{G}{W}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Trample, lifelink\nSpells you cast that target Elderwood Scion cost {2} less to cast.\nSpells your opponents cast that target Elderwood Scion cost {2} more to cast.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "elderwood scion",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

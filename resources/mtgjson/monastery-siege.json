@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Monastery Siege",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "As Monastery Siege enters the battlefield, choose Khans or Dragons.\n• Khans — At the beginning of your draw step, draw an additional card, then discard a card.\n• Dragons — Spells your opponents cast that target you or a permanent you control cost {2} more to cast.",
+  "imageName": "monastery siege",
+  "colorIdentity": [
+    "U"
+  ]
+}

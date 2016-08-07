@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Protean Hulk",
+  "manaCost": "{5}{G}{G}",
+  "cmc": 7,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "When Protean Hulk dies, search your library for any number of creature cards with total converted mana cost 6 or less and put them onto the battlefield. Then shuffle your library.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "protean hulk",
+  "colorIdentity": [
+    "G"
+  ]
+}

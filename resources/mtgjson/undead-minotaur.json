@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Undead Minotaur",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Minotaur",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Minotaur"
+  ],
+  "power": "2",
+  "toughness": "3",
+  "imageName": "undead minotaur",
+  "colorIdentity": [
+    "B"
+  ]
+}

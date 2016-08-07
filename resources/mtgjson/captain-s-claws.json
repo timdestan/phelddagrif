@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Captain's Claws",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature gets +1/+0.\nWhenever equipped creature attacks, put a 1/1 white Kor Ally creature token onto the battlefield tapped and attacking.\nEquip {1}",
+  "imageName": "captain's claws"
+}

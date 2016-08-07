@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Savannah",
+  "type": "Land — Forest Plains",
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Forest",
+    "Plains"
+  ],
+  "text": "({T}: Add {G} or {W} to your mana pool.)",
+  "imageName": "savannah",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

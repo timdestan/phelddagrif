@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Phylactery Lich",
+  "manaCost": "{B}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Indestructible\nAs Phylactery Lich enters the battlefield, put a phylactery counter on an artifact you control.\nWhen you control no permanents with phylactery counters on them, sacrifice Phylactery Lich.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "phylactery lich",
+  "colorIdentity": [
+    "B"
+  ]
+}

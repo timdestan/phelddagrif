@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Flooded Shoreline",
+  "manaCost": "{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{U}{U}, Return two Islands you control to their owner's hand: Return target creature to its owner's hand.",
+  "imageName": "flooded shoreline",
+  "colorIdentity": [
+    "U"
+  ]
+}

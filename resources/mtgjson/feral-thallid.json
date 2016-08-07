@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Feral Thallid",
+  "manaCost": "{3}{G}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Fungus",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Fungus"
+  ],
+  "text": "At the beginning of your upkeep, put a spore counter on Feral Thallid.\nRemove three spore counters from Feral Thallid: Regenerate Feral Thallid.",
+  "power": "6",
+  "toughness": "3",
+  "imageName": "feral thallid",
+  "colorIdentity": [
+    "G"
+  ]
+}

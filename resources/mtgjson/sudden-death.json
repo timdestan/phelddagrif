@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sudden Death",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)\nTarget creature gets -4/-4 until end of turn.",
+  "imageName": "sudden death",
+  "colorIdentity": [
+    "B"
+  ]
+}

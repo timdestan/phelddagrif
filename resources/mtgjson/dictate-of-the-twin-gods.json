@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dictate of the Twin Gods",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Flash\nIf a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.",
+  "imageName": "dictate of the twin gods",
+  "colorIdentity": [
+    "R"
+  ]
+}

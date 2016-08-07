@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Tower of Eons",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{8}, {T}: You gain 10 life.",
+  "imageName": "tower of eons"
+}

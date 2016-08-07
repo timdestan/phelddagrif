@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Spoils of the Vault",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Name a card. Reveal cards from the top of your library until you reveal the named card, then put that card into your hand. Exile all other cards revealed this way, and you lose 1 life for each of the exiled cards.",
+  "imageName": "spoils of the vault",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Zombie Trailblazer",
+  "manaCost": "{B}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Scout",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Scout"
+  ],
+  "text": "Tap an untapped Zombie you control: Target land becomes a Swamp until end of turn.\nTap an untapped Zombie you control: Target creature gains swampwalk until end of turn. (It can't be blocked as long as defending player controls a Swamp.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "zombie trailblazer",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Processor Assault",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Devoid (This card has no color.)\nAs an additional cost to cast Processor Assault, put a card an opponent owns from exile into that player's graveyard.\nProcessor Assault deals 5 damage to target creature.",
+  "imageName": "processor assault",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Scavenging Scarab",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "Scavenging Scarab can't block.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "scavenging scarab",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dwarven Driller",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dwarf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dwarf"
+  ],
+  "text": "{T}: Destroy target land unless its controller has Dwarven Driller deal 2 damage to him or her.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "dwarven driller",
+  "colorIdentity": [
+    "R"
+  ]
+}

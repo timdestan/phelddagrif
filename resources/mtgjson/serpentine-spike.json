@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Serpentine Spike",
+  "manaCost": "{5}{R}{R}",
+  "cmc": 7,
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Devoid (This card has no color.)\nSerpentine Spike deals 2 damage to target creature, 3 damage to another target creature, and 4 damage to a third target creature. If a creature dealt damage this way would die this turn, exile it instead.",
+  "imageName": "serpentine spike",
+  "colorIdentity": [
+    "R"
+  ]
+}

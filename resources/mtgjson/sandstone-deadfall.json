@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Sandstone Deadfall",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}, Sacrifice two lands and Sandstone Deadfall: Destroy target attacking creature.",
+  "imageName": "sandstone deadfall"
+}

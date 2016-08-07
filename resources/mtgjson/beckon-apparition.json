@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Beckon Apparition",
+  "manaCost": "{W/B}",
+  "cmc": 1,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Exile target card from a graveyard. Put a 1/1 white and black Spirit creature token with flying onto the battlefield.",
+  "imageName": "beckon apparition",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Sunken Field",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant land\nEnchanted land has \"{T}: Counter target spell unless its controller pays {1}.\"",
+  "imageName": "sunken field",
+  "colorIdentity": [
+    "U"
+  ]
+}

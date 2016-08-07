@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Elvish Lyrist",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf"
+  ],
+  "text": "{G}, {T}, Sacrifice Elvish Lyrist: Destroy target enchantment.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "elvish lyrist",
+  "colorIdentity": [
+    "G"
+  ]
+}

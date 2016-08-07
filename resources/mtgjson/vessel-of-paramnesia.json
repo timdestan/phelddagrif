@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Vessel of Paramnesia",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{U}, Sacrifice Vessel of Paramnesia: Target player puts the top three cards of his or her library into his or her graveyard. Draw a card.",
+  "imageName": "vessel of paramnesia",
+  "colorIdentity": [
+    "U"
+  ]
+}

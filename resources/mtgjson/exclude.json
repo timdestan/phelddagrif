@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Exclude",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target creature spell.\nDraw a card.",
+  "imageName": "exclude",
+  "colorIdentity": [
+    "U"
+  ]
+}

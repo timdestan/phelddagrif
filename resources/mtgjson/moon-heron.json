@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Moon Heron",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Spirit Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit",
+    "Bird"
+  ],
+  "text": "Flying",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "moon heron",
+  "colorIdentity": [
+    "U"
+  ]
+}

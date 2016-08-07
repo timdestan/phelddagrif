@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Emberwilde Caliph",
+  "manaCost": "{2}{U}{R}",
+  "cmc": 4,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Creature — Djinn",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Djinn"
+  ],
+  "text": "Flying, trample\nEmberwilde Caliph attacks each turn if able.\nWhenever Emberwilde Caliph deals damage, you lose that much life.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "emberwilde caliph",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

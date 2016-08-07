@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Defy Gravity",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gains flying until end of turn.\nFlashback {U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "defy gravity",
+  "colorIdentity": [
+    "U"
+  ]
+}

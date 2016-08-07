@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Ulamog's Reclaimer",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "type": "Creature — Eldrazi Processor",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Processor"
+  ],
+  "text": "Devoid (This card has no color.)\nWhen Ulamog's Reclaimer enters the battlefield, you may put a card an opponent owns from exile into that player's graveyard. If you do, return target instant or sorcery card from your graveyard to your hand.",
+  "power": "2",
+  "toughness": "5",
+  "imageName": "ulamog's reclaimer",
+  "colorIdentity": [
+    "U"
+  ]
+}

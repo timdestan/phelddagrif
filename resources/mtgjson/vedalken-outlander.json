@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Vedalken Outlander",
+  "manaCost": "{W}{U}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Artifact Creature — Vedalken Scout",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Vedalken",
+    "Scout"
+  ],
+  "text": "Protection from red",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "vedalken outlander",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

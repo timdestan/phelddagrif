@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Adarkar Sentinel",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact Creature — Soldier",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Soldier"
+  ],
+  "text": "{1}: Adarkar Sentinel gets +0/+1 until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "adarkar sentinel"
+}

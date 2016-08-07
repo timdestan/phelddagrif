@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Necromancer's Magemark",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nCreatures you control that are enchanted get +1/+1.\nIf a creature you control that's enchanted would die, return it to its owner's hand instead.",
+  "imageName": "necromancer's magemark",
+  "colorIdentity": [
+    "B"
+  ]
+}

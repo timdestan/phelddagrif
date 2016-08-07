@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Returned Centaur",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Centaur",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Centaur"
+  ],
+  "text": "When Returned Centaur enters the battlefield, target player puts the top four cards of his or her library into his or her graveyard.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "returned centaur",
+  "colorIdentity": [
+    "B"
+  ]
+}

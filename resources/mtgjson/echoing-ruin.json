@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Echoing Ruin",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target artifact and all other artifacts with the same name as that artifact.",
+  "imageName": "echoing ruin",
+  "colorIdentity": [
+    "R"
+  ]
+}

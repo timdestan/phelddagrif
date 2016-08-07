@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rusted Sentinel",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "Rusted Sentinel enters the battlefield tapped.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "rusted sentinel"
+}

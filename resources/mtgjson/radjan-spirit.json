@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Radjan Spirit",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "{T}: Target creature loses flying until end of turn.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "radjan spirit",
+  "colorIdentity": [
+    "G"
+  ]
+}

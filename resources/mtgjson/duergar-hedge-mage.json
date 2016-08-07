@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Duergar Hedge-Mage",
+  "manaCost": "{2}{R/W}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Creature — Dwarf Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dwarf",
+    "Shaman"
+  ],
+  "text": "When Duergar Hedge-Mage enters the battlefield, if you control two or more Mountains, you may destroy target artifact.\nWhen Duergar Hedge-Mage enters the battlefield, if you control two or more Plains, you may destroy target enchantment.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "duergar hedge-mage",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

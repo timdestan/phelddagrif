@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Tragic Slip",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gets -1/-1 until end of turn.\nMorbid — That creature gets -13/-13 until end of turn instead if a creature died this turn.",
+  "imageName": "tragic slip",
+  "colorIdentity": [
+    "B"
+  ]
+}

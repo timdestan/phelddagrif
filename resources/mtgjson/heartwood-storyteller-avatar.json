@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Heartwood Storyteller Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "The first creature spell you cast each turn costs {1} less to cast.\nThe first noncreature spell each opponent casts each turn costs {1} more to cast.",
+  "imageName": "heartwood storyteller avatar",
+  "hand": -1,
+  "life": 4
+}

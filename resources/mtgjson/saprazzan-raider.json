@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Saprazzan Raider",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk"
+  ],
+  "text": "When Saprazzan Raider becomes blocked, return it to its owner's hand.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "saprazzan raider",
+  "colorIdentity": [
+    "U"
+  ]
+}

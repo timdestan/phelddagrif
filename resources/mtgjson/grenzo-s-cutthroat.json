@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Grenzo's Cutthroat",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Rogue"
+  ],
+  "text": "First strike\nDethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "grenzo's cutthroat",
+  "colorIdentity": [
+    "R"
+  ]
+}

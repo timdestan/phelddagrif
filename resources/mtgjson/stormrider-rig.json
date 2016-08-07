@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Stormrider Rig",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature gets +1/+1.\nWhenever a creature enters the battlefield under your control, you may attach Stormrider Rig to it.\nEquip {2}",
+  "imageName": "stormrider rig"
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Leyline of Lightning",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "If Leyline of Lightning is in your opening hand, you may begin the game with it on the battlefield.\nWhenever you cast a spell, you may pay {1}. If you do, Leyline of Lightning deals 1 damage to target player.",
+  "imageName": "leyline of lightning",
+  "colorIdentity": [
+    "R"
+  ]
+}

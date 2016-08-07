@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Eye of Singularity",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "World Enchantment",
+  "supertypes": [
+    "World"
+  ],
+  "types": [
+    "Enchantment"
+  ],
+  "text": "When Eye of Singularity enters the battlefield, destroy each permanent with the same name as another permanent, except for basic lands. They can't be regenerated.\nWhenever a permanent other than a basic land enters the battlefield, destroy all other permanents with that name. They can't be regenerated.",
+  "imageName": "eye of singularity",
+  "colorIdentity": [
+    "W"
+  ]
+}

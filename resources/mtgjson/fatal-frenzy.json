@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Fatal Frenzy",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Until end of turn, target creature you control gains trample and gets +X/+0, where X is its power. Sacrifice it at the beginning of the next end step.",
+  "imageName": "fatal frenzy",
+  "colorIdentity": [
+    "R"
+  ]
+}

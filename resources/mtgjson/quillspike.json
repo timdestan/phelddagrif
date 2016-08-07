@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Quillspike",
+  "manaCost": "{2}{B/G}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "{B/G}, Remove a -1/-1 counter from a creature you control: Quillspike gets +3/+3 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "quillspike",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

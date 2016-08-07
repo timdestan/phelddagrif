@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Aegis of Honor",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{1}: The next time an instant or sorcery spell would deal damage to you this turn, that spell deals that damage to its controller instead.",
+  "imageName": "aegis of honor",
+  "colorIdentity": [
+    "W"
+  ]
+}

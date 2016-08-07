@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Typhoid Rats",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Rat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rat"
+  ],
+  "text": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "typhoid rats",
+  "colorIdentity": [
+    "B"
+  ]
+}

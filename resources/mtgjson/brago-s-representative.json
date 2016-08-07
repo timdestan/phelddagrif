@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Brago's Representative",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Advisor",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Advisor"
+  ],
+  "text": "While voting, you get an additional vote. (The votes can be for different choices or for the same choice.)",
+  "power": "1",
+  "toughness": "4",
+  "imageName": "brago's representative",
+  "colorIdentity": [
+    "W"
+  ]
+}

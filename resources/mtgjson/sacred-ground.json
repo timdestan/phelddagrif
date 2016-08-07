@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sacred Ground",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a spell or ability an opponent controls causes a land to be put into your graveyard from the battlefield, return that card to the battlefield.",
+  "imageName": "sacred ground",
+  "colorIdentity": [
+    "W"
+  ]
+}

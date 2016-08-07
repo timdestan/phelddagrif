@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Geist of the Archives",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Defender\nAt the beginning of your upkeep, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "power": "0",
+  "toughness": "4",
+  "imageName": "geist of the archives",
+  "colorIdentity": [
+    "U"
+  ]
+}

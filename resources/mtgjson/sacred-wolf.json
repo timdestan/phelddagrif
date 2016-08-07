@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sacred Wolf",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wolf"
+  ],
+  "text": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "sacred wolf",
+  "colorIdentity": [
+    "G"
+  ]
+}

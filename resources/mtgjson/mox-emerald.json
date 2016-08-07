@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Mox Emerald",
+  "manaCost": "{0}",
+  "cmc": 0,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}: Add {G} to your mana pool.",
+  "imageName": "mox emerald",
+  "colorIdentity": [
+    "G"
+  ]
+}

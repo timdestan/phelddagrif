@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Vapor Snare",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nYou control enchanted creature.\nAt the beginning of your upkeep, sacrifice Vapor Snare unless you return a land you control to its owner's hand.",
+  "imageName": "vapor snare",
+  "colorIdentity": [
+    "U"
+  ]
+}

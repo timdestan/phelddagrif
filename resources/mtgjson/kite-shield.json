@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Kite Shield",
+  "manaCost": "{0}",
+  "cmc": 0,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature gets +0/+3.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
+  "imageName": "kite shield"
+}

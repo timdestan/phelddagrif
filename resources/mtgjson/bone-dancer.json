@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Bone Dancer",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Whenever Bone Dancer attacks and isn't blocked, you may put the top creature card of defending player's graveyard onto the battlefield under your control. If you do, Bone Dancer assigns no combat damage this turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "bone dancer",
+  "colorIdentity": [
+    "B"
+  ]
+}

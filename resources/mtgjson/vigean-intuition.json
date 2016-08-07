@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Vigean Intuition",
+  "manaCost": "{3}{G}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose a card type, then reveal the top four cards of your library. Put all cards of the chosen type revealed this way into your hand and the rest into your graveyard. (Artifact, creature, enchantment, instant, land, planeswalker, sorcery, and tribal are card types.)",
+  "imageName": "vigean intuition",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

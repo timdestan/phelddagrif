@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Abzan Beastmaster",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Hound Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hound",
+    "Shaman"
+  ],
+  "text": "At the beginning of your upkeep, draw a card if you control the creature with the greatest toughness or tied for the greatest toughness.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "abzan beastmaster",
+  "colorIdentity": [
+    "G"
+  ]
+}

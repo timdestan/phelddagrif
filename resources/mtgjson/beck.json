@@ -1,0 +1,25 @@
+{
+  "layout": "split",
+  "name": "Beck",
+  "names": [
+    "Beck",
+    "Call"
+  ],
+  "manaCost": "{G}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Whenever a creature enters the battlefield this turn, you may draw a card.\nFuse (You may cast one or both halves of this card from your hand.)",
+  "imageName": "beck",
+  "colorIdentity": [
+    "W",
+    "U",
+    "G"
+  ]
+}

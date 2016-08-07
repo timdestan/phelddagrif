@@ -1,0 +1,16 @@
+{
+  "layout": "normal",
+  "name": "Sapseep Forest",
+  "type": "Land — Forest",
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Forest"
+  ],
+  "text": "({T}: Add {G} to your mana pool.)\nSapseep Forest enters the battlefield tapped.\n{G}, {T}: You gain 1 life. Activate this ability only if you control two or more green permanents.",
+  "imageName": "sapseep forest",
+  "colorIdentity": [
+    "G"
+  ]
+}

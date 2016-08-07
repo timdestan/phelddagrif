@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Viashivan Dragon",
+  "manaCost": "{2}{R}{R}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying\n{R}: Viashivan Dragon gets +1/+0 until end of turn.\n{G}: Viashivan Dragon gets +0/+1 until end of turn.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "viashivan dragon",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

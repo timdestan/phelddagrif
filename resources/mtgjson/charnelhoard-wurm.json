@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Charnelhoard Wurm",
+  "manaCost": "{4}{B}{R}{G}",
+  "cmc": 7,
+  "colors": [
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "text": "Trample\nWhenever Charnelhoard Wurm deals damage to an opponent, you may return target card from your graveyard to your hand.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "charnelhoard wurm",
+  "colorIdentity": [
+    "B",
+    "R",
+    "G"
+  ]
+}

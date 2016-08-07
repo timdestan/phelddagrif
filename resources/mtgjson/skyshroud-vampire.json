@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Skyshroud Vampire",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire"
+  ],
+  "text": "Flying\nDiscard a creature card: Skyshroud Vampire gets +2/+2 until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "skyshroud vampire",
+  "colorIdentity": [
+    "B"
+  ]
+}

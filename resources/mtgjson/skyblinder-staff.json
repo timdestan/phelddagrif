@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Skyblinder Staff",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature gets +1/+0 and can't be blocked by creatures with flying.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
+  "imageName": "skyblinder staff"
+}

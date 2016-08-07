@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Refresh",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Regenerate target creature.\nDraw a card.",
+  "imageName": "refresh",
+  "colorIdentity": [
+    "G"
+  ]
+}

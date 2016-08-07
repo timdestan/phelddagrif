@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Blackcleave Cliffs",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Blackcleave Cliffs enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {B} or {R} to your mana pool.",
+  "imageName": "blackcleave cliffs",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

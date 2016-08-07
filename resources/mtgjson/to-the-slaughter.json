@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "To the Slaughter",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target player sacrifices a creature or planeswalker.\nDelirium — If there are four or more card types among cards in your graveyard, instead that player sacrifices a creature and a planeswalker.",
+  "imageName": "to the slaughter",
+  "colorIdentity": [
+    "B"
+  ]
+}

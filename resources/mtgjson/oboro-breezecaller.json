@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Oboro Breezecaller",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Moonfolk Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Moonfolk",
+    "Wizard"
+  ],
+  "text": "Flying\n{2}, Return a land you control to its owner's hand: Untap target land.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "oboro breezecaller",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Rith's Attendant",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "{1}, Sacrifice Rith's Attendant: Add {R}{G}{W} to your mana pool.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "rith's attendant",
+  "colorIdentity": [
+    "R",
+    "G",
+    "W"
+  ]
+}

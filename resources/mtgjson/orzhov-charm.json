@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Orzhov Charm",
+  "manaCost": "{W}{B}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose one —\n• Return target creature you control and all Auras you control attached to it to their owner's hand.\n• Destroy target creature and you lose life equal to its toughness.\n• Return target creature card with converted mana cost 1 or less from your graveyard to the battlefield.",
+  "imageName": "orzhov charm",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

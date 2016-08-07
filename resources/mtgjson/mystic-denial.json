@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mystic Denial",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target creature or sorcery spell.",
+  "imageName": "mystic denial",
+  "colorIdentity": [
+    "U"
+  ]
+}

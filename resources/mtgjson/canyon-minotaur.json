@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Canyon Minotaur",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Minotaur Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Minotaur",
+    "Warrior"
+  ],
+  "power": "3",
+  "toughness": "3",
+  "imageName": "canyon minotaur",
+  "colorIdentity": [
+    "R"
+  ]
+}

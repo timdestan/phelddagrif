@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Phyrexian Crusader",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Knight"
+  ],
+  "text": "First strike, protection from red and from white\nInfect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "phyrexian crusader",
+  "colorIdentity": [
+    "B"
+  ]
+}

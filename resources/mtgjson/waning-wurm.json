@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Waning Wurm",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Wurm"
+  ],
+  "text": "Vanishing 2 (This creature enters the battlefield with two time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)",
+  "power": "7",
+  "toughness": "6",
+  "imageName": "waning wurm",
+  "colorIdentity": [
+    "B"
+  ]
+}

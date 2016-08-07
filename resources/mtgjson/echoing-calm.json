@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Echoing Calm",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target enchantment and all other enchantments with the same name as that enchantment.",
+  "imageName": "echoing calm",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Stone-Cold Basilisk",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Basilisk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Basilisk"
+  ],
+  "text": "Whenever Stone-Cold Basilisk blocks or becomes blocked by a creature with fewer letters in its name, destroy that creature at end of combat. (Punctuation and spaces aren't letters.)\nWhenever an opponent reads Stone-Cold Basilisk, that player is turned to stone until end of turn. Stoned players can't attack, block, or play spells or abilities.",
+  "power": "2.5",
+  "toughness": "5",
+  "imageName": "stone-cold basilisk",
+  "colorIdentity": [
+    "G"
+  ]
+}

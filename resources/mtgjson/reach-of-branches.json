@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Reach of Branches",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Tribal Instant — Treefolk",
+  "types": [
+    "Tribal",
+    "Instant"
+  ],
+  "subtypes": [
+    "Treefolk"
+  ],
+  "text": "Put a 2/5 green Treefolk Shaman creature token onto the battlefield.\nWhenever a Forest enters the battlefield under your control, you may return Reach of Branches from your graveyard to your hand.",
+  "imageName": "reach of branches",
+  "colorIdentity": [
+    "G"
+  ]
+}

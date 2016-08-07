@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Redirect",
+  "manaCost": "{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "You may choose new targets for target spell.",
+  "imageName": "redirect",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Sworn Defender",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "{1}: Sworn Defender's power becomes the toughness of target creature blocking or being blocked by Sworn Defender minus 1 until end of turn, and Sworn Defender's toughness becomes 1 plus the power of that creature until end of turn.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "sworn defender",
+  "colorIdentity": [
+    "W"
+  ]
+}

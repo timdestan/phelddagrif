@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Ana Disciple",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{U}, {T}: Target creature gains flying until end of turn.\n{B}, {T}: Target creature gets -2/-0 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "ana disciple",
+  "colorIdentity": [
+    "G",
+    "U",
+    "B"
+  ]
+}

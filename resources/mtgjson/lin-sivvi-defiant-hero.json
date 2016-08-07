@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Lin Sivvi, Defiant Hero",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Creature — Human Rebel",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rebel"
+  ],
+  "text": "{X}, {T}: Search your library for a Rebel permanent card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library.\n{3}: Put target Rebel card from your graveyard on the bottom of your library.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "lin sivvi, defiant hero",
+  "colorIdentity": [
+    "W"
+  ]
+}

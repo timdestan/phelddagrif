@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Summoner's Bane",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target creature spell. Put a 2/2 blue Illusion creature token onto the battlefield.",
+  "imageName": "summoner's bane",
+  "colorIdentity": [
+    "U"
+  ]
+}

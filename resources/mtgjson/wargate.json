@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Wargate",
+  "manaCost": "{X}{G}{W}{U}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Blue",
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Search your library for a permanent card with converted mana cost X or less, put it onto the battlefield, then shuffle your library.",
+  "imageName": "wargate",
+  "colorIdentity": [
+    "W",
+    "U",
+    "G"
+  ]
+}

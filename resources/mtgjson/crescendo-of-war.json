@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Crescendo of War",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of each upkeep, put a strife counter on Crescendo of War.\nAttacking creatures get +1/+0 for each strife counter on Crescendo of War.\nBlocking creatures you control get +1/+0 for each strife counter on Crescendo of War.",
+  "imageName": "crescendo of war",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Noble Hierarch",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Druid"
+  ],
+  "text": "Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\n{T}: Add {G}, {W}, or {U} to your mana pool.",
+  "power": "0",
+  "toughness": "1",
+  "imageName": "noble hierarch",
+  "colorIdentity": [
+    "G",
+    "W",
+    "U"
+  ]
+}

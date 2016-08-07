@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Desecrator Hag",
+  "manaCost": "{2}{B/G}{B/G}",
+  "cmc": 4,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Creature — Hag",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hag"
+  ],
+  "text": "When Desecrator Hag enters the battlefield, return to your hand the creature card in your graveyard with the greatest power. If two or more cards are tied for greatest power, you choose one of them.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "desecrator hag",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

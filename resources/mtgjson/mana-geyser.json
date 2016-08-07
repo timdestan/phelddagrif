@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mana Geyser",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Add {R} to your mana pool for each tapped land your opponents control.",
+  "imageName": "mana geyser",
+  "colorIdentity": [
+    "R"
+  ]
+}

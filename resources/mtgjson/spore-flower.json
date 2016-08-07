@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Spore Flower",
+  "manaCost": "{G}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Fungus",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Fungus"
+  ],
+  "text": "At the beginning of your upkeep, put a spore counter on Spore Flower.\nRemove three spore counters from Spore Flower: Prevent all combat damage that would be dealt this turn.",
+  "power": "0",
+  "toughness": "1",
+  "imageName": "spore flower",
+  "colorIdentity": [
+    "G"
+  ]
+}

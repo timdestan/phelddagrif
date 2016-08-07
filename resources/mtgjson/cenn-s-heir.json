@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Cenn's Heir",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kithkin Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kithkin",
+    "Soldier"
+  ],
+  "text": "Whenever Cenn's Heir attacks, it gets +1/+1 until end of turn for each other attacking Kithkin.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "cenn's heir",
+  "colorIdentity": [
+    "W"
+  ]
+}

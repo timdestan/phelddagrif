@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Moonsilver Spear",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature has first strike.\nWhenever equipped creature attacks, put a 4/4 white Angel creature token with flying onto the battlefield.\nEquip {4}",
+  "imageName": "moonsilver spear"
+}

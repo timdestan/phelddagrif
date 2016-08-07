@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mark of Asylum",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Prevent all noncombat damage that would be dealt to creatures you control.",
+  "imageName": "mark of asylum",
+  "colorIdentity": [
+    "W"
+  ]
+}

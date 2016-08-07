@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Goblin Gardener",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "When Goblin Gardener dies, destroy target land.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "goblin gardener",
+  "colorIdentity": [
+    "R"
+  ]
+}

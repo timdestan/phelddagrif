@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Spectral Guardian",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "As long as Spectral Guardian is untapped, noncreature artifacts have shroud. (They can't be the targets of spells or abilities.)",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "spectral guardian",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Soulscour",
+  "manaCost": "{7}{W}{W}{W}",
+  "cmc": 10,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy all nonartifact permanents.",
+  "imageName": "soulscour",
+  "colorIdentity": [
+    "W"
+  ]
+}

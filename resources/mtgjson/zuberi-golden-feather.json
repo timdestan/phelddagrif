@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Zuberi, Golden Feather",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Creature — Griffin",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Griffin"
+  ],
+  "text": "Flying\nOther Griffin creatures get +1/+1.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "zuberi, golden feather",
+  "colorIdentity": [
+    "W"
+  ]
+}

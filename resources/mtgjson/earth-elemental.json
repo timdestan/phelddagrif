@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Earth Elemental",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "power": "4",
+  "toughness": "5",
+  "imageName": "earth elemental",
+  "colorIdentity": [
+    "R"
+  ]
+}

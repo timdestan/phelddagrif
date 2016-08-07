@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Command Beacon",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{T}, Sacrifice Command Beacon: Put your commander into your hand from the command zone.",
+  "imageName": "command beacon"
+}

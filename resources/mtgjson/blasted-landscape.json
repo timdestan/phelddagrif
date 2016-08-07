@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Blasted Landscape",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+  "imageName": "blasted landscape"
+}

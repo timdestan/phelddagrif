@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rousing of Souls",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Parley — Each player reveals the top card of his or her library. For each nonland card revealed this way, you put a 1/1 white Spirit creature token with flying onto the battlefield. Then each player draws a card.",
+  "imageName": "rousing of souls",
+  "colorIdentity": [
+    "W"
+  ]
+}

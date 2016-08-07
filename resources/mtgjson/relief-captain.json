@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Relief Captain",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kor Knight Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kor",
+    "Knight",
+    "Ally"
+  ],
+  "text": "When Relief Captain enters the battlefield, support 3. (Put a +1/+1 counter on each of up to three other target creatures.)",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "relief captain",
+  "colorIdentity": [
+    "W"
+  ]
+}

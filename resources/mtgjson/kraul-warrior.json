@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kraul Warrior",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Insect Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect",
+    "Warrior"
+  ],
+  "text": "{5}{G}: Kraul Warrior gets +3/+3 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "kraul warrior",
+  "colorIdentity": [
+    "G"
+  ]
+}

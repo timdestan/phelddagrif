@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Ethercaste Knight",
+  "manaCost": "{W}{U}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Artifact Creature — Human Knight",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "ethercaste knight",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

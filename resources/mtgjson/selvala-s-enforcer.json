@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Selvala's Enforcer",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Warrior"
+  ],
+  "text": "Parley — When Selvala's Enforcer enters the battlefield, each player reveals the top card of his or her library. For each nonland card revealed this way, put a +1/+1 counter on Selvala's Enforcer. Then each player draws a card.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "selvala's enforcer",
+  "colorIdentity": [
+    "G"
+  ]
+}

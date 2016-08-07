@@ -1,0 +1,27 @@
+{
+  "layout": "double-faced",
+  "name": "Unhallowed Cathar",
+  "names": [
+    "Loyal Cathar",
+    "Unhallowed Cathar"
+  ],
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Soldier"
+  ],
+  "text": "Unhallowed Cathar can't block.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "unhallowed cathar",
+  "colorIdentity": [
+    "B",
+    "W"
+  ]
+}

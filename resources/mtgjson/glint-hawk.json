@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Glint Hawk",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\nWhen Glint Hawk enters the battlefield, sacrifice it unless you return an artifact you control to its owner's hand.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "glint hawk",
+  "colorIdentity": [
+    "W"
+  ]
+}

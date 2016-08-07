@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Time of Heroes",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Each creature you control with a level counter on it gets +2/+2.",
+  "imageName": "time of heroes",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Reforge the Soul",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Each player discards his or her hand, then draws seven cards.\nMiracle {1}{R} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+  "imageName": "reforge the soul",
+  "colorIdentity": [
+    "R"
+  ]
+}

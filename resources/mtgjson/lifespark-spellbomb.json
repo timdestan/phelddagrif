@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Lifespark Spellbomb",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{G}, Sacrifice Lifespark Spellbomb: Until end of turn, target land becomes a 3/3 creature that's still a land.\n{1}, Sacrifice Lifespark Spellbomb: Draw a card.",
+  "imageName": "lifespark spellbomb",
+  "colorIdentity": [
+    "G"
+  ]
+}

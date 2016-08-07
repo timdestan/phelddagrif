@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Fastbond",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "You may play any number of lands on each of your turns.\nWhenever you play a land, if it wasn't the first land you played this turn, Fastbond deals 1 damage to you.",
+  "imageName": "fastbond",
+  "colorIdentity": [
+    "G"
+  ]
+}

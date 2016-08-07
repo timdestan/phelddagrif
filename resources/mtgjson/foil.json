@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Foil",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "You may discard an Island card and another card rather than pay Foil's mana cost.\nCounter target spell.",
+  "imageName": "foil",
+  "colorIdentity": [
+    "U"
+  ]
+}

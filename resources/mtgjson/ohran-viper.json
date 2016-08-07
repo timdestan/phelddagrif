@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Ohran Viper",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Snow Creature — Snake",
+  "supertypes": [
+    "Snow"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Snake"
+  ],
+  "text": "Whenever Ohran Viper deals combat damage to a creature, destroy that creature at end of combat.\nWhenever Ohran Viper deals combat damage to a player, you may draw a card.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "ohran viper",
+  "colorIdentity": [
+    "G"
+  ]
+}

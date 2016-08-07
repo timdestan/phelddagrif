@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Jace's Phantasm",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Illusion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Illusion"
+  ],
+  "text": "Flying\nJace's Phantasm gets +4/+4 as long as an opponent has ten or more cards in his or her graveyard.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "jace's phantasm",
+  "colorIdentity": [
+    "U"
+  ]
+}

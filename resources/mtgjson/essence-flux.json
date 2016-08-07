@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Essence Flux",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Exile target creature you control, then return that card to the battlefield under its owner's control. If it's a Spirit, put a +1/+1 counter on it.",
+  "imageName": "essence flux",
+  "colorIdentity": [
+    "U"
+  ]
+}

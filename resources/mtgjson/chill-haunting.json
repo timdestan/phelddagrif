@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Chill Haunting",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "As an additional cost to cast Chill Haunting, exile X creature cards from your graveyard.\nTarget creature gets -X/-X until end of turn.",
+  "imageName": "chill haunting",
+  "colorIdentity": [
+    "B"
+  ]
+}

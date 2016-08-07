@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Hurricane",
+  "manaCost": "{X}{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Hurricane deals X damage to each creature with flying and each player.",
+  "imageName": "hurricane",
+  "colorIdentity": [
+    "G"
+  ]
+}

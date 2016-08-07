@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Fathom Feeder",
+  "manaCost": "{U}{B}",
+  "cmc": 2,
+  "type": "Creature — Eldrazi Drone",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Drone"
+  ],
+  "text": "Devoid (This card has no color.)\nDeathtouch\nIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)\n{3}{U}{B}: Draw a card. Each opponent exiles the top card of his or her library.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "fathom feeder",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

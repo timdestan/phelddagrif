@@ -1,0 +1,26 @@
+{
+  "layout": "double-faced",
+  "name": "Flameheart Werewolf",
+  "names": [
+    "Kessig Forgemaster",
+    "Flameheart Werewolf"
+  ],
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Werewolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Werewolf"
+  ],
+  "text": "Whenever Flameheart Werewolf blocks or becomes blocked by a creature, Flameheart Werewolf deals 2 damage to that creature.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Flameheart Werewolf.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "flameheart werewolf",
+  "colorIdentity": [
+    "R"
+  ]
+}

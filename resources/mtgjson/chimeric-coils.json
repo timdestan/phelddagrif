@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Chimeric Coils",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{X}{1}: Chimeric Coils becomes an X/X Construct artifact creature. Sacrifice it at the beginning of the next end step.",
+  "imageName": "chimeric coils"
+}

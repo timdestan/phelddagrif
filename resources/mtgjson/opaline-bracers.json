@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Opaline Bracers",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)\nEquipped creature gets +X/+X, where X is the number of charge counters on Opaline Bracers.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+  "imageName": "opaline bracers"
+}

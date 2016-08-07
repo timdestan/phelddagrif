@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Topple",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Exile target creature with the greatest power among creatures on the battlefield. (If two or more creatures are tied for greatest power, target any one of them.)",
+  "imageName": "topple",
+  "colorIdentity": [
+    "W"
+  ]
+}

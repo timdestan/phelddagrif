@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Somnomancer",
+  "manaCost": "{1}{W/U}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Creature — Kithkin Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kithkin",
+    "Wizard"
+  ],
+  "text": "When Somnomancer enters the battlefield, you may tap target creature.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "somnomancer",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

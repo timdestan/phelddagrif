@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Rockshard Elemental",
+  "manaCost": "{5}{R}{R}",
+  "cmc": 7,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Double strike (This creature deals both first-strike and regular combat damage.)\nMorph {4}{R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "rockshard elemental",
+  "colorIdentity": [
+    "R"
+  ]
+}

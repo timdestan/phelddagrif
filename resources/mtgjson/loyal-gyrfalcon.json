@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Loyal Gyrfalcon",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Defender, flying\nWhenever you cast a white spell, Loyal Gyrfalcon loses defender until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "loyal gyrfalcon",
+  "colorIdentity": [
+    "W"
+  ]
+}

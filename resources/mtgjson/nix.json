@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Nix",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell if no mana was spent to cast it.",
+  "imageName": "nix",
+  "colorIdentity": [
+    "U"
+  ]
+}

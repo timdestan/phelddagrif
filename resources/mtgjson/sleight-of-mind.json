@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sleight of Mind",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Change the text of target spell or permanent by replacing all instances of one color word with another. (For example, you may change \"target black spell\" to \"target blue spell.\" This effect lasts indefinitely.)",
+  "imageName": "sleight of mind",
+  "colorIdentity": [
+    "U"
+  ]
+}

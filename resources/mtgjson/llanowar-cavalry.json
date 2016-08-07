@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Llanowar Cavalry",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "{W}: Llanowar Cavalry gains vigilance until end of turn.",
+  "power": "1",
+  "toughness": "4",
+  "imageName": "llanowar cavalry",
+  "colorIdentity": [
+    "G",
+    "W"
+  ]
+}

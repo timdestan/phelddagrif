@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Warrior's Charge",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Creatures you control get +1/+1 until end of turn.",
+  "imageName": "warrior's charge",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dross Harvester",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "Protection from white\nAt the beginning of your end step, you lose 4 life.\nWhenever a creature dies, you gain 2 life.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "dross harvester",
+  "colorIdentity": [
+    "B"
+  ]
+}

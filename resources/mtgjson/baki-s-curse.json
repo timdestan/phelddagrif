@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Baki's Curse",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Baki's Curse deals 2 damage to each creature for each Aura attached to that creature.",
+  "imageName": "baki's curse",
+  "colorIdentity": [
+    "U"
+  ]
+}

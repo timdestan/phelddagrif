@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Unstoppable Ash",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Treefolk Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Treefolk",
+    "Warrior"
+  ],
+  "text": "Trample\nChampion a Treefolk or Warrior (When this enters the battlefield, sacrifice it unless you exile another Treefolk or Warrior you control. When this leaves the battlefield, that card returns to the battlefield.)\nWhenever a creature you control becomes blocked, it gets +0/+5 until end of turn.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "unstoppable ash",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Stone Catapult",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "{T}: Destroy target tapped nonblack creature. Activate this ability only during your turn, before attackers are declared.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "stone catapult",
+  "colorIdentity": [
+    "B"
+  ]
+}

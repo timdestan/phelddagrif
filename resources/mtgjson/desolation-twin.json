@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Desolation Twin",
+  "manaCost": "{10}",
+  "cmc": 10,
+  "type": "Creature — Eldrazi",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi"
+  ],
+  "text": "When you cast Desolation Twin, put a 10/10 colorless Eldrazi creature token onto the battlefield.",
+  "power": "10",
+  "toughness": "10",
+  "imageName": "desolation twin"
+}

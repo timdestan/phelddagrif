@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Esper Battlemage",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Artifact Creature — Human Wizard",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{W}, {T}: Prevent the next 2 damage that would be dealt to you this turn.\n{B}, {T}: Target creature gets -1/-1 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "esper battlemage",
+  "colorIdentity": [
+    "U",
+    "W",
+    "B"
+  ]
+}

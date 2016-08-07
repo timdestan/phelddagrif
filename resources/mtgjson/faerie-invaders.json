@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Faerie Invaders",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Faerie Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Faerie",
+    "Rogue"
+  ],
+  "text": "Flash (You may cast this spell any time you could cast an instant.)\nFlying",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "faerie invaders",
+  "colorIdentity": [
+    "U"
+  ]
+}

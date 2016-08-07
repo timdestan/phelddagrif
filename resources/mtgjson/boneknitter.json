@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Boneknitter",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Cleric"
+  ],
+  "text": "{1}{B}: Regenerate target Zombie.\nMorph {2}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "boneknitter",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Renegade Demon",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Demon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon"
+  ],
+  "power": "5",
+  "toughness": "3",
+  "imageName": "renegade demon",
+  "colorIdentity": [
+    "B"
+  ]
+}

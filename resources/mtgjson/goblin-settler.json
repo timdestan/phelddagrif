@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Goblin Settler",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "When Goblin Settler enters the battlefield, destroy target land.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "goblin settler",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Feral Krushok",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "power": "5",
+  "toughness": "4",
+  "imageName": "feral krushok",
+  "colorIdentity": [
+    "G"
+  ]
+}

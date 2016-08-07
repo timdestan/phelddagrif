@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Spawnbinder Mage",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Wizard Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard",
+    "Ally"
+  ],
+  "text": "Cohort — {T}, Tap an untapped Ally you control: Tap target creature.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "spawnbinder mage",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kjeldoran Guard",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "{T}: Target creature gets +1/+1 until end of turn. When that creature leaves the battlefield this turn, sacrifice Kjeldoran Guard. Activate this ability only during combat and only if defending player controls no snow lands.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "kjeldoran guard",
+  "colorIdentity": [
+    "W"
+  ]
+}

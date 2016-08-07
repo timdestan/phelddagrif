@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Bloated Toad",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Frog",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Frog"
+  ],
+  "text": "Protection from blue\nCycling {2} ({2}, Discard this card: Draw a card.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "bloated toad",
+  "colorIdentity": [
+    "G"
+  ]
+}

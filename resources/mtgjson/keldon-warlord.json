@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Keldon Warlord",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Barbarian",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Barbarian"
+  ],
+  "text": "Keldon Warlord's power and toughness are each equal to the number of non-Wall creatures you control.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "keldon warlord",
+  "colorIdentity": [
+    "R"
+  ]
+}

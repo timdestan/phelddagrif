@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Mask of Memory",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Whenever equipped creature deals combat damage to a player, you may draw two cards. If you do, discard a card.\nEquip {1}",
+  "imageName": "mask of memory"
+}

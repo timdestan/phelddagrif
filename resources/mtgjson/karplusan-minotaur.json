@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Karplusan Minotaur",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Minotaur Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Minotaur",
+    "Warrior"
+  ],
+  "text": "Cumulative upkeep—Flip a coin. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhenever you win a coin flip, Karplusan Minotaur deals 1 damage to target creature or player.\nWhenever you lose a coin flip, Karplusan Minotaur deals 1 damage to target creature or player of an opponent's choice.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "karplusan minotaur",
+  "colorIdentity": [
+    "R"
+  ]
+}

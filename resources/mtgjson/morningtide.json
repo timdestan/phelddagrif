@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Morningtide",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Exile all cards from all graveyards.",
+  "imageName": "morningtide",
+  "colorIdentity": [
+    "W"
+  ]
+}

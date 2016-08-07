@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Jeskai Barricade",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Flash (You may cast this spell any time you could cast an instant.)\nDefender\nWhen Jeskai Barricade enters the battlefield, you may return another target creature you control to its owner's hand.",
+  "power": "0",
+  "toughness": "4",
+  "imageName": "jeskai barricade",
+  "colorIdentity": [
+    "W"
+  ]
+}

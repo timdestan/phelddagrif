@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Temur Sabertooth",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Cat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat"
+  ],
+  "text": "{1}{G}: You may return another creature you control to its owner's hand. If you do, Temur Sabertooth gains indestructible until end of turn.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "temur sabertooth",
+  "colorIdentity": [
+    "G"
+  ]
+}

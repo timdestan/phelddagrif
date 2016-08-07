@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Eiganjo Free-Riders",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Flying\nAt the beginning of your upkeep, return a white creature you control to its owner's hand.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "eiganjo free-riders",
+  "colorIdentity": [
+    "W"
+  ]
+}

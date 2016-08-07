@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Avian Changeling",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Shapeshifter",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Shapeshifter"
+  ],
+  "text": "Changeling (This card is every creature type.)\nFlying",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "avian changeling",
+  "colorIdentity": [
+    "W"
+  ]
+}

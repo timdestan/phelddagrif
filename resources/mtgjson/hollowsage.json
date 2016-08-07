@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Hollowsage",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Merfolk Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Wizard"
+  ],
+  "text": "Whenever Hollowsage becomes untapped, you may have target player discard a card.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "hollowsage",
+  "colorIdentity": [
+    "B"
+  ]
+}

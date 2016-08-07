@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Squandered Resources",
+  "manaCost": "{B}{G}",
+  "cmc": 2,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Sacrifice a land: Add to your mana pool one mana of any type the sacrificed land could produce.",
+  "imageName": "squandered resources",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

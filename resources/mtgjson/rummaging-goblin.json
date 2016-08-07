@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Rummaging Goblin",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Rogue"
+  ],
+  "text": "{T}, Discard a card: Draw a card.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "rummaging goblin",
+  "colorIdentity": [
+    "R"
+  ]
+}

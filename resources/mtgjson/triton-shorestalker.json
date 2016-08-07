@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Triton Shorestalker",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Rogue"
+  ],
+  "text": "Triton Shorestalker can't be blocked.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "triton shorestalker",
+  "colorIdentity": [
+    "U"
+  ]
+}

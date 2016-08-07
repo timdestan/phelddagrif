@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Sakashima the Impostor Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "{2}: Choose a creature you control. It becomes a copy of target creature except for its name.",
+  "imageName": "sakashima the impostor avatar",
+  "hand": 0,
+  "life": 1
+}

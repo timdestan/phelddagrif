@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Karona's Zealot",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "Morph {3}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Karona's Zealot is turned face up, all damage that would be dealt to it this turn is dealt to target creature instead.",
+  "power": "2",
+  "toughness": "5",
+  "imageName": "karona's zealot",
+  "colorIdentity": [
+    "W"
+  ]
+}

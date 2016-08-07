@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Expedite",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gains haste until end of turn.\nDraw a card.",
+  "imageName": "expedite",
+  "colorIdentity": [
+    "R"
+  ]
+}

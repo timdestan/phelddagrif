@@ -1,0 +1,10 @@
+{
+  "layout": "phenomenon",
+  "name": "Planewide Disaster",
+  "type": "Phenomenon",
+  "types": [
+    "Phenomenon"
+  ],
+  "text": "When you encounter Planewide Disaster, destroy all creatures. (Then planeswalk away from this phenomenon.)",
+  "imageName": "planewide disaster"
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Skyline Predator",
+  "manaCost": "{4}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flash (You may cast this spell any time you could cast an instant.)\nFlying",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "skyline predator",
+  "colorIdentity": [
+    "U"
+  ]
+}

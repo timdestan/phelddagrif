@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Paragon of Gathering Mists",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Other blue creatures you control get +1/+1.\n{U}, {T}: Another target blue creature you control gains flying until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "paragon of gathering mists",
+  "colorIdentity": [
+    "U"
+  ]
+}

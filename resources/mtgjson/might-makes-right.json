@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Might Makes Right",
+  "manaCost": "{5}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of combat on your turn, if you control each creature on the battlefield with the greatest power, gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)",
+  "imageName": "might makes right",
+  "colorIdentity": [
+    "R"
+  ]
+}

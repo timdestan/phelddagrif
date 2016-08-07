@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Baloth Pup",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Baloth Pup has trample as long as it has a +1/+1 counter on it.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "baloth pup",
+  "colorIdentity": [
+    "G"
+  ]
+}

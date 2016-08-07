@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Nettle Sentinel",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Warrior"
+  ],
+  "text": "Nettle Sentinel doesn't untap during your untap step.\nWhenever you cast a green spell, you may untap Nettle Sentinel.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "nettle sentinel",
+  "colorIdentity": [
+    "G"
+  ]
+}

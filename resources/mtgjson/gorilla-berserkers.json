@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Gorilla Berserkers",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Ape Berserker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ape",
+    "Berserker"
+  ],
+  "text": "Trample; rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)\nGorilla Berserkers can't be blocked except by three or more creatures.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "gorilla berserkers",
+  "colorIdentity": [
+    "G"
+  ]
+}

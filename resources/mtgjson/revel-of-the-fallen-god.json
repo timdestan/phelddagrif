@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Revel of the Fallen God",
+  "manaCost": "{3}{R}{R}{G}{G}",
+  "cmc": 7,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put four 2/2 red and green Satyr creature tokens with haste onto the battlefield.",
+  "imageName": "revel of the fallen god",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

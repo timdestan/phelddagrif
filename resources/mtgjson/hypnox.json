@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Hypnox",
+  "manaCost": "{8}{B}{B}{B}",
+  "cmc": 11,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Nightmare Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Nightmare",
+    "Horror"
+  ],
+  "text": "Flying\nWhen Hypnox enters the battlefield, if you cast it from your hand, exile all cards from target opponent's hand.\nWhen Hypnox leaves the battlefield, return the exiled cards to their owner's hand.",
+  "power": "8",
+  "toughness": "8",
+  "imageName": "hypnox",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Divine Intervention",
+  "manaCost": "{6}{W}{W}",
+  "cmc": 8,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Divine Intervention enters the battlefield with two intervention counters on it.\nAt the beginning of your upkeep, remove an intervention counter from Divine Intervention.\nWhen you remove the last intervention counter from Divine Intervention, the game is a draw.",
+  "imageName": "divine intervention",
+  "colorIdentity": [
+    "W"
+  ]
+}

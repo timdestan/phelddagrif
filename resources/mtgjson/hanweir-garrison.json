@@ -1,0 +1,29 @@
+{
+  "layout": "meld",
+  "name": "Hanweir Garrison",
+  "names": [
+    "Hanweir Battlements",
+    "Hanweir Garrison",
+    "Hanweir, the Writhing Township"
+  ],
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Whenever Hanweir Garrison attacks, put two 1/1 red Human creature tokens onto the battlefield tapped and attacking.\n(Melds with Hanweir Battlements.)",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "hanweir garrison",
+  "colorIdentity": [
+    "R"
+  ]
+}

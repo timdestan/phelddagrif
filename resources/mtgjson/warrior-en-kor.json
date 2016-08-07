@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Warrior en-Kor",
+  "manaCost": "{W}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kor Warrior Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kor",
+    "Warrior",
+    "Knight"
+  ],
+  "text": "{0}: The next 1 damage that would be dealt to Warrior en-Kor this turn is dealt to target creature you control instead.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "warrior en-kor",
+  "colorIdentity": [
+    "W"
+  ]
+}

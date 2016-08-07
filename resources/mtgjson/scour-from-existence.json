@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Scour from Existence",
+  "manaCost": "{7}",
+  "cmc": 7,
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Exile target permanent.",
+  "imageName": "scour from existence"
+}

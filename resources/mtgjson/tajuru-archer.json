@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Tajuru Archer",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Archer Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Archer",
+    "Ally"
+  ],
+  "text": "Whenever Tajuru Archer or another Ally enters the battlefield under your control, you may have Tajuru Archer deal damage to target creature with flying equal to the number of Allies you control.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "tajuru archer",
+  "colorIdentity": [
+    "G"
+  ]
+}

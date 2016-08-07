@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Isolation Zone",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "When Isolation Zone enters the battlefield, exile target creature or enchantment an opponent controls until Isolation Zone leaves the battlefield. (That permanent returns under its owner's control.)",
+  "imageName": "isolation zone",
+  "colorIdentity": [
+    "W"
+  ]
+}

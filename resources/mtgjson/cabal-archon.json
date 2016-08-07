@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Cabal Archon",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "{B}, Sacrifice a Cleric: Target player loses 2 life and you gain 2 life.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "cabal archon",
+  "colorIdentity": [
+    "B"
+  ]
+}

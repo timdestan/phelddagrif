@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Tooth Collector",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "When Tooth Collector enters the battlefield, target creature an opponent controls gets -1/-1 until end of turn.\nDelirium — At the beginning of each opponent's upkeep, if there are four or more card types among cards in your graveyard, target creature that player controls gets -1/-1 until end of turn.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "tooth collector",
+  "colorIdentity": [
+    "B"
+  ]
+}

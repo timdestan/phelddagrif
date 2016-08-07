@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Kjeldoran War Cry",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Creatures you control get +X/+X until end of turn, where X is 1 plus the number of cards named Kjeldoran War Cry in all graveyards.",
+  "imageName": "kjeldoran war cry",
+  "colorIdentity": [
+    "W"
+  ]
+}

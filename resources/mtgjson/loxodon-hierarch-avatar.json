@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Loxodon Hierarch Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "Sacrifice a permanent: Regenerate target creature you control.",
+  "imageName": "loxodon hierarch avatar",
+  "hand": 0,
+  "life": 12
+}

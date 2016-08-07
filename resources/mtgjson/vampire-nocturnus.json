@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Vampire Nocturnus",
+  "manaCost": "{1}{B}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire"
+  ],
+  "text": "Play with the top card of your library revealed.\nAs long as the top card of your library is black, Vampire Nocturnus and other Vampire creatures you control get +2/+1 and have flying.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "vampire nocturnus",
+  "colorIdentity": [
+    "B"
+  ]
+}

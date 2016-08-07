@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Gift of Tusks",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Until end of turn, target creature loses all abilities and becomes a green Elephant with base power and toughness 3/3.",
+  "imageName": "gift of tusks",
+  "colorIdentity": [
+    "U"
+  ]
+}

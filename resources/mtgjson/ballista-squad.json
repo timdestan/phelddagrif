@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ballista Squad",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Rebel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rebel"
+  ],
+  "text": "{X}{W}, {T}: Ballista Squad deals X damage to target attacking or blocking creature.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "ballista squad",
+  "colorIdentity": [
+    "W"
+  ]
+}

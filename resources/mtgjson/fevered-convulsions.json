@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Fevered Convulsions",
+  "manaCost": "{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{2}{B}{B}: Put a -1/-1 counter on target creature.",
+  "imageName": "fevered convulsions",
+  "colorIdentity": [
+    "B"
+  ]
+}

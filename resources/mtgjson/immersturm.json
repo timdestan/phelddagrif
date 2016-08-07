@@ -1,0 +1,13 @@
+{
+  "layout": "plane",
+  "name": "Immersturm",
+  "type": "Plane — Valla",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Valla"
+  ],
+  "text": "Whenever a creature enters the battlefield, that creature's controller may have it deal damage equal to its power to target creature or player of his or her choice.\nWhenever you roll CHAOS, exile target creature, then return it to the battlefield under its owner's control.",
+  "imageName": "immersturm"
+}

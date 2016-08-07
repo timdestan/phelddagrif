@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Barktooth Warbeard",
+  "manaCost": "{4}{B}{R}{R}",
+  "cmc": 7,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Legendary Creature — Human Warrior",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "power": "6",
+  "toughness": "5",
+  "imageName": "barktooth warbeard",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

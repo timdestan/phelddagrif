@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Qarsi High Priest",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "{1}{B}, {T}, Sacrifice another creature: Manifest the top card of your library. (Put that card onto the battlefield face down as a 2/2 creature. Turn it face up any time for its mana cost if it's a creature card.)",
+  "power": "0",
+  "toughness": "2",
+  "imageName": "qarsi high priest",
+  "colorIdentity": [
+    "B"
+  ]
+}

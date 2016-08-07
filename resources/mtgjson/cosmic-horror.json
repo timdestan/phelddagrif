@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Cosmic Horror",
+  "manaCost": "{3}{B}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "First strike\nAt the beginning of your upkeep, destroy Cosmic Horror unless you pay {3}{B}{B}{B}. If Cosmic Horror is destroyed this way, it deals 7 damage to you.",
+  "power": "7",
+  "toughness": "7",
+  "imageName": "cosmic horror",
+  "colorIdentity": [
+    "B"
+  ]
+}

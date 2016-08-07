@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Dauthi Cutthroat",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Dauthi Minion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dauthi",
+    "Minion"
+  ],
+  "text": "Shadow (This creature can block or be blocked by only creatures with shadow.)\n{1}{B}, {T}: Destroy target creature with shadow.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "dauthi cutthroat",
+  "colorIdentity": [
+    "B"
+  ]
+}

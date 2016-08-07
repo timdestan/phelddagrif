@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Pyroclast Consul",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Shaman"
+  ],
+  "text": "Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Pyroclast Consul, you may reveal it. If you do, Pyroclast Consul deals 2 damage to each creature.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "pyroclast consul",
+  "colorIdentity": [
+    "R"
+  ]
+}

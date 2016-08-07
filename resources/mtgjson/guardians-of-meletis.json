@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Guardians of Meletis",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "Defender (This creature can't attack.)",
+  "power": "0",
+  "toughness": "6",
+  "imageName": "guardians of meletis"
+}

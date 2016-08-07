@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Intrepid Provisioner",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Scout",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Scout"
+  ],
+  "text": "Trample\nWhen Intrepid Provisioner enters the battlefield, another target Human you control gets +2/+2 until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "intrepid provisioner",
+  "colorIdentity": [
+    "G"
+  ]
+}

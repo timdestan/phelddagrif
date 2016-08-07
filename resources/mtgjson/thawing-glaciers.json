@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Thawing Glaciers",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Thawing Glaciers enters the battlefield tapped.\n{1}, {T}: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library. Return Thawing Glaciers to its owner's hand at the beginning of the next cleanup step.",
+  "imageName": "thawing glaciers"
+}

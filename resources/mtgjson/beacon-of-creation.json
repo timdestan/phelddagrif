@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Beacon of Creation",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put a 1/1 green Insect creature token onto the battlefield for each Forest you control. Shuffle Beacon of Creation into its owner's library.",
+  "imageName": "beacon of creation",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Clam Session",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Summon — Clamfolk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Clamfolk"
+  ],
+  "text": "When Clam Session comes into play, choose a word. \nDuring your upkeep, sing at least six words of a song, one of which must be the chosen word, or sacrifice Clam Session. You cannot repeat a song.",
+  "power": "2",
+  "toughness": "5",
+  "imageName": "clam session",
+  "colorIdentity": [
+    "U"
+  ]
+}

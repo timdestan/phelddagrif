@@ -1,0 +1,27 @@
+{
+  "layout": "double-faced",
+  "name": "Kindly Stranger",
+  "names": [
+    "Kindly Stranger",
+    "Demon-Possessed Witch"
+  ],
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human"
+  ],
+  "text": "Delirium — {2}{B}: Transform Kindly Stranger. Activate this ability only if there are four or more card types among cards in your graveyard.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "kindly stranger",
+  "colorIdentity": [
+    "B"
+  ]
+}

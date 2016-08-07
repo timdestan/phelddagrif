@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Meltdown",
+  "manaCost": "{X}{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy each artifact with converted mana cost X or less.",
+  "imageName": "meltdown",
+  "colorIdentity": [
+    "R"
+  ]
+}

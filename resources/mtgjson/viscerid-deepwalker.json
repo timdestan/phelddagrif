@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Viscerid Deepwalker",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Homarid Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Homarid",
+    "Warrior"
+  ],
+  "text": "{U}: Viscerid Deepwalker gets +1/+0 until end of turn.\nSuspend 4—{U} (Rather than cast this card from your hand, you may pay {U} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "viscerid deepwalker",
+  "colorIdentity": [
+    "U"
+  ]
+}

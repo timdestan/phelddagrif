@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Vanguard's Shield",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature gets +0/+3 and can block an additional creature each combat.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)",
+  "imageName": "vanguard's shield"
+}

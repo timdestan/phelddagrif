@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Gauntlet of Power",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "As Gauntlet of Power enters the battlefield, choose a color.\nCreatures of the chosen color get +1/+1.\nWhenever a basic land is tapped for mana of the chosen color, its controller adds one mana of that color to his or her mana pool (in addition to the mana the land produces).",
+  "imageName": "gauntlet of power"
+}

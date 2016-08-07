@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Name Dropping",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Gotcha Whenever an opponent says a word that's in the name of a card in your graveyard, you may say \"Gotcha\" If you do, return that card to your hand.",
+  "imageName": "name dropping",
+  "colorIdentity": [
+    "G"
+  ]
+}

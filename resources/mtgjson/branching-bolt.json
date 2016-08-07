@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Branching Bolt",
+  "manaCost": "{1}{R}{G}",
+  "cmc": 3,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose one or both —\n• Branching Bolt deals 3 damage to target creature with flying.\n• Branching Bolt deals 3 damage to target creature without flying.",
+  "imageName": "branching bolt",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

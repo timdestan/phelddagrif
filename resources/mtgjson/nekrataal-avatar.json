@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Nekrataal Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "Creature spells you cast cost {B} less to cast. This effect reduces only the amount of colored mana you pay.",
+  "imageName": "nekrataal avatar",
+  "hand": -1,
+  "life": -4
+}

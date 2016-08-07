@@ -1,0 +1,16 @@
+{
+  "layout": "normal",
+  "name": "Simic Signet",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{1}, {T}: Add {G}{U} to your mana pool.",
+  "imageName": "simic signet",
+  "colorIdentity": [
+    "G",
+    "U"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Ebon Stronghold",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Ebon Stronghold enters the battlefield tapped.\n{T}: Add {B} to your mana pool.\n{T}, Sacrifice Ebon Stronghold: Add {B}{B} to your mana pool.",
+  "imageName": "ebon stronghold",
+  "colorIdentity": [
+    "B"
+  ]
+}

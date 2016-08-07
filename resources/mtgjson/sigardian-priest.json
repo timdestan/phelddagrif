@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Sigardian Priest",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "{1}, {T}: Tap target non-Human creature.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "sigardian priest",
+  "colorIdentity": [
+    "W"
+  ]
+}

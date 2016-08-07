@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Alluring Siren",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Siren",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Siren"
+  ],
+  "text": "{T}: Target creature an opponent controls attacks you this turn if able.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "alluring siren",
+  "colorIdentity": [
+    "U"
+  ]
+}

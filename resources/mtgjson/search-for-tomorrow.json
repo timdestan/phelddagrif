@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Search for Tomorrow",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Search your library for a basic land card and put it onto the battlefield. Then shuffle your library.\nSuspend 2—{G} (Rather than cast this card from your hand, you may pay {G} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)",
+  "imageName": "search for tomorrow",
+  "colorIdentity": [
+    "G"
+  ]
+}

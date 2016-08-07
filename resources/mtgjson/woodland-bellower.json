@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Woodland Bellower",
+  "manaCost": "{4}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "When Woodland Bellower enters the battlefield, you may search your library for a nonlegendary green creature card with converted mana cost 3 or less, put it onto the battlefield, then shuffle your library.",
+  "power": "6",
+  "toughness": "5",
+  "imageName": "woodland bellower",
+  "colorIdentity": [
+    "G"
+  ]
+}

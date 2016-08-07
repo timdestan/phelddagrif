@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Aura Thief",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Illusion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Illusion"
+  ],
+  "text": "Flying\nWhen Aura Thief dies, you gain control of all enchantments. (You don't get to move Auras.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "aura thief",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Amphin Pathmage",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Salamander Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Salamander",
+    "Wizard"
+  ],
+  "text": "{2}{U}: Target creature can't be blocked this turn.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "amphin pathmage",
+  "colorIdentity": [
+    "U"
+  ]
+}

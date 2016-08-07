@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Groundbreaker",
+  "manaCost": "{G}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Trample, haste\nAt the beginning of the end step, sacrifice Groundbreaker.",
+  "power": "6",
+  "toughness": "1",
+  "imageName": "groundbreaker",
+  "colorIdentity": [
+    "G"
+  ]
+}

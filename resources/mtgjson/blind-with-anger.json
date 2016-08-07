@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Blind with Anger",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant — Arcane",
+  "types": [
+    "Instant"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "Untap target nonlegendary creature and gain control of it until end of turn. That creature gains haste until end of turn.",
+  "imageName": "blind with anger",
+  "colorIdentity": [
+    "R"
+  ]
+}

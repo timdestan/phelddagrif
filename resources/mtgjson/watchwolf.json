@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Watchwolf",
+  "manaCost": "{G}{W}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Wolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wolf"
+  ],
+  "power": "3",
+  "toughness": "3",
+  "imageName": "watchwolf",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Oran-Rief Survivalist",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Warrior Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior",
+    "Ally"
+  ],
+  "text": "Whenever Oran-Rief Survivalist or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Oran-Rief Survivalist.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "oran-rief survivalist",
+  "colorIdentity": [
+    "G"
+  ]
+}

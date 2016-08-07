@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Burning of Xinye",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "You destroy four lands you control, then target opponent destroys four lands he or she controls. Then Burning of Xinye deals 4 damage to each creature.",
+  "imageName": "burning of xinye",
+  "colorIdentity": [
+    "R"
+  ]
+}

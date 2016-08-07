@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Crow of Dark Tidings",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Bird"
+  ],
+  "text": "Flying\nWhen Crow of Dark Tidings enters the battlefield or dies, put the top two cards of your library into your graveyard.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "crow of dark tidings",
+  "colorIdentity": [
+    "B"
+  ]
+}

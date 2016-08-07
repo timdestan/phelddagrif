@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Worst Fears",
+  "manaCost": "{7}{B}",
+  "cmc": 8,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "You control target player during that player's next turn. Exile Worst Fears. (You see all cards that player could see and make all decisions for the player.)",
+  "imageName": "worst fears",
+  "colorIdentity": [
+    "B"
+  ]
+}

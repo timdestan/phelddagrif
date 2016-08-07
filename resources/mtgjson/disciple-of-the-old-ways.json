@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Disciple of the Old Ways",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "{R}: Disciple of the Old Ways gains first strike until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "disciple of the old ways",
+  "colorIdentity": [
+    "G",
+    "R"
+  ]
+}

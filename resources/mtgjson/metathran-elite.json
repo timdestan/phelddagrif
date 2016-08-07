@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Metathran Elite",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Metathran Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Metathran",
+    "Soldier"
+  ],
+  "text": "Metathran Elite can't be blocked as long as it's enchanted.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "metathran elite",
+  "colorIdentity": [
+    "U"
+  ]
+}

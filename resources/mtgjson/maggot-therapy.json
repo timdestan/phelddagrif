@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Maggot Therapy",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Flash\nEnchant creature\nEnchanted creature gets +2/-2.",
+  "imageName": "maggot therapy",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Revered Dead",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Spirit Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit",
+    "Soldier"
+  ],
+  "text": "{W}: Regenerate Revered Dead.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "revered dead",
+  "colorIdentity": [
+    "W"
+  ]
+}

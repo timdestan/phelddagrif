@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Strionic Resonator",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, {T}: Copy target triggered ability you control. You may choose new targets for the copy. (A triggered ability uses the words \"when,\" \"whenever,\" or \"at.\")",
+  "imageName": "strionic resonator"
+}

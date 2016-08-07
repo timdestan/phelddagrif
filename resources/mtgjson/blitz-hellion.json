@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Blitz Hellion",
+  "manaCost": "{3}{R}{G}",
+  "cmc": 5,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Hellion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hellion"
+  ],
+  "text": "Trample, haste\nAt the beginning of the end step, Blitz Hellion's owner shuffles it into his or her library.",
+  "power": "7",
+  "toughness": "7",
+  "imageName": "blitz hellion",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

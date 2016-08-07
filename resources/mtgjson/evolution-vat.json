@@ -1,0 +1,16 @@
+{
+  "layout": "normal",
+  "name": "Evolution Vat",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{3}, {T}: Tap target creature and put a +1/+1 counter on it. Until end of turn, that creature gains \"{2}{G}{U}: Double the number of +1/+1 counters on this creature.\"",
+  "imageName": "evolution vat",
+  "colorIdentity": [
+    "G",
+    "U"
+  ]
+}

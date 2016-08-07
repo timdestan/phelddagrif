@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Standing Stones",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{1}, {T}, Pay 1 life: Add one mana of any color to your mana pool.",
+  "imageName": "standing stones"
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Mad Prophet",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Shaman"
+  ],
+  "text": "Haste\n{T}, Discard a card: Draw a card.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "mad prophet",
+  "colorIdentity": [
+    "R"
+  ]
+}

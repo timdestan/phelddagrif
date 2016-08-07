@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Stromkirk Mentor",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Soldier"
+  ],
+  "text": "When Stromkirk Mentor enters the battlefield, put a +1/+1 counter on another target Vampire you control.",
+  "power": "4",
+  "toughness": "2",
+  "imageName": "stromkirk mentor",
+  "colorIdentity": [
+    "B"
+  ]
+}

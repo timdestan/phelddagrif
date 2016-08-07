@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "War Report",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "You gain life equal to the number of creatures on the battlefield plus the number of artifacts on the battlefield.",
+  "imageName": "war report",
+  "colorIdentity": [
+    "W"
+  ]
+}

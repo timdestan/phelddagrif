@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Raven Familiar",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\nEcho {2}{U} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Raven Familiar enters the battlefield, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "raven familiar",
+  "colorIdentity": [
+    "U"
+  ]
+}

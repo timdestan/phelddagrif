@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Blast of Genius",
+  "manaCost": "{4}{U}{R}",
+  "cmc": 6,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Choose target creature or player. Draw three cards, then discard a card. Blast of Genius deals damage equal to the discarded card's converted mana cost to that creature or player.",
+  "imageName": "blast of genius",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

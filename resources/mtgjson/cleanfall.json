@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Cleanfall",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery — Arcane",
+  "types": [
+    "Sorcery"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "Destroy all enchantments.",
+  "imageName": "cleanfall",
+  "colorIdentity": [
+    "W"
+  ]
+}

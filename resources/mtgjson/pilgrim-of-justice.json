@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Pilgrim of Justice",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "Protection from red\n{W}, Sacrifice Pilgrim of Justice: The next time a red source of your choice would deal damage this turn, prevent that damage.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "pilgrim of justice",
+  "colorIdentity": [
+    "W"
+  ]
+}

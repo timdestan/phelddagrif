@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Tempered Steel",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Artifact creatures you control get +2/+2.",
+  "imageName": "tempered steel",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Dragonspeaker Shaman",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Barbarian Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Barbarian",
+    "Shaman"
+  ],
+  "text": "Dragon spells you cast cost {2} less to cast.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "dragonspeaker shaman",
+  "colorIdentity": [
+    "R"
+  ]
+}

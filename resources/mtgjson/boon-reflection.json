@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Boon Reflection",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "If you would gain life, you gain twice that much life instead.",
+  "imageName": "boon reflection",
+  "colorIdentity": [
+    "W"
+  ]
+}

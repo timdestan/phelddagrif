@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Boulder Salvo",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Surge {1}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)\nBoulder Salvo deals 4 damage to target creature.",
+  "imageName": "boulder salvo",
+  "colorIdentity": [
+    "R"
+  ]
+}

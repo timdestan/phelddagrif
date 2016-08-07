@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Jund Sojourners",
+  "manaCost": "{B}{R}{G}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Viashino Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Viashino",
+    "Shaman"
+  ],
+  "text": "When you cycle Jund Sojourners or it dies, you may have it deal 1 damage to target creature or player.\nCycling {2}{R} ({2}{R}, Discard this card: Draw a card.)",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "jund sojourners",
+  "colorIdentity": [
+    "B",
+    "R",
+    "G"
+  ]
+}

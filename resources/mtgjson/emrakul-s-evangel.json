@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Emrakul's Evangel",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Horror"
+  ],
+  "text": "{T}, Sacrifice Emrakul's Evangel and any number of other non-Eldrazi creatures: Put a 3/2 colorless Eldrazi Horror creature token onto the battlefield for each creature sacrificed this way.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "emrakul's evangel",
+  "colorIdentity": [
+    "G"
+  ]
+}

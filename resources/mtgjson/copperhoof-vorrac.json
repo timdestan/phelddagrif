@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Copperhoof Vorrac",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Boar Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Boar",
+    "Beast"
+  ],
+  "text": "Copperhoof Vorrac gets +1/+1 for each untapped permanent your opponents control.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "copperhoof vorrac",
+  "colorIdentity": [
+    "G"
+  ]
+}

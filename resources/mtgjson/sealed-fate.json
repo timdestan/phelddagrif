@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Sealed Fate",
+  "manaCost": "{X}{U}{B}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Look at the top X cards of target opponent's library. Exile one of those cards and put the rest back on top of that player's library in any order.",
+  "imageName": "sealed fate",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

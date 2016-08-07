@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Breeding Pool",
+  "type": "Land — Forest Island",
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Forest",
+    "Island"
+  ],
+  "text": "({T}: Add {G} or {U} to your mana pool.)\nAs Breeding Pool enters the battlefield, you may pay 2 life. If you don't, Breeding Pool enters the battlefield tapped.",
+  "imageName": "breeding pool",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

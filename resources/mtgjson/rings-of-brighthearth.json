@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Rings of Brighthearth",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Whenever you activate an ability, if it isn't a mana ability, you may pay {2}. If you do, copy that ability. You may choose new targets for the copy.",
+  "imageName": "rings of brighthearth"
+}

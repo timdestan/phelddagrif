@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Terminate",
+  "manaCost": "{B}{R}",
+  "cmc": 2,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target creature. It can't be regenerated.",
+  "imageName": "terminate",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

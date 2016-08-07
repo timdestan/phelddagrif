@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Keeper of the Sacred Word",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Druid"
+  ],
+  "text": "As Keeper of the Sacred Word comes into play, choose a word.\nWhenever an opponent says the chosen word, Keeper of the Sacred Word gets +3/+3 until end of turn.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "keeper of the sacred word",
+  "colorIdentity": [
+    "G"
+  ]
+}

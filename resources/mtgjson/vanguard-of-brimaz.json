@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Vanguard of Brimaz",
+  "manaCost": "{W}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Cat Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat",
+    "Soldier"
+  ],
+  "text": "Vigilance\nHeroic — Whenever you cast a spell that targets Vanguard of Brimaz, put a 1/1 white Cat Soldier creature token with vigilance onto the battlefield.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "vanguard of brimaz",
+  "colorIdentity": [
+    "W"
+  ]
+}

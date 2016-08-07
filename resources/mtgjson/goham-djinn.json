@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Goham Djinn",
+  "manaCost": "{5}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Djinn",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Djinn"
+  ],
+  "text": "{1}{B}: Regenerate Goham Djinn.\nGoham Djinn gets -2/-2 as long as black is the most common color among all permanents or is tied for most common.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "goham djinn",
+  "colorIdentity": [
+    "B"
+  ]
+}

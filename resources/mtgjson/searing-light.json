@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Searing Light",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target attacking or blocking creature with power 2 or less.",
+  "imageName": "searing light",
+  "colorIdentity": [
+    "W"
+  ]
+}

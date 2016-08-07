@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Look at Me, I'm the DCI",
+  "manaCost": "{5}{W}{W}",
+  "cmc": 7,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Ban one card, other than a basic land, for the remainder of the match. (For the remainder of the match, each player removes from the game all copies of that card in play or in any graveyard, hand, library, or sideboard.)",
+  "imageName": "look at me, i'm the dci",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Bladed Bracers",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature gets +1/+1.\nAs long as equipped creature is a Human or an Angel, it has vigilance.\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+  "imageName": "bladed bracers"
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Benalish Missionary",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "{1}{W}, {T}: Prevent all combat damage that would be dealt by target blocked creature this turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "benalish missionary",
+  "colorIdentity": [
+    "W"
+  ]
+}

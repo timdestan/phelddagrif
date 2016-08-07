@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Goldnight Redeemer",
+  "manaCost": "{4}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nWhen Goldnight Redeemer enters the battlefield, you gain 2 life for each other creature you control.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "goldnight redeemer",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Raking Canopy",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a creature with flying attacks you, Raking Canopy deals 4 damage to it.",
+  "imageName": "raking canopy",
+  "colorIdentity": [
+    "G"
+  ]
+}

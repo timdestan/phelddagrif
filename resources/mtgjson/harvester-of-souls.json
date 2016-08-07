@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Harvester of Souls",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Demon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon"
+  ],
+  "text": "Deathtouch\nWhenever another nontoken creature dies, you may draw a card.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "harvester of souls",
+  "colorIdentity": [
+    "B"
+  ]
+}

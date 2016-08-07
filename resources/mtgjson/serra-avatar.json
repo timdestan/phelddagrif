@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Serra Avatar",
+  "manaCost": "{4}{W}{W}{W}",
+  "cmc": 7,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Avatar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Avatar"
+  ],
+  "text": "Serra Avatar's power and toughness are each equal to your life total.\nWhen Serra Avatar is put into a graveyard from anywhere, shuffle it into its owner's library.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "serra avatar",
+  "colorIdentity": [
+    "W"
+  ]
+}

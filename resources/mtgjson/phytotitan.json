@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Phytotitan",
+  "manaCost": "{4}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Plant Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Plant",
+    "Elemental"
+  ],
+  "text": "When Phytotitan dies, return it to the battlefield tapped under its owner's control at the beginning of his or her next upkeep.",
+  "power": "7",
+  "toughness": "2",
+  "imageName": "phytotitan",
+  "colorIdentity": [
+    "G"
+  ]
+}

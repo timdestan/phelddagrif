@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Infernal Medusa",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Gorgon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Gorgon"
+  ],
+  "text": "Whenever Infernal Medusa blocks a creature, destroy that creature at end of combat.\nWhenever Infernal Medusa becomes blocked by a non-Wall creature, destroy that creature at end of combat.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "infernal medusa",
+  "colorIdentity": [
+    "B"
+  ]
+}

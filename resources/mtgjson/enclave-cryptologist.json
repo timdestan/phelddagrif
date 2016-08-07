@@ -1,0 +1,24 @@
+{
+  "layout": "leveler",
+  "name": "Enclave Cryptologist",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Wizard"
+  ],
+  "text": "Level up {1}{U} ({1}{U}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-2\n0/1\n{T}: Draw a card, then discard a card.\nLEVEL 3+\n0/1\n{T}: Draw a card.",
+  "power": "0",
+  "toughness": "1",
+  "imageName": "enclave cryptologist",
+  "colorIdentity": [
+    "U"
+  ]
+}

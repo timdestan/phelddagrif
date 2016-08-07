@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Misty Rainforest",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card and put it onto the battlefield. Then shuffle your library.",
+  "imageName": "misty rainforest"
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Neutralizing Blast",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target multicolored spell.",
+  "imageName": "neutralizing blast",
+  "colorIdentity": [
+    "U"
+  ]
+}

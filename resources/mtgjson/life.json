@@ -1,0 +1,23 @@
+{
+  "layout": "split",
+  "name": "Life",
+  "names": [
+    "Life",
+    "Death"
+  ],
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "All lands you control become 1/1 creatures until end of turn. They're still lands.",
+  "imageName": "life",
+  "colorIdentity": [
+    "G",
+    "B"
+  ]
+}

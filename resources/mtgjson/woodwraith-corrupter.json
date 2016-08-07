@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Woodwraith Corrupter",
+  "manaCost": "{3}{B}{B}{G}",
+  "cmc": 6,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Creature — Elemental Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Horror"
+  ],
+  "text": "{1}{B}{G}, {T}: Target Forest becomes a 4/4 black and green Elemental Horror creature. It's still a land.",
+  "power": "3",
+  "toughness": "6",
+  "imageName": "woodwraith corrupter",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

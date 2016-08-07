@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wildfire Cerberus",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Hound",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hound"
+  ],
+  "text": "{5}{R}{R}: Monstrosity 1. (If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)\nWhen Wildfire Cerberus becomes monstrous, it deals 2 damage to each opponent and each creature your opponents control.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "wildfire cerberus",
+  "colorIdentity": [
+    "R"
+  ]
+}

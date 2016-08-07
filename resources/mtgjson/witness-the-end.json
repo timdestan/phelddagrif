@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Witness the End",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Devoid (This card has no color.)\nTarget opponent exiles two cards from his or her hand and loses 2 life.",
+  "imageName": "witness the end",
+  "colorIdentity": [
+    "B"
+  ]
+}

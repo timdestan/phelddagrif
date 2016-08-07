@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Nomads en-Kor",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kor Nomad Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kor",
+    "Nomad",
+    "Soldier"
+  ],
+  "text": "{0}: The next 1 damage that would be dealt to Nomads en-Kor this turn is dealt to target creature you control instead.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "nomads en-kor",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Hollow Specter",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Specter",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Specter"
+  ],
+  "text": "Flying\nWhenever Hollow Specter deals combat damage to a player, you may pay {X}. If you do, that player reveals X cards from his or her hand and you choose one of them. That player discards that card.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "hollow specter",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Claws of Gix",
+  "manaCost": "{0}",
+  "cmc": 0,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{1}, Sacrifice a permanent: You gain 1 life.",
+  "imageName": "claws of gix"
+}

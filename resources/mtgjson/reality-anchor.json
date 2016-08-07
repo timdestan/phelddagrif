@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Reality Anchor",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature loses shadow until end of turn.\nDraw a card.",
+  "imageName": "reality anchor",
+  "colorIdentity": [
+    "G"
+  ]
+}

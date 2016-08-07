@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Tivadar's Crusade",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy all Goblins.",
+  "imageName": "tivadar's crusade",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "layout": "double-faced",
+  "name": "Lunarch Inquisitors",
+  "names": [
+    "Avacynian Missionaries",
+    "Lunarch Inquisitors"
+  ],
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "When this creature transforms into Lunarch Inquisitors, you may exile another target creature until Lunarch Inquisitors leaves the battlefield.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "lunarch inquisitors",
+  "colorIdentity": [
+    "W"
+  ]
+}

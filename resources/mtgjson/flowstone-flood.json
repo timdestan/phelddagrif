@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Flowstone Flood",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Buyback—Pay 3 life, Discard a card at random. (You may pay 3 life and discard a card at random in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)\nDestroy target land.",
+  "imageName": "flowstone flood",
+  "colorIdentity": [
+    "R"
+  ]
+}

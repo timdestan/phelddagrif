@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Fanning the Flames",
+  "manaCost": "{X}{R}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)\nFanning the Flames deals X damage to target creature or player.",
+  "imageName": "fanning the flames",
+  "colorIdentity": [
+    "R"
+  ]
+}

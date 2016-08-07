@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Seal of Strength",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Sacrifice Seal of Strength: Target creature gets +3/+3 until end of turn.",
+  "imageName": "seal of strength",
+  "colorIdentity": [
+    "G"
+  ]
+}

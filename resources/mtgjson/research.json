@@ -1,0 +1,25 @@
+{
+  "layout": "split",
+  "name": "Research",
+  "names": [
+    "Research",
+    "Development"
+  ],
+  "manaCost": "{G}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose up to four cards you own from outside the game and shuffle them into your library.",
+  "imageName": "research",
+  "colorIdentity": [
+    "U",
+    "R",
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wild Mongrel",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Hound",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hound"
+  ],
+  "text": "Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "wild mongrel",
+  "colorIdentity": [
+    "G"
+  ]
+}

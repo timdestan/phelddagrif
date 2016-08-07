@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Looming Hoverguard",
+  "manaCost": "{4}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Drone",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drone"
+  ],
+  "text": "Flying\nWhen Looming Hoverguard enters the battlefield, put target artifact on top of its owner's library.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "looming hoverguard",
+  "colorIdentity": [
+    "U"
+  ]
+}

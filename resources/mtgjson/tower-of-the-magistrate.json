@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Tower of the Magistrate",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{1}, {T}: Target creature gains protection from artifacts until end of turn.",
+  "imageName": "tower of the magistrate"
+}

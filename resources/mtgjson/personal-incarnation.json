@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Personal Incarnation",
+  "manaCost": "{3}{W}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Avatar Incarnation",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Avatar",
+    "Incarnation"
+  ],
+  "text": "{0}: The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Any player may activate this ability, but only if he or she owns Personal Incarnation.\nWhen Personal Incarnation dies, its owner loses half his or her life, rounded up.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "personal incarnation",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Infinite Obliteration",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Name a creature card. Search target opponent's graveyard, hand, and library for any number of cards with that name and exile them. Then that player shuffles his or her library.",
+  "imageName": "infinite obliteration",
+  "colorIdentity": [
+    "B"
+  ]
+}

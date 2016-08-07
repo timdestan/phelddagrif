@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Thistledown Duo",
+  "manaCost": "{2}{W/U}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Creature — Kithkin Soldier Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kithkin",
+    "Soldier",
+    "Wizard"
+  ],
+  "text": "Whenever you cast a white spell, Thistledown Duo gets +1/+1 until end of turn.\nWhenever you cast a blue spell, Thistledown Duo gains flying until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "thistledown duo",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

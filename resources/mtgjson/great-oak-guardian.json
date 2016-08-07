@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Great Oak Guardian",
+  "manaCost": "{5}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Treefolk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Treefolk"
+  ],
+  "text": "Flash (You may cast this spell any time you could cast an instant.)\nReach\nWhen Great Oak Guardian enters the battlefield, creatures target player controls get +2/+2 until end of turn. Untap them.",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "great oak guardian",
+  "colorIdentity": [
+    "G"
+  ]
+}

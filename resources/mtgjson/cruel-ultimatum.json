@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Cruel Ultimatum",
+  "manaCost": "{U}{U}{B}{B}{B}{R}{R}",
+  "cmc": 7,
+  "colors": [
+    "Blue",
+    "Black",
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target opponent sacrifices a creature, discards three cards, then loses 5 life. You return a creature card from your graveyard to your hand, draw three cards, then gain 5 life.",
+  "imageName": "cruel ultimatum",
+  "colorIdentity": [
+    "U",
+    "B",
+    "R"
+  ]
+}

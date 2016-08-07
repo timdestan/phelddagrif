@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Eldrazi Skyspawner",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "type": "Creature — Eldrazi Drone",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Drone"
+  ],
+  "text": "Devoid (This card has no color.)\nFlying\nWhen Eldrazi Skyspawner enters the battlefield, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has \"Sacrifice this creature: Add {C} to your mana pool.\"",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "eldrazi skyspawner",
+  "colorIdentity": [
+    "U"
+  ]
+}

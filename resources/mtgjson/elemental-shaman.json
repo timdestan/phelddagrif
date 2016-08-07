@@ -1,0 +1,15 @@
+{
+  "layout": "token",
+  "name": "Elemental Shaman",
+  "type": "Creature — Elemental Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Shaman"
+  ],
+  "power": "3",
+  "toughness": "1",
+  "imageName": "elemental shaman"
+}

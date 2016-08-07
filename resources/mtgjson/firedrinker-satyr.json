@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Firedrinker Satyr",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Satyr Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Satyr",
+    "Shaman"
+  ],
+  "text": "Whenever Firedrinker Satyr is dealt damage, it deals that much damage to you.\n{1}{R}: Firedrinker Satyr gets +1/+0 until end of turn and deals 1 damage to you.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "firedrinker satyr",
+  "colorIdentity": [
+    "R"
+  ]
+}

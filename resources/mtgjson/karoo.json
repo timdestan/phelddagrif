@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Karoo",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Karoo enters the battlefield tapped.\nWhen Karoo enters the battlefield, sacrifice it unless you return an untapped Plains you control to its owner's hand.\n{T}: Add {C}{W} to your mana pool.",
+  "imageName": "karoo",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Utopia Mycon",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Fungus",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Fungus"
+  ],
+  "text": "At the beginning of your upkeep, put a spore counter on Utopia Mycon.\nRemove three spore counters from Utopia Mycon: Put a 1/1 green Saproling creature token onto the battlefield.\nSacrifice a Saproling: Add one mana of any color to your mana pool.",
+  "power": "0",
+  "toughness": "2",
+  "imageName": "utopia mycon",
+  "colorIdentity": [
+    "G"
+  ]
+}

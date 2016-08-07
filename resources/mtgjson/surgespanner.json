@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Surgespanner",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Wizard"
+  ],
+  "text": "Whenever Surgespanner becomes tapped, you may pay {1}{U}. If you do, return target permanent to its owner's hand.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "surgespanner",
+  "colorIdentity": [
+    "U"
+  ]
+}

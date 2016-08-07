@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Noxious Toad",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Frog",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Frog"
+  ],
+  "text": "When Noxious Toad dies, each opponent discards a card.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "noxious toad",
+  "colorIdentity": [
+    "B"
+  ]
+}

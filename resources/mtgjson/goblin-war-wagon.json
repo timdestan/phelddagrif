@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Goblin War Wagon",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Juggernaut",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Juggernaut"
+  ],
+  "text": "Goblin War Wagon doesn't untap during your untap step.\nAt the beginning of your upkeep, you may pay {2}. If you do, untap Goblin War Wagon.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "goblin war wagon"
+}

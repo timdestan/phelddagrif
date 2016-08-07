@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Goblin Flotilla",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nAt the beginning of each combat, unless you pay {R}, whenever Goblin Flotilla blocks or becomes blocked by a creature this combat, that creature gains first strike until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "goblin flotilla",
+  "colorIdentity": [
+    "R"
+  ]
+}

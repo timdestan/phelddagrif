@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Stench of Evil",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy all Plains. For each land destroyed this way, Stench of Evil deals 1 damage to that land's controller unless he or she pays {2}.",
+  "imageName": "stench of evil",
+  "colorIdentity": [
+    "B"
+  ]
+}

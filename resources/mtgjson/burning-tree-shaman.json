@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Burning-Tree Shaman",
+  "manaCost": "{1}{R}{G}",
+  "cmc": 3,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Centaur Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Centaur",
+    "Shaman"
+  ],
+  "text": "Whenever a player activates an ability that isn't a mana ability, Burning-Tree Shaman deals 1 damage to that player.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "burning-tree shaman",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

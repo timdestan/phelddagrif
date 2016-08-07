@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Repentant Vampire",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire"
+  ],
+  "text": "Flying\nWhenever a creature dealt damage by Repentant Vampire this turn dies, put a +1/+1 counter on Repentant Vampire.\nThreshold — As long as seven or more cards are in your graveyard, Repentant Vampire is white and has \"{T}: Destroy target black creature.\"",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "repentant vampire",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Krosan Avenger",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Druid"
+  ],
+  "text": "Trample\nThreshold — {1}{G}: Regenerate Krosan Avenger. Activate this ability only if seven or more cards are in your graveyard.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "krosan avenger",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Goblin Brawler",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Warrior"
+  ],
+  "text": "First strike\nGoblin Brawler can't be equipped.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "goblin brawler",
+  "colorIdentity": [
+    "R"
+  ]
+}

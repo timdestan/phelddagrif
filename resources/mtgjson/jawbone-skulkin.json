@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Jawbone Skulkin",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact Creature — Scarecrow",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Scarecrow"
+  ],
+  "text": "{2}: Target red creature gains haste until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "jawbone skulkin"
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Thunder Brute",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Cyclops",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cyclops"
+  ],
+  "text": "Trample\nTribute 3 (As this creature enters the battlefield, an opponent of your choice may place three +1/+1 counters on it.)\nWhen Thunder Brute enters the battlefield, if tribute wasn't paid, it gains haste until end of turn.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "thunder brute",
+  "colorIdentity": [
+    "R"
+  ]
+}

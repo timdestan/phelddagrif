@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Leafdrake Roost",
+  "manaCost": "{3}{G}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant land\nEnchanted land has \"{G}{U}, {T}: Put a 2/2 green and blue Drake creature token with flying onto the battlefield.\"",
+  "imageName": "leafdrake roost",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Canopy Vista",
+  "type": "Land — Forest Plains",
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Forest",
+    "Plains"
+  ],
+  "text": "({T}: Add {G} or {W} to your mana pool.)\nCanopy Vista enters the battlefield tapped unless you control two or more basic lands.",
+  "imageName": "canopy vista",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Smallpox",
+  "manaCost": "{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Each player loses 1 life, discards a card, sacrifices a creature, then sacrifices a land.",
+  "imageName": "smallpox",
+  "colorIdentity": [
+    "B"
+  ]
+}

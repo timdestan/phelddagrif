@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sibsig Host",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "When Sibsig Host enters the battlefield, each player puts the top three cards of his or her library into his or her graveyard.",
+  "power": "2",
+  "toughness": "6",
+  "imageName": "sibsig host",
+  "colorIdentity": [
+    "B"
+  ]
+}

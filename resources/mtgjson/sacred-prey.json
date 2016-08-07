@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sacred Prey",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Horse",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horse"
+  ],
+  "text": "Whenever Sacred Prey becomes blocked, you gain 1 life.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "sacred prey",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Orcish Bloodpainter",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Orc Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Orc",
+    "Shaman"
+  ],
+  "text": "{T}, Sacrifice a creature: Orcish Bloodpainter deals 1 damage to target creature or player.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "orcish bloodpainter",
+  "colorIdentity": [
+    "R"
+  ]
+}

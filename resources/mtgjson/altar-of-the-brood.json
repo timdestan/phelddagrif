@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Altar of the Brood",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Whenever another permanent enters the battlefield under your control, each opponent puts the top card of his or her library into his or her graveyard.",
+  "imageName": "altar of the brood"
+}

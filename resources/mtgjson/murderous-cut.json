@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Murderous Cut",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nDestroy target creature.",
+  "imageName": "murderous cut",
+  "colorIdentity": [
+    "B"
+  ]
+}

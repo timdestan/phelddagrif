@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Munda's Vanguard",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kor Knight Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kor",
+    "Knight",
+    "Ally"
+  ],
+  "text": "Cohort — {T}, Tap an untapped Ally you control: Put a +1/+1 counter on each creature you control.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "munda's vanguard",
+  "colorIdentity": [
+    "W"
+  ]
+}

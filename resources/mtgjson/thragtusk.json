@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Thragtusk",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "When Thragtusk enters the battlefield, you gain 5 life.\nWhen Thragtusk leaves the battlefield, put a 3/3 green Beast creature token onto the battlefield.",
+  "power": "5",
+  "toughness": "3",
+  "imageName": "thragtusk",
+  "colorIdentity": [
+    "G"
+  ]
+}

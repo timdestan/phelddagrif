@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rain of Rust",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose one —\n• Destroy target artifact.\n• Destroy target land.\nEntwine {3}{R} (Choose both if you pay the entwine cost.)",
+  "imageName": "rain of rust",
+  "colorIdentity": [
+    "R"
+  ]
+}

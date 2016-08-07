@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Umbra Mystic",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Auras attached to permanents you control have totem armor. (If an enchanted permanent you control would be destroyed, instead remove all damage from it and destroy an Aura attached to it.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "umbra mystic",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Stonebrow, Krosan Hero",
+  "manaCost": "{3}{R}{G}",
+  "cmc": 5,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Legendary Creature — Centaur Warrior",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Centaur",
+    "Warrior"
+  ],
+  "text": "Trample\nWhenever a creature you control with trample attacks, it gets +2/+2 until end of turn.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "stonebrow, krosan hero",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

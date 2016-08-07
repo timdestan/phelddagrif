@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Flaccify",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell unless its controller pays {3}{½}.",
+  "imageName": "flaccify",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Frightful Delusion",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell unless its controller pays {1}. That player discards a card.",
+  "imageName": "frightful delusion",
+  "colorIdentity": [
+    "U"
+  ]
+}

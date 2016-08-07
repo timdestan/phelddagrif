@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Bounding Krasis",
+  "manaCost": "{1}{G}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Creature — Fish Lizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Fish",
+    "Lizard"
+  ],
+  "text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen Bounding Krasis enters the battlefield, you may tap or untap target creature.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "bounding krasis",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

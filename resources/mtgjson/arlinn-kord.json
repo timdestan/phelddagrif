@@ -1,0 +1,28 @@
+{
+  "layout": "double-faced",
+  "name": "Arlinn Kord",
+  "names": [
+    "Arlinn Kord",
+    "Arlinn, Embraced by the Moon"
+  ],
+  "manaCost": "{2}{R}{G}",
+  "cmc": 4,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Planeswalker — Arlinn",
+  "types": [
+    "Planeswalker"
+  ],
+  "subtypes": [
+    "Arlinn"
+  ],
+  "text": "+1: Until end of turn, up to one target creature gets +2/+2 and gains vigilance and haste.\n0: Put a 2/2 green Wolf creature token onto the battlefield. Transform Arlinn Kord.",
+  "loyalty": 3,
+  "imageName": "arlinn kord",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Helldozer",
+  "manaCost": "{3}{B}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Giant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Giant"
+  ],
+  "text": "{B}{B}{B}, {T}: Destroy target land. If that land was nonbasic, untap Helldozer.",
+  "power": "6",
+  "toughness": "5",
+  "imageName": "helldozer",
+  "colorIdentity": [
+    "B"
+  ]
+}

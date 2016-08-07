@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Skyshroud Sentinel",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf"
+  ],
+  "text": "When Skyshroud Sentinel enters the battlefield, you may search your library for up to three cards named Skyshroud Sentinel, reveal them, and put them into your hand. If you do, shuffle your library.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "skyshroud sentinel",
+  "colorIdentity": [
+    "G"
+  ]
+}

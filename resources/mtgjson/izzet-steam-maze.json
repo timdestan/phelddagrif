@@ -1,0 +1,13 @@
+{
+  "layout": "plane",
+  "name": "Izzet Steam Maze",
+  "type": "Plane — Ravnica",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Ravnica"
+  ],
+  "text": "Whenever a player casts an instant or sorcery spell, that player copies it. The player may choose new targets for the copy.\nWhenever you roll CHAOS, instant and sorcery spells you cast this turn cost {3} less to cast.",
+  "imageName": "izzet steam maze"
+}

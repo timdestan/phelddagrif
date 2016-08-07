@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Regal Unicorn",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Unicorn",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Unicorn"
+  ],
+  "power": "2",
+  "toughness": "3",
+  "imageName": "regal unicorn",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Raging Bull",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Ox",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ox"
+  ],
+  "power": "2",
+  "toughness": "2",
+  "imageName": "raging bull",
+  "colorIdentity": [
+    "R"
+  ]
+}

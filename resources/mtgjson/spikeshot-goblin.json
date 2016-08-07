@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Spikeshot Goblin",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Shaman"
+  ],
+  "text": "{R}, {T}: Spikeshot Goblin deals damage equal to its power to target creature or player.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "spikeshot goblin",
+  "colorIdentity": [
+    "R"
+  ]
+}

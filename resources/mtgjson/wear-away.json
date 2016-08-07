@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Wear Away",
+  "manaCost": "{G}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant — Arcane",
+  "types": [
+    "Instant"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "Destroy target artifact or enchantment.\nSplice onto Arcane {3}{G} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+  "imageName": "wear away",
+  "colorIdentity": [
+    "G"
+  ]
+}

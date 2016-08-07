@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Orochi Leafcaller",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Snake Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Snake",
+    "Shaman"
+  ],
+  "text": "{G}: Add one mana of any color to your mana pool.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "orochi leafcaller",
+  "colorIdentity": [
+    "G"
+  ]
+}

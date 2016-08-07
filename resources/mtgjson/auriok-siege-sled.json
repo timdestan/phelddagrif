@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Auriok Siege Sled",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Artifact Creature — Juggernaut",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Juggernaut"
+  ],
+  "text": "{1}: Target artifact creature blocks Auriok Siege Sled this turn if able.\n{1}: Target artifact creature can't block Auriok Siege Sled this turn.",
+  "power": "3",
+  "toughness": "5",
+  "imageName": "auriok siege sled"
+}

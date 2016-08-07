@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Kozilek's Channeler",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Creature — Eldrazi",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi"
+  ],
+  "text": "{T}: Add {C}{C} to your mana pool.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "kozilek's channeler"
+}

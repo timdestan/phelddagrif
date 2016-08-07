@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Soltari Lancer",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Soltari Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Soltari",
+    "Knight"
+  ],
+  "text": "Shadow (This creature can block or be blocked by only creatures with shadow.)\nSoltari Lancer has first strike as long as it's attacking.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "soltari lancer",
+  "colorIdentity": [
+    "W"
+  ]
+}

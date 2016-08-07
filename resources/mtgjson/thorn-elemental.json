@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Thorn Elemental",
+  "manaCost": "{5}{G}{G}",
+  "cmc": 7,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "You may have Thorn Elemental assign its combat damage as though it weren't blocked.",
+  "power": "7",
+  "toughness": "7",
+  "imageName": "thorn elemental",
+  "colorIdentity": [
+    "G"
+  ]
+}

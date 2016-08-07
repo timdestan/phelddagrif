@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Chicken à la King",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Summon — Chicken",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Chicken"
+  ],
+  "text": "Whenever a 6 is rolled on a six-sided die, put a +1/+1 counter on each Chicken in play. (You may roll dice only when a card instructs you to.)\nTap a Chicken you control: Roll a six-sided die.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "chicken à la king",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Knight of the Mists",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\nWhen Knight of the Mists enters the battlefield, you may pay {U}. If you don't, destroy target Knight and it can't be regenerated.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "knight of the mists",
+  "colorIdentity": [
+    "U"
+  ]
+}

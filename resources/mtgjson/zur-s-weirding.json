@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Zur's Weirding",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Players play with their hands revealed.\nIf a player would draw a card, he or she reveals it instead. Then any other player may pay 2 life. If a player does, put that card into its owner's graveyard. Otherwise, that player draws a card.",
+  "imageName": "zur's weirding",
+  "colorIdentity": [
+    "U"
+  ]
+}

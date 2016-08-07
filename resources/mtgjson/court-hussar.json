@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Court Hussar",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Vedalken Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vedalken",
+    "Knight"
+  ],
+  "text": "Vigilance\nWhen Court Hussar enters the battlefield, look at the top three cards of your library, then put one of them into your hand and the rest on the bottom of your library in any order.\nWhen Court Hussar enters the battlefield, sacrifice it unless {W} was spent to cast it.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "court hussar",
+  "colorIdentity": [
+    "U",
+    "W"
+  ]
+}

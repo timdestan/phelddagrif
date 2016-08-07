@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mob Justice",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Mob Justice deals damage to target player equal to the number of creatures you control.",
+  "imageName": "mob justice",
+  "colorIdentity": [
+    "R"
+  ]
+}

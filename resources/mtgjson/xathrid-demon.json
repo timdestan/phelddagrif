@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Xathrid Demon",
+  "manaCost": "{3}{B}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Demon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon"
+  ],
+  "text": "Flying, trample\nAt the beginning of your upkeep, sacrifice a creature other than Xathrid Demon, then each opponent loses life equal to the sacrificed creature's power. If you can't sacrifice a creature, tap Xathrid Demon and you lose 7 life.",
+  "power": "7",
+  "toughness": "7",
+  "imageName": "xathrid demon",
+  "colorIdentity": [
+    "B"
+  ]
+}

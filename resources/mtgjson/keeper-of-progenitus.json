@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Keeper of Progenitus",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Druid"
+  ],
+  "text": "Whenever a player taps a Mountain, Forest, or Plains for mana, that player adds one mana to his or her mana pool of any type that land produced.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "keeper of progenitus",
+  "colorIdentity": [
+    "G"
+  ]
+}

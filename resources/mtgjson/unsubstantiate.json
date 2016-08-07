@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Unsubstantiate",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Return target spell or creature to its owner's hand.",
+  "imageName": "unsubstantiate",
+  "colorIdentity": [
+    "U"
+  ]
+}

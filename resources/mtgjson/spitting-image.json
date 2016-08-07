@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Spitting Image",
+  "manaCost": "{4}{G/U}{G/U}",
+  "cmc": 6,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put a token that's a copy of target creature onto the battlefield.\nRetrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)",
+  "imageName": "spitting image",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

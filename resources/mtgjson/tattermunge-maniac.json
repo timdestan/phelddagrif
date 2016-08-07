@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Tattermunge Maniac",
+  "manaCost": "{R/G}",
+  "cmc": 1,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Goblin Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Warrior"
+  ],
+  "text": "Tattermunge Maniac attacks each turn if able.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "tattermunge maniac",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

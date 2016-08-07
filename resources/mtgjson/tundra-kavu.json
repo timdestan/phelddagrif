@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Tundra Kavu",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Kavu",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kavu"
+  ],
+  "text": "{T}: Target land becomes a Plains or an Island until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "tundra kavu",
+  "colorIdentity": [
+    "R"
+  ]
+}

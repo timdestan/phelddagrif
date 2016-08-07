@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Uncovered Clues",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Look at the top four cards of your library. You may reveal up to two instant and/or sorcery cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.",
+  "imageName": "uncovered clues",
+  "colorIdentity": [
+    "U"
+  ]
+}

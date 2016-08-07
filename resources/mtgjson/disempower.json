@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Disempower",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Put target artifact or enchantment on top of its owner's library.",
+  "imageName": "disempower",
+  "colorIdentity": [
+    "W"
+  ]
+}

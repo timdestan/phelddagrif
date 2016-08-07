@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Thalia's Lieutenant",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "When Thalia's Lieutenant enters the battlefield, put a +1/+1 counter on each other Human you control.\nWhenever another Human enters the battlefield under your control, put a +1/+1 counter on Thalia's Lieutenant.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "thalia's lieutenant",
+  "colorIdentity": [
+    "W"
+  ]
+}

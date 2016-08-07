@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Remembrance",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a nontoken creature you control dies, you may search your library for a card with the same name as that creature, reveal it, and put it into your hand. If you do, shuffle your library.",
+  "imageName": "remembrance",
+  "colorIdentity": [
+    "W"
+  ]
+}

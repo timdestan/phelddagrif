@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Guardian of Tazeem",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Sphinx",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sphinx"
+  ],
+  "text": "Flying\nLandfall — Whenever a land enters the battlefield under your control, tap target creature an opponent controls. If that land is an Island, that creature doesn't untap during its controller's next untap step.",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "guardian of tazeem",
+  "colorIdentity": [
+    "U"
+  ]
+}

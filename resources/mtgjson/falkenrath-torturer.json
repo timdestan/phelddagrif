@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Falkenrath Torturer",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire"
+  ],
+  "text": "Sacrifice a creature: Falkenrath Torturer gains flying until end of turn. If the sacrificed creature was a Human, put a +1/+1 counter on Falkenrath Torturer.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "falkenrath torturer",
+  "colorIdentity": [
+    "B"
+  ]
+}

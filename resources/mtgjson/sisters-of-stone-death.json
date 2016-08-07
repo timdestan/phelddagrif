@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Sisters of Stone Death",
+  "manaCost": "{4}{B}{B}{G}{G}",
+  "cmc": 8,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Legendary Creature — Gorgon",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Gorgon"
+  ],
+  "text": "{G}: Target creature blocks Sisters of Stone Death this turn if able.\n{B}{G}: Exile target creature blocking or blocked by Sisters of Stone Death.\n{2}{B}: Put a creature card exiled with Sisters of Stone Death onto the battlefield under your control.",
+  "power": "7",
+  "toughness": "5",
+  "imageName": "sisters of stone death",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

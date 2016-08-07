@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Run Wild",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Until end of turn, target creature gains trample and \"{G}: Regenerate this creature.\"",
+  "imageName": "run wild",
+  "colorIdentity": [
+    "G"
+  ]
+}

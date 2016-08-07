@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Spawnbroker",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "When Spawnbroker enters the battlefield, you may exchange control of target creature you control and target creature with power less than or equal to that creature's power an opponent controls.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "spawnbroker",
+  "colorIdentity": [
+    "U"
+  ]
+}

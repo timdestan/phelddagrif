@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dream Fracture",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell. Its controller draws a card.\nDraw a card.",
+  "imageName": "dream fracture",
+  "colorIdentity": [
+    "U"
+  ]
+}

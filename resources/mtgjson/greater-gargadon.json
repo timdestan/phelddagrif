@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Greater Gargadon",
+  "manaCost": "{9}{R}",
+  "cmc": 10,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Suspend 10—{R}\nSacrifice an artifact, creature, or land: Remove a time counter from Greater Gargadon. Activate this ability only if Greater Gargadon is suspended.",
+  "power": "9",
+  "toughness": "7",
+  "imageName": "greater gargadon",
+  "colorIdentity": [
+    "R"
+  ]
+}

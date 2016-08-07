@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Seismic Assault",
+  "manaCost": "{R}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Discard a land card: Seismic Assault deals 2 damage to target creature or player.",
+  "imageName": "seismic assault",
+  "colorIdentity": [
+    "R"
+  ]
+}

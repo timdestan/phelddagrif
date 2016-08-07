@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Totem-Guide Hartebeest",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Antelope",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Antelope"
+  ],
+  "text": "When Totem-Guide Hartebeest enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library.",
+  "power": "2",
+  "toughness": "5",
+  "imageName": "totem-guide hartebeest",
+  "colorIdentity": [
+    "W"
+  ]
+}

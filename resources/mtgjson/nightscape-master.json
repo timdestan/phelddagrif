@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Nightscape Master",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Wizard"
+  ],
+  "text": "{U}{U}, {T}: Return target creature to its owner's hand.\n{R}{R}, {T}: Nightscape Master deals 2 damage to target creature.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "nightscape master",
+  "colorIdentity": [
+    "B",
+    "U",
+    "R"
+  ]
+}

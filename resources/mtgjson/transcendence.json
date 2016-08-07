@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Transcendence",
+  "manaCost": "{3}{W}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "You don't lose the game for having 0 or less life.\nWhen you have 20 or more life, you lose the game.\nWhenever you lose life, you gain 2 life for each 1 life you lost. (Damage dealt to you causes you to lose life.)",
+  "imageName": "transcendence",
+  "colorIdentity": [
+    "W"
+  ]
+}

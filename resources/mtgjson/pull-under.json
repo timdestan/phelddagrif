@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Pull Under",
+  "manaCost": "{5}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant — Arcane",
+  "types": [
+    "Instant"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "Target creature gets -5/-5 until end of turn.",
+  "imageName": "pull under",
+  "colorIdentity": [
+    "B"
+  ]
+}

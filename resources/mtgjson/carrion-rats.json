@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Carrion Rats",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Rat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rat"
+  ],
+  "text": "Whenever Carrion Rats attacks or blocks, any player may exile a card from his or her graveyard. If a player does, Carrion Rats assigns no combat damage this turn.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "carrion rats",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Glissa's Courier",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "glissa's courier",
+  "colorIdentity": [
+    "G"
+  ]
+}

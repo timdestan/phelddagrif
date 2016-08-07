@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Gorgon's Head",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature has deathtouch.\nEquip {2}",
+  "imageName": "gorgon's head"
+}

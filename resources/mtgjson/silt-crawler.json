@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Silt Crawler",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "When Silt Crawler enters the battlefield, tap all lands you control.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "silt crawler",
+  "colorIdentity": [
+    "G"
+  ]
+}

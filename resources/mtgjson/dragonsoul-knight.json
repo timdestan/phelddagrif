@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Dragonsoul Knight",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "First strike\n{W}{U}{B}{R}{G}: Until end of turn, Dragonsoul Knight becomes a Dragon, gets +5/+3, and gains flying and trample.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "dragonsoul knight",
+  "colorIdentity": [
+    "R",
+    "W",
+    "U",
+    "B",
+    "G"
+  ]
+}

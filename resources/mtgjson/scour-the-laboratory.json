@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Scour the Laboratory",
+  "manaCost": "{4}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Delirium — Scour the Laboratory costs {2} less to cast if there are four or more card types among cards in your graveyard.\nDraw three cards.",
+  "imageName": "scour the laboratory",
+  "colorIdentity": [
+    "U"
+  ]
+}

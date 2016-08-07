@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Turn Aside",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell that targets a permanent you control.",
+  "imageName": "turn aside",
+  "colorIdentity": [
+    "U"
+  ]
+}

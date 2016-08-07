@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Gruul Scrapper",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Berserker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Berserker"
+  ],
+  "text": "When Gruul Scrapper enters the battlefield, if {R} was spent to cast Gruul Scrapper, it gains haste until end of turn.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "gruul scrapper",
+  "colorIdentity": [
+    "G",
+    "R"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Glacial Crasher",
+  "manaCost": "{4}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)\nGlacial Crasher can't attack unless there is a Mountain on the battlefield.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "glacial crasher",
+  "colorIdentity": [
+    "U"
+  ]
+}

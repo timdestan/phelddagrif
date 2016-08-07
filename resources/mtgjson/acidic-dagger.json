@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Acidic Dagger",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{4}, {T}: Whenever target creature deals combat damage to a non-Wall creature this turn, destroy that non-Wall creature. When the targeted creature leaves the battlefield this turn, sacrifice Acidic Dagger. Activate this ability only before blockers are declared.",
+  "imageName": "acidic dagger"
+}

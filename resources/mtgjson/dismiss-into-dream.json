@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dismiss into Dream",
+  "manaCost": "{6}{U}",
+  "cmc": 7,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Each creature your opponents control is an Illusion in addition to its other types and has \"When this creature becomes the target of a spell or ability, sacrifice it.\"",
+  "imageName": "dismiss into dream",
+  "colorIdentity": [
+    "U"
+  ]
+}

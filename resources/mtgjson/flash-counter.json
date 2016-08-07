@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Flash Counter",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target instant spell.",
+  "imageName": "flash counter",
+  "colorIdentity": [
+    "U"
+  ]
+}

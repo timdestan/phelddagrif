@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Silver Wyvern",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flying\n{U}: Change the target of target spell or ability that targets only Silver Wyvern. The new target must be a creature.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "silver wyvern",
+  "colorIdentity": [
+    "U"
+  ]
+}

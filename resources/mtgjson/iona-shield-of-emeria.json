@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Iona, Shield of Emeria",
+  "manaCost": "{6}{W}{W}{W}",
+  "cmc": 9,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Creature — Angel",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nAs Iona, Shield of Emeria enters the battlefield, choose a color.\nYour opponents can't cast spells of the chosen color.",
+  "power": "7",
+  "toughness": "7",
+  "imageName": "iona, shield of emeria",
+  "colorIdentity": [
+    "W"
+  ]
+}

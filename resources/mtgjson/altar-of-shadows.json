@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Altar of Shadows",
+  "manaCost": "{7}",
+  "cmc": 7,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "At the beginning of your precombat main phase, add {B} to your mana pool for each charge counter on Altar of Shadows.\n{7}, {T}: Destroy target creature. Then put a charge counter on Altar of Shadows.",
+  "imageName": "altar of shadows",
+  "colorIdentity": [
+    "B"
+  ]
+}

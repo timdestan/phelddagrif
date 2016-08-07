@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Rally the Righteous",
+  "manaCost": "{1}{R}{W}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Radiance — Untap target creature and each other creature that shares a color with it. Those creatures get +2/+0 until end of turn.",
+  "imageName": "rally the righteous",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Cultivator Drone",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "type": "Creature — Eldrazi Drone",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Drone"
+  ],
+  "text": "Devoid (This card has no color.)\n{T}: Add {C} to your mana pool. Spend this mana only to cast a colorless spell, activate an ability of a colorless permanent, or pay a cost that contains {C}. ({C} represents colorless mana.)",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "cultivator drone",
+  "colorIdentity": [
+    "U"
+  ]
+}

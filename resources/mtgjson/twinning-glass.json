@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Twinning Glass",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{1}, {T}: You may cast a nonland card from your hand without paying its mana cost if it has the same name as a spell that was cast this turn.",
+  "imageName": "twinning glass"
+}

@@ -1,0 +1,28 @@
+{
+  "layout": "double-faced",
+  "name": "Smoldering Werewolf",
+  "names": [
+    "Smoldering Werewolf",
+    "Erupting Dreadwolf"
+  ],
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Werewolf Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Werewolf",
+    "Horror"
+  ],
+  "text": "When Smoldering Werewolf enters the battlefield, it deals 1 damage to each of up to two target creatures.\n{4}{R}{R}: Transform Smoldering Werewolf.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "smoldering werewolf",
+  "colorIdentity": [
+    "R"
+  ]
+}

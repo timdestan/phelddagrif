@@ -1,0 +1,26 @@
+{
+  "layout": "double-faced",
+  "name": "Ironfang",
+  "names": [
+    "Village Ironsmith",
+    "Ironfang"
+  ],
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Werewolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Werewolf"
+  ],
+  "text": "First strike\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Ironfang.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "ironfang",
+  "colorIdentity": [
+    "R"
+  ]
+}

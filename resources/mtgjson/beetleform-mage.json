@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Beetleform Mage",
+  "manaCost": "{1}{G}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Creature — Human Insect Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Insect",
+    "Wizard"
+  ],
+  "text": "{G}{U}: Beetleform Mage gets +2/+2 and gains flying until end of turn. Activate this ability only once each turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "beetleform mage",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

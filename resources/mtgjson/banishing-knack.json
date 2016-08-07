@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Banishing Knack",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Until end of turn, target creature gains \"{T}: Return target nonland permanent to its owner's hand.\"",
+  "imageName": "banishing knack",
+  "colorIdentity": [
+    "U"
+  ]
+}

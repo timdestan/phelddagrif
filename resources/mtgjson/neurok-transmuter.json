@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Neurok Transmuter",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{U}: Target creature becomes an artifact in addition to its other types until end of turn.\n{U}: Until end of turn, target artifact creature becomes blue and isn't an artifact.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "neurok transmuter",
+  "colorIdentity": [
+    "U"
+  ]
+}

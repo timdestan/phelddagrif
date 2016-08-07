@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dissension in the Ranks",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target blocking creature fights another target blocking creature.",
+  "imageName": "dissension in the ranks",
+  "colorIdentity": [
+    "R"
+  ]
+}

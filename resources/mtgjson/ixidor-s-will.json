@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ixidor's Will",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell unless its controller pays {2} for each Wizard on the battlefield.",
+  "imageName": "ixidor's will",
+  "colorIdentity": [
+    "U"
+  ]
+}

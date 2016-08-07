@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Green Sun's Zenith",
+  "manaCost": "{X}{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Search your library for a green creature card with converted mana cost X or less, put it onto the battlefield, then shuffle your library. Shuffle Green Sun's Zenith into its owner's library.",
+  "imageName": "green sun's zenith",
+  "colorIdentity": [
+    "G"
+  ]
+}

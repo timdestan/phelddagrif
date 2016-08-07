@@ -1,0 +1,24 @@
+{
+  "layout": "leveler",
+  "name": "Kabira Vindicator",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "Level up {2}{W} ({2}{W}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 2-4\n3/6\nOther creatures you control get +1/+1.\nLEVEL 5+\n4/8\nOther creatures you control get +2/+2.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "kabira vindicator",
+  "colorIdentity": [
+    "W"
+  ]
+}

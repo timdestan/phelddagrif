@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Nissa's Chosen",
+  "manaCost": "{G}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Warrior"
+  ],
+  "text": "If Nissa's Chosen would die, put it on the bottom of its owner's library instead.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "nissa's chosen",
+  "colorIdentity": [
+    "G"
+  ]
+}

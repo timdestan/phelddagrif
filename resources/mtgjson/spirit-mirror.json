@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Spirit Mirror",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, if there are no Reflection tokens on the battlefield, put a 2/2 white Reflection creature token onto the battlefield.\n{0}: Destroy target Reflection.",
+  "imageName": "spirit mirror",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Festering Newt",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Salamander",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Salamander"
+  ],
+  "text": "When Festering Newt dies, target creature an opponent controls gets -1/-1 until end of turn. That creature gets -4/-4 instead if you control a creature named Bogbrew Witch.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "festering newt",
+  "colorIdentity": [
+    "B"
+  ]
+}

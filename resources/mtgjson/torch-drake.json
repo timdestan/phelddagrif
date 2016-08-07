@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Torch Drake",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flying\n{1}{R}: Torch Drake gets +1/+0 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "torch drake",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

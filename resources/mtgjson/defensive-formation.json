@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Defensive Formation",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Rather than the attacking player, you assign the combat damage of each creature attacking you. You can divide that creature's combat damage as you choose among any of the creatures blocking it.",
+  "imageName": "defensive formation",
+  "colorIdentity": [
+    "W"
+  ]
+}

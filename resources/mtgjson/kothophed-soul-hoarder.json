@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Kothophed, Soul Hoarder",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Legendary Creature — Demon",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon"
+  ],
+  "text": "Flying\nWhenever a permanent owned by another player is put into a graveyard from the battlefield, you draw a card and you lose 1 life.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "kothophed, soul hoarder",
+  "colorIdentity": [
+    "B"
+  ]
+}

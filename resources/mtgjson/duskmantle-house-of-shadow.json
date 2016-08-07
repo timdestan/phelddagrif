@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Duskmantle, House of Shadow",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{U}{B}, {T}: Target player puts the top card of his or her library into his or her graveyard.",
+  "imageName": "duskmantle, house of shadow",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

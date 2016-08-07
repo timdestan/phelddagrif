@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Tyrant's Choice",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Will of the council — Starting with you, each player votes for death or torture. If death gets more votes, each opponent sacrifices a creature. If torture gets more votes or the vote is tied, each opponent loses 4 life.",
+  "imageName": "tyrant's choice",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Telim'Tor's Edict",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Exile target permanent you own or control.\nDraw a card at the beginning of the next turn's upkeep.",
+  "imageName": "telim'tor's edict",
+  "colorIdentity": [
+    "R"
+  ]
+}

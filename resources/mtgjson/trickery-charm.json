@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Trickery Charm",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose one —\n• Target creature gains flying until end of turn.\n• Target creature becomes the creature type of your choice until end of turn.\n• Look at the top four cards of your library, then put them back in any order.",
+  "imageName": "trickery charm",
+  "colorIdentity": [
+    "U"
+  ]
+}

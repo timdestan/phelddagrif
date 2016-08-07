@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Icatian Skirmishers",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "First strike; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)\nWhenever Icatian Skirmishers attacks, all creatures banded with it gain first strike until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "icatian skirmishers",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Telim'Tor",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Creature — Human Knight",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\nWhenever Telim'Tor attacks, all attacking creatures with flanking get +1/+1 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "telim'tor",
+  "colorIdentity": [
+    "R"
+  ]
+}

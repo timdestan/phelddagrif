@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Pentarch Paladin",
+  "manaCost": "{2}{W}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\nAs Pentarch Paladin enters the battlefield, choose a color.\n{W}{W}, {T}: Destroy target permanent of the chosen color.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "pentarch paladin",
+  "colorIdentity": [
+    "W"
+  ]
+}

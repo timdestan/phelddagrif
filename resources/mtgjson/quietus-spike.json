@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Quietus Spike",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature has deathtouch.\nWhenever equipped creature deals combat damage to a player, that player loses half his or her life, rounded up.\nEquip {3}",
+  "imageName": "quietus spike"
+}

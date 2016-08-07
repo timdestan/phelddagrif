@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Woodland Guidance",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Return target card from your graveyard to your hand. Clash with an opponent. If you win, untap all Forests you control. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)\nExile Woodland Guidance.",
+  "imageName": "woodland guidance",
+  "colorIdentity": [
+    "G"
+  ]
+}

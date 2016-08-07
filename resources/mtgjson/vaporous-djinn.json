@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Vaporous Djinn",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Djinn",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Djinn"
+  ],
+  "text": "Flying\nAt the beginning of your upkeep, Vaporous Djinn phases out unless you pay {U}{U}. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "vaporous djinn",
+  "colorIdentity": [
+    "U"
+  ]
+}

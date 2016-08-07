@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "White Sun's Zenith",
+  "manaCost": "{X}{W}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Put X 2/2 white Cat creature tokens onto the battlefield. Shuffle White Sun's Zenith into its owner's library.",
+  "imageName": "white sun's zenith",
+  "colorIdentity": [
+    "W"
+  ]
+}

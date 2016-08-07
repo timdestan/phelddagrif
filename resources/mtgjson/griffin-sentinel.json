@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Griffin Sentinel",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Griffin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Griffin"
+  ],
+  "text": "Flying\nVigilance (Attacking doesn't cause this creature to tap.)",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "griffin sentinel",
+  "colorIdentity": [
+    "W"
+  ]
+}

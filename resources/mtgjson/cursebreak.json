@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Cursebreak",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target enchantment. You gain 2 life.",
+  "imageName": "cursebreak",
+  "colorIdentity": [
+    "W"
+  ]
+}

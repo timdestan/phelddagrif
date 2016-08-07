@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Hobgoblin Dragoon",
+  "manaCost": "{2}{R/W}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Creature — Goblin Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Knight"
+  ],
+  "text": "Flying, first strike",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "hobgoblin dragoon",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

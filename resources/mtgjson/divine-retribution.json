@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Divine Retribution",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Divine Retribution deals damage to target attacking creature equal to the number of attacking creatures.",
+  "imageName": "divine retribution",
+  "colorIdentity": [
+    "W"
+  ]
+}

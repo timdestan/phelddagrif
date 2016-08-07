@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Ulamog's Crusher",
+  "manaCost": "{8}",
+  "cmc": 8,
+  "type": "Creature — Eldrazi",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi"
+  ],
+  "text": "Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)\nUlamog's Crusher attacks each turn if able.",
+  "power": "8",
+  "toughness": "8",
+  "imageName": "ulamog's crusher"
+}

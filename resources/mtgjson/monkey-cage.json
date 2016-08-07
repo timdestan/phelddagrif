@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Monkey Cage",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "When a creature enters the battlefield, sacrifice Monkey Cage and put X 2/2 green Ape creature tokens onto the battlefield, where X is that creature's converted mana cost.",
+  "imageName": "monkey cage"
+}

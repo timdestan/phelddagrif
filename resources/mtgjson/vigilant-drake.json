@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Vigilant Drake",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flying\n{2}{U}: Untap Vigilant Drake.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "vigilant drake",
+  "colorIdentity": [
+    "U"
+  ]
+}

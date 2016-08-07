@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Chaoslace",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target spell or permanent becomes red. (Its mana symbols remain unchanged.)",
+  "imageName": "chaoslace",
+  "colorIdentity": [
+    "R"
+  ]
+}

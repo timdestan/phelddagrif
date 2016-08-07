@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Tel-Jilad Exile",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Troll Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Troll",
+    "Warrior"
+  ],
+  "text": "{1}{G}: Regenerate Tel-Jilad Exile.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "tel-jilad exile",
+  "colorIdentity": [
+    "G"
+  ]
+}

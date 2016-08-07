@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Sejiri Merfolk",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Soldier"
+  ],
+  "text": "As long as you control a Plains, Sejiri Merfolk has first strike and lifelink. (Damage dealt by a creature with lifelink also causes its controller to gain that much life.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "sejiri merfolk",
+  "colorIdentity": [
+    "U"
+  ]
+}

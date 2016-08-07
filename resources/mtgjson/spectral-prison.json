@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Spectral Prison",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature doesn't untap during its controller's untap step.\nWhen enchanted creature becomes the target of a spell, sacrifice Spectral Prison.",
+  "imageName": "spectral prison",
+  "colorIdentity": [
+    "U"
+  ]
+}

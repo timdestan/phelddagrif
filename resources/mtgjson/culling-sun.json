@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Culling Sun",
+  "manaCost": "{2}{W}{W}{B}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy each creature with converted mana cost 3 or less.",
+  "imageName": "culling sun",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

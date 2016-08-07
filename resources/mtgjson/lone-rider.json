@@ -1,0 +1,28 @@
+{
+  "layout": "double-faced",
+  "name": "Lone Rider",
+  "names": [
+    "Lone Rider",
+    "It That Rides as One"
+  ],
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "First strike, lifelink\nAt the beginning of the end step, if you gained 3 or more life this turn, transform Lone Rider.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "lone rider",
+  "colorIdentity": [
+    "W"
+  ]
+}

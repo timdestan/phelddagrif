@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Aladdin",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "{1}{R}{R}, {T}: Gain control of target artifact for as long as you control Aladdin.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "aladdin",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Rockcaster Platoon",
+  "manaCost": "{5}{W}{W}",
+  "cmc": 7,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Rhino Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rhino",
+    "Soldier"
+  ],
+  "text": "{4}{G}: Rockcaster Platoon deals 2 damage to each creature with flying and each player.",
+  "power": "5",
+  "toughness": "7",
+  "imageName": "rockcaster platoon",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

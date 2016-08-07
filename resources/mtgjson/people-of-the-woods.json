@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "People of the Woods",
+  "manaCost": "{G}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human"
+  ],
+  "text": "People of the Woods's toughness is equal to the number of Forests you control.",
+  "power": "1",
+  "toughness": "*",
+  "imageName": "people of the woods",
+  "colorIdentity": [
+    "G"
+  ]
+}

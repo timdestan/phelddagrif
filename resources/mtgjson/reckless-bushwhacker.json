@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Reckless Bushwhacker",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Warrior Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Warrior",
+    "Ally"
+  ],
+  "text": "Surge {1}{R} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)\nHaste\nWhen Reckless Bushwhacker enters the battlefield, if its surge cost was paid, other creatures you control get +1/+0 and gain haste until end of turn.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "reckless bushwhacker",
+  "colorIdentity": [
+    "R"
+  ]
+}

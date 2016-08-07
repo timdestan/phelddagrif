@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Standstill",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "When a player casts a spell, sacrifice Standstill. If you do, each of that player's opponents draws three cards.",
+  "imageName": "standstill",
+  "colorIdentity": [
+    "U"
+  ]
+}

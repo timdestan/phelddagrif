@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Corrupted Grafstone",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Corrupted Grafstone enters the battlefield tapped.\n{T}: Choose a color of a card in your graveyard. Add one mana of that color to your mana pool.",
+  "imageName": "corrupted grafstone"
+}

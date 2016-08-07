@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Molting Skin",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Return Molting Skin to its owner's hand: Regenerate target creature.",
+  "imageName": "molting skin",
+  "colorIdentity": [
+    "G"
+  ]
+}

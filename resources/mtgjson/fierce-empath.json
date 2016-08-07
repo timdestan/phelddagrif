@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Fierce Empath",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf"
+  ],
+  "text": "When Fierce Empath enters the battlefield, you may search your library for a creature card with converted mana cost 6 or greater, reveal it, put it into your hand, then shuffle your library.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "fierce empath",
+  "colorIdentity": [
+    "G"
+  ]
+}

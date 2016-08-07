@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Lost in the Woods",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a creature attacks you or a planeswalker you control, reveal the top card of your library. If it's a Forest card, remove that creature from combat. Then put the revealed card on the bottom of your library.",
+  "imageName": "lost in the woods",
+  "colorIdentity": [
+    "G"
+  ]
+}

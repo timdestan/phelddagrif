@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Reliquary Tower",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "You have no maximum hand size.\n{T}: Add {C} to your mana pool.",
+  "imageName": "reliquary tower"
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Elder Spawn",
+  "manaCost": "{4}{U}{U}{U}",
+  "cmc": 7,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Spawn",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spawn"
+  ],
+  "text": "At the beginning of your upkeep, unless you sacrifice an Island, sacrifice Elder Spawn and it deals 6 damage to you.\nElder Spawn can't be blocked by red creatures.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "elder spawn",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Merciless Eviction",
+  "manaCost": "{4}{W}{B}",
+  "cmc": 6,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Choose one —\n• Exile all artifacts.\n• Exile all creatures.\n• Exile all enchantments.\n• Exile all planeswalkers.",
+  "imageName": "merciless eviction",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

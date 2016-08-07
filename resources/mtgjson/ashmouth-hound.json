@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ashmouth Hound",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental Hound",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Hound"
+  ],
+  "text": "Whenever Ashmouth Hound blocks or becomes blocked by a creature, Ashmouth Hound deals 1 damage to that creature.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "ashmouth hound",
+  "colorIdentity": [
+    "R"
+  ]
+}

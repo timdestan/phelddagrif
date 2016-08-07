@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Siege Rhino",
+  "manaCost": "{1}{W}{B}{G}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Black",
+    "Green"
+  ],
+  "type": "Creature — Rhino",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rhino"
+  ],
+  "text": "Trample\nWhen Siege Rhino enters the battlefield, each opponent loses 3 life and you gain 3 life.",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "siege rhino",
+  "colorIdentity": [
+    "W",
+    "B",
+    "G"
+  ]
+}

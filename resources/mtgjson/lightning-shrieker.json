@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Lightning Shrieker",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying, trample, haste\nAt the beginning of the end step, Lightning Shrieker's owner shuffles it into his or her library.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "lightning shrieker",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Choice of Damnations",
+  "manaCost": "{5}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery — Arcane",
+  "types": [
+    "Sorcery"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "Target opponent chooses a number. You may have that player lose that much life. If you don't, that player sacrifices all but that many permanents.",
+  "imageName": "choice of damnations",
+  "colorIdentity": [
+    "B"
+  ]
+}

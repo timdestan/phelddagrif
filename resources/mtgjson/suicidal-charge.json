@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Suicidal Charge",
+  "manaCost": "{3}{B}{R}",
+  "cmc": 5,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Sacrifice Suicidal Charge: Creatures your opponents control get -1/-1 until end of turn. Those creatures attack this turn if able.",
+  "imageName": "suicidal charge",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

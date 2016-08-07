@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Stocking Tiger",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact Creature — Cat Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat",
+    "Construct"
+  ],
+  "text": "Stocking Tiger enters the battlefield with a sealed Magic booster pack under it.\nWhen Stocking Tiger deals combat damage to a player, unwrap the booster pack and put it in your hand.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "stocking tiger"
+}

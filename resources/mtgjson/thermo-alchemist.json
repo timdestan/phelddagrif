@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Thermo-Alchemist",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Shaman"
+  ],
+  "text": "Defender\n{T}: Thermo-Alchemist deals 1 damage to each opponent.\nWhenever you cast an instant or sorcery spell, untap Thermo-Alchemist.",
+  "power": "0",
+  "toughness": "3",
+  "imageName": "thermo-alchemist",
+  "colorIdentity": [
+    "R"
+  ]
+}

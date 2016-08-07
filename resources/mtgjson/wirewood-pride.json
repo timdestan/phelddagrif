@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Wirewood Pride",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gets +X/+X until end of turn, where X is the number of Elves on the battlefield.",
+  "imageName": "wirewood pride",
+  "colorIdentity": [
+    "G"
+  ]
+}

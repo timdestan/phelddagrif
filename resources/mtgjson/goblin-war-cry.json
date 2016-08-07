@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Goblin War Cry",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target opponent chooses a creature he or she controls. Other creatures he or she controls can't block this turn.",
+  "imageName": "goblin war cry",
+  "colorIdentity": [
+    "R"
+  ]
+}

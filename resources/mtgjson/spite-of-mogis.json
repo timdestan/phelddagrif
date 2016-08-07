@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Spite of Mogis",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Spite of Mogis deals damage to target creature equal to the number of instant and sorcery cards in your graveyard. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "imageName": "spite of mogis",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ghoultree",
+  "manaCost": "{7}{G}",
+  "cmc": 8,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Zombie Treefolk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Treefolk"
+  ],
+  "text": "Ghoultree costs {1} less to cast for each creature card in your graveyard.",
+  "power": "10",
+  "toughness": "10",
+  "imageName": "ghoultree",
+  "colorIdentity": [
+    "G"
+  ]
+}

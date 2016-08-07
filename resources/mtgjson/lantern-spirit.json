@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Lantern Spirit",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying\n{U}: Return Lantern Spirit to its owner's hand.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "lantern spirit",
+  "colorIdentity": [
+    "U"
+  ]
+}

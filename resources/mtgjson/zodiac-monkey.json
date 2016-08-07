@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Zodiac Monkey",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Ape",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ape"
+  ],
+  "text": "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "zodiac monkey",
+  "colorIdentity": [
+    "G"
+  ]
+}

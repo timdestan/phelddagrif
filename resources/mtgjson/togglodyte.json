@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Togglodyte",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "Togglodyte comes into play turned on.\nWhenever a player plays a spell, toggle Togglodyte's ON/OFF switch.\nAs long as Togglodyte is turned off, it can't attack or block, and all damage it would deal is prevented.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "togglodyte"
+}

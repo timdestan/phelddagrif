@@ -1,0 +1,13 @@
+{
+  "layout": "plane",
+  "name": "Feeding Grounds",
+  "type": "Plane — Muraganda",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Muraganda"
+  ],
+  "text": "Red spells cost {1} less to cast.\nGreen spells cost {1} less to cast.\nWhenever you roll CHAOS, put X +1/+1 counters on target creature, where X is that creature's converted mana cost.",
+  "imageName": "feeding grounds"
+}

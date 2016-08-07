@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Evaporate",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Evaporate deals 1 damage to each white and/or blue creature.",
+  "imageName": "evaporate",
+  "colorIdentity": [
+    "R"
+  ]
+}

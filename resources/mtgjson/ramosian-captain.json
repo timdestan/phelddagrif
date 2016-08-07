@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ramosian Captain",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Rebel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rebel"
+  ],
+  "text": "First strike\n{5}, {T}: Search your library for a Rebel permanent card with converted mana cost 4 or less and put it onto the battlefield. Then shuffle your library.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "ramosian captain",
+  "colorIdentity": [
+    "W"
+  ]
+}

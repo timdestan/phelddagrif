@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Snapback",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "You may exile a blue card from your hand rather than pay Snapback's mana cost.\nReturn target creature to its owner's hand.",
+  "imageName": "snapback",
+  "colorIdentity": [
+    "U"
+  ]
+}

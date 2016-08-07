@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Reach Through Mists",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant — Arcane",
+  "types": [
+    "Instant"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "Draw a card.",
+  "imageName": "reach through mists",
+  "colorIdentity": [
+    "U"
+  ]
+}

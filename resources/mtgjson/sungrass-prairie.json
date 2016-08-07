@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Sungrass Prairie",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{1}, {T}: Add {G}{W} to your mana pool.",
+  "imageName": "sungrass prairie",
+  "colorIdentity": [
+    "G",
+    "W"
+  ]
+}

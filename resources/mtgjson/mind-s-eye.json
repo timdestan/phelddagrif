@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Mind's Eye",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Whenever an opponent draws a card, you may pay {1}. If you do, draw a card.",
+  "imageName": "mind's eye"
+}

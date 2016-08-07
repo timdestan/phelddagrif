@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Magus of the Tabernacle",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "All creatures have \"At the beginning of your upkeep, sacrifice this creature unless you pay {1}.\"",
+  "power": "2",
+  "toughness": "6",
+  "imageName": "magus of the tabernacle",
+  "colorIdentity": [
+    "W"
+  ]
+}

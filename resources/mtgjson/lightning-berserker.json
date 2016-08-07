@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Lightning Berserker",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Berserker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Berserker"
+  ],
+  "text": "{R}: Lightning Berserker gets +1/+0 until end of turn.\nDash {R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "lightning berserker",
+  "colorIdentity": [
+    "R"
+  ]
+}

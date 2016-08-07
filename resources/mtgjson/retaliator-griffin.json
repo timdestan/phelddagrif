@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Retaliator Griffin",
+  "manaCost": "{1}{R}{G}{W}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Griffin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Griffin"
+  ],
+  "text": "Flying\nWhenever a source an opponent controls deals damage to you, you may put that many +1/+1 counters on Retaliator Griffin.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "retaliator griffin",
+  "colorIdentity": [
+    "W",
+    "R",
+    "G"
+  ]
+}

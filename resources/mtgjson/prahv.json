@@ -1,0 +1,13 @@
+{
+  "layout": "plane",
+  "name": "Prahv",
+  "type": "Plane — Ravnica",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Ravnica"
+  ],
+  "text": "If you cast a spell this turn, you can't attack with creatures.\nIf you attacked with creatures this turn, you can't cast spells.\nWhenever you roll CHAOS, you gain life equal to the number of cards in your hand.",
+  "imageName": "prahv"
+}

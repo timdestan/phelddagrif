@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Kuldotha Forgemaster",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact Creature — Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "text": "{T}, Sacrifice three artifacts: Search your library for an artifact card and put it onto the battlefield. Then shuffle your library.",
+  "power": "3",
+  "toughness": "5",
+  "imageName": "kuldotha forgemaster"
+}

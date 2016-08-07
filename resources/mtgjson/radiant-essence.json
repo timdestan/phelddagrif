@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Radiant Essence",
+  "manaCost": "{1}{G}{W}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Radiant Essence gets +1/+2 as long as an opponent controls a black permanent.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "radiant essence",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

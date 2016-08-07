@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Satyr Rambler",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Satyr",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Satyr"
+  ],
+  "text": "Trample",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "satyr rambler",
+  "colorIdentity": [
+    "R"
+  ]
+}

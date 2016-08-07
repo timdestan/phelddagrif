@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Wordmail",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchant Creature",
+  "types": [
+    "Enchant",
+    "Creature"
+  ],
+  "text": "Enchanted creature gets +1/+1 for each word in its name.",
+  "imageName": "wordmail",
+  "colorIdentity": [
+    "W"
+  ]
+}

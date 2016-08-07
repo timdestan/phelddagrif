@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Frostburn Weird",
+  "manaCost": "{U/R}{U/R}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Creature — Weird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Weird"
+  ],
+  "text": "{U/R}: Frostburn Weird gets +1/-1 until end of turn.",
+  "power": "1",
+  "toughness": "4",
+  "imageName": "frostburn weird",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

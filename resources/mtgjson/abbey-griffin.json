@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Abbey Griffin",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Griffin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Griffin"
+  ],
+  "text": "Flying, vigilance",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "abbey griffin",
+  "colorIdentity": [
+    "W"
+  ]
+}

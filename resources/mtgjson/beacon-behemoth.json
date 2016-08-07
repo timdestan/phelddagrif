@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Beacon Behemoth",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "{1}: Target creature with power 5 or greater gains vigilance until end of turn.",
+  "power": "5",
+  "toughness": "3",
+  "imageName": "beacon behemoth",
+  "colorIdentity": [
+    "G"
+  ]
+}

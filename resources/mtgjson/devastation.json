@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Devastation",
+  "manaCost": "{5}{R}{R}",
+  "cmc": 7,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy all creatures and lands.",
+  "imageName": "devastation",
+  "colorIdentity": [
+    "R"
+  ]
+}

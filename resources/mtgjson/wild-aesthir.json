@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wild Aesthir",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying, first strike\n{W}{W}: Wild Aesthir gets +2/+0 until end of turn. Activate this ability only once each turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "wild aesthir",
+  "colorIdentity": [
+    "W"
+  ]
+}

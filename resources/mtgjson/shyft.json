@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Shyft",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Shapeshifter",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Shapeshifter"
+  ],
+  "text": "At the beginning of your upkeep, you may have Shyft become the color or colors of your choice. (This effect lasts indefinitely.)",
+  "power": "4",
+  "toughness": "2",
+  "imageName": "shyft",
+  "colorIdentity": [
+    "U"
+  ]
+}

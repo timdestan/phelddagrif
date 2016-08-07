@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Infernal Harvest",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "As an additional cost to cast Infernal Harvest, return X Swamps you control to their owner's hand.\nInfernal Harvest deals X damage divided as you choose among any number of target creatures.",
+  "imageName": "infernal harvest",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Plea for Guidance",
+  "manaCost": "{5}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Search your library for up to two enchantment cards, reveal them, and put them into your hand. Then shuffle your library.",
+  "imageName": "plea for guidance",
+  "colorIdentity": [
+    "W"
+  ]
+}

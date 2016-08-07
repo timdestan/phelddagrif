@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Auramancer",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "auramancer",
+  "colorIdentity": [
+    "W"
+  ]
+}

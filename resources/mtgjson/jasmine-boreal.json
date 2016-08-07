@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Jasmine Boreal",
+  "manaCost": "{3}{G}{W}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Legendary Creature — Human",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human"
+  ],
+  "power": "4",
+  "toughness": "5",
+  "imageName": "jasmine boreal",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

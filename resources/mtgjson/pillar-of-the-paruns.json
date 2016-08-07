@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Pillar of the Paruns",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add one mana of any color to your mana pool. Spend this mana only to cast a multicolored spell.",
+  "imageName": "pillar of the paruns"
+}

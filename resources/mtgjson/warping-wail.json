@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Warping Wail",
+  "manaCost": "{1}{C}",
+  "cmc": 2,
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "({C} represents colorless mana.)\nChoose one —\n• Exile target creature with power or toughness 1 or less.\n• Counter target sorcery spell.\n• Put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has \"Sacrifice this creature: Add {C} to your mana pool.\"",
+  "imageName": "warping wail"
+}

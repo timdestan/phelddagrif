@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dreamwinder",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Serpent",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Serpent"
+  ],
+  "text": "Dreamwinder can't attack unless defending player controls an Island.\n{U}, Sacrifice an Island: Target land becomes an Island until end of turn.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "dreamwinder",
+  "colorIdentity": [
+    "U"
+  ]
+}

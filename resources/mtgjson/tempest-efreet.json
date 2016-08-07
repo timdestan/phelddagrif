@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Tempest Efreet",
+  "manaCost": "{1}{R}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Efreet",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Efreet"
+  ],
+  "text": "Remove Tempest Efreet from your deck before playing if you're not playing for ante.\n{T}, Sacrifice Tempest Efreet: Target opponent may pay 10 life. If that player doesn't, he or she reveals a card at random from his or her hand. Exchange ownership of the revealed card and Tempest Efreet. Put the revealed card into your hand and Tempest Efreet from anywhere into that player's graveyard. This change in ownership is permanent.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "tempest efreet",
+  "colorIdentity": [
+    "R"
+  ]
+}

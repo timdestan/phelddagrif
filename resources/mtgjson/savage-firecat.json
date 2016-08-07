@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Savage Firecat",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental Cat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Cat"
+  ],
+  "text": "Trample\nSavage Firecat enters the battlefield with seven +1/+1 counters on it.\nWhenever you tap a land for mana, remove a +1/+1 counter from Savage Firecat.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "savage firecat",
+  "colorIdentity": [
+    "R"
+  ]
+}

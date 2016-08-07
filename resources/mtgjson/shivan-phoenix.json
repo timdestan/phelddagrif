@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Shivan Phoenix",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Phoenix",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Phoenix"
+  ],
+  "text": "Flying\nWhen Shivan Phoenix dies, return Shivan Phoenix to its owner's hand.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "shivan phoenix",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Gemstone Mine",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Gemstone Mine enters the battlefield with three mining counters on it.\n{T}, Remove a mining counter from Gemstone Mine: Add one mana of any color to your mana pool. If there are no mining counters on Gemstone Mine, sacrifice it.",
+  "imageName": "gemstone mine"
+}

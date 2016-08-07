@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Predator's Strike",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gets +3/+3 and gains trample until end of turn.",
+  "imageName": "predator's strike",
+  "colorIdentity": [
+    "G"
+  ]
+}

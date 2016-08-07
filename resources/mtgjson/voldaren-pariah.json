@@ -1,0 +1,28 @@
+{
+  "layout": "double-faced",
+  "name": "Voldaren Pariah",
+  "names": [
+    "Voldaren Pariah",
+    "Abolisher of Bloodlines"
+  ],
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Horror"
+  ],
+  "text": "Flying\nSacrifice three other creatures: Transform Voldaren Pariah.\nMadness {B}{B}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "voldaren pariah",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Joven",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Creature — Human Rogue",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "{R}{R}{R}, {T}: Destroy target noncreature artifact.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "joven",
+  "colorIdentity": [
+    "R"
+  ]
+}

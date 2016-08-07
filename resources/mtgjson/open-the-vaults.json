@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Open the Vaults",
+  "manaCost": "{4}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Return all artifact and enchantment cards from all graveyards to the battlefield under their owners' control. (Auras with nothing to enchant remain in graveyards.)",
+  "imageName": "open the vaults",
+  "colorIdentity": [
+    "W"
+  ]
+}

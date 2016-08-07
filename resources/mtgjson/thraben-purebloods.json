@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Thraben Purebloods",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Hound",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hound"
+  ],
+  "power": "3",
+  "toughness": "5",
+  "imageName": "thraben purebloods",
+  "colorIdentity": [
+    "W"
+  ]
+}

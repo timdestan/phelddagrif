@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Miss Demeanor",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Summon — Lady of Proper Etiquette",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Lady",
+    "of",
+    "Proper",
+    "Etiquette"
+  ],
+  "text": "Flying, first strike\nDuring each other player's turn, compliment that player on his or her game play or sacrifice Miss Demeanor.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "miss demeanor",
+  "colorIdentity": [
+    "W"
+  ]
+}

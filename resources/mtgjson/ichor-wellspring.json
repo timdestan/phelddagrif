@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Ichor Wellspring",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "When Ichor Wellspring enters the battlefield or is put into a graveyard from the battlefield, draw a card.",
+  "imageName": "ichor wellspring"
+}

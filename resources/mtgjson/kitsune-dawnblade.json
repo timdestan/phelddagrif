@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kitsune Dawnblade",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Fox Samurai",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Fox",
+    "Samurai"
+  ],
+  "text": "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nWhen Kitsune Dawnblade enters the battlefield, you may tap target creature.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "kitsune dawnblade",
+  "colorIdentity": [
+    "W"
+  ]
+}

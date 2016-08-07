@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mystical Tutor",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Search your library for an instant or sorcery card and reveal that card. Shuffle your library, then put the card on top of it.",
+  "imageName": "mystical tutor",
+  "colorIdentity": [
+    "U"
+  ]
+}

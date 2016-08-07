@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Goldenglow Moth",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "Flying\nWhenever Goldenglow Moth blocks, you may gain 4 life.",
+  "power": "0",
+  "toughness": "1",
+  "imageName": "goldenglow moth",
+  "colorIdentity": [
+    "W"
+  ]
+}

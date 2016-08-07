@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dakmor Bat",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Bat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bat"
+  ],
+  "text": "Flying",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "dakmor bat",
+  "colorIdentity": [
+    "B"
+  ]
+}

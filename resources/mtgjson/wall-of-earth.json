@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wall of Earth",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender (This creature can't attack.)",
+  "power": "0",
+  "toughness": "6",
+  "imageName": "wall of earth",
+  "colorIdentity": [
+    "R"
+  ]
+}

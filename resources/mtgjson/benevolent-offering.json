@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Benevolent Offering",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose an opponent. You and that player each put three 1/1 white Spirit creature tokens with flying onto the battlefield.\nChoose an opponent. You gain 2 life for each creature you control and that player gains 2 life for each creature he or she controls.",
+  "imageName": "benevolent offering",
+  "colorIdentity": [
+    "W"
+  ]
+}

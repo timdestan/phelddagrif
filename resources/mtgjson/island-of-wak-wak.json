@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Island of Wak-Wak",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Target creature with flying has base power 0 until end of turn.",
+  "imageName": "island of wak-wak"
+}

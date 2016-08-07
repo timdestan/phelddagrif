@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Temporal Extortion",
+  "manaCost": "{B}{B}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "When you cast Temporal Extortion, any player may pay half his or her life, rounded up. If a player does, counter Temporal Extortion.\nTake an extra turn after this one.",
+  "imageName": "temporal extortion",
+  "colorIdentity": [
+    "B"
+  ]
+}

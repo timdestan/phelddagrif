@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Wall of Shards",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Snow Creature — Wall",
+  "supertypes": [
+    "Snow"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender, flying\nCumulative upkeep—An opponent gains 1 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",
+  "power": "1",
+  "toughness": "8",
+  "imageName": "wall of shards",
+  "colorIdentity": [
+    "W"
+  ]
+}

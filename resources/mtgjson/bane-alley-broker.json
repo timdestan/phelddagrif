@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Bane Alley Broker",
+  "manaCost": "{1}{U}{B}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Creature — Human Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "{T}: Draw a card, then exile a card from your hand face down.\nYou may look at cards exiled with Bane Alley Broker.\n{U}{B}, {T}: Return a card exiled with Bane Alley Broker to its owner's hand.",
+  "power": "0",
+  "toughness": "3",
+  "imageName": "bane alley broker",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

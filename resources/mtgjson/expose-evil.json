@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Expose Evil",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Tap up to two target creatures.\nInvestigate. (Put a colorless Clue artifact token onto the battlefield with \"{2}, Sacrifice this artifact: Draw a card.\")",
+  "imageName": "expose evil",
+  "colorIdentity": [
+    "W"
+  ]
+}

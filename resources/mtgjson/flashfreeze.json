@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Flashfreeze",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target red or green spell.",
+  "imageName": "flashfreeze",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Joraga Bard",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Rogue Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Rogue",
+    "Ally"
+  ],
+  "text": "Whenever Joraga Bard or another Ally enters the battlefield under your control, you may have Ally creatures you control gain vigilance until end of turn.",
+  "power": "1",
+  "toughness": "4",
+  "imageName": "joraga bard",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Ethersworn Adjudicator",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Artifact Creature — Vedalken Knight",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Vedalken",
+    "Knight"
+  ],
+  "text": "Flying\n{1}{W}{B}, {T}: Destroy target creature or enchantment.\n{2}{U}: Untap Ethersworn Adjudicator.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "ethersworn adjudicator",
+  "colorIdentity": [
+    "U",
+    "W",
+    "B"
+  ]
+}

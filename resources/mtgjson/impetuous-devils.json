@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Impetuous Devils",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Devil",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Devil"
+  ],
+  "text": "Trample, haste\nWhen Impetuous Devils attacks, up to one target creature defending player controls blocks it this combat if able.\nAt the beginning of the end step, sacrifice Impetuous Devils.",
+  "power": "6",
+  "toughness": "1",
+  "imageName": "impetuous devils",
+  "colorIdentity": [
+    "R"
+  ]
+}

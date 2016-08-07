@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Cho-Manno, Revolutionary",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Creature — Human Rebel",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rebel"
+  ],
+  "text": "Prevent all damage that would be dealt to Cho-Manno, Revolutionary.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "cho-manno, revolutionary",
+  "colorIdentity": [
+    "W"
+  ]
+}

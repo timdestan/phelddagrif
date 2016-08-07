@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Psychic Trance",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Until end of turn, Wizards you control gain \"{T}: Counter target spell.\"",
+  "imageName": "psychic trance",
+  "colorIdentity": [
+    "U"
+  ]
+}

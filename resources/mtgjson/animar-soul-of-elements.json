@@ -1,0 +1,30 @@
+{
+  "layout": "normal",
+  "name": "Animar, Soul of Elements",
+  "manaCost": "{U}{R}{G}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Red",
+    "Green"
+  ],
+  "type": "Legendary Creature — Elemental",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Protection from white and from black\nWhenever you cast a creature spell, put a +1/+1 counter on Animar, Soul of Elements.\nCreature spells you cast cost {1} less to cast for each +1/+1 counter on Animar.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "animar, soul of elements",
+  "colorIdentity": [
+    "U",
+    "R",
+    "G"
+  ]
+}

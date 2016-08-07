@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Court Archers",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Archer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Archer"
+  ],
+  "text": "Reach (This creature can block creatures with flying.)\nExalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "court archers",
+  "colorIdentity": [
+    "G"
+  ]
+}

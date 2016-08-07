@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Fugitive Druid",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Druid"
+  ],
+  "text": "Whenever Fugitive Druid becomes the target of an Aura spell, you draw a card.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "fugitive druid",
+  "colorIdentity": [
+    "G"
+  ]
+}

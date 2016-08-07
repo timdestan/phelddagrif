@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Goblin War Strike",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Goblin War Strike deals damage equal to the number of Goblins you control to target player.",
+  "imageName": "goblin war strike",
+  "colorIdentity": [
+    "R"
+  ]
+}

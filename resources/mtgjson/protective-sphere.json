@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Protective Sphere",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{1}, Pay 1 life: Prevent all damage that would be dealt to you this turn by a source of your choice that shares a color with the mana spent on this activation cost. (Colorless mana prevents no damage.)",
+  "imageName": "protective sphere",
+  "colorIdentity": [
+    "W"
+  ]
+}

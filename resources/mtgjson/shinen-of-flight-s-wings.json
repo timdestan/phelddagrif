@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Shinen of Flight's Wings",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying\nChannel — {U}, Discard Shinen of Flight's Wings: Target creature gains flying until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "shinen of flight's wings",
+  "colorIdentity": [
+    "U"
+  ]
+}

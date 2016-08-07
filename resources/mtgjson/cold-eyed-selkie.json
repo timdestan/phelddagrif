@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Cold-Eyed Selkie",
+  "manaCost": "{1}{G/U}{G/U}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Creature — Merfolk Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Rogue"
+  ],
+  "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nWhenever Cold-Eyed Selkie deals combat damage to a player, you may draw that many cards.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "cold-eyed selkie",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

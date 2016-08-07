@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Fulgent Distraction",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose two target creatures. Tap those creatures, then unattach all Equipment from them.",
+  "imageName": "fulgent distraction",
+  "colorIdentity": [
+    "W"
+  ]
+}

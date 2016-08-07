@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Jace, Architect of Thought",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Planeswalker — Jace",
+  "types": [
+    "Planeswalker"
+  ],
+  "subtypes": [
+    "Jace"
+  ],
+  "text": "+1: Until your next turn, whenever a creature an opponent controls attacks, it gets -1/-0 until end of turn.\n−2: Reveal the top three cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other on the bottom of your library in any order.\n−8: For each player, search that player's library for a nonland card and exile it, then that player shuffles his or her library. You may cast those cards without paying their mana costs.",
+  "loyalty": 4,
+  "imageName": "jace, architect of thought",
+  "colorIdentity": [
+    "U"
+  ]
+}

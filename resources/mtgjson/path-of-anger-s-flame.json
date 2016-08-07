@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Path of Anger's Flame",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant — Arcane",
+  "types": [
+    "Instant"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "Creatures you control get +2/+0 until end of turn.",
+  "imageName": "path of anger's flame",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Eldritch Evolution",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "As an additional cost to cast Eldritch Evolution, sacrifice a creature.\nSearch your library for a creature card with converted mana cost X or less, where X is 2 plus the sacrificed creature's converted mana cost. Put that card onto the battlefield, then shuffle your library. Exile Eldritch Evolution.",
+  "imageName": "eldritch evolution",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Falling Star",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Flip Falling Star onto the playing area from a height of at least one foot. Falling Star deals 3 damage to each creature it lands on. Tap all creatures dealt damage by Falling Star. If Falling Star doesn't turn completely over at least once during the flip, it has no effect.",
+  "imageName": "falling star",
+  "colorIdentity": [
+    "R"
+  ]
+}

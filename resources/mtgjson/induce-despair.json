@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Induce Despair",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "As an additional cost to cast Induce Despair, reveal a creature card from your hand.\nTarget creature gets -X/-X until end of turn, where X is the revealed card's converted mana cost.",
+  "imageName": "induce despair",
+  "colorIdentity": [
+    "B"
+  ]
+}

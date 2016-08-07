@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Stensia Banquet",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Stensia Banquet deals damage to target opponent equal to the number of Vampires you control.\nDraw a card.",
+  "imageName": "stensia banquet",
+  "colorIdentity": [
+    "R"
+  ]
+}

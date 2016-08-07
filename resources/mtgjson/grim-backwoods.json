@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Grim Backwoods",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{2}{B}{G}, {T}, Sacrifice a creature: Draw a card.",
+  "imageName": "grim backwoods",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

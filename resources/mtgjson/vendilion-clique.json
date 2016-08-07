@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Vendilion Clique",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Legendary Creature — Faerie Wizard",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Faerie",
+    "Wizard"
+  ],
+  "text": "Flash\nFlying\nWhen Vendilion Clique enters the battlefield, look at target player's hand. You may choose a nonland card from it. If you do, that player reveals the chosen card, puts it on the bottom of his or her library, then draws a card.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "vendilion clique",
+  "colorIdentity": [
+    "U"
+  ]
+}

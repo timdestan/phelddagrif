@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dream Halls",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Rather than pay the mana cost for a spell, its controller may discard a card that shares a color with that spell.",
+  "imageName": "dream halls",
+  "colorIdentity": [
+    "U"
+  ]
+}

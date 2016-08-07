@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Illusionary Presence",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Illusion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Illusion"
+  ],
+  "text": "Cumulative upkeep {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nAt the beginning of your upkeep, choose a land type. Illusionary Presence gains landwalk of the chosen type until end of turn. (It can't be blocked as long as defending player controls a land of that type.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "illusionary presence",
+  "colorIdentity": [
+    "U"
+  ]
+}

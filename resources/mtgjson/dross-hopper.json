@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Dross Hopper",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Insect Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect",
+    "Horror"
+  ],
+  "text": "Sacrifice a creature: Dross Hopper gains flying until end of turn.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "dross hopper",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "The Fallen Apart",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "The Fallen Apart comes into play with two arms and two legs.\nWhenever damage is dealt to The Fallen Apart, remove an arm or a leg from it.\nThe Fallen Apart can't attack if it has no legs and can't block if it has no arms.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "the fallen apart",
+  "colorIdentity": [
+    "B"
+  ]
+}

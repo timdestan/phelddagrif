@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Lava Runner",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Lizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Lizard"
+  ],
+  "text": "Haste\nWhenever Lava Runner becomes the target of a spell or ability, that spell or ability's controller sacrifices a land.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "lava runner",
+  "colorIdentity": [
+    "R"
+  ]
+}

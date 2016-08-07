@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Pouncing Wurm",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "text": "Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)\nIf Pouncing Wurm was kicked, it enters the battlefield with three +1/+1 counters on it and with haste.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "pouncing wurm",
+  "colorIdentity": [
+    "G"
+  ]
+}

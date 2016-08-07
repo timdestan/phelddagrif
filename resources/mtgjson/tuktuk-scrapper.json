@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Tuktuk Scrapper",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Artificer Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Artificer",
+    "Ally"
+  ],
+  "text": "Whenever Tuktuk Scrapper or another Ally enters the battlefield under your control, you may destroy target artifact. If that artifact is put into a graveyard this way, Tuktuk Scrapper deals damage to that artifact's controller equal to the number of Allies you control.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "tuktuk scrapper",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Dripping-Tongue Zubera",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Zubera Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zubera",
+    "Spirit"
+  ],
+  "text": "When Dripping-Tongue Zubera dies, put a 1/1 colorless Spirit creature token onto the battlefield for each Zubera that died this turn.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "dripping-tongue zubera",
+  "colorIdentity": [
+    "G"
+  ]
+}

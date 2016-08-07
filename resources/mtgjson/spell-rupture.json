@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Spell Rupture",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell unless its controller pays {X}, where X is the greatest power among creatures you control.",
+  "imageName": "spell rupture",
+  "colorIdentity": [
+    "U"
+  ]
+}

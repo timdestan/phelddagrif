@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Daggerclaw Imp",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Imp",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Imp"
+  ],
+  "text": "Flying\nDaggerclaw Imp can't block.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "daggerclaw imp",
+  "colorIdentity": [
+    "B"
+  ]
+}

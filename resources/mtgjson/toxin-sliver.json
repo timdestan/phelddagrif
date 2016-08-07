@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Toxin Sliver",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "Whenever a Sliver deals combat damage to a creature, destroy that creature. It can't be regenerated.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "toxin sliver",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Akuta, Born of Ash",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Legendary Creature — Spirit",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Haste\nAt the beginning of your upkeep, if you have more cards in hand than each opponent, you may sacrifice a Swamp. If you do, return Akuta, Born of Ash from your graveyard to the battlefield.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "akuta, born of ash",
+  "colorIdentity": [
+    "B"
+  ]
+}

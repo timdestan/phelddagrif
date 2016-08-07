@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Umbilicus",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "At the beginning of each player's upkeep, that player returns a permanent he or she controls to its owner's hand unless he or she pays 2 life.",
+  "imageName": "umbilicus"
+}

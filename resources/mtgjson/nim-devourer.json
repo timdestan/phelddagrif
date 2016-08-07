@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Nim Devourer",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Nim Devourer gets +1/+0 for each artifact you control.\n{B}{B}: Return Nim Devourer from your graveyard to the battlefield, then sacrifice a creature. Activate this ability only during your upkeep.",
+  "power": "4",
+  "toughness": "1",
+  "imageName": "nim devourer",
+  "colorIdentity": [
+    "B"
+  ]
+}

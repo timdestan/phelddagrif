@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Seismic Mage",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Spellshaper",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Spellshaper"
+  ],
+  "text": "{2}{R}, {T}, Discard a card: Destroy target land.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "seismic mage",
+  "colorIdentity": [
+    "R"
+  ]
+}

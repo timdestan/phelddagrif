@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Brine Elemental",
+  "manaCost": "{4}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Morph {5}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Brine Elemental is turned face up, each opponent skips his or her next untap step.",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "brine elemental",
+  "colorIdentity": [
+    "U"
+  ]
+}

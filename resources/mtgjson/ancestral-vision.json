@@ -1,0 +1,16 @@
+{
+  "layout": "normal",
+  "name": "Ancestral Vision",
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Suspend 4—{U} (Rather than cast this card from your hand, pay {U} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)\nTarget player draws three cards.",
+  "imageName": "ancestral vision",
+  "colorIdentity": [
+    "U"
+  ]
+}

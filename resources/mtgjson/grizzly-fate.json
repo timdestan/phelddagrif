@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Grizzly Fate",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put two 2/2 green Bear creature tokens onto the battlefield.\nThreshold — Put four 2/2 green Bear creature tokens onto the battlefield instead if seven or more cards are in your graveyard.\nFlashback {5}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "grizzly fate",
+  "colorIdentity": [
+    "G"
+  ]
+}

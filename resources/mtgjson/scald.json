@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Scald",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a player taps an Island for mana, Scald deals 1 damage to that player.",
+  "imageName": "scald",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Fire Drake",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flying\n{R}: Fire Drake gets +1/+0 until end of turn. Activate this ability only once each turn.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "fire drake",
+  "colorIdentity": [
+    "R"
+  ]
+}

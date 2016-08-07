@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Odric, Master Tactician",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Creature — Human Soldier",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "First strike (This creature deals combat damage before creatures without first strike.)\nWhenever Odric, Master Tactician and at least three other creatures attack, you choose which creatures block this combat and how those creatures block.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "odric, master tactician",
+  "colorIdentity": [
+    "W"
+  ]
+}

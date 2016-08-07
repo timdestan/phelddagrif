@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Suspension Field",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "When Suspension Field enters the battlefield, you may exile target creature with toughness 3 or greater until Suspension Field leaves the battlefield. (That creature returns under its owner's control.)",
+  "imageName": "suspension field",
+  "colorIdentity": [
+    "W"
+  ]
+}

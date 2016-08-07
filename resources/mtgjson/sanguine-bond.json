@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sanguine Bond",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever you gain life, target opponent loses that much life.",
+  "imageName": "sanguine bond",
+  "colorIdentity": [
+    "B"
+  ]
+}

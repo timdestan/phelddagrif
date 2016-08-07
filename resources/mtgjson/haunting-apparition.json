@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Haunting Apparition",
+  "manaCost": "{1}{U}{B}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying\nAs Haunting Apparition enters the battlefield, choose an opponent.\nHaunting Apparition's power is equal to 1 plus the number of green creature cards in the chosen player's graveyard.",
+  "power": "1+*",
+  "toughness": "2",
+  "imageName": "haunting apparition",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

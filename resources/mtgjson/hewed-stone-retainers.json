@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Hewed Stone Retainers",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "Cast Hewed Stone Retainers only if you've cast another spell this turn.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "hewed stone retainers"
+}

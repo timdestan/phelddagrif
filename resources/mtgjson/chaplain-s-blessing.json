@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Chaplain's Blessing",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "You gain 5 life.",
+  "imageName": "chaplain's blessing",
+  "colorIdentity": [
+    "W"
+  ]
+}

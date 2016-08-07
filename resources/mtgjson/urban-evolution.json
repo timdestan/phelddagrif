@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Urban Evolution",
+  "manaCost": "{3}{G}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Draw three cards. You may play an additional land this turn.",
+  "imageName": "urban evolution",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

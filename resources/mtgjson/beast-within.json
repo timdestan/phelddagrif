@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Beast Within",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target permanent. Its controller puts a 3/3 green Beast creature token onto the battlefield.",
+  "imageName": "beast within",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Elusive Spellfist",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Monk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Monk"
+  ],
+  "text": "Whenever you cast a noncreature spell, Elusive Spellfist gets +1/+0 until end of turn and can't be blocked this turn.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "elusive spellfist",
+  "colorIdentity": [
+    "U"
+  ]
+}

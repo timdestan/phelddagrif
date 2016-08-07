@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Puca's Mischief",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, you may exchange control of target nonland permanent you control and target nonland permanent an opponent controls with an equal or lesser converted mana cost.",
+  "imageName": "puca's mischief",
+  "colorIdentity": [
+    "U"
+  ]
+}

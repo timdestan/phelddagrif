@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Goblin Patrol",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "Echo {R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "goblin patrol",
+  "colorIdentity": [
+    "R"
+  ]
+}

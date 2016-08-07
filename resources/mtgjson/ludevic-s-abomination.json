@@ -1,0 +1,27 @@
+{
+  "layout": "double-faced",
+  "name": "Ludevic's Abomination",
+  "names": [
+    "Ludevic's Test Subject",
+    "Ludevic's Abomination"
+  ],
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Lizard Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Lizard",
+    "Horror"
+  ],
+  "text": "Trample",
+  "power": "13",
+  "toughness": "13",
+  "imageName": "ludevic's abomination",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Scavenging Ghoul",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "At the beginning of each end step, put a corpse counter on Scavenging Ghoul for each creature that died this turn.\nRemove a corpse counter from Scavenging Ghoul: Regenerate Scavenging Ghoul.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "scavenging ghoul",
+  "colorIdentity": [
+    "B"
+  ]
+}

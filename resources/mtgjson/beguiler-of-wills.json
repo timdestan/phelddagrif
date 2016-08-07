@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Beguiler of Wills",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{T}: Gain control of target creature with power less than or equal to the number of creatures you control.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "beguiler of wills",
+  "colorIdentity": [
+    "U"
+  ]
+}

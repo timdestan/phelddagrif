@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Tumble Magnet",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Tumble Magnet enters the battlefield with three charge counters on it.\n{T}, Remove a charge counter from Tumble Magnet: Tap target artifact or creature.",
+  "imageName": "tumble magnet"
+}

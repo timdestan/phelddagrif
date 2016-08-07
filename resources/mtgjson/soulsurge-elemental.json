@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Soulsurge Elemental",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "First strike\nSoulsurge Elemental's power is equal to the number of creatures you control.",
+  "power": "*",
+  "toughness": "1",
+  "imageName": "soulsurge elemental",
+  "colorIdentity": [
+    "R"
+  ]
+}

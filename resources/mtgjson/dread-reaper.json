@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dread Reaper",
+  "manaCost": "{3}{B}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "Flying\nWhen Dread Reaper enters the battlefield, you lose 5 life.",
+  "power": "6",
+  "toughness": "5",
+  "imageName": "dread reaper",
+  "colorIdentity": [
+    "B"
+  ]
+}

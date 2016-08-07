@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Gurzigost",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "At the beginning of your upkeep, sacrifice Gurzigost unless you put two cards from your graveyard on the bottom of your library.\n{G}{G}, Discard a card: You may have Gurzigost assign its combat damage this turn as though it weren't blocked.",
+  "power": "6",
+  "toughness": "8",
+  "imageName": "gurzigost",
+  "colorIdentity": [
+    "G"
+  ]
+}

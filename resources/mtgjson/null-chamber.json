@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Null Chamber",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "World Enchantment",
+  "supertypes": [
+    "World"
+  ],
+  "types": [
+    "Enchantment"
+  ],
+  "text": "As Null Chamber enters the battlefield, you and an opponent each name a card other than a basic land card.\nThe named cards can't be played.",
+  "imageName": "null chamber",
+  "colorIdentity": [
+    "W"
+  ]
+}

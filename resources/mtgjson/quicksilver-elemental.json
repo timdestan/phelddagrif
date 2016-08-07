@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Quicksilver Elemental",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "{U}: Quicksilver Elemental gains all activated abilities of target creature until end of turn. (If any of the abilities use that creature's name, use this creature's name instead.)\nYou may spend blue mana as though it were mana of any color to pay the activation costs of Quicksilver Elemental's abilities.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "quicksilver elemental",
+  "colorIdentity": [
+    "U"
+  ]
+}

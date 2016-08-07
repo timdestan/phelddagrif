@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Kami of Old Stone",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "power": "1",
+  "toughness": "7",
+  "imageName": "kami of old stone",
+  "colorIdentity": [
+    "W"
+  ]
+}

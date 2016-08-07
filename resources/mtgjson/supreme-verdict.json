@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Supreme Verdict",
+  "manaCost": "{1}{W}{W}{U}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Supreme Verdict can't be countered.\nDestroy all creatures.",
+  "imageName": "supreme verdict",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Multani's Harmony",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature has \"{T}: Add one mana of any color to your mana pool.\"",
+  "imageName": "multani's harmony",
+  "colorIdentity": [
+    "G"
+  ]
+}

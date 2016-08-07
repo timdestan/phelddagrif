@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Wei Elite Companions",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Horsemanship (This creature can't be blocked except by creatures with horsemanship.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "wei elite companions",
+  "colorIdentity": [
+    "B"
+  ]
+}

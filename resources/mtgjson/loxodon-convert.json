@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Loxodon Convert",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Elephant Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elephant",
+    "Soldier"
+  ],
+  "power": "4",
+  "toughness": "2",
+  "imageName": "loxodon convert",
+  "colorIdentity": [
+    "W"
+  ]
+}

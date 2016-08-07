@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Rootbreaker Wurm",
+  "manaCost": "{5}{G}{G}",
+  "cmc": 7,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "text": "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "rootbreaker wurm",
+  "colorIdentity": [
+    "G"
+  ]
+}

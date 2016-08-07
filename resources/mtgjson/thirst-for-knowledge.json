@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Thirst for Knowledge",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Draw three cards. Then discard two cards unless you discard an artifact card.",
+  "imageName": "thirst for knowledge",
+  "colorIdentity": [
+    "U"
+  ]
+}

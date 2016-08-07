@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Irrigation Ditch",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Irrigation Ditch enters the battlefield tapped.\n{T}: Add {W} to your mana pool.\n{T}, Sacrifice Irrigation Ditch: Add {G}{U} to your mana pool.",
+  "imageName": "irrigation ditch",
+  "colorIdentity": [
+    "W",
+    "G",
+    "U"
+  ]
+}

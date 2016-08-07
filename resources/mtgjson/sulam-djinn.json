@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sulam Djinn",
+  "manaCost": "{5}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Djinn",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Djinn"
+  ],
+  "text": "Trample\nSulam Djinn gets -2/-2 as long as green is the most common color among all permanents or is tied for most common.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "sulam djinn",
+  "colorIdentity": [
+    "G"
+  ]
+}

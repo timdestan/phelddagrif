@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Spatial Binding",
+  "manaCost": "{U}{B}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Pay 1 life: Until your next upkeep, target permanent can't phase out.",
+  "imageName": "spatial binding",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

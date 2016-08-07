@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Constricting Sliver",
+  "manaCost": "{5}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "Sliver creatures you control have \"When this creature enters the battlefield, you may exile target creature an opponent controls until this creature leaves the battlefield.\"",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "constricting sliver",
+  "colorIdentity": [
+    "W"
+  ]
+}

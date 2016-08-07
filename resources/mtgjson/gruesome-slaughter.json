@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Gruesome Slaughter",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Until end of turn, colorless creatures you control gain \"{T}: This creature deals damage equal to its power to target creature.\"",
+  "imageName": "gruesome slaughter"
+}

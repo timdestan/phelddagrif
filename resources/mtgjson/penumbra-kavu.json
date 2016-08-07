@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Penumbra Kavu",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Kavu",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kavu"
+  ],
+  "text": "When Penumbra Kavu dies, put a 3/3 black Kavu creature token onto the battlefield.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "penumbra kavu",
+  "colorIdentity": [
+    "G"
+  ]
+}

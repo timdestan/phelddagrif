@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rending Volley",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Rending Volley can't be countered by spells or abilities.\nRending Volley deals 4 damage to target white or blue creature.",
+  "imageName": "rending volley",
+  "colorIdentity": [
+    "R"
+  ]
+}

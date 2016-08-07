@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Novablast Wurm",
+  "manaCost": "{3}{G}{G}{W}{W}",
+  "cmc": 7,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "text": "Whenever Novablast Wurm attacks, destroy all other creatures.",
+  "power": "7",
+  "toughness": "7",
+  "imageName": "novablast wurm",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

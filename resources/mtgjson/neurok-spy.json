@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Neurok Spy",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "Neurok Spy can't be blocked as long as defending player controls an artifact.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "neurok spy",
+  "colorIdentity": [
+    "U"
+  ]
+}

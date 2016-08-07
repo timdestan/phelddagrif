@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Duskmantle Seer",
+  "manaCost": "{2}{U}{B}",
+  "cmc": 4,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Creature — Vampire Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Wizard"
+  ],
+  "text": "Flying\nAt the beginning of your upkeep, each player reveals the top card of his or her library, loses life equal to that card's converted mana cost, then puts it into his or her hand.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "duskmantle seer",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

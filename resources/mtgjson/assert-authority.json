@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Assert Authority",
+  "manaCost": "{5}{U}{U}",
+  "cmc": 7,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nCounter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",
+  "imageName": "assert authority",
+  "colorIdentity": [
+    "U"
+  ]
+}

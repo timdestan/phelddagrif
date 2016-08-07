@@ -1,0 +1,25 @@
+{
+  "layout": "double-faced",
+  "name": "Moonscarred Werewolf",
+  "names": [
+    "Scorned Villager",
+    "Moonscarred Werewolf"
+  ],
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Werewolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Werewolf"
+  ],
+  "text": "Vigilance\n{T}: Add {G}{G} to your mana pool.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Moonscarred Werewolf.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "moonscarred werewolf",
+  "colorIdentity": [
+    "G"
+  ]
+}

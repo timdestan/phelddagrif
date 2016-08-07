@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Double Negative",
+  "manaCost": "{U}{U}{R}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter up to two target spells.",
+  "imageName": "double negative",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

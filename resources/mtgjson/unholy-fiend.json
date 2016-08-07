@@ -1,0 +1,27 @@
+{
+  "layout": "double-faced",
+  "name": "Unholy Fiend",
+  "names": [
+    "Cloistered Youth",
+    "Unholy Fiend"
+  ],
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "At the beginning of your end step, you lose 1 life.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "unholy fiend",
+  "colorIdentity": [
+    "B",
+    "W"
+  ]
+}

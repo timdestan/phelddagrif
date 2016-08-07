@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Mirrorwood Treefolk",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Treefolk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Treefolk"
+  ],
+  "text": "{2}{R}{W}: The next time damage would be dealt to Mirrorwood Treefolk this turn, that damage is dealt to target creature or player instead.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "mirrorwood treefolk",
+  "colorIdentity": [
+    "G",
+    "R",
+    "W"
+  ]
+}

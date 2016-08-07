@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Thallid Shell-Dweller",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Fungus",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Fungus"
+  ],
+  "text": "Defender\nAt the beginning of your upkeep, put a spore counter on Thallid Shell-Dweller.\nRemove three spore counters from Thallid Shell-Dweller: Put a 1/1 green Saproling creature token onto the battlefield.",
+  "power": "0",
+  "toughness": "5",
+  "imageName": "thallid shell-dweller",
+  "colorIdentity": [
+    "G"
+  ]
+}

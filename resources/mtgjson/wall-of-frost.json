@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wall of Frost",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender (This creature can't attack.)\nWhenever Wall of Frost blocks a creature, that creature doesn't untap during its controller's next untap step.",
+  "power": "0",
+  "toughness": "7",
+  "imageName": "wall of frost",
+  "colorIdentity": [
+    "U"
+  ]
+}

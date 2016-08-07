@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Bludgeon Brawl",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Each noncreature, non-Equipment artifact is an Equipment with equip {X} and \"Equipped creature gets +X/+0,\" where X is that artifact's converted mana cost.",
+  "imageName": "bludgeon brawl",
+  "colorIdentity": [
+    "R"
+  ]
+}

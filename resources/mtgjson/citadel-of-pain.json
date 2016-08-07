@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Citadel of Pain",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of each player's end step, Citadel of Pain deals X damage to that player, where X is the number of untapped lands he or she controls.",
+  "imageName": "citadel of pain",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Ulamog's Nullifier",
+  "manaCost": "{2}{U}{B}",
+  "cmc": 4,
+  "type": "Creature — Eldrazi Processor",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Processor"
+  ],
+  "text": "Devoid (This card has no color.)\nFlash\nFlying\nWhen Ulamog's Nullifier enters the battlefield, you may put two cards your opponents own from exile into their owners' graveyards. If you do, counter target spell.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "ulamog's nullifier",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

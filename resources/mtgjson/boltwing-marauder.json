@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Boltwing Marauder",
+  "manaCost": "{3}{B}{R}",
+  "cmc": 5,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying\nWhenever another creature enters the battlefield under your control, target creature gets +2/+0 until end of turn.",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "boltwing marauder",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

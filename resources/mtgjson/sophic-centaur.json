@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Sophic Centaur",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Centaur Spellshaper",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Centaur",
+    "Spellshaper"
+  ],
+  "text": "{2}{G}{G}, {T}, Discard a card: You gain 2 life for each card in your hand.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "sophic centaur",
+  "colorIdentity": [
+    "G"
+  ]
+}

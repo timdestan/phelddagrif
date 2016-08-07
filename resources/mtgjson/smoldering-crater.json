@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Smoldering Crater",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Smoldering Crater enters the battlefield tapped.\n{T}: Add {R} to your mana pool.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+  "imageName": "smoldering crater",
+  "colorIdentity": [
+    "R"
+  ]
+}

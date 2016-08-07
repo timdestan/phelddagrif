@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Coral Atoll",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Coral Atoll enters the battlefield tapped.\nWhen Coral Atoll enters the battlefield, sacrifice it unless you return an untapped Island you control to its owner's hand.\n{T}: Add {C}{U} to your mana pool.",
+  "imageName": "coral atoll",
+  "colorIdentity": [
+    "U"
+  ]
+}

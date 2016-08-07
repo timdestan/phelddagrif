@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Wellgabber Apothecary",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Merfolk Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Cleric"
+  ],
+  "text": "{1}{W}: Prevent all damage that would be dealt to target tapped Merfolk or Kithkin creature this turn.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "wellgabber apothecary",
+  "colorIdentity": [
+    "W"
+  ]
+}

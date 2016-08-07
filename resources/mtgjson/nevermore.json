@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Nevermore",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "As Nevermore enters the battlefield, name a nonland card.\nThe named card can't be cast.",
+  "imageName": "nevermore",
+  "colorIdentity": [
+    "W"
+  ]
+}

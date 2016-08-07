@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Starlight Invoker",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric Mutant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric",
+    "Mutant"
+  ],
+  "text": "{7}{W}: You gain 5 life.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "starlight invoker",
+  "colorIdentity": [
+    "W"
+  ]
+}

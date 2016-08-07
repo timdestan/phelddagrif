@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Well of Life",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "At the beginning of your end step, if you control no untapped lands, you gain 2 life.",
+  "imageName": "well of life"
+}

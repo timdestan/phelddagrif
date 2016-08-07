@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Become Immense",
+  "manaCost": "{5}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nTarget creature gets +6/+6 until end of turn.",
+  "imageName": "become immense",
+  "colorIdentity": [
+    "G"
+  ]
+}

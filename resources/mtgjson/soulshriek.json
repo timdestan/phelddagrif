@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Soulshriek",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature you control gets +X/+0 until end of turn, where X is the number of creature cards in your graveyard. Sacrifice that creature at the beginning of the next end step.",
+  "imageName": "soulshriek",
+  "colorIdentity": [
+    "B"
+  ]
+}

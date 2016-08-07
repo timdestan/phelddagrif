@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Final-Sting Faerie",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Faerie Assassin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Faerie",
+    "Assassin"
+  ],
+  "text": "Flying\nWhen Final-Sting Faerie enters the battlefield, destroy target creature that was dealt damage this turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "final-sting faerie",
+  "colorIdentity": [
+    "B"
+  ]
+}

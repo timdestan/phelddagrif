@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Dunerider Outlaw",
+  "manaCost": "{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Rebel Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rebel",
+    "Rogue"
+  ],
+  "text": "Protection from green\nAt the beginning of each end step, if Dunerider Outlaw dealt damage to an opponent this turn, put a +1/+1 counter on it.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "dunerider outlaw",
+  "colorIdentity": [
+    "B"
+  ]
+}

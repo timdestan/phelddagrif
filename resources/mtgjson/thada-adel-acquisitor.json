@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Thada Adel, Acquisitor",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Legendary Creature — Merfolk Rogue",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Rogue"
+  ],
+  "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nWhenever Thada Adel, Acquisitor deals combat damage to a player, search that player's library for an artifact card and exile it. Then that player shuffles his or her library. Until end of turn, you may play that card.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "thada adel, acquisitor",
+  "colorIdentity": [
+    "U"
+  ]
+}

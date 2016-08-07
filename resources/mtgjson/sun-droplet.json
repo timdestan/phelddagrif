@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Sun Droplet",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Whenever you're dealt damage, put that many charge counters on Sun Droplet.\nAt the beginning of each upkeep, you may remove a charge counter from Sun Droplet. If you do, you gain 1 life.",
+  "imageName": "sun droplet"
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Signal Pest",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact Creature — Pest",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Pest"
+  ],
+  "text": "Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)\nSignal Pest can't be blocked except by creatures with flying or reach.",
+  "power": "0",
+  "toughness": "1",
+  "imageName": "signal pest"
+}

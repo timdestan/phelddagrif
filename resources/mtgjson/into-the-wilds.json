@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Into the Wilds",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, look at the top card of your library. If it's a land card, you may put it onto the battlefield.",
+  "imageName": "into the wilds",
+  "colorIdentity": [
+    "G"
+  ]
+}

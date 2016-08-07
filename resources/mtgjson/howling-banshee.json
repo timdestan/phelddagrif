@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Howling Banshee",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying\nWhen Howling Banshee enters the battlefield, each player loses 3 life.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "howling banshee",
+  "colorIdentity": [
+    "B"
+  ]
+}

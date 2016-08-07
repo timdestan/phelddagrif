@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Wild Instincts",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target creature you control gets +2/+2 until end of turn. It fights target creature an opponent controls. (Each deals damage equal to its power to the other.)",
+  "imageName": "wild instincts",
+  "colorIdentity": [
+    "G"
+  ]
+}

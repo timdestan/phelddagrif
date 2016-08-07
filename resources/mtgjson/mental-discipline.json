@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mental Discipline",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{1}{U}, Discard a card: Draw a card.",
+  "imageName": "mental discipline",
+  "colorIdentity": [
+    "U"
+  ]
+}

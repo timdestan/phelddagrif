@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Pressure Point",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Tap target creature.\nDraw a card.",
+  "imageName": "pressure point",
+  "colorIdentity": [
+    "W"
+  ]
+}

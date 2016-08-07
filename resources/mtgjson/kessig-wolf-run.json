@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Kessig Wolf Run",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{X}{R}{G}, {T}: Target creature gets +X/+0 and gains trample until end of turn.",
+  "imageName": "kessig wolf run",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

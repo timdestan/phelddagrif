@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Bear's Companion",
+  "manaCost": "{2}{G}{U}{R}",
+  "cmc": 5,
+  "colors": [
+    "Blue",
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "When Bear's Companion enters the battlefield, put a 4/4 green Bear creature token onto the battlefield.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "bear's companion",
+  "colorIdentity": [
+    "U",
+    "R",
+    "G"
+  ]
+}

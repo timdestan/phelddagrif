@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Harbinger of Spring",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Protection from non-Spirit creatures\nSoulshift 4 (When this creature dies, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "harbinger of spring",
+  "colorIdentity": [
+    "G"
+  ]
+}

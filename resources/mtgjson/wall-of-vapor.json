@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wall of Vapor",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender (This creature can't attack.)\nPrevent all damage that would be dealt to Wall of Vapor by creatures it's blocking.",
+  "power": "0",
+  "toughness": "1",
+  "imageName": "wall of vapor",
+  "colorIdentity": [
+    "U"
+  ]
+}

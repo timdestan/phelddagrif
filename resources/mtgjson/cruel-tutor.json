@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Cruel Tutor",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.",
+  "imageName": "cruel tutor",
+  "colorIdentity": [
+    "B"
+  ]
+}

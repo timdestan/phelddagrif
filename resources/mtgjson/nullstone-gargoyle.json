@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Nullstone Gargoyle",
+  "manaCost": "{9}",
+  "cmc": 9,
+  "type": "Artifact Creature — Gargoyle",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Gargoyle"
+  ],
+  "text": "Flying\nWhenever the first noncreature spell of a turn is cast, counter that spell.",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "nullstone gargoyle"
+}

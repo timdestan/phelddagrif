@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Magus of the Arena",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{3}, {T}: Tap target creature you control and target creature of an opponent's choice he or she controls. Those creatures fight each other. (Each deals damage equal to its power to the other.)",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "magus of the arena",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Godless Shrine",
+  "type": "Land — Plains Swamp",
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Plains",
+    "Swamp"
+  ],
+  "text": "({T}: Add {W} or {B} to your mana pool.)\nAs Godless Shrine enters the battlefield, you may pay 2 life. If you don't, Godless Shrine enters the battlefield tapped.",
+  "imageName": "godless shrine",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

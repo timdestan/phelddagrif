@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Devout Invocation",
+  "manaCost": "{6}{W}",
+  "cmc": 7,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Tap any number of untapped creatures you control. Put a 4/4 white Angel creature token with flying onto the battlefield for each creature tapped this way.",
+  "imageName": "devout invocation",
+  "colorIdentity": [
+    "W"
+  ]
+}

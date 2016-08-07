@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Windreader Sphinx",
+  "manaCost": "{5}{U}{U}",
+  "cmc": 7,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Sphinx",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sphinx"
+  ],
+  "text": "Flying\nWhenever a creature with flying attacks, you may draw a card.",
+  "power": "3",
+  "toughness": "7",
+  "imageName": "windreader sphinx",
+  "colorIdentity": [
+    "U"
+  ]
+}

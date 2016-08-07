@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Bonesplitter Sliver",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "All Sliver creatures get +2/+0.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "bonesplitter sliver",
+  "colorIdentity": [
+    "R"
+  ]
+}

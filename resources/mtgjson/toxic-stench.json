@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Toxic Stench",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target nonblack creature gets -1/-1 until end of turn.\nThreshold — If seven or more cards are in your graveyard, instead destroy that creature. It can't be regenerated.",
+  "imageName": "toxic stench",
+  "colorIdentity": [
+    "B"
+  ]
+}

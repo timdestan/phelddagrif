@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Seer's Vision",
+  "manaCost": "{2}{U}{B}",
+  "cmc": 4,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Your opponents play with their hands revealed.\nSacrifice Seer's Vision: Look at target player's hand and choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.",
+  "imageName": "seer's vision",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

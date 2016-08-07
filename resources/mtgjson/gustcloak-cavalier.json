@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Gustcloak Cavalier",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\nWhenever Gustcloak Cavalier attacks, you may tap target creature.\nWhenever Gustcloak Cavalier becomes blocked, you may untap Gustcloak Cavalier and remove it from combat.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "gustcloak cavalier",
+  "colorIdentity": [
+    "W"
+  ]
+}

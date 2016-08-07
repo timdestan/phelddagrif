@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Opposition",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Tap an untapped creature you control: Tap target artifact, creature, or land.",
+  "imageName": "opposition",
+  "colorIdentity": [
+    "U"
+  ]
+}

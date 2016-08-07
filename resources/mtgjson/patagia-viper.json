@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Patagia Viper",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Snake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Snake"
+  ],
+  "text": "Flying\nWhen Patagia Viper enters the battlefield, put two 1/1 green and blue Snake creature tokens onto the battlefield.\nWhen Patagia Viper enters the battlefield, sacrifice it unless {U} was spent to cast it.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "patagia viper",
+  "colorIdentity": [
+    "G",
+    "U"
+  ]
+}

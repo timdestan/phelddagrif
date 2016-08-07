@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Kavu Runner",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Kavu",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kavu"
+  ],
+  "text": "Kavu Runner has haste as long as no opponent controls a white or blue creature.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "kavu runner",
+  "colorIdentity": [
+    "R"
+  ]
+}

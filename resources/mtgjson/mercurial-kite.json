@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Mercurial Kite",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\nWhenever Mercurial Kite deals combat damage to a creature, tap that creature. That creature doesn't untap during its controller's next untap step.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "mercurial kite",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Rimebound Dead",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Snow Creature — Skeleton",
+  "supertypes": [
+    "Snow"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Skeleton"
+  ],
+  "text": "{S}: Regenerate Rimebound Dead. ({S} can be paid with one mana from a snow permanent.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "rimebound dead",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Teller of Tales",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying\nWhenever you cast a Spirit or Arcane spell, you may tap or untap target creature.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "teller of tales",
+  "colorIdentity": [
+    "U"
+  ]
+}

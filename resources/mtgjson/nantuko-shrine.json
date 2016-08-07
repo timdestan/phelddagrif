@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Nantuko Shrine",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a player casts a spell, that player puts X 1/1 green Squirrel creature tokens onto the battlefield, where X is the number of cards in all graveyards with the same name as that spell.",
+  "imageName": "nantuko shrine",
+  "colorIdentity": [
+    "G"
+  ]
+}

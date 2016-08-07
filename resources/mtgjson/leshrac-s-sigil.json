@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Leshrac's Sigil",
+  "manaCost": "{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever an opponent casts a green spell, you may pay {B}{B}. If you do, look at that player's hand and choose a card from it. The player discards that card.\n{B}{B}: Return Leshrac's Sigil to its owner's hand.",
+  "imageName": "leshrac's sigil",
+  "colorIdentity": [
+    "B"
+  ]
+}

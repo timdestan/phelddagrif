@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Crippling Chill",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Tap target creature. It doesn't untap during its controller's next untap step.\nDraw a card.",
+  "imageName": "crippling chill",
+  "colorIdentity": [
+    "U"
+  ]
+}

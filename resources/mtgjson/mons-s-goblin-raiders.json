@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Mons's Goblin Raiders",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "power": "1",
+  "toughness": "1",
+  "imageName": "mons's goblin raiders",
+  "colorIdentity": [
+    "R"
+  ]
+}

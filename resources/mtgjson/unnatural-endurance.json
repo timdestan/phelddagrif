@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Unnatural Endurance",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Devoid (This card has no color.)\nTarget creature gets +2/+0 until end of turn. Regenerate it.",
+  "imageName": "unnatural endurance",
+  "colorIdentity": [
+    "B"
+  ]
+}

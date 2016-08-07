@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Burning Inquiry",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Each player draws three cards, then discards three cards at random.",
+  "imageName": "burning inquiry",
+  "colorIdentity": [
+    "R"
+  ]
+}

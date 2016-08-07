@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Purge",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target artifact creature or black creature. It can't be regenerated.",
+  "imageName": "purge",
+  "colorIdentity": [
+    "W"
+  ]
+}

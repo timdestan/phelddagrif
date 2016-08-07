@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Zanam Djinn",
+  "manaCost": "{5}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Djinn",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Djinn"
+  ],
+  "text": "Flying\nZanam Djinn gets -2/-2 as long as blue is the most common color among all permanents or is tied for most common.",
+  "power": "5",
+  "toughness": "6",
+  "imageName": "zanam djinn",
+  "colorIdentity": [
+    "U"
+  ]
+}

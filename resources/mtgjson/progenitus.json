@@ -1,0 +1,35 @@
+{
+  "layout": "normal",
+  "name": "Progenitus",
+  "manaCost": "{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}",
+  "cmc": 10,
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "type": "Legendary Creature — Hydra Avatar",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hydra",
+    "Avatar"
+  ],
+  "text": "Protection from everything\nIf Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner's library instead.",
+  "power": "10",
+  "toughness": "10",
+  "imageName": "progenitus",
+  "colorIdentity": [
+    "W",
+    "U",
+    "B",
+    "R",
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Calciderm",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Shroud (This creature can't be the target of spells or abilities.)\nVanishing 4 (This creature enters the battlefield with four time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "calciderm",
+  "colorIdentity": [
+    "W"
+  ]
+}

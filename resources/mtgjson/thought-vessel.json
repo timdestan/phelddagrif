@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Thought Vessel",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "You have no maximum hand size.\n{T}: Add {C} to your mana pool.",
+  "imageName": "thought vessel"
+}

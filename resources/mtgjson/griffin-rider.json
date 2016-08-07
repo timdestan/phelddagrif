@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Griffin Rider",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "As long as you control a Griffin creature, Griffin Rider gets +3/+3 and has flying.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "griffin rider",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Agent of Masks",
+  "manaCost": "{3}{W}{B}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Creature — Human Advisor",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Advisor"
+  ],
+  "text": "At the beginning of your upkeep, each opponent loses 1 life. You gain life equal to the life lost this way.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "agent of masks",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

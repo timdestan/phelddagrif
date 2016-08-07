@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Glissa, the Traitor",
+  "manaCost": "{B}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Legendary Creature — Zombie Elf",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Elf"
+  ],
+  "text": "First strike, deathtouch\nWhenever a creature an opponent controls dies, you may return target artifact card from your graveyard to your hand.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "glissa, the traitor",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

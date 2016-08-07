@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Prismatic Lace",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target permanent becomes the color or colors of your choice. (This effect lasts indefinitely.)",
+  "imageName": "prismatic lace",
+  "colorIdentity": [
+    "U"
+  ]
+}

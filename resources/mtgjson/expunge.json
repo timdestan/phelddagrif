@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Expunge",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target nonartifact, nonblack creature. It can't be regenerated.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+  "imageName": "expunge",
+  "colorIdentity": [
+    "B"
+  ]
+}

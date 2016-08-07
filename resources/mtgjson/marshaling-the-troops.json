@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Marshaling the Troops",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Tap any number of untapped creatures you control. You gain 4 life for each creature tapped this way.",
+  "imageName": "marshaling the troops",
+  "colorIdentity": [
+    "G"
+  ]
+}

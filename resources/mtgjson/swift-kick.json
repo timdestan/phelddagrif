@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Swift Kick",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature you control gets +1/+0 until end of turn. It fights target creature you don't control.",
+  "imageName": "swift kick",
+  "colorIdentity": [
+    "R"
+  ]
+}

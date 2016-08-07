@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Silhouette",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Prevent all damage that would be dealt to target creature this turn by spells or abilities that target it.",
+  "imageName": "silhouette",
+  "colorIdentity": [
+    "U"
+  ]
+}

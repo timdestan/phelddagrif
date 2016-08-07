@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Blightning",
+  "manaCost": "{1}{B}{R}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Blightning deals 3 damage to target player. That player discards two cards.",
+  "imageName": "blightning",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

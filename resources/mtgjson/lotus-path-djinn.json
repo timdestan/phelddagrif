@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Lotus Path Djinn",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Djinn Monk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Djinn",
+    "Monk"
+  ],
+  "text": "Flying\nProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "lotus path djinn",
+  "colorIdentity": [
+    "U"
+  ]
+}

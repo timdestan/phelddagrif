@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Loyal Pegasus",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Pegasus",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Pegasus"
+  ],
+  "text": "Flying\nLoyal Pegasus can't attack or block alone.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "loyal pegasus",
+  "colorIdentity": [
+    "W"
+  ]
+}

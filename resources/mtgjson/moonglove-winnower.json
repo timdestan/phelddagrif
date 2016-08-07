@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Moonglove Winnower",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Elf Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Rogue"
+  ],
+  "text": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "moonglove winnower",
+  "colorIdentity": [
+    "B"
+  ]
+}

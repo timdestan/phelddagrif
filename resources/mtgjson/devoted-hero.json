@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Devoted Hero",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Elf Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Soldier"
+  ],
+  "power": "1",
+  "toughness": "2",
+  "imageName": "devoted hero",
+  "colorIdentity": [
+    "W"
+  ]
+}

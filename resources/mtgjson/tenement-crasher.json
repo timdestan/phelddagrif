@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Tenement Crasher",
+  "manaCost": "{5}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Haste",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "tenement crasher",
+  "colorIdentity": [
+    "R"
+  ]
+}

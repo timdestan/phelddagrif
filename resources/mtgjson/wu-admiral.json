@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Wu Admiral",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Wu Admiral gets +1/+1 as long as an opponent controls an Island.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "wu admiral",
+  "colorIdentity": [
+    "U"
+  ]
+}

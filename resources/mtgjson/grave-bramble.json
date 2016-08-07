@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Grave Bramble",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Plant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Plant"
+  ],
+  "text": "Defender, protection from Zombies",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "grave bramble",
+  "colorIdentity": [
+    "G"
+  ]
+}

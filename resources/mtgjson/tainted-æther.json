@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Tainted Æther",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a creature enters the battlefield, its controller sacrifices a creature or land.",
+  "imageName": "tainted æther",
+  "colorIdentity": [
+    "B"
+  ]
+}

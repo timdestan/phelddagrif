@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Zhur-Taa Swine",
+  "manaCost": "{3}{R}{G}",
+  "cmc": 5,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Boar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Boar"
+  ],
+  "text": "Bloodrush — {1}{R}{G}, Discard Zhur-Taa Swine: Target attacking creature gets +5/+4 until end of turn.",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "zhur-taa swine",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

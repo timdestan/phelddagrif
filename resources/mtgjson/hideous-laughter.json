@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Hideous Laughter",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant — Arcane",
+  "types": [
+    "Instant"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "All creatures get -2/-2 until end of turn.\nSplice onto Arcane {3}{B}{B} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+  "imageName": "hideous laughter",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Nurturer Initiate",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Shaman"
+  ],
+  "text": "Whenever a player casts a green spell, you may pay {1}. If you do, target creature gets +1/+1 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "nurturer initiate",
+  "colorIdentity": [
+    "G"
+  ]
+}

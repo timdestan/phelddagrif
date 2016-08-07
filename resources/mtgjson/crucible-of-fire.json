@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Crucible of Fire",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Dragon creatures you control get +3/+3.",
+  "imageName": "crucible of fire",
+  "colorIdentity": [
+    "R"
+  ]
+}

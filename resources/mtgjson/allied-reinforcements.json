@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Allied Reinforcements",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put two 2/2 white Knight Ally creature tokens onto the battlefield.",
+  "imageName": "allied reinforcements",
+  "colorIdentity": [
+    "W"
+  ]
+}

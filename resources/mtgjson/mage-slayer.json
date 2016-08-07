@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Mage Slayer",
+  "manaCost": "{1}{R}{G}",
+  "cmc": 3,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Whenever equipped creature attacks, it deals damage equal to its power to defending player.\nEquip {3}",
+  "imageName": "mage slayer",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

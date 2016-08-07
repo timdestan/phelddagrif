@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Scab-Clan Berserker",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Berserker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Berserker"
+  ],
+  "text": "Haste\nRenown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)\nWhenever an opponent casts a noncreature spell, if Scab-Clan Berserker is renowned, Scab-Clan Berserker deals 2 damage to that player.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "scab-clan berserker",
+  "colorIdentity": [
+    "R"
+  ]
+}

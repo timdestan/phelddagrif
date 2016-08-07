@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Undying Evil",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gains undying until end of turn. (When it dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+  "imageName": "undying evil",
+  "colorIdentity": [
+    "B"
+  ]
+}

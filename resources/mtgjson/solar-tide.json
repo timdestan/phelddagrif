@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Solar Tide",
+  "manaCost": "{4}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Choose one —\n• Destroy all creatures with power 2 or less.\n• Destroy all creatures with power 3 or greater.\nEntwine—Sacrifice two lands. (Choose both if you pay the entwine cost.)",
+  "imageName": "solar tide",
+  "colorIdentity": [
+    "W"
+  ]
+}

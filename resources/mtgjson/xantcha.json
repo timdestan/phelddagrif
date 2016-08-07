@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Xantcha",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "Sacrifice a permanent: Regenerate target creature.",
+  "imageName": "xantcha",
+  "hand": 1,
+  "life": 3
+}

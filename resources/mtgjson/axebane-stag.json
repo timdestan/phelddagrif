@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Axebane Stag",
+  "manaCost": "{6}{G}",
+  "cmc": 7,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elk"
+  ],
+  "power": "6",
+  "toughness": "7",
+  "imageName": "axebane stag",
+  "colorIdentity": [
+    "G"
+  ]
+}

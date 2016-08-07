@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Flame Wave",
+  "manaCost": "{3}{R}{R}{R}{R}",
+  "cmc": 7,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Flame Wave deals 4 damage to target player and each creature he or she controls.",
+  "imageName": "flame wave",
+  "colorIdentity": [
+    "R"
+  ]
+}

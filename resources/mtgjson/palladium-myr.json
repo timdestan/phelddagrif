@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Palladium Myr",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Myr",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Myr"
+  ],
+  "text": "{T}: Add {C}{C} to your mana pool.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "palladium myr"
+}

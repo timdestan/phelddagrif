@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ingenious Thief",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "Flying\nWhen Ingenious Thief enters the battlefield, look at target player's hand.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "ingenious thief",
+  "colorIdentity": [
+    "U"
+  ]
+}

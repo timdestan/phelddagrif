@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Salvage",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put target card from your graveyard on top of your library.",
+  "imageName": "salvage",
+  "colorIdentity": [
+    "G"
+  ]
+}

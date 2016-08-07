@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Deep Water",
+  "manaCost": "{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{U}: Until end of turn, if you tap a land you control for mana, it produces {U} instead of any other type.",
+  "imageName": "deep water",
+  "colorIdentity": [
+    "U"
+  ]
+}

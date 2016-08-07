@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Quicksilver Dragon",
+  "manaCost": "{4}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying\n{U}: If target spell has only one target and that target is Quicksilver Dragon, change that spell's target to another creature.\nMorph {4}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "quicksilver dragon",
+  "colorIdentity": [
+    "U"
+  ]
+}

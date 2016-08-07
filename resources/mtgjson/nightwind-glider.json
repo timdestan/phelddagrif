@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Nightwind Glider",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Rebel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rebel"
+  ],
+  "text": "Flying, protection from black",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "nightwind glider",
+  "colorIdentity": [
+    "W"
+  ]
+}

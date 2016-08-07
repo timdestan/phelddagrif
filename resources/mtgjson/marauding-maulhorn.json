@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Marauding Maulhorn",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Marauding Maulhorn attacks each combat if able unless you control a creature named Advocate of the Beast.",
+  "power": "5",
+  "toughness": "3",
+  "imageName": "marauding maulhorn",
+  "colorIdentity": [
+    "R"
+  ]
+}

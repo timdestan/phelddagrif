@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Scoria Cat",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Cat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat"
+  ],
+  "text": "Scoria Cat gets +3/+3 as long as you control no untapped lands.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "scoria cat",
+  "colorIdentity": [
+    "R"
+  ]
+}

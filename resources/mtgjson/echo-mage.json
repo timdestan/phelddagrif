@@ -1,0 +1,24 @@
+{
+  "layout": "leveler",
+  "name": "Echo Mage",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Level up {1}{U} ({1}{U}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 2-3\n2/4\n{U}{U}, {T}: Copy target instant or sorcery spell. You may choose new targets for the copy.\nLEVEL 4+\n2/5\n{U}{U}, {T}: Copy target instant or sorcery spell twice. You may choose new targets for the copies.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "echo mage",
+  "colorIdentity": [
+    "U"
+  ]
+}

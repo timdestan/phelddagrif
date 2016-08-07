@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Melira's Keepers",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "Melira's Keepers can't have counters placed on it.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "melira's keepers",
+  "colorIdentity": [
+    "G"
+  ]
+}

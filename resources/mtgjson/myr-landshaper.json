@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Myr Landshaper",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Myr",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Myr"
+  ],
+  "text": "{T}: Target land becomes an artifact in addition to its other types until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "myr landshaper"
+}

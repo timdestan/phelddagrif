@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Apothecary Initiate",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kithkin Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kithkin",
+    "Cleric"
+  ],
+  "text": "Whenever a player casts a white spell, you may pay {1}. If you do, you gain 1 life.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "apothecary initiate",
+  "colorIdentity": [
+    "W"
+  ]
+}

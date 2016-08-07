@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Blessings of Nature",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Distribute four +1/+1 counters among any number of target creatures.\nMiracle {G} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+  "imageName": "blessings of nature",
+  "colorIdentity": [
+    "G"
+  ]
+}

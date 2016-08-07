@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Spirit en-Kor",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kor Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kor",
+    "Spirit"
+  ],
+  "text": "Flying\n{0}: The next 1 damage that would be dealt to Spirit en-Kor this turn is dealt to target creature you control instead.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "spirit en-kor",
+  "colorIdentity": [
+    "W"
+  ]
+}

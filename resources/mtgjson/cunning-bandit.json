@@ -1,0 +1,28 @@
+{
+  "layout": "flip",
+  "name": "Cunning Bandit",
+  "names": [
+    "Cunning Bandit",
+    "Azamuki, Treachery Incarnate"
+  ],
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Cunning Bandit.\nAt the beginning of the end step, if there are two or more ki counters on Cunning Bandit, you may flip it.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "cunning bandit",
+  "colorIdentity": [
+    "R"
+  ]
+}

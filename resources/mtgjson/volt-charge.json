@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Volt Charge",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Volt Charge deals 3 damage to target creature or player. Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)",
+  "imageName": "volt charge",
+  "colorIdentity": [
+    "R"
+  ]
+}

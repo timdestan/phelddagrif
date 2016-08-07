@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Screaming Seahawk",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\nWhen Screaming Seahawk enters the battlefield, you may search your library for a card named Screaming Seahawk, reveal it, and put it into your hand. If you do, shuffle your library.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "screaming seahawk",
+  "colorIdentity": [
+    "U"
+  ]
+}

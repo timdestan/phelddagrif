@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Vagrant Plowbeasts",
+  "manaCost": "{5}{G}{W}",
+  "cmc": 7,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "{1}: Regenerate target creature with power 5 or greater.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "vagrant plowbeasts",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

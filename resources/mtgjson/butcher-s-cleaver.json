@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Butcher's Cleaver",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature gets +3/+0.\nAs long as equipped creature is a Human, it has lifelink.\nEquip {3}",
+  "imageName": "butcher's cleaver"
+}

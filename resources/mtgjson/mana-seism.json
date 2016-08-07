@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mana Seism",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Sacrifice any number of lands, then add that much {C} to your mana pool.",
+  "imageName": "mana seism",
+  "colorIdentity": [
+    "R"
+  ]
+}

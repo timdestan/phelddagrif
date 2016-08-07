@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Destructive Revelry",
+  "manaCost": "{R}{G}",
+  "cmc": 2,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target artifact or enchantment. Destructive Revelry deals 2 damage to that permanent's controller.",
+  "imageName": "destructive revelry",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

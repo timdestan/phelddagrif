@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Abzan Battle Priest",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "Outlast {W} ({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)\nEach creature you control with a +1/+1 counter on it has lifelink.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "abzan battle priest",
+  "colorIdentity": [
+    "W"
+  ]
+}

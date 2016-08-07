@@ -1,0 +1,27 @@
+{
+  "layout": "double-faced",
+  "name": "Westvale Cult Leader",
+  "names": [
+    "Hanweir Militia Captain",
+    "Westvale Cult Leader"
+  ],
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "Westvale Cult Leader's power and toughness are each equal to the number of creatures you control.\nAt the beginning of your end step, put a 1/1 white and black Human Cleric creature token onto the battlefield.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "westvale cult leader",
+  "colorIdentity": [
+    "W"
+  ]
+}

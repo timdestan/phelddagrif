@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Duh",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target creature with reminder text. (Reminder text is any italicized text in parentheses that explains rules you already know.)",
+  "imageName": "duh",
+  "colorIdentity": [
+    "B"
+  ]
+}

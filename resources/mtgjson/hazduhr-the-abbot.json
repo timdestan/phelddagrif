@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Hazduhr the Abbot",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Creature — Human Cleric",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "{X}, {T}: The next X damage that would be dealt this turn to target white creature you control is dealt to Hazduhr the Abbot instead.",
+  "power": "2",
+  "toughness": "5",
+  "imageName": "hazduhr the abbot",
+  "colorIdentity": [
+    "W"
+  ]
+}

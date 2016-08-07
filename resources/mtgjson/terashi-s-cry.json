@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Terashi's Cry",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery — Arcane",
+  "types": [
+    "Sorcery"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "Tap up to three target creatures.",
+  "imageName": "terashi's cry",
+  "colorIdentity": [
+    "W"
+  ]
+}

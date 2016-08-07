@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Etherium Sculptor",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Artifact Creature — Vedalken Artificer",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Vedalken",
+    "Artificer"
+  ],
+  "text": "Artifact spells you cast cost {1} less to cast.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "etherium sculptor",
+  "colorIdentity": [
+    "U"
+  ]
+}

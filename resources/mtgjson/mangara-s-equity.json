@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mangara's Equity",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "As Mangara's Equity enters the battlefield, choose black or red.\nAt the beginning of your upkeep, sacrifice Mangara's Equity unless you pay {1}{W}.\nWhenever a creature of the chosen color deals damage to you or a white creature you control, Mangara's Equity deals that much damage to that creature.",
+  "imageName": "mangara's equity",
+  "colorIdentity": [
+    "W"
+  ]
+}

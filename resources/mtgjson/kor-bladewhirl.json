@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Kor Bladewhirl",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kor Soldier Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kor",
+    "Soldier",
+    "Ally"
+  ],
+  "text": "Rally — Whenever Kor Bladewhirl or another Ally enters the battlefield under your control, creatures you control gain first strike until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "kor bladewhirl",
+  "colorIdentity": [
+    "W"
+  ]
+}

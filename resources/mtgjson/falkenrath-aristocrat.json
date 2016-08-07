@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Falkenrath Aristocrat",
+  "manaCost": "{2}{B}{R}",
+  "cmc": 4,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Vampire",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire"
+  ],
+  "text": "Flying, haste\nSacrifice a creature: Falkenrath Aristocrat gains indestructible until end of turn. If the sacrificed creature was a Human, put a +1/+1 counter on Falkenrath Aristocrat.",
+  "power": "4",
+  "toughness": "1",
+  "imageName": "falkenrath aristocrat",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

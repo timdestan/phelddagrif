@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Lithophage",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "At the beginning of your upkeep, sacrifice Lithophage unless you sacrifice a Mountain.",
+  "power": "7",
+  "toughness": "7",
+  "imageName": "lithophage",
+  "colorIdentity": [
+    "R"
+  ]
+}

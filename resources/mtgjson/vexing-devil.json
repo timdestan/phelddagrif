@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Vexing Devil",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Devil",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Devil"
+  ],
+  "text": "When Vexing Devil enters the battlefield, any opponent may have it deal 4 damage to him or her. If a player does, sacrifice Vexing Devil.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "vexing devil",
+  "colorIdentity": [
+    "R"
+  ]
+}

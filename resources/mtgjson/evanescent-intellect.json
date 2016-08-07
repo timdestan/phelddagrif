@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Evanescent Intellect",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature has \"{1}{U}, {T}: Target player puts the top three cards of his or her library into his or her graveyard.\"",
+  "imageName": "evanescent intellect",
+  "colorIdentity": [
+    "U"
+  ]
+}

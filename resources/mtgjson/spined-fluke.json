@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Spined Fluke",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Worm Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Worm",
+    "Horror"
+  ],
+  "text": "When Spined Fluke enters the battlefield, sacrifice a creature.\n{B}: Regenerate Spined Fluke.",
+  "power": "5",
+  "toughness": "1",
+  "imageName": "spined fluke",
+  "colorIdentity": [
+    "B"
+  ]
+}

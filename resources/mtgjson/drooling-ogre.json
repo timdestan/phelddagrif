@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Drooling Ogre",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Ogre",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ogre"
+  ],
+  "text": "Whenever a player casts an artifact spell, that player gains control of Drooling Ogre. (This effect lasts indefinitely.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "drooling ogre",
+  "colorIdentity": [
+    "R"
+  ]
+}

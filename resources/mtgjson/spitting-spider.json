@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Spitting Spider",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Spider",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spider"
+  ],
+  "text": "Reach (This creature can block creatures with flying.)\nSacrifice a land: Spitting Spider deals 1 damage to each creature with flying.",
+  "power": "3",
+  "toughness": "5",
+  "imageName": "spitting spider",
+  "colorIdentity": [
+    "G"
+  ]
+}

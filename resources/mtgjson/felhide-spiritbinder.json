@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Felhide Spiritbinder",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Minotaur Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Minotaur",
+    "Shaman"
+  ],
+  "text": "Inspired — Whenever Felhide Spiritbinder becomes untapped, you may pay {1}{R}. If you do, put a token onto the battlefield that's a copy of another target creature except it's an enchantment in addition to its other types. It gains haste. Exile it at the beginning of the next end step.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "felhide spiritbinder",
+  "colorIdentity": [
+    "R"
+  ]
+}

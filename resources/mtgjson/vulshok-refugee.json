@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Vulshok Refugee",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "Protection from red",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "vulshok refugee",
+  "colorIdentity": [
+    "R"
+  ]
+}

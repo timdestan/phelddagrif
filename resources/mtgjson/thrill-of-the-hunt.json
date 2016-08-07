@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Thrill of the Hunt",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gets +1/+2 until end of turn.\nFlashback {W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "thrill of the hunt",
+  "colorIdentity": [
+    "G",
+    "W"
+  ]
+}

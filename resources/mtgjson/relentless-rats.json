@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Relentless Rats",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Rat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rat"
+  ],
+  "text": "Relentless Rats gets +1/+1 for each other creature on the battlefield named Relentless Rats.\nA deck can have any number of cards named Relentless Rats.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "relentless rats",
+  "colorIdentity": [
+    "B"
+  ]
+}

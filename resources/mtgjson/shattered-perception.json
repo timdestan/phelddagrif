@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Shattered Perception",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Discard all the cards in your hand, then draw that many cards.\nFlashback {5}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "shattered perception",
+  "colorIdentity": [
+    "R"
+  ]
+}

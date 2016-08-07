@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Viridian Corrupter",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Shaman"
+  ],
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nWhen Viridian Corrupter enters the battlefield, destroy target artifact.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "viridian corrupter",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Hand of Justice",
+  "manaCost": "{5}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Avatar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Avatar"
+  ],
+  "text": "{T}, Tap three untapped white creatures you control: Destroy target creature.",
+  "power": "2",
+  "toughness": "6",
+  "imageName": "hand of justice",
+  "colorIdentity": [
+    "W"
+  ]
+}

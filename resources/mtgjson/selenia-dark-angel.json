@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Selenia, Dark Angel",
+  "manaCost": "{3}{W}{B}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Legendary Creature — Angel",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nPay 2 life: Return Selenia, Dark Angel to its owner's hand.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "selenia, dark angel",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

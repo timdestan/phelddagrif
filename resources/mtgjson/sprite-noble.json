@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sprite Noble",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Faerie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Faerie"
+  ],
+  "text": "Flying\nOther creatures you control with flying get +0/+1.\n{T}: Other creatures you control with flying get +1/+0 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "sprite noble",
+  "colorIdentity": [
+    "U"
+  ]
+}

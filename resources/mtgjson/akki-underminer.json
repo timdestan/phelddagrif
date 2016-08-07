@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Akki Underminer",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Rogue Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Rogue",
+    "Shaman"
+  ],
+  "text": "Whenever Akki Underminer deals combat damage to a player, that player sacrifices a permanent.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "akki underminer",
+  "colorIdentity": [
+    "R"
+  ]
+}

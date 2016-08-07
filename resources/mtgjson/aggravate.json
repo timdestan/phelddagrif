@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Aggravate",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Aggravate deals 1 damage to each creature target player controls. Each creature dealt damage this way attacks this turn if able.",
+  "imageName": "aggravate",
+  "colorIdentity": [
+    "R"
+  ]
+}

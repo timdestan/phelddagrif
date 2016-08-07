@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Alabaster Dragon",
+  "manaCost": "{4}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying\nWhen Alabaster Dragon dies, shuffle it into its owner's library.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "alabaster dragon",
+  "colorIdentity": [
+    "W"
+  ]
+}

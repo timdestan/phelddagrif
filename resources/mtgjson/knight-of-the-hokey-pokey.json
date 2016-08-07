@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Knight of the Hokey Pokey",
+  "manaCost": "{W}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Summon — Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Knight"
+  ],
+  "text": "First strike\n{1}{W}, Do the Hokey Pokey (Stand up, wiggle your butt, raise your hands above your head, and shake them wildly as you rotate 360 degrees): Prevent all damage to Knight of the Hokey Pokey from any one source.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "knight of the hokey pokey",
+  "colorIdentity": [
+    "W"
+  ]
+}

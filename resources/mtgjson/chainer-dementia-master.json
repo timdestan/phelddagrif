@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Chainer, Dementia Master",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Legendary Creature — Human Minion",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Minion"
+  ],
+  "text": "Nightmare creatures get +1/+1.\n{B}{B}{B}, Pay 3 life: Put target creature card from a graveyard onto the battlefield under your control. That creature is black and is a Nightmare in addition to its other creature types.\nWhen Chainer, Dementia Master leaves the battlefield, exile all Nightmares.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "chainer, dementia master",
+  "colorIdentity": [
+    "B"
+  ]
+}

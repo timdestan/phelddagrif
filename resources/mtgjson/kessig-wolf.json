@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Kessig Wolf",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Wolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wolf"
+  ],
+  "text": "{1}{R}: Kessig Wolf gains first strike until end of turn.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "kessig wolf",
+  "colorIdentity": [
+    "R"
+  ]
+}

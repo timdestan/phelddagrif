@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Jeweled Amulet",
+  "manaCost": "{0}",
+  "cmc": 0,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{1}, {T}: Put a charge counter on Jeweled Amulet. Note the type of mana spent to pay this activation cost. Activate this ability only if there are no charge counters on Jeweled Amulet.\n{T}, Remove a charge counter from Jeweled Amulet: Add one mana of Jeweled Amulet's last noted type to your mana pool.",
+  "imageName": "jeweled amulet"
+}

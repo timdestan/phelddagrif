@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Ankh of Mishra",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Whenever a land enters the battlefield, Ankh of Mishra deals 2 damage to that land's controller.",
+  "imageName": "ankh of mishra"
+}

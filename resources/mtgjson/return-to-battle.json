@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Return to Battle",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Return target creature card from your graveyard to your hand.",
+  "imageName": "return to battle",
+  "colorIdentity": [
+    "B"
+  ]
+}

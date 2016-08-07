@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Personal Sanctuary",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "During your turn, prevent all damage that would be dealt to you.",
+  "imageName": "personal sanctuary",
+  "colorIdentity": [
+    "W"
+  ]
+}

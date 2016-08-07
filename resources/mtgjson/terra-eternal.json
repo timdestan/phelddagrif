@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Terra Eternal",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "All lands have indestructible.",
+  "imageName": "terra eternal",
+  "colorIdentity": [
+    "W"
+  ]
+}

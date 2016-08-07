@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "False Summoning",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target creature spell.",
+  "imageName": "false summoning",
+  "colorIdentity": [
+    "U"
+  ]
+}

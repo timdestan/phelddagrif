@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Cytoshape",
+  "manaCost": "{1}{G}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose a nonlegendary creature on the battlefield. Target creature becomes a copy of that creature until end of turn.",
+  "imageName": "cytoshape",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

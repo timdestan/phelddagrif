@@ -1,0 +1,28 @@
+{
+  "layout": "flip",
+  "name": "Faithful Squire",
+  "names": [
+    "Faithful Squire",
+    "Kaiso, Memory of Loyalty"
+  ],
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Faithful Squire.\nAt the beginning of the end step, if there are two or more ki counters on Faithful Squire, you may flip it.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "faithful squire",
+  "colorIdentity": [
+    "W"
+  ]
+}

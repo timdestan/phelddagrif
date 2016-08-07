@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Thistledown Liege",
+  "manaCost": "{1}{W/U}{W/U}{W/U}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Creature — Kithkin Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kithkin",
+    "Knight"
+  ],
+  "text": "Flash\nOther white creatures you control get +1/+1.\nOther blue creatures you control get +1/+1.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "thistledown liege",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

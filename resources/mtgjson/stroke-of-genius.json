@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Stroke of Genius",
+  "manaCost": "{X}{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target player draws X cards.",
+  "imageName": "stroke of genius",
+  "colorIdentity": [
+    "U"
+  ]
+}

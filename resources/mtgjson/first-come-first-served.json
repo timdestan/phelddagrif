@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "First Come, First Served",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "The attacking or blocking creature with the lowest collector number has first strike. If two or more creatures are tied, they all have first strike.",
+  "imageName": "first come, first served",
+  "colorIdentity": [
+    "W"
+  ]
+}

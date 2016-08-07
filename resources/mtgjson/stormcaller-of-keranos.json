@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Stormcaller of Keranos",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Shaman"
+  ],
+  "text": "Haste\n{1}{U}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "stormcaller of keranos",
+  "colorIdentity": [
+    "R",
+    "U"
+  ]
+}

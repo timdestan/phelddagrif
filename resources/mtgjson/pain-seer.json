@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Pain Seer",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Inspired — Whenever Pain Seer becomes untapped, reveal the top card of your library and put that card into your hand. You lose life equal to that card's converted mana cost.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "pain seer",
+  "colorIdentity": [
+    "B"
+  ]
+}

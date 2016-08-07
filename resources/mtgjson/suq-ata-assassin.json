@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Suq'Ata Assassin",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Assassin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Assassin"
+  ],
+  "text": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nWhenever Suq'Ata Assassin attacks and isn't blocked, defending player gets a poison counter. (A player with ten or more poison counters loses the game.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "suq'ata assassin",
+  "colorIdentity": [
+    "B"
+  ]
+}

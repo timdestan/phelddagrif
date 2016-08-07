@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Ancient Carp",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Fish",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Fish"
+  ],
+  "power": "2",
+  "toughness": "5",
+  "imageName": "ancient carp",
+  "colorIdentity": [
+    "U"
+  ]
+}

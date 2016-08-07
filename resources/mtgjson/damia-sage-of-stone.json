@@ -1,0 +1,31 @@
+{
+  "layout": "normal",
+  "name": "Damia, Sage of Stone",
+  "manaCost": "{4}{G}{U}{B}",
+  "cmc": 7,
+  "colors": [
+    "Blue",
+    "Black",
+    "Green"
+  ],
+  "type": "Legendary Creature — Gorgon Wizard",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Gorgon",
+    "Wizard"
+  ],
+  "text": "Deathtouch\nSkip your draw step.\nAt the beginning of your upkeep, if you have fewer than seven cards in hand, draw cards equal to the difference.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "damia, sage of stone",
+  "colorIdentity": [
+    "U",
+    "B",
+    "G"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Trade Routes",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{1}: Return target land you control to its owner's hand.\n{1}, Discard a land card: Draw a card.",
+  "imageName": "trade routes",
+  "colorIdentity": [
+    "U"
+  ]
+}

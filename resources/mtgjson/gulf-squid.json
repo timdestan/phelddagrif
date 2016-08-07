@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Gulf Squid",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Squid Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Squid",
+    "Beast"
+  ],
+  "text": "When Gulf Squid enters the battlefield, tap all lands target player controls.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "gulf squid",
+  "colorIdentity": [
+    "U"
+  ]
+}

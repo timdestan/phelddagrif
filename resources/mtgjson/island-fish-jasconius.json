@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Island Fish Jasconius",
+  "manaCost": "{4}{U}{U}{U}",
+  "cmc": 7,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Fish",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Fish"
+  ],
+  "text": "Island Fish Jasconius doesn't untap during your untap step.\nAt the beginning of your upkeep, you may pay {U}{U}{U}. If you do, untap Island Fish Jasconius.\nIsland Fish Jasconius can't attack unless defending player controls an Island.\nWhen you control no Islands, sacrifice Island Fish Jasconius.",
+  "power": "6",
+  "toughness": "8",
+  "imageName": "island fish jasconius",
+  "colorIdentity": [
+    "U"
+  ]
+}

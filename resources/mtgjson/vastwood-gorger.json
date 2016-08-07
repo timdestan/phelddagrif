@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Vastwood Gorger",
+  "manaCost": "{5}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "power": "5",
+  "toughness": "6",
+  "imageName": "vastwood gorger",
+  "colorIdentity": [
+    "G"
+  ]
+}

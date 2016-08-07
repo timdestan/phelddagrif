@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dreg Reaver",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Beast"
+  ],
+  "power": "4",
+  "toughness": "3",
+  "imageName": "dreg reaver",
+  "colorIdentity": [
+    "B"
+  ]
+}

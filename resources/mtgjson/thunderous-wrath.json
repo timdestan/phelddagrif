@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Thunderous Wrath",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Thunderous Wrath deals 5 damage to target creature or player.\nMiracle {R} (You may cast this card for its miracle cost when you draw it if it's the first card you drew this turn.)",
+  "imageName": "thunderous wrath",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Battlefield Percher",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\nBattlefield Percher can block only creatures with flying.\n{1}{B}: Battlefield Percher gets +1/+1 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "battlefield percher",
+  "colorIdentity": [
+    "B"
+  ]
+}

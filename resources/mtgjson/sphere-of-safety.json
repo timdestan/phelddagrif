@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sphere of Safety",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Creatures can't attack you or a planeswalker you control unless their controller pays {X} for each of those creatures, where X is the number of enchantments you control.",
+  "imageName": "sphere of safety",
+  "colorIdentity": [
+    "W"
+  ]
+}

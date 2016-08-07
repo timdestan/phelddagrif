@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Tireless Tracker",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Scout",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Scout"
+  ],
+  "text": "Whenever a land enters the battlefield under your control, investigate. (Put a colorless Clue artifact token onto the battlefield with \"{2}, Sacrifice this artifact: Draw a card.\")\nWhenever you sacrifice a Clue, put a +1/+1 counter on Tireless Tracker.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "tireless tracker",
+  "colorIdentity": [
+    "G"
+  ]
+}

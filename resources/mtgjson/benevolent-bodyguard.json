@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Benevolent Bodyguard",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "Sacrifice Benevolent Bodyguard: Target creature you control gains protection from the color of your choice until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "benevolent bodyguard",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Teferi's Honor Guard",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\n{U}{U}: Teferi's Honor Guard phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "teferi's honor guard",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Pistus Strike",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target creature with flying. Its controller gets a poison counter.",
+  "imageName": "pistus strike",
+  "colorIdentity": [
+    "G"
+  ]
+}

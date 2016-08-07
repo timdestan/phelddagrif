@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Void Shatter",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Devoid (This card has no color.)\nCounter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",
+  "imageName": "void shatter",
+  "colorIdentity": [
+    "U"
+  ]
+}

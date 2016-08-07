@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Angel of Jubilation",
+  "manaCost": "{1}{W}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nOther nonblack creatures you control get +1/+1.\nPlayers can't pay life or sacrifice creatures to cast spells or activate abilities.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "angel of jubilation",
+  "colorIdentity": [
+    "W"
+  ]
+}

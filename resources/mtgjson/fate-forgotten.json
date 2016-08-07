@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Fate Forgotten",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Exile target artifact or enchantment.",
+  "imageName": "fate forgotten",
+  "colorIdentity": [
+    "W"
+  ]
+}

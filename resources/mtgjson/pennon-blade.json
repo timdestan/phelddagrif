@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Pennon Blade",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature gets +1/+1 for each creature you control.\nEquip {4}",
+  "imageName": "pennon blade"
+}

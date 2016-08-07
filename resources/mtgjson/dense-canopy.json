@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dense Canopy",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Creatures with flying can block only creatures with flying.",
+  "imageName": "dense canopy",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Feast of Flesh",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Feast of Flesh deals X damage to target creature and you gain X life, where X is 1 plus the number of cards named Feast of Flesh in all graveyards.",
+  "imageName": "feast of flesh",
+  "colorIdentity": [
+    "B"
+  ]
+}

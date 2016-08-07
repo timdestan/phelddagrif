@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mercadia's Downfall",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Each attacking creature gets +1/+0 until end of turn for each nonbasic land defending player controls.",
+  "imageName": "mercadia's downfall",
+  "colorIdentity": [
+    "R"
+  ]
+}

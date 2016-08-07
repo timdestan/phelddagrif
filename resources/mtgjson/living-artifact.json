@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Living Artifact",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant artifact\nWhenever you're dealt damage, put that many vitality counters on Living Artifact.\nAt the beginning of your upkeep, you may remove a vitality counter from Living Artifact. If you do, you gain 1 life.",
+  "imageName": "living artifact",
+  "colorIdentity": [
+    "G"
+  ]
+}

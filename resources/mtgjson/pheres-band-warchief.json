@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Pheres-Band Warchief",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Centaur Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Centaur",
+    "Warrior"
+  ],
+  "text": "Vigilance, trample\nOther Centaur creatures you control get +1/+1 and have vigilance and trample.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "pheres-band warchief",
+  "colorIdentity": [
+    "G"
+  ]
+}

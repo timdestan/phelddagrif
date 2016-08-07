@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Makindi Sliderunner",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Trample\nLandfall — Whenever a land enters the battlefield under your control, Makindi Sliderunner gets +1/+1 until end of turn.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "makindi sliderunner",
+  "colorIdentity": [
+    "R"
+  ]
+}

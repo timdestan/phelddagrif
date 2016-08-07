@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Artful Looter",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{T}: Draw a card, then discard a card.\nWhenever a permanent comes into play that shares an artist with another permanent you control, untap Artful Looter.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "artful looter",
+  "colorIdentity": [
+    "U"
+  ]
+}

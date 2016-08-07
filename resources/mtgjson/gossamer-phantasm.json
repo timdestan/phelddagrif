@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Gossamer Phantasm",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Illusion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Illusion"
+  ],
+  "text": "Flying\nWhen Gossamer Phantasm becomes the target of a spell or ability, sacrifice it.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "gossamer phantasm",
+  "colorIdentity": [
+    "U"
+  ]
+}

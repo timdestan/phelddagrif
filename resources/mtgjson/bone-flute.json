@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Bone Flute",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, {T}: All creatures get -1/-0 until end of turn.",
+  "imageName": "bone flute"
+}

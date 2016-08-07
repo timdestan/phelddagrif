@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Stormtide Leviathan",
+  "manaCost": "{5}{U}{U}{U}",
+  "cmc": 8,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Leviathan",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Leviathan"
+  ],
+  "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\nAll lands are Islands in addition to their other types.\nCreatures without flying or islandwalk can't attack.",
+  "power": "8",
+  "toughness": "8",
+  "imageName": "stormtide leviathan",
+  "colorIdentity": [
+    "U"
+  ]
+}

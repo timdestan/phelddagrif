@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Endless Obedience",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nPut target creature card from a graveyard onto the battlefield under your control.",
+  "imageName": "endless obedience",
+  "colorIdentity": [
+    "B"
+  ]
+}

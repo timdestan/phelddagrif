@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Voidmage Apprentice",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Morph {2}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Voidmage Apprentice is turned face up, counter target spell.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "voidmage apprentice",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rain of Thorns",
+  "manaCost": "{4}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Choose one or more —\n• Destroy target artifact.\n• Destroy target enchantment.\n• Destroy target land.",
+  "imageName": "rain of thorns",
+  "colorIdentity": [
+    "G"
+  ]
+}

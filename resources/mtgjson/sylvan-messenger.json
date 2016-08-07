@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sylvan Messenger",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf"
+  ],
+  "text": "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)\nWhen Sylvan Messenger enters the battlefield, reveal the top four cards of your library. Put all Elf cards revealed this way into your hand and the rest on the bottom of your library in any order.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "sylvan messenger",
+  "colorIdentity": [
+    "G"
+  ]
+}

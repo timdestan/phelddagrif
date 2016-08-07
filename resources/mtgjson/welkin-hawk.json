@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Welkin Hawk",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\nWhen Welkin Hawk dies, you may search your library for a card named Welkin Hawk, reveal that card, put it into your hand, then shuffle your library.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "welkin hawk",
+  "colorIdentity": [
+    "W"
+  ]
+}

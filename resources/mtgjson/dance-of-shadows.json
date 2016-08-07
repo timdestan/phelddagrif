@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Dance of Shadows",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery — Arcane",
+  "types": [
+    "Sorcery"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "Creatures you control get +1/+0 and gain fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.)",
+  "imageName": "dance of shadows",
+  "colorIdentity": [
+    "B"
+  ]
+}

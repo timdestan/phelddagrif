@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Steel Wall",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact Creature — Wall",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender (This creature can't attack.)",
+  "power": "0",
+  "toughness": "4",
+  "imageName": "steel wall"
+}

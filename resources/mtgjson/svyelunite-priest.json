@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Svyelunite Priest",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Cleric"
+  ],
+  "text": "{U}{U}, {T}: Target creature gains shroud until end of turn. Activate this ability only during your upkeep. (It can't be the target of spells or abilities.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "svyelunite priest",
+  "colorIdentity": [
+    "U"
+  ]
+}

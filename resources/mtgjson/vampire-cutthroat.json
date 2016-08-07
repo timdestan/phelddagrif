@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Vampire Cutthroat",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Rogue"
+  ],
+  "text": "Skulk (This creature can't be blocked by creatures with greater power.)\nLifelink (Damage dealt by this creature also causes you to gain that much life.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "vampire cutthroat",
+  "colorIdentity": [
+    "B"
+  ]
+}

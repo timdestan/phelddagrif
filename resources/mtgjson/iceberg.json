@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Iceberg",
+  "manaCost": "{X}{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Iceberg enters the battlefield with X ice counters on it.\n{3}: Put an ice counter on Iceberg.\nRemove an ice counter from Iceberg: Add {C} to your mana pool.",
+  "imageName": "iceberg",
+  "colorIdentity": [
+    "U"
+  ]
+}

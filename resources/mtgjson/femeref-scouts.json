@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Femeref Scouts",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Scout",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Scout"
+  ],
+  "power": "1",
+  "toughness": "4",
+  "imageName": "femeref scouts",
+  "colorIdentity": [
+    "W"
+  ]
+}

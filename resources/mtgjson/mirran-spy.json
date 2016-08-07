@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Mirran Spy",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Drone",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drone"
+  ],
+  "text": "Flying\nWhenever you cast an artifact spell, you may untap target creature.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "mirran spy",
+  "colorIdentity": [
+    "U"
+  ]
+}

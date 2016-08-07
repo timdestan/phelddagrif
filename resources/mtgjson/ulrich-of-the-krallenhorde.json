@@ -1,0 +1,33 @@
+{
+  "layout": "double-faced",
+  "name": "Ulrich of the Krallenhorde",
+  "names": [
+    "Ulrich of the Krallenhorde",
+    "Ulrich, Uncontested Alpha"
+  ],
+  "manaCost": "{3}{R}{G}",
+  "cmc": 5,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Legendary Creature — Human Werewolf",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Werewolf"
+  ],
+  "text": "Whenever this creature enters the battlefield or transforms into Ulrich of the Krallenhorde, target creature gets +4/+4 until end of turn.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Ulrich of the Krallenhorde.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "ulrich of the krallenhorde",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

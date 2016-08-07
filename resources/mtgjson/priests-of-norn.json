@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Priests of Norn",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cleric"
+  ],
+  "text": "Vigilance\nInfect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+  "power": "1",
+  "toughness": "4",
+  "imageName": "priests of norn",
+  "colorIdentity": [
+    "W"
+  ]
+}

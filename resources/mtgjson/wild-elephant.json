@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wild Elephant",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elephant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elephant"
+  ],
+  "text": "Trample",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "wild elephant",
+  "colorIdentity": [
+    "G"
+  ]
+}

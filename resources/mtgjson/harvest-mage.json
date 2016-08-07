@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Harvest Mage",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Spellshaper",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Spellshaper"
+  ],
+  "text": "{G}, {T}, Discard a card: Until end of turn, if you tap a land for mana, it produces one mana of a color of your choice instead of any other type and amount.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "harvest mage",
+  "colorIdentity": [
+    "G"
+  ]
+}

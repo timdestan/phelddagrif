@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Monk Idealist",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Monk Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Monk",
+    "Cleric"
+  ],
+  "text": "When Monk Idealist enters the battlefield, return target enchantment card from your graveyard to your hand.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "monk idealist",
+  "colorIdentity": [
+    "W"
+  ]
+}

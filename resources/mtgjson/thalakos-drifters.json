@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Thalakos Drifters",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Thalakos",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Thalakos"
+  ],
+  "text": "Discard a card: Thalakos Drifters gains shadow until end of turn. (It can block or be blocked by only creatures with shadow.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "thalakos drifters",
+  "colorIdentity": [
+    "U"
+  ]
+}

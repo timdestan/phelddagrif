@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Woolly Mammoths",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elephant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elephant"
+  ],
+  "text": "Woolly Mammoths has trample as long as you control a snow land.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "woolly mammoths",
+  "colorIdentity": [
+    "G"
+  ]
+}

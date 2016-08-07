@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Deflecting Palm",
+  "manaCost": "{R}{W}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "The next time a source of your choice would deal damage to you this turn, prevent that damage. If damage is prevented this way, Deflecting Palm deals that much damage to that source's controller.",
+  "imageName": "deflecting palm",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

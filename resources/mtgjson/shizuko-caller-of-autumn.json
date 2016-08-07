@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Shizuko, Caller of Autumn",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Legendary Creature — Snake Shaman",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Snake",
+    "Shaman"
+  ],
+  "text": "At the beginning of each player's upkeep, that player adds {G}{G}{G} to his or her mana pool. Until end of turn, this mana doesn't empty from that player's mana pool as steps and phases end.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "shizuko, caller of autumn",
+  "colorIdentity": [
+    "G"
+  ]
+}

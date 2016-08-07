@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Soul Echo",
+  "manaCost": "{X}{W}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Soul Echo enters the battlefield with X echo counters on it.\nYou don't lose the game for having 0 or less life.\nAt the beginning of your upkeep, sacrifice Soul Echo if there are no echo counters on it. Otherwise, target opponent may choose that for each 1 damage that would be dealt to you until your next upkeep, you remove an echo counter from Soul Echo instead.",
+  "imageName": "soul echo",
+  "colorIdentity": [
+    "W"
+  ]
+}

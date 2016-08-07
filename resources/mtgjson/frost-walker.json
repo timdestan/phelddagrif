@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Frost Walker",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "When Frost Walker becomes the target of a spell or ability, sacrifice it.",
+  "power": "4",
+  "toughness": "1",
+  "imageName": "frost walker",
+  "colorIdentity": [
+    "U"
+  ]
+}

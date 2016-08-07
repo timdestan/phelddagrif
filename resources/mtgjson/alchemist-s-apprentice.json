@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Alchemist's Apprentice",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Sacrifice Alchemist's Apprentice: Draw a card.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "alchemist's apprentice",
+  "colorIdentity": [
+    "U"
+  ]
+}

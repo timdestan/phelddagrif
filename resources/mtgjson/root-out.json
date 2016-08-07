@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Root Out",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target artifact or enchantment.\nInvestigate. (Put a colorless Clue artifact token onto the battlefield with \"{2}, Sacrifice this artifact: Draw a card.\")",
+  "imageName": "root out",
+  "colorIdentity": [
+    "G"
+  ]
+}

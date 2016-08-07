@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Giant Crab",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Crab",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Crab"
+  ],
+  "text": "{U}: Giant Crab gains shroud until end of turn. (It can't be the target of spells or abilities.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "giant crab",
+  "colorIdentity": [
+    "U"
+  ]
+}

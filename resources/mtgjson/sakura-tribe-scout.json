@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Sakura-Tribe Scout",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Snake Shaman Scout",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Snake",
+    "Shaman",
+    "Scout"
+  ],
+  "text": "{T}: You may put a land card from your hand onto the battlefield.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "sakura-tribe scout",
+  "colorIdentity": [
+    "G"
+  ]
+}

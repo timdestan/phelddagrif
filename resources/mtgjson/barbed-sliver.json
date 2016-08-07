@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Barbed Sliver",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "All Sliver creatures have \"{2}: This creature gets +1/+0 until end of turn.\"",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "barbed sliver",
+  "colorIdentity": [
+    "R"
+  ]
+}

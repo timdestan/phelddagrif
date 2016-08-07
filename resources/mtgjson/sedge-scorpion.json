@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sedge Scorpion",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Scorpion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Scorpion"
+  ],
+  "text": "Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "sedge scorpion",
+  "colorIdentity": [
+    "G"
+  ]
+}

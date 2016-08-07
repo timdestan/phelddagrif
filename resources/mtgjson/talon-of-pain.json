@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Talon of Pain",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Whenever a source you control other than Talon of Pain deals damage to an opponent, put a charge counter on Talon of Pain.\n{X}, {T}, Remove X charge counters from Talon of Pain: Talon of Pain deals X damage to target creature or player.",
+  "imageName": "talon of pain"
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mask of the Mimic",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "As an additional cost to cast Mask of the Mimic, sacrifice a creature.\nSearch your library for a card with the same name as target nontoken creature and put that card onto the battlefield. Then shuffle your library.",
+  "imageName": "mask of the mimic",
+  "colorIdentity": [
+    "U"
+  ]
+}

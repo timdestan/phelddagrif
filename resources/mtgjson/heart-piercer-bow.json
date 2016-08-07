@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Heart-Piercer Bow",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Whenever equipped creature attacks, Heart-Piercer Bow deals 1 damage to target creature defending player controls.\nEquip {1}",
+  "imageName": "heart-piercer bow"
+}

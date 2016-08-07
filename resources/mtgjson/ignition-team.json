@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ignition Team",
+  "manaCost": "{5}{R}{R}",
+  "cmc": 7,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Warrior"
+  ],
+  "text": "Ignition Team enters the battlefield with X +1/+1 counters on it, where X is the number of tapped lands on the battlefield.\n{2}{R}, Remove a +1/+1 counter from Ignition Team: Target land becomes a 4/4 red Elemental creature until end of turn. It's still a land.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "ignition team",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Hunting Triad",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Tribal Sorcery — Elf",
+  "types": [
+    "Tribal",
+    "Sorcery"
+  ],
+  "subtypes": [
+    "Elf"
+  ],
+  "text": "Put three 1/1 green Elf Warrior creature tokens onto the battlefield.\nReinforce 3—{3}{G} ({3}{G}, Discard this card: Put three +1/+1 counters on target creature.)",
+  "imageName": "hunting triad",
+  "colorIdentity": [
+    "G"
+  ]
+}

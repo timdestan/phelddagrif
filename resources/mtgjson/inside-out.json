@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Inside Out",
+  "manaCost": "{1}{U/R}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Switch target creature's power and toughness until end of turn.\nDraw a card.",
+  "imageName": "inside out",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Lyna",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "Creatures you control have shadow. (They can block and be blocked only by creatures with shadow.)",
+  "imageName": "lyna",
+  "hand": 2,
+  "life": -4
+}

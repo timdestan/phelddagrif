@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Deep Analysis",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target player draws two cards.\nFlashback—{1}{U}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "deep analysis",
+  "colorIdentity": [
+    "U"
+  ]
+}

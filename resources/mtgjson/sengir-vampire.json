@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sengir Vampire",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire"
+  ],
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "sengir vampire",
+  "colorIdentity": [
+    "B"
+  ]
+}

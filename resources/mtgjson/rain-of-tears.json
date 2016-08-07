@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rain of Tears",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target land.",
+  "imageName": "rain of tears",
+  "colorIdentity": [
+    "B"
+  ]
+}

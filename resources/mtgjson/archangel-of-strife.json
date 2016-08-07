@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Archangel of Strife",
+  "manaCost": "{5}{W}{W}",
+  "cmc": 7,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nAs Archangel of Strife enters the battlefield, each player chooses war or peace.\nCreatures controlled by players who chose war get +3/+0.\nCreatures controlled by players who chose peace get +0/+3.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "archangel of strife",
+  "colorIdentity": [
+    "W"
+  ]
+}

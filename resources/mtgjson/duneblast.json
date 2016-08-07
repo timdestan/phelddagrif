@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Duneblast",
+  "manaCost": "{4}{W}{B}{G}",
+  "cmc": 7,
+  "colors": [
+    "White",
+    "Black",
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Choose up to one creature. Destroy the rest.",
+  "imageName": "duneblast",
+  "colorIdentity": [
+    "W",
+    "B",
+    "G"
+  ]
+}

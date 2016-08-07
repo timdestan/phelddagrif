@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Bösium Strip",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{3}, {T}: Until end of turn, if the top card of your graveyard is an instant or sorcery card, you may cast that card. If a card cast this way would be put into a graveyard this turn, exile it instead.",
+  "imageName": "bösium strip"
+}

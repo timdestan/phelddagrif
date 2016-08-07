@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Outland Colossus",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Giant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant"
+  ],
+  "text": "Renown 6 (When this creature deals combat damage to a player, if it isn't renowned, put six +1/+1 counters on it and it becomes renowned.)\nOutland Colossus can't be blocked by more than one creature.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "outland colossus",
+  "colorIdentity": [
+    "G"
+  ]
+}

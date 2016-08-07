@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "First Response",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of each upkeep, if you lost life last turn, put a 1/1 white Soldier creature token onto the battlefield.",
+  "imageName": "first response",
+  "colorIdentity": [
+    "W"
+  ]
+}

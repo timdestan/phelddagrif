@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Nylea's Disciple",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Centaur Archer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Centaur",
+    "Archer"
+  ],
+  "text": "When Nylea's Disciple enters the battlefield, you gain life equal to your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "nylea's disciple",
+  "colorIdentity": [
+    "G"
+  ]
+}

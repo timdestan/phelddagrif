@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Crypsis",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature you control gains protection from creatures your opponents control until end of turn. Untap it.",
+  "imageName": "crypsis",
+  "colorIdentity": [
+    "U"
+  ]
+}

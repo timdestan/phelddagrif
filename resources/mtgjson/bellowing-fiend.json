@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Bellowing Fiend",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying\nWhenever Bellowing Fiend deals damage to a creature, Bellowing Fiend deals 3 damage to that creature's controller and 3 damage to you.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "bellowing fiend",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Burn Trail",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Burn Trail deals 3 damage to target creature or player.\nConspire (As you cast this spell, you may tap two untapped creatures you control that share a color with it. When you do, copy it and you may choose a new target for the copy.)",
+  "imageName": "burn trail",
+  "colorIdentity": [
+    "R"
+  ]
+}

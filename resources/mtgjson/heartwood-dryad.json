@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Heartwood Dryad",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Dryad",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dryad"
+  ],
+  "text": "Heartwood Dryad can block creatures with shadow as though Heartwood Dryad had shadow.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "heartwood dryad",
+  "colorIdentity": [
+    "G"
+  ]
+}

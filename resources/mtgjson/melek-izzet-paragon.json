@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Melek, Izzet Paragon",
+  "manaCost": "{4}{U}{R}",
+  "cmc": 6,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Legendary Creature — Weird Wizard",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Weird",
+    "Wizard"
+  ],
+  "text": "Play with the top card of your library revealed.\nYou may cast the top card of your library if it's an instant or sorcery card.\nWhenever you cast an instant or sorcery spell from your library, copy it. You may choose new targets for the copy.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "melek, izzet paragon",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

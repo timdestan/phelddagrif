@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Chastise",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target attacking creature. You gain life equal to its power.",
+  "imageName": "chastise",
+  "colorIdentity": [
+    "W"
+  ]
+}

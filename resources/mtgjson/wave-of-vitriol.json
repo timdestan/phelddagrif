@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Wave of Vitriol",
+  "manaCost": "{5}{G}{G}",
+  "cmc": 7,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Each player sacrifices all artifacts, enchantments, and nonbasic lands he or she controls. For each land sacrificed this way, its controller may search his or her library for a basic land card and put it onto the battlefield tapped. Then each player who searched his or her library this way shuffles it.",
+  "imageName": "wave of vitriol",
+  "colorIdentity": [
+    "G"
+  ]
+}

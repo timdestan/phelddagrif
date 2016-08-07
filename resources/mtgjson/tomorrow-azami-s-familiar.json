@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Tomorrow, Azami's Familiar",
+  "manaCost": "{5}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Legendary Creature — Spirit",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "If you would draw a card, look at the top three cards of your library instead. Put one of those cards into your hand and the rest on the bottom of your library in any order.",
+  "power": "1",
+  "toughness": "5",
+  "imageName": "tomorrow, azami's familiar",
+  "colorIdentity": [
+    "U"
+  ]
+}

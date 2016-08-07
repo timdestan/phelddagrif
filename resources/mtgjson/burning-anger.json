@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Burning Anger",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature has \"{T}: This creature deals damage equal to its power to target creature or player.\"",
+  "imageName": "burning anger",
+  "colorIdentity": [
+    "R"
+  ]
+}

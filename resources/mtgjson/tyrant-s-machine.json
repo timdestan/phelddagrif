@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Tyrant's Machine",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{4}, {T}: Tap target creature.",
+  "imageName": "tyrant's machine"
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Blade Splicer",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Artificer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Artificer"
+  ],
+  "text": "When Blade Splicer enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield.\nGolem creatures you control have first strike.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "blade splicer",
+  "colorIdentity": [
+    "W"
+  ]
+}

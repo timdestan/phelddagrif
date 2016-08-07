@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Diplomatic Escort",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Spellshaper",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Spellshaper"
+  ],
+  "text": "{U}, {T}, Discard a card: Counter target spell or ability that targets a creature.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "diplomatic escort",
+  "colorIdentity": [
+    "U"
+  ]
+}

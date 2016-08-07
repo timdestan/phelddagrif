@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Belbe's Percher",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\nBelbe's Percher can block only creatures with flying.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "belbe's percher",
+  "colorIdentity": [
+    "B"
+  ]
+}

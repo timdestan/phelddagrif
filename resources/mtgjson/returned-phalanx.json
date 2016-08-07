@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Returned Phalanx",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Soldier"
+  ],
+  "text": "Defender\n{1}{U}: Returned Phalanx can attack this turn as though it didn't have defender.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "returned phalanx",
+  "colorIdentity": [
+    "B",
+    "U"
+  ]
+}

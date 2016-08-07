@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Reap Intellect",
+  "manaCost": "{X}{2}{U}{B}",
+  "cmc": 4,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target opponent reveals his or her hand. You choose up to X nonland cards from it and exile them. For each card exiled this way, search that player's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles his or her library.",
+  "imageName": "reap intellect",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Regrowth",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Return target card from your graveyard to your hand.",
+  "imageName": "regrowth",
+  "colorIdentity": [
+    "G"
+  ]
+}

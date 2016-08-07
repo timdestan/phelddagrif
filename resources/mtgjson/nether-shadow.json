@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Nether Shadow",
+  "manaCost": "{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Haste\nAt the beginning of your upkeep, if Nether Shadow is in your graveyard with three or more creature cards above it, you may put Nether Shadow onto the battlefield.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "nether shadow",
+  "colorIdentity": [
+    "B"
+  ]
+}

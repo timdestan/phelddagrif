@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Zombie Infestation",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Discard two cards: Put a 2/2 black Zombie creature token onto the battlefield.",
+  "imageName": "zombie infestation",
+  "colorIdentity": [
+    "B"
+  ]
+}

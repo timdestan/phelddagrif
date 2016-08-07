@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Virulent Sliver",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "All Sliver creatures have poisonous 1. (Whenever a Sliver deals combat damage to a player, that player gets a poison counter. A player with ten or more poison counters loses the game.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "virulent sliver",
+  "colorIdentity": [
+    "G"
+  ]
+}

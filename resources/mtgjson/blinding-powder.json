@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Blinding Powder",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature has \"Unattach Blinding Powder: Prevent all combat damage that would be dealt to this creature this turn.\"\nEquip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)",
+  "imageName": "blinding powder"
+}

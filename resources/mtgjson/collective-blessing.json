@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Collective Blessing",
+  "manaCost": "{3}{G}{G}{W}",
+  "cmc": 6,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Creatures you control get +3/+3.",
+  "imageName": "collective blessing",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

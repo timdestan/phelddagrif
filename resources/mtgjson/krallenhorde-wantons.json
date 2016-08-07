@@ -1,0 +1,26 @@
+{
+  "layout": "double-faced",
+  "name": "Krallenhorde Wantons",
+  "names": [
+    "Grizzled Outcasts",
+    "Krallenhorde Wantons"
+  ],
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Werewolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Werewolf"
+  ],
+  "text": "At the beginning of each upkeep, if a player cast two or more spells last turn, transform Krallenhorde Wantons.",
+  "power": "7",
+  "toughness": "7",
+  "imageName": "krallenhorde wantons",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Dauntless Escort",
+  "manaCost": "{1}{G}{W}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Rhino Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rhino",
+    "Soldier"
+  ],
+  "text": "Sacrifice Dauntless Escort: Creatures you control gain indestructible until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "dauntless escort",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Talruum Piper",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Minotaur",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Minotaur"
+  ],
+  "text": "All creatures with flying able to block Talruum Piper do so.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "talruum piper",
+  "colorIdentity": [
+    "R"
+  ]
+}

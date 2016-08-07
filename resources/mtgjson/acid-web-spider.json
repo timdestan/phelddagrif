@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Acid Web Spider",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Spider",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spider"
+  ],
+  "text": "Reach\nWhen Acid Web Spider enters the battlefield, you may destroy target Equipment.",
+  "power": "3",
+  "toughness": "5",
+  "imageName": "acid web spider",
+  "colorIdentity": [
+    "G"
+  ]
+}

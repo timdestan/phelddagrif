@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Hyperion Blacksmith",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Artificer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Artificer"
+  ],
+  "text": "{T}: You may tap or untap target artifact an opponent controls.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "hyperion blacksmith",
+  "colorIdentity": [
+    "R"
+  ]
+}

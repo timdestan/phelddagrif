@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Incite Rebellion",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "For each player, Incite Rebellion deals damage to that player and each creature that player controls equal to the number of creatures he or she controls.",
+  "imageName": "incite rebellion",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Mannichi, the Fevered Dream",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Creature — Spirit",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "{1}{R}: Switch each creature's power and toughness until end of turn.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "mannichi, the fevered dream",
+  "colorIdentity": [
+    "R"
+  ]
+}

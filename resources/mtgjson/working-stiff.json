@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Working Stiff",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Mummy",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Mummy"
+  ],
+  "text": "As Working Stiff comes into play, straighten your arms.\nWhen you bend an elbow, sacrifice Working Stiff.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "working stiff",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Mirran Crusader",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "Double strike, protection from black and from green",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "mirran crusader",
+  "colorIdentity": [
+    "W"
+  ]
+}

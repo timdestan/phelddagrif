@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Scour",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Exile target enchantment. Search its controller's graveyard, hand, and library for all cards with the same name as that enchantment and exile them. Then that player shuffles his or her library.",
+  "imageName": "scour",
+  "colorIdentity": [
+    "W"
+  ]
+}

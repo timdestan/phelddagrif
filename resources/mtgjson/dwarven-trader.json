@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Dwarven Trader",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dwarf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dwarf"
+  ],
+  "power": "1",
+  "toughness": "1",
+  "imageName": "dwarven trader",
+  "colorIdentity": [
+    "R"
+  ]
+}

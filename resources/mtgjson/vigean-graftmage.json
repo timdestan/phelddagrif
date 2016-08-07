@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Vigean Graftmage",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Vedalken Wizard Mutant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vedalken",
+    "Wizard",
+    "Mutant"
+  ],
+  "text": "Graft 2 (This creature enters the battlefield with two +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)\n{1}{U}: Untap target creature with a +1/+1 counter on it.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "vigean graftmage",
+  "colorIdentity": [
+    "U"
+  ]
+}

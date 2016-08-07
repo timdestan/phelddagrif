@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Greatbow Doyen",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Archer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Archer"
+  ],
+  "text": "Other Archer creatures you control get +1/+1.\nWhenever an Archer you control deals damage to a creature, that Archer deals that much damage to that creature's controller.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "greatbow doyen",
+  "colorIdentity": [
+    "G"
+  ]
+}

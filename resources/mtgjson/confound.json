@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Confound",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell that targets one or more creatures.\nDraw a card.",
+  "imageName": "confound",
+  "colorIdentity": [
+    "U"
+  ]
+}

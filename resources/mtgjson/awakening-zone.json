@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Awakening Zone",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, you may put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has \"Sacrifice this creature: Add {C} to your mana pool.\"",
+  "imageName": "awakening zone",
+  "colorIdentity": [
+    "G"
+  ]
+}

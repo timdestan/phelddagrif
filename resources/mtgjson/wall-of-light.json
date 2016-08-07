@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wall of Light",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender (This creature can't attack.)\nProtection from black",
+  "power": "1",
+  "toughness": "5",
+  "imageName": "wall of light",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Epic Experiment",
+  "manaCost": "{X}{U}{R}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Exile the top X cards of your library. For each instant and sorcery card with converted mana cost X or less among them, you may cast that card without paying its mana cost. Then put all cards exiled this way that weren't cast into your graveyard.",
+  "imageName": "epic experiment",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

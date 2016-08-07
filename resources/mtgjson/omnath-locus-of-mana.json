@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Omnath, Locus of Mana",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Legendary Creature — Elemental",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Green mana doesn't empty from your mana pool as steps and phases end.\nOmnath, Locus of Mana gets +1/+1 for each green mana in your mana pool.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "omnath, locus of mana",
+  "colorIdentity": [
+    "G"
+  ]
+}

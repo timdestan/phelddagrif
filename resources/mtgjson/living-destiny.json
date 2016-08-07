@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Living Destiny",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "As an additional cost to cast Living Destiny, reveal a creature card from your hand.\nYou gain life equal to the revealed card's converted mana cost.",
+  "imageName": "living destiny",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Bonds of Mortality",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "When Bonds of Mortality enters the battlefield, draw a card.\n{G}: Creatures your opponents control lose hexproof and indestructible until end of turn.",
+  "imageName": "bonds of mortality",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Crusading Knight",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "Protection from black\nCrusading Knight gets +1/+1 for each Swamp your opponents control.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "crusading knight",
+  "colorIdentity": [
+    "W"
+  ]
+}

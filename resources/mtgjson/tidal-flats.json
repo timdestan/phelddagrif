@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Tidal Flats",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{U}{U}: For each attacking creature without flying, its controller may pay {1}. If he or she doesn't, creatures you control blocking that creature gain first strike until end of turn.",
+  "imageName": "tidal flats",
+  "colorIdentity": [
+    "U"
+  ]
+}

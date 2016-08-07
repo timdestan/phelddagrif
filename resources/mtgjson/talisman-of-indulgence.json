@@ -1,0 +1,16 @@
+{
+  "layout": "normal",
+  "name": "Talisman of Indulgence",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{T}: Add {B} or {R} to your mana pool. Talisman of Indulgence deals 1 damage to you.",
+  "imageName": "talisman of indulgence",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

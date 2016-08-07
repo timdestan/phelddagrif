@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Krosan Colossus",
+  "manaCost": "{6}{G}{G}{G}",
+  "cmc": 9,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Morph {6}{G}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+  "power": "9",
+  "toughness": "9",
+  "imageName": "krosan colossus",
+  "colorIdentity": [
+    "G"
+  ]
+}

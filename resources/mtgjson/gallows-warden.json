@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Gallows Warden",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying\nOther Spirit creatures you control get +0/+1.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "gallows warden",
+  "colorIdentity": [
+    "W"
+  ]
+}

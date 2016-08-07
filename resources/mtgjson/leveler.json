@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Leveler",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact Creature — Juggernaut",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Juggernaut"
+  ],
+  "text": "When Leveler enters the battlefield, exile all cards from your library.",
+  "power": "10",
+  "toughness": "10",
+  "imageName": "leveler"
+}

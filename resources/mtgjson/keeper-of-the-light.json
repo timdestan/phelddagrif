@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Keeper of the Light",
+  "manaCost": "{W}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{W}, {T}: Choose target opponent who had more life than you did as you activated this ability. You gain 3 life.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "keeper of the light",
+  "colorIdentity": [
+    "W"
+  ]
+}

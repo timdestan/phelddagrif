@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Shimmering Efreet",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Efreet",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Efreet"
+  ],
+  "text": "Flying\nPhasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)\nWhenever Shimmering Efreet phases in, target creature phases out. (It phases in before its controller untaps during his or her next untap step.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "shimmering efreet",
+  "colorIdentity": [
+    "U"
+  ]
+}

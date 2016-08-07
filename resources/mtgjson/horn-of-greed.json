@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Horn of Greed",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Whenever a player plays a land, that player draws a card.",
+  "imageName": "horn of greed"
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Balance of Power",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "If target opponent has more cards in hand than you, draw cards equal to the difference.",
+  "imageName": "balance of power",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Ring of Renewal",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{5}, {T}: Discard a card at random, then draw two cards.",
+  "imageName": "ring of renewal"
+}

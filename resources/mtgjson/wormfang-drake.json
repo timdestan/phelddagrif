@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Wormfang Drake",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Nightmare Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Nightmare",
+    "Drake"
+  ],
+  "text": "Flying\nWhen Wormfang Drake enters the battlefield, sacrifice it unless you exile a creature you control other than Wormfang Drake.\nWhen Wormfang Drake leaves the battlefield, return the exiled card to the battlefield under its owner's control.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "wormfang drake",
+  "colorIdentity": [
+    "U"
+  ]
+}

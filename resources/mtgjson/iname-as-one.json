@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Iname as One",
+  "manaCost": "{8}{B}{B}{G}{G}",
+  "cmc": 12,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Legendary Creature — Spirit",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "When Iname as One enters the battlefield, if you cast it from your hand, you may search your library for a Spirit permanent card, put it onto the battlefield, then shuffle your library.\nWhen Iname as One dies, you may exile it. If you do, return target Spirit permanent card from your graveyard to the battlefield.",
+  "power": "8",
+  "toughness": "8",
+  "imageName": "iname as one",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

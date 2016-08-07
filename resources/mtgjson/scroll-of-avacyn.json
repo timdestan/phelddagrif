@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Scroll of Avacyn",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{1}, Sacrifice Scroll of Avacyn: Draw a card. If you control an Angel, you gain 5 life.",
+  "imageName": "scroll of avacyn"
+}

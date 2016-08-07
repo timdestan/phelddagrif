@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Trokin High Guard",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "power": "3",
+  "toughness": "3",
+  "imageName": "trokin high guard",
+  "colorIdentity": [
+    "W"
+  ]
+}

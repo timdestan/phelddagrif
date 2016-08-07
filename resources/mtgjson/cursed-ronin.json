@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Cursed Ronin",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Samurai",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Samurai"
+  ],
+  "text": "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\n{B}: Cursed Ronin gets +1/+1 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "cursed ronin",
+  "colorIdentity": [
+    "B"
+  ]
+}

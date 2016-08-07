@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Overmaster",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "The next instant or sorcery spell you cast this turn can't be countered by spells or abilities.\nDraw a card.",
+  "imageName": "overmaster",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Thwart",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "You may return three Islands you control to their owner's hand rather than pay Thwart's mana cost.\nCounter target spell.",
+  "imageName": "thwart",
+  "colorIdentity": [
+    "U"
+  ]
+}

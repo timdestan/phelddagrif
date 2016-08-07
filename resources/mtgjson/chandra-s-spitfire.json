@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Chandra's Spitfire",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Flying\nWhenever an opponent is dealt noncombat damage, Chandra's Spitfire gets +3/+0 until end of turn.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "chandra's spitfire",
+  "colorIdentity": [
+    "R"
+  ]
+}

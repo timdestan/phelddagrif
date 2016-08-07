@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Waterspout Djinn",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Djinn",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Djinn"
+  ],
+  "text": "Flying\nAt the beginning of your upkeep, sacrifice Waterspout Djinn unless you return an untapped Island you control to its owner's hand.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "waterspout djinn",
+  "colorIdentity": [
+    "U"
+  ]
+}

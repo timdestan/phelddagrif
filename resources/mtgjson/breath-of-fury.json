@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Breath of Fury",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature you control\nWhen enchanted creature deals combat damage to a player, sacrifice it and attach Breath of Fury to a creature you control. If you do, untap all creatures you control and after this phase, there is an additional combat phase.",
+  "imageName": "breath of fury",
+  "colorIdentity": [
+    "R"
+  ]
+}

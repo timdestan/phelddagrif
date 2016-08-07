@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Durkwood Boars",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Boar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Boar"
+  ],
+  "power": "4",
+  "toughness": "4",
+  "imageName": "durkwood boars",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Primitive Etchings",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Reveal the first card you draw each turn. Whenever you reveal a creature card this way, draw a card.",
+  "imageName": "primitive etchings",
+  "colorIdentity": [
+    "G"
+  ]
+}

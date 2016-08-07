@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Bramblecrush",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target noncreature permanent.",
+  "imageName": "bramblecrush",
+  "colorIdentity": [
+    "G"
+  ]
+}

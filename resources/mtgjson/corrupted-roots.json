@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Corrupted Roots",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant Forest or Plains\nWhenever enchanted land becomes tapped, its controller loses 2 life.",
+  "imageName": "corrupted roots",
+  "colorIdentity": [
+    "B"
+  ]
+}

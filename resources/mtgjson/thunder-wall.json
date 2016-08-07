@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Thunder Wall",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender (This creature can't attack.)\nFlying\n{U}: Thunder Wall gets +1/+1 until end of turn.",
+  "power": "0",
+  "toughness": "2",
+  "imageName": "thunder wall",
+  "colorIdentity": [
+    "U"
+  ]
+}

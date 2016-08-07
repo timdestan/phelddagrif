@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Gemhide Sliver",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "All Slivers have \"{T}: Add one mana of any color to your mana pool.\"",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "gemhide sliver",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dream Twist",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target player puts the top three cards of his or her library into his or her graveyard.\nFlashback {1}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "dream twist",
+  "colorIdentity": [
+    "U"
+  ]
+}

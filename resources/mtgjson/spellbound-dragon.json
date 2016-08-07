@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Spellbound Dragon",
+  "manaCost": "{3}{U}{R}",
+  "cmc": 5,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying\nWhenever Spellbound Dragon attacks, draw a card, then discard a card. Spellbound Dragon gets +X/+0 until end of turn, where X is the discarded card's converted mana cost.",
+  "power": "3",
+  "toughness": "5",
+  "imageName": "spellbound dragon",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

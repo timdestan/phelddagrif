@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Thought Lash",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Cumulative upkeep—Exile the top card of your library. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhen a player doesn't pay Thought Lash's cumulative upkeep, that player exiles all cards from his or her library.\nExile the top card of your library: Prevent the next 1 damage that would be dealt to you this turn.",
+  "imageName": "thought lash",
+  "colorIdentity": [
+    "U"
+  ]
+}

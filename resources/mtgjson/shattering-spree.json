@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Shattering Spree",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Replicate {R} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)\nDestroy target artifact.",
+  "imageName": "shattering spree",
+  "colorIdentity": [
+    "R"
+  ]
+}

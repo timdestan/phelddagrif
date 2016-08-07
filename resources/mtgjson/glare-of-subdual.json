@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Glare of Subdual",
+  "manaCost": "{2}{G}{W}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Tap an untapped creature you control: Tap target artifact or creature.",
+  "imageName": "glare of subdual",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

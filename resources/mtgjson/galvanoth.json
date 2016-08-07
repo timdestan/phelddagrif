@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Galvanoth",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "At the beginning of your upkeep, you may look at the top card of your library. If it's an instant or sorcery card, you may cast it without paying its mana cost.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "galvanoth",
+  "colorIdentity": [
+    "R"
+  ]
+}

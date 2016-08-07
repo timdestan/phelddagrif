@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Metathran Aerostat",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Metathran",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Metathran"
+  ],
+  "text": "Flying\n{X}{U}: You may put a creature card with converted mana cost X from your hand onto the battlefield. If you do, return Metathran Aerostat to its owner's hand.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "metathran aerostat",
+  "colorIdentity": [
+    "U"
+  ]
+}

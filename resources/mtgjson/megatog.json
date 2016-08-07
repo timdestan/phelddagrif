@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Megatog",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Atog",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Atog"
+  ],
+  "text": "Sacrifice an artifact: Megatog gets +3/+3 and gains trample until end of turn.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "megatog",
+  "colorIdentity": [
+    "R"
+  ]
+}

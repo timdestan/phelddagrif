@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Valakut Fireboar",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental Boar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Boar"
+  ],
+  "text": "Whenever Valakut Fireboar attacks, switch its power and toughness until end of turn.",
+  "power": "1",
+  "toughness": "7",
+  "imageName": "valakut fireboar",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Siege Mastodon",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Elephant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elephant"
+  ],
+  "power": "3",
+  "toughness": "5",
+  "imageName": "siege mastodon",
+  "colorIdentity": [
+    "W"
+  ]
+}

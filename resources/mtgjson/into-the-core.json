@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Into the Core",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Exile two target artifacts.",
+  "imageName": "into the core",
+  "colorIdentity": [
+    "R"
+  ]
+}

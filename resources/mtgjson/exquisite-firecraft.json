@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Exquisite Firecraft",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Exquisite Firecraft deals 4 damage to target creature or player.\nSpell mastery — If there are two or more instant and/or sorcery cards in your graveyard, Exquisite Firecraft can't be countered by spells or abilities.",
+  "imageName": "exquisite firecraft",
+  "colorIdentity": [
+    "R"
+  ]
+}

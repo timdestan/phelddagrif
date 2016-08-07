@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Resounding Wave",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Return target permanent to its owner's hand.\nCycling {5}{W}{U}{B} ({5}{W}{U}{B}, Discard this card: Draw a card.)\nWhen you cycle Resounding Wave, return two target permanents to their owners' hands.",
+  "imageName": "resounding wave",
+  "colorIdentity": [
+    "U",
+    "W",
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Indentured Djinn",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Djinn",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Djinn"
+  ],
+  "text": "Flying\nWhen Indentured Djinn enters the battlefield, each other player may draw up to three cards.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "indentured djinn",
+  "colorIdentity": [
+    "U"
+  ]
+}

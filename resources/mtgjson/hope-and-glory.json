@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Hope and Glory",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Untap two target creatures. Each of them gets +1/+1 until end of turn.",
+  "imageName": "hope and glory",
+  "colorIdentity": [
+    "W"
+  ]
+}

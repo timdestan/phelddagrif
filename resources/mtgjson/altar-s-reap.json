@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Altar's Reap",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "As an additional cost to cast Altar's Reap, sacrifice a creature.\nDraw two cards.",
+  "imageName": "altar's reap",
+  "colorIdentity": [
+    "B"
+  ]
+}

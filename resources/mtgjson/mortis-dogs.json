@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Mortis Dogs",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Hound",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hound"
+  ],
+  "text": "Whenever Mortis Dogs attacks, it gets +2/+0 until end of turn.\nWhen Mortis Dogs dies, target player loses life equal to its power.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "mortis dogs",
+  "colorIdentity": [
+    "B"
+  ]
+}

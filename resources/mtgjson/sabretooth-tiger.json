@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sabretooth Tiger",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Cat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat"
+  ],
+  "text": "First strike",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "sabretooth tiger",
+  "colorIdentity": [
+    "R"
+  ]
+}

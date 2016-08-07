@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Despoil",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target land. Its controller loses 2 life.",
+  "imageName": "despoil",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Twin Bolt",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Twin Bolt deals 2 damage divided as you choose among one or two target creatures and/or players.",
+  "imageName": "twin bolt",
+  "colorIdentity": [
+    "R"
+  ]
+}

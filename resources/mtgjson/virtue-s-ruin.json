@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Virtue's Ruin",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy all white creatures.",
+  "imageName": "virtue's ruin",
+  "colorIdentity": [
+    "B"
+  ]
+}

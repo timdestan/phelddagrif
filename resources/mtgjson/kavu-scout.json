@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kavu Scout",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Kavu Scout",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kavu",
+    "Scout"
+  ],
+  "text": "Domain — Kavu Scout gets +1/+0 for each basic land type among lands you control.",
+  "power": "0",
+  "toughness": "2",
+  "imageName": "kavu scout",
+  "colorIdentity": [
+    "R"
+  ]
+}

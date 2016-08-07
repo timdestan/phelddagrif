@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Heat Shimmer",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put a token that's a copy of target creature onto the battlefield. That token has haste and \"At the beginning of the end step, exile this permanent.\"",
+  "imageName": "heat shimmer",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Serpentine Kavu",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Kavu",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kavu"
+  ],
+  "text": "{R}: Serpentine Kavu gains haste until end of turn.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "serpentine kavu",
+  "colorIdentity": [
+    "G",
+    "R"
+  ]
+}

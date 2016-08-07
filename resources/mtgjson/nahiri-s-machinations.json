@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Nahiri's Machinations",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of combat on your turn, target creature you control gains indestructible until end of turn.\n{1}{R}: Nahiri's Machinations deals 1 damage to target blocking creature.",
+  "imageName": "nahiri's machinations",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

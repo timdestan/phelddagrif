@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Silkwrap",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "When Silkwrap enters the battlefield, exile target creature with converted mana cost 3 or less an opponent controls until Silkwrap leaves the battlefield. (That creature returns under its owner's control.)",
+  "imageName": "silkwrap",
+  "colorIdentity": [
+    "W"
+  ]
+}

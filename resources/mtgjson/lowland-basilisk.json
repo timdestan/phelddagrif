@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Lowland Basilisk",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Basilisk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Basilisk"
+  ],
+  "text": "Whenever Lowland Basilisk deals damage to a creature, destroy that creature at end of combat.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "lowland basilisk",
+  "colorIdentity": [
+    "G"
+  ]
+}

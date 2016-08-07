@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Braingeyser",
+  "manaCost": "{X}{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target player draws X cards.",
+  "imageName": "braingeyser",
+  "colorIdentity": [
+    "U"
+  ]
+}

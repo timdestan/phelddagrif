@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Nessian Demolok",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Tribute 3 (As this creature enters the battlefield, an opponent of your choice may place three +1/+1 counters on it.)\nWhen Nessian Demolok enters the battlefield, if tribute wasn't paid, destroy target noncreature permanent.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "nessian demolok",
+  "colorIdentity": [
+    "G"
+  ]
+}

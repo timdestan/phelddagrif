@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Paladin en-Vec",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "First strike, protection from black and from red (This creature deals combat damage before creatures without first strike. It can't be blocked, targeted, dealt damage, or enchanted by anything black or red.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "paladin en-vec",
+  "colorIdentity": [
+    "W"
+  ]
+}

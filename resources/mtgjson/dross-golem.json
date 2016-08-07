@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dross Golem",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "Affinity for Swamps (This spell costs {1} less to cast for each Swamp you control.)\nFear (This creature can't be blocked except by artifact creatures and/or black creatures.)",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "dross golem"
+}

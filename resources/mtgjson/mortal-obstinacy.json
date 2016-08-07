@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Mortal Obstinacy",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature you control\nEnchanted creature gets +1/+1.\nWhenever enchanted creature deals combat damage to a player, you may sacrifice Mortal Obstinacy. If you do, destroy target enchantment.",
+  "imageName": "mortal obstinacy",
+  "colorIdentity": [
+    "W"
+  ]
+}

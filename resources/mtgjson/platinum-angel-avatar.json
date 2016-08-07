@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Platinum Angel Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "If you control an artifact, a creature, an enchantment, and a land, you can't lose the game and your opponents can't win the game.",
+  "imageName": "platinum angel avatar",
+  "hand": -1,
+  "life": -2
+}

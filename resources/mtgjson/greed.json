@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Greed",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{B}, Pay 2 life: Draw a card.",
+  "imageName": "greed",
+  "colorIdentity": [
+    "B"
+  ]
+}

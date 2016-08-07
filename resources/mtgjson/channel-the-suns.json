@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Channel the Suns",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Add {W}{U}{B}{R}{G} to your mana pool.",
+  "imageName": "channel the suns",
+  "colorIdentity": [
+    "G",
+    "W",
+    "U",
+    "B",
+    "R"
+  ]
+}

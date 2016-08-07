@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Snag",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "You may discard a Forest card rather than pay Snag's mana cost.\nPrevent all combat damage that would be dealt by unblocked creatures this turn.",
+  "imageName": "snag",
+  "colorIdentity": [
+    "G"
+  ]
+}

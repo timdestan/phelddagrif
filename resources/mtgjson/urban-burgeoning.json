@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Urban Burgeoning",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant land\nEnchanted land has \"Untap this land during each other player's untap step.\"",
+  "imageName": "urban burgeoning",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Vault of Whispers",
+  "type": "Artifact Land",
+  "types": [
+    "Artifact",
+    "Land"
+  ],
+  "text": "(Vault of Whispers isn't a spell.)\n{T}: Add {B} to your mana pool.",
+  "imageName": "vault of whispers",
+  "colorIdentity": [
+    "B"
+  ]
+}

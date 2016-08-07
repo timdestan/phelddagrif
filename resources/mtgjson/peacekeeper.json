@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Peacekeeper",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human"
+  ],
+  "text": "At the beginning of your upkeep, sacrifice Peacekeeper unless you pay {1}{W}.\nCreatures can't attack.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "peacekeeper",
+  "colorIdentity": [
+    "W"
+  ]
+}

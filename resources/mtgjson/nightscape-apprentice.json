@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Nightscape Apprentice",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Wizard"
+  ],
+  "text": "{U}, {T}: Put target creature you control on top of its owner's library.\n{R}, {T}: Target creature gains first strike until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "nightscape apprentice",
+  "colorIdentity": [
+    "B",
+    "U",
+    "R"
+  ]
+}

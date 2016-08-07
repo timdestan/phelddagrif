@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Daunting Defender",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "If a source would deal damage to a Cleric creature you control, prevent 1 of that damage.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "daunting defender",
+  "colorIdentity": [
+    "W"
+  ]
+}

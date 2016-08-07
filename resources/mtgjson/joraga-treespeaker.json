@@ -1,0 +1,24 @@
+{
+  "layout": "leveler",
+  "name": "Joraga Treespeaker",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Druid"
+  ],
+  "text": "Level up {1}{G} ({1}{G}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-4\n1/2\n{T}: Add {G}{G} to your mana pool.\nLEVEL 5+\n1/4\nElves you control have \"{T}: Add {G}{G} to your mana pool.\"",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "joraga treespeaker",
+  "colorIdentity": [
+    "G"
+  ]
+}

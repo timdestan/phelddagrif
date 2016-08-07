@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Battlegate Mimic",
+  "manaCost": "{1}{R/W}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Creature — Shapeshifter",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Shapeshifter"
+  ],
+  "text": "Whenever you cast a spell that's both red and white, Battlegate Mimic has base power and toughness 4/2 until end of turn and gains first strike until end of turn.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "battlegate mimic",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

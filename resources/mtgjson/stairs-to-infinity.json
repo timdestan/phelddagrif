@@ -1,0 +1,13 @@
+{
+  "layout": "plane",
+  "name": "Stairs to Infinity",
+  "type": "Plane — Xerex",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Xerex"
+  ],
+  "text": "Players have no maximum hand size.\nWhenever you roll the planar die, draw a card.\nWhenever you roll CHAOS, reveal the top card of your planar deck. You may put it on the bottom of your planar deck.",
+  "imageName": "stairs to infinity"
+}

@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Zhuge Jin, Wu Strategist",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Legendary Creature — Human Advisor",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Advisor"
+  ],
+  "text": "{T}: Target creature can't be blocked this turn. Activate this ability only during your turn, before attackers are declared.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "zhuge jin, wu strategist",
+  "colorIdentity": [
+    "U"
+  ]
+}

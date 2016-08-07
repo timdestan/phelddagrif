@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Silkenfist Fighter",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kor Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kor",
+    "Soldier"
+  ],
+  "text": "Whenever Silkenfist Fighter becomes blocked, untap it.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "silkenfist fighter",
+  "colorIdentity": [
+    "W"
+  ]
+}

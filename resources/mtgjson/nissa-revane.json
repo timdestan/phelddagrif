@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Nissa Revane",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Planeswalker — Nissa",
+  "types": [
+    "Planeswalker"
+  ],
+  "subtypes": [
+    "Nissa"
+  ],
+  "text": "+1: Search your library for a card named Nissa's Chosen and put it onto the battlefield. Then shuffle your library.\n+1: You gain 2 life for each Elf you control.\n−7: Search your library for any number of Elf creature cards and put them onto the battlefield. Then shuffle your library.",
+  "loyalty": 2,
+  "imageName": "nissa revane",
+  "colorIdentity": [
+    "G"
+  ]
+}

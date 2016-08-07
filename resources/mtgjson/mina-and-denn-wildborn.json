@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Mina and Denn, Wildborn",
+  "manaCost": "{2}{R}{G}",
+  "cmc": 4,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Legendary Creature — Elf Ally",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Ally"
+  ],
+  "text": "You may play an additional land on each of your turns.\n{R}{G}, Return a land you control to its owner's hand: Target creature gains trample until end of turn.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "mina and denn, wildborn",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

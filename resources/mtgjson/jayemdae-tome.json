@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Jayemdae Tome",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{4}, {T}: Draw a card.",
+  "imageName": "jayemdae tome"
+}

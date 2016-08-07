@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Volunteer Militia",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "power": "1",
+  "toughness": "2",
+  "imageName": "volunteer militia",
+  "colorIdentity": [
+    "W"
+  ]
+}

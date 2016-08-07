@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Urgent Exorcism",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target Spirit or enchantment.",
+  "imageName": "urgent exorcism",
+  "colorIdentity": [
+    "W"
+  ]
+}

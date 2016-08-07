@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Blood Tyrant",
+  "manaCost": "{4}{U}{B}{R}",
+  "cmc": 7,
+  "colors": [
+    "Blue",
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Vampire",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire"
+  ],
+  "text": "Flying, trample\nAt the beginning of your upkeep, each player loses 1 life. Put a +1/+1 counter on Blood Tyrant for each 1 life lost this way.\nWhenever a player loses the game, put five +1/+1 counters on Blood Tyrant.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "blood tyrant",
+  "colorIdentity": [
+    "U",
+    "B",
+    "R"
+  ]
+}

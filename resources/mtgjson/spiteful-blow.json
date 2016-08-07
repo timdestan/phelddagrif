@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Spiteful Blow",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target creature and target land.",
+  "imageName": "spiteful blow",
+  "colorIdentity": [
+    "B"
+  ]
+}

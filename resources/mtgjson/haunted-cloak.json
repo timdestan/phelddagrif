@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Haunted Cloak",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature has vigilance, trample, and haste.\nEquip {1}",
+  "imageName": "haunted cloak"
+}

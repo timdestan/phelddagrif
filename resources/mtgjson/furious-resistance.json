@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Furious Resistance",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target blocking creature gets +3/+0 and gains first strike until end of turn.",
+  "imageName": "furious resistance",
+  "colorIdentity": [
+    "R"
+  ]
+}

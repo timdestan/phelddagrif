@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Berserk",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Cast Berserk only before the combat damage step.\nTarget creature gains trample and gets +X/+0 until end of turn, where X is its power. At the beginning of the next end step, destroy that creature if it attacked this turn.",
+  "imageName": "berserk",
+  "colorIdentity": [
+    "G"
+  ]
+}

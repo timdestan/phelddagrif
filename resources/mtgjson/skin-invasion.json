@@ -1,0 +1,25 @@
+{
+  "layout": "double-faced",
+  "name": "Skin Invasion",
+  "names": [
+    "Skin Invasion",
+    "Skin Shedder"
+  ],
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature attacks each combat if able.\nWhen enchanted creature dies, return Skin Invasion to the battlefield transformed under your control.",
+  "imageName": "skin invasion",
+  "colorIdentity": [
+    "R"
+  ]
+}

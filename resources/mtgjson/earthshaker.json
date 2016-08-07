@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Earthshaker",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Whenever you cast a Spirit or Arcane spell, Earthshaker deals 2 damage to each creature without flying.",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "earthshaker",
+  "colorIdentity": [
+    "R"
+  ]
+}

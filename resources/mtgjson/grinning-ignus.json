@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Grinning Ignus",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "{R}, Return Grinning Ignus to its owner's hand: Add {C}{C}{R} to your mana pool. Activate this ability only any time you could cast a sorcery.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "grinning ignus",
+  "colorIdentity": [
+    "R"
+  ]
+}

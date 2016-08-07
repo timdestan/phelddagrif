@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Dakmor Sorceress",
+  "manaCost": "{5}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Dakmor Sorceress's power is equal to the number of Swamps you control.",
+  "power": "*",
+  "toughness": "4",
+  "imageName": "dakmor sorceress",
+  "colorIdentity": [
+    "B"
+  ]
+}

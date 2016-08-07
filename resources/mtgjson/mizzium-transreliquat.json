@@ -1,0 +1,16 @@
+{
+  "layout": "normal",
+  "name": "Mizzium Transreliquat",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{3}: Mizzium Transreliquat becomes a copy of target artifact until end of turn.\n{1}{U}{R}: Mizzium Transreliquat becomes a copy of target artifact and gains this ability.",
+  "imageName": "mizzium transreliquat",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

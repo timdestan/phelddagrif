@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Craven Giant",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Giant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant"
+  ],
+  "text": "Craven Giant can't block.",
+  "power": "4",
+  "toughness": "1",
+  "imageName": "craven giant",
+  "colorIdentity": [
+    "R"
+  ]
+}

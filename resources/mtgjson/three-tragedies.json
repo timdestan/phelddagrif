@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Three Tragedies",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery — Arcane",
+  "types": [
+    "Sorcery"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "Target player discards three cards.",
+  "imageName": "three tragedies",
+  "colorIdentity": [
+    "B"
+  ]
+}

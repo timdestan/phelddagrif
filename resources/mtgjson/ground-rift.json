@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ground Rift",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target creature without flying can't block this turn.\nStorm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)",
+  "imageName": "ground rift",
+  "colorIdentity": [
+    "R"
+  ]
+}

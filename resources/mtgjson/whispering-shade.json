@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Whispering Shade",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Shade",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Shade"
+  ],
+  "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\n{B}: Whispering Shade gets +1/+1 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "whispering shade",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Teleportal",
+  "manaCost": "{U}{R}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target creature you control gets +1/+0 until end of turn and can't be blocked this turn.\nOverload {3}{U}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of \"target\" with \"each.\")",
+  "imageName": "teleportal",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

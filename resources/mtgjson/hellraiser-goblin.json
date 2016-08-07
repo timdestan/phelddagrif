@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Hellraiser Goblin",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Berserker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Berserker"
+  ],
+  "text": "Creatures you control have haste and attack each combat if able.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "hellraiser goblin",
+  "colorIdentity": [
+    "R"
+  ]
+}

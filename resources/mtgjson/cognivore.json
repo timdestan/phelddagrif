@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Cognivore",
+  "manaCost": "{6}{U}{U}",
+  "cmc": 8,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Lhurgoyf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Lhurgoyf"
+  ],
+  "text": "Flying\nCognivore's power and toughness are each equal to the number of instant cards in all graveyards.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "cognivore",
+  "colorIdentity": [
+    "U"
+  ]
+}

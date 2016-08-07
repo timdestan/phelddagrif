@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Segmented Wurm",
+  "manaCost": "{3}{R}{G}",
+  "cmc": 5,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "text": "Whenever Segmented Wurm becomes the target of a spell or ability, put a -1/-1 counter on it.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "segmented wurm",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

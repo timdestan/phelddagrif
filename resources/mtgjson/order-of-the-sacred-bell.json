@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Order of the Sacred Bell",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Monk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Monk"
+  ],
+  "power": "4",
+  "toughness": "3",
+  "imageName": "order of the sacred bell",
+  "colorIdentity": [
+    "G"
+  ]
+}

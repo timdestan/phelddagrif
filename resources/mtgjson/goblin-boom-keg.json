@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Goblin Boom Keg",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "At the beginning of your upkeep, sacrifice Goblin Boom Keg.\nWhen Goblin Boom Keg is put into a graveyard from the battlefield, it deals 3 damage to target creature or player.",
+  "imageName": "goblin boom keg"
+}

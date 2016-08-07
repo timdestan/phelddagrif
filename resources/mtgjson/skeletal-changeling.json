@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Skeletal Changeling",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Shapeshifter",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Shapeshifter"
+  ],
+  "text": "Changeling (This card is every creature type.)\n{1}{B}: Regenerate Skeletal Changeling.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "skeletal changeling",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Zephyr Net",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature has defender and flying.",
+  "imageName": "zephyr net",
+  "colorIdentity": [
+    "U"
+  ]
+}

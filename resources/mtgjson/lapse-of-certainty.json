@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Lapse of Certainty",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.",
+  "imageName": "lapse of certainty",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Foul Familiar",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Foul Familiar can't block.\n{B}, Pay 1 life: Return Foul Familiar to its owner's hand.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "foul familiar",
+  "colorIdentity": [
+    "B"
+  ]
+}

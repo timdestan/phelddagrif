@@ -1,0 +1,24 @@
+{
+  "layout": "leveler",
+  "name": "Ikiral Outrider",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Level up {4} ({4}: Put a level counter on this. Level up only as a sorcery.)\nLEVEL 1-3\n2/6\nVigilance\nLEVEL 4+\n3/10\nVigilance",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "ikiral outrider",
+  "colorIdentity": [
+    "W"
+  ]
+}

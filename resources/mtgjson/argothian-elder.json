@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Argothian Elder",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Druid"
+  ],
+  "text": "{T}: Untap two target lands.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "argothian elder",
+  "colorIdentity": [
+    "G"
+  ]
+}

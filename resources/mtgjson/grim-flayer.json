@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Grim Flayer",
+  "manaCost": "{B}{G}",
+  "cmc": 2,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "Trample\nWhenever Grim Flayer deals combat damage to a player, look at the top three cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.\nDelirium — Grim Flayer gets +2/+2 as long as there are four or more card types among cards in your graveyard.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "grim flayer",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Ancestral Vengeance",
+  "manaCost": "{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nWhen Ancestral Vengeance enters the battlefield, put a +1/+1 counter on target creature you control.\nEnchanted creature gets -1/-1.",
+  "imageName": "ancestral vengeance",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wall of Resistance",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender (This creature can't attack.)\nFlying\nAt the beginning of each end step, if Wall of Resistance was dealt damage this turn, put a +0/+1 counter on it.",
+  "power": "0",
+  "toughness": "3",
+  "imageName": "wall of resistance",
+  "colorIdentity": [
+    "W"
+  ]
+}

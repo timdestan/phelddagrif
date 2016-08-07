@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Graxiplon",
+  "manaCost": "{5}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Graxiplon can't be blocked unless defending player controls three or more creatures that share a creature type.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "graxiplon",
+  "colorIdentity": [
+    "U"
+  ]
+}

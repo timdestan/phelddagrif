@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Golden Wish",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "You may choose an artifact or enchantment card you own from outside the game, reveal that card, and put it into your hand. Exile Golden Wish.",
+  "imageName": "golden wish",
+  "colorIdentity": [
+    "W"
+  ]
+}

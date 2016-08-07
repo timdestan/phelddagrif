@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Anaba Ancestor",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Minotaur Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Minotaur",
+    "Spirit"
+  ],
+  "text": "{T}: Another target Minotaur creature gets +1/+1 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "anaba ancestor",
+  "colorIdentity": [
+    "R"
+  ]
+}

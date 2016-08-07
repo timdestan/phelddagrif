@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ambush",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Blocking creatures gain first strike until end of turn.",
+  "imageName": "ambush",
+  "colorIdentity": [
+    "R"
+  ]
+}

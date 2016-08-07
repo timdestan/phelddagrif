@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Dust Corona",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets +2/+0 and can't be blocked by creatures with flying.",
+  "imageName": "dust corona",
+  "colorIdentity": [
+    "R"
+  ]
+}

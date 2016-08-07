@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Telim'Tor's Darts",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, {T}: Telim'Tor's Darts deals 1 damage to target player.",
+  "imageName": "telim'tor's darts"
+}

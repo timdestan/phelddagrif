@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Lullmage Mentor",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Wizard"
+  ],
+  "text": "Whenever a spell or ability you control counters a spell, you may put a 1/1 blue Merfolk creature token onto the battlefield.\nTap seven untapped Merfolk you control: Counter target spell.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "lullmage mentor",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Scalding Tarn",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card and put it onto the battlefield. Then shuffle your library.",
+  "imageName": "scalding tarn"
+}

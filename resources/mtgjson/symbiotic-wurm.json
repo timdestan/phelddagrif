@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Symbiotic Wurm",
+  "manaCost": "{5}{G}{G}{G}",
+  "cmc": 8,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "text": "When Symbiotic Wurm dies, put seven 1/1 green Insect creature tokens onto the battlefield.",
+  "power": "7",
+  "toughness": "7",
+  "imageName": "symbiotic wurm",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Imperial Recruiter",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Advisor",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Advisor"
+  ],
+  "text": "When Imperial Recruiter enters the battlefield, search your library for a creature card with power 2 or less, reveal it, and put it into your hand. Then shuffle your library.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "imperial recruiter",
+  "colorIdentity": [
+    "R"
+  ]
+}

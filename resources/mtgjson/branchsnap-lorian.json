@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Branchsnap Lorian",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Trample\nMorph {G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+  "power": "4",
+  "toughness": "1",
+  "imageName": "branchsnap lorian",
+  "colorIdentity": [
+    "G"
+  ]
+}

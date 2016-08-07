@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Vivid Marsh",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Vivid Marsh enters the battlefield tapped with two charge counters on it.\n{T}: Add {B} to your mana pool.\n{T}, Remove a charge counter from Vivid Marsh: Add one mana of any color to your mana pool.",
+  "imageName": "vivid marsh",
+  "colorIdentity": [
+    "B"
+  ]
+}

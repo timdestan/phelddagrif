@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Domineering Will",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target player gains control of up to three target nonattacking creatures until end of turn. Untap those creatures. They block this turn if able.",
+  "imageName": "domineering will",
+  "colorIdentity": [
+    "U"
+  ]
+}

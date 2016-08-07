@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Disciple of Malice",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "Protection from white\nCycling {2} ({2}, Discard this card: Draw a card.)",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "disciple of malice",
+  "colorIdentity": [
+    "B"
+  ]
+}

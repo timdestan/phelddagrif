@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Charging Badger",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Badger",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Badger"
+  ],
+  "text": "Trample",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "charging badger",
+  "colorIdentity": [
+    "G"
+  ]
+}

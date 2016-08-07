@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Cerulean Wisps",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature becomes blue until end of turn. Untap that creature.\nDraw a card.",
+  "imageName": "cerulean wisps",
+  "colorIdentity": [
+    "U"
+  ]
+}

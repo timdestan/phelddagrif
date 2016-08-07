@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Jungle Barrier",
+  "manaCost": "{2}{G}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Creature — Plant Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Plant",
+    "Wall"
+  ],
+  "text": "Defender (This creature can't attack.)\nWhen Jungle Barrier enters the battlefield, draw a card.",
+  "power": "2",
+  "toughness": "6",
+  "imageName": "jungle barrier",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

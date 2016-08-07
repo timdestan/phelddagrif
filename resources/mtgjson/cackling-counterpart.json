@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Cackling Counterpart",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Put a token onto the battlefield that's a copy of target creature you control.\nFlashback {5}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "cackling counterpart",
+  "colorIdentity": [
+    "U"
+  ]
+}

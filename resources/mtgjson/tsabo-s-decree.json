@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Tsabo's Decree",
+  "manaCost": "{5}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose a creature type. Target player reveals his or her hand and discards all creature cards of that type. Then destroy all creatures of that type that player controls. They can't be regenerated.",
+  "imageName": "tsabo's decree",
+  "colorIdentity": [
+    "B"
+  ]
+}

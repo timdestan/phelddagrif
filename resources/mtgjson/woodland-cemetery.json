@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Woodland Cemetery",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Woodland Cemetery enters the battlefield tapped unless you control a Swamp or a Forest.\n{T}: Add {B} or {G} to your mana pool.",
+  "imageName": "woodland cemetery",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

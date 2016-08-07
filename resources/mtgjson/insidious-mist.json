@@ -1,0 +1,27 @@
+{
+  "layout": "double-faced",
+  "name": "Insidious Mist",
+  "names": [
+    "Elusive Tormentor",
+    "Insidious Mist"
+  ],
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Hexproof, indestructible\nInsidious Mist can't block and can't be blocked.\nWhenever Insidious Mist attacks and isn't blocked, you may pay {2}{B}. If you do, transform it.",
+  "power": "0",
+  "toughness": "1",
+  "imageName": "insidious mist",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

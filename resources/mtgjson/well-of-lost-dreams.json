@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Well of Lost Dreams",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Whenever you gain life, you may pay {X}, where X is less than or equal to the amount of life you gained. If you do, draw X cards.",
+  "imageName": "well of lost dreams"
+}

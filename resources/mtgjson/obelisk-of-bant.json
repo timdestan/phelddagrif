@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Obelisk of Bant",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}: Add {G}, {W}, or {U} to your mana pool.",
+  "imageName": "obelisk of bant",
+  "colorIdentity": [
+    "G",
+    "W",
+    "U"
+  ]
+}

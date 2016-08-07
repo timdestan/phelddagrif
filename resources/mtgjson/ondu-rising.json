@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ondu Rising",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Whenever a creature attacks this turn, it gains lifelink until end of turn.\nAwaken 4—{4}{W} (If you cast this spell for {4}{W}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",
+  "imageName": "ondu rising",
+  "colorIdentity": [
+    "W"
+  ]
+}

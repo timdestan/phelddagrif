@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Shield of the Ages",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}: Prevent the next 1 damage that would be dealt to you this turn.",
+  "imageName": "shield of the ages"
+}

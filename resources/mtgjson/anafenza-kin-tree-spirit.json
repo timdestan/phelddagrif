@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Anafenza, Kin-Tree Spirit",
+  "manaCost": "{W}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Creature — Spirit Soldier",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit",
+    "Soldier"
+  ],
+  "text": "Whenever another nontoken creature enters the battlefield under your control, bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "anafenza, kin-tree spirit",
+  "colorIdentity": [
+    "W"
+  ]
+}

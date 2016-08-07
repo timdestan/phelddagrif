@@ -1,0 +1,28 @@
+{
+  "layout": "flip",
+  "name": "Bushi Tenderfoot",
+  "names": [
+    "Bushi Tenderfoot",
+    "Kenzo the Hardhearted"
+  ],
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "When a creature dealt damage by Bushi Tenderfoot this turn dies, flip Bushi Tenderfoot.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "bushi tenderfoot",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Runaway Carriage",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "text": "Trample\nWhen Runaway Carriage attacks or blocks, sacrifice it at end of combat.",
+  "power": "5",
+  "toughness": "6",
+  "imageName": "runaway carriage"
+}

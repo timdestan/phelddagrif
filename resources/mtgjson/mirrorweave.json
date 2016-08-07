@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Mirrorweave",
+  "manaCost": "{2}{W/U}{W/U}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Each other creature becomes a copy of target nonlegendary creature until end of turn.",
+  "imageName": "mirrorweave",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

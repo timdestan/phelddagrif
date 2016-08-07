@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Bosom Buddy",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Elephant Townsfolk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elephant",
+    "Townsfolk"
+  ],
+  "text": "Whenever you play a spell, you may gain ½ life for each word in that spell's name.",
+  "power": "1",
+  "toughness": "4",
+  "imageName": "bosom buddy",
+  "colorIdentity": [
+    "W"
+  ]
+}

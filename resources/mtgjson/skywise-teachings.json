@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Skywise Teachings",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever you cast a noncreature spell, you may pay {1}{U}. If you do, put a 2/2 blue Djinn Monk creature token with flying onto the battlefield.",
+  "imageName": "skywise teachings",
+  "colorIdentity": [
+    "U"
+  ]
+}

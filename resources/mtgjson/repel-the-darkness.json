@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Repel the Darkness",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Tap up to two target creatures.\nDraw a card.",
+  "imageName": "repel the darkness",
+  "colorIdentity": [
+    "W"
+  ]
+}

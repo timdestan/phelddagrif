@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Lumbering Satyr",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Satyr Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Satyr",
+    "Beast"
+  ],
+  "text": "All creatures have forestwalk. (They can't be blocked as long as defending player controls a Forest.)",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "lumbering satyr",
+  "colorIdentity": [
+    "G"
+  ]
+}

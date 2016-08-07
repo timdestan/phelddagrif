@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Decimate",
+  "manaCost": "{2}{R}{G}",
+  "cmc": 4,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target artifact, target creature, target enchantment, and target land.",
+  "imageName": "decimate",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

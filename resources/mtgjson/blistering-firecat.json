@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Blistering Firecat",
+  "manaCost": "{1}{R}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental Cat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Cat"
+  ],
+  "text": "Trample, haste\nAt the beginning of the end step, sacrifice Blistering Firecat.\nMorph {R}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+  "power": "7",
+  "toughness": "1",
+  "imageName": "blistering firecat",
+  "colorIdentity": [
+    "R"
+  ]
+}

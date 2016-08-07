@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Reef Pirates",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Zombie Pirate",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Pirate"
+  ],
+  "text": "Whenever Reef Pirates deals damage to an opponent, that player puts the top card of his or her library into his or her graveyard.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "reef pirates",
+  "colorIdentity": [
+    "U"
+  ]
+}

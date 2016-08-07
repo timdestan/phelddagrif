@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Door of Destinies",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "As Door of Destinies enters the battlefield, choose a creature type.\nWhenever you cast a spell of the chosen type, put a charge counter on Door of Destinies.\nCreatures you control of the chosen type get +1/+1 for each charge counter on Door of Destinies.",
+  "imageName": "door of destinies"
+}

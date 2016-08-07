@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Subterranean Scout",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Scout",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Scout"
+  ],
+  "text": "When Subterranean Scout enters the battlefield, target creature with power 2 or less can't be blocked this turn.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "subterranean scout",
+  "colorIdentity": [
+    "R"
+  ]
+}

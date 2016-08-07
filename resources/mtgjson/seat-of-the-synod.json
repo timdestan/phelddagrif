@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Seat of the Synod",
+  "type": "Artifact Land",
+  "types": [
+    "Artifact",
+    "Land"
+  ],
+  "text": "(Seat of the Synod isn't a spell.)\n{T}: Add {U} to your mana pool.",
+  "imageName": "seat of the synod",
+  "colorIdentity": [
+    "U"
+  ]
+}

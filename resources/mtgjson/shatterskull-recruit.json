@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Shatterskull Recruit",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Giant Warrior Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant",
+    "Warrior",
+    "Ally"
+  ],
+  "text": "Menace (This creature can't be blocked except by two or more creatures.)",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "shatterskull recruit",
+  "colorIdentity": [
+    "R"
+  ]
+}

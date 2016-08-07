@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Gauntlet of Might",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Red creatures get +1/+1.\nWhenever a Mountain is tapped for mana, its controller adds {R} to his or her mana pool (in addition to the mana the land produces).",
+  "imageName": "gauntlet of might",
+  "colorIdentity": [
+    "R"
+  ]
+}

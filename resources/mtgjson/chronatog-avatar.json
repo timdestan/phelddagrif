@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Chronatog Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "You have no maximum hand size.\n{0}: Draw three cards. You skip your next turn. Activate this ability only once each turn.",
+  "imageName": "chronatog avatar",
+  "hand": -1,
+  "life": 1
+}

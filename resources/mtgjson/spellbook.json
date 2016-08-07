@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Spellbook",
+  "manaCost": "{0}",
+  "cmc": 0,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "You have no maximum hand size.",
+  "imageName": "spellbook"
+}

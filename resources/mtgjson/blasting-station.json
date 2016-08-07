@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Blasting Station",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}, Sacrifice a creature: Blasting Station deals 1 damage to target creature or player.\nWhenever a creature enters the battlefield, you may untap Blasting Station.",
+  "imageName": "blasting station"
+}

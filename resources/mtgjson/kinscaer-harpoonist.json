@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kinscaer Harpoonist",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Kithkin Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kithkin",
+    "Soldier"
+  ],
+  "text": "Flying\nWhenever Kinscaer Harpoonist attacks, you may have target creature lose flying until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "kinscaer harpoonist",
+  "colorIdentity": [
+    "U"
+  ]
+}

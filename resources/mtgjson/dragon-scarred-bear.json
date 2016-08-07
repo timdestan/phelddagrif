@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dragon-Scarred Bear",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Bear",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bear"
+  ],
+  "text": "Formidable — {1}{G}: Regenerate Dragon-Scarred Bear. Activate this ability only if creatures you control have total power 8 or greater.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "dragon-scarred bear",
+  "colorIdentity": [
+    "G"
+  ]
+}

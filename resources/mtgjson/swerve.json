@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Swerve",
+  "manaCost": "{U}{R}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Change the target of target spell with a single target.",
+  "imageName": "swerve",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

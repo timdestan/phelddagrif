@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Cho-Arrim Legate",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Protection from black\nIf an opponent controls a Swamp and you control a Plains, you may cast Cho-Arrim Legate without paying its mana cost.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "cho-arrim legate",
+  "colorIdentity": [
+    "W"
+  ]
+}

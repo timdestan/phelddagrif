@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Lost Leonin",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Cat Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat",
+    "Soldier"
+  ],
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "lost leonin",
+  "colorIdentity": [
+    "W"
+  ]
+}

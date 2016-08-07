@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Jeskai Charm",
+  "manaCost": "{U}{R}{W}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Blue",
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose one —\n• Put target creature on top of its owner's library.\n• Jeskai Charm deals 4 damage to target opponent.\n• Creatures you control get +1/+1 and gain lifelink until end of turn.",
+  "imageName": "jeskai charm",
+  "colorIdentity": [
+    "W",
+    "U",
+    "R"
+  ]
+}

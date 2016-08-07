@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Cryptic Cruiser",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "type": "Creature — Eldrazi Processor",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Processor"
+  ],
+  "text": "Devoid (This card has no color.)\n{2}{U}, Put a card an opponent owns from exile into that player's graveyard: Tap target creature.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "cryptic cruiser",
+  "colorIdentity": [
+    "U"
+  ]
+}

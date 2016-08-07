@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Breath of Dreams",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Cumulative upkeep {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nGreen creatures have \"Cumulative upkeep {1}.\"",
+  "imageName": "breath of dreams",
+  "colorIdentity": [
+    "U"
+  ]
+}

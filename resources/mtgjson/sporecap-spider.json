@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sporecap Spider",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Spider",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spider"
+  ],
+  "text": "Reach (This creature can block creatures with flying.)",
+  "power": "1",
+  "toughness": "5",
+  "imageName": "sporecap spider",
+  "colorIdentity": [
+    "G"
+  ]
+}

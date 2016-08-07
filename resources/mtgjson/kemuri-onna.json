@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Kemuri-Onna",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "When Kemuri-Onna enters the battlefield, target player discards a card.\nWhenever you cast a Spirit or Arcane spell, you may return Kemuri-Onna to its owner's hand.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "kemuri-onna",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Vastwood Hydra",
+  "manaCost": "{X}{G}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Hydra",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hydra"
+  ],
+  "text": "Vastwood Hydra enters the battlefield with X +1/+1 counters on it.\nWhen Vastwood Hydra dies, you may distribute a number of +1/+1 counters equal to the number of +1/+1 counters on Vastwood Hydra among any number of creatures you control.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "vastwood hydra",
+  "colorIdentity": [
+    "G"
+  ]
+}

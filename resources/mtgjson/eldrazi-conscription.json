@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Eldrazi Conscription",
+  "manaCost": "{8}",
+  "cmc": 8,
+  "type": "Tribal Enchantment — Eldrazi Aura",
+  "types": [
+    "Tribal",
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets +10/+10 and has trample and annihilator 2. (Whenever it attacks, defending player sacrifices two permanents.)",
+  "imageName": "eldrazi conscription"
+}

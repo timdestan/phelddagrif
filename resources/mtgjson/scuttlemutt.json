@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Scuttlemutt",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Scarecrow",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Scarecrow"
+  ],
+  "text": "{T}: Add one mana of any color to your mana pool.\n{T}: Target creature becomes the color or colors of your choice until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "scuttlemutt"
+}

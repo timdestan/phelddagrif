@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Essence Sliver",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "Whenever a Sliver deals damage, its controller gains that much life.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "essence sliver",
+  "colorIdentity": [
+    "W"
+  ]
+}

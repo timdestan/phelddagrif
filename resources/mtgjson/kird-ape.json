@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Kird Ape",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Ape",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ape"
+  ],
+  "text": "Kird Ape gets +1/+2 as long as you control a Forest.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "kird ape",
+  "colorIdentity": [
+    "R"
+  ]
+}

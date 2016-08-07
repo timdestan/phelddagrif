@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Wall of Blossoms",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Plant Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Plant",
+    "Wall"
+  ],
+  "text": "Defender\nWhen Wall of Blossoms enters the battlefield, draw a card.",
+  "power": "0",
+  "toughness": "4",
+  "imageName": "wall of blossoms",
+  "colorIdentity": [
+    "G"
+  ]
+}

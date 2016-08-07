@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Fool's Tome",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, {T}: Draw a card. Activate this ability only if you have no cards in hand.",
+  "imageName": "fool's tome"
+}

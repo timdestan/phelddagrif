@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Lowland Tracker",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "First strike\nProvoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "lowland tracker",
+  "colorIdentity": [
+    "W"
+  ]
+}

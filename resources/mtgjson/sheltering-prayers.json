@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sheltering Prayers",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Basic lands each player controls have shroud as long as that player controls three or fewer lands. (They can't be the targets of spells or abilities.)",
+  "imageName": "sheltering prayers",
+  "colorIdentity": [
+    "W"
+  ]
+}

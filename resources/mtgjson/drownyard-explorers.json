@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Drownyard Explorers",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "When Drownyard Explorers enters the battlefield, investigate. (Put a colorless Clue artifact token onto the battlefield with \"{2}, Sacrifice this artifact: Draw a card.\")",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "drownyard explorers",
+  "colorIdentity": [
+    "U"
+  ]
+}

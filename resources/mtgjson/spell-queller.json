@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Spell Queller",
+  "manaCost": "{1}{W}{U}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flash\nFlying\nWhen Spell Queller enters the battlefield, exile target spell with converted mana cost 4 or less.\nWhen Spell Queller leaves the battlefield, the exiled card's owner may cast that card without paying its mana cost.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "spell queller",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

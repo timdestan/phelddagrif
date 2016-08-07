@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Silumgar, the Drifting Death",
+  "manaCost": "{4}{U}{B}",
+  "cmc": 6,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Legendary Creature — Dragon",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying, hexproof\nWhenever a Dragon you control attacks, creatures defending player controls get -1/-1 until end of turn.",
+  "power": "3",
+  "toughness": "7",
+  "imageName": "silumgar, the drifting death",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

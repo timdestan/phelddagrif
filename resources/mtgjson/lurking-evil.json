@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Lurking Evil",
+  "manaCost": "{B}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Pay half your life, rounded up: Lurking Evil becomes a 4/4 Horror creature with flying.",
+  "imageName": "lurking evil",
+  "colorIdentity": [
+    "B"
+  ]
+}

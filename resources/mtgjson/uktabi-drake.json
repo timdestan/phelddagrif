@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Uktabi Drake",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flying, haste\nEcho {1}{G}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "uktabi drake",
+  "colorIdentity": [
+    "G"
+  ]
+}

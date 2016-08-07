@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Golgari Rot Farm",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Golgari Rot Farm enters the battlefield tapped.\nWhen Golgari Rot Farm enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {B}{G} to your mana pool.",
+  "imageName": "golgari rot farm",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

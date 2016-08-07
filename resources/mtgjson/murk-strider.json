@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Murk Strider",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "type": "Creature — Eldrazi Processor",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Processor"
+  ],
+  "text": "Devoid (This card has no color.)\nWhen Murk Strider enters the battlefield, you may put a card an opponent owns from exile into that player's graveyard. If you do, return target creature to its owner's hand.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "murk strider",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Silkenfist Order",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kor Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kor",
+    "Soldier"
+  ],
+  "text": "Whenever Silkenfist Order becomes blocked, untap it.",
+  "power": "3",
+  "toughness": "5",
+  "imageName": "silkenfist order",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "layout": "normal",
+  "name": "Azorius Signet",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{1}, {T}: Add {W}{U} to your mana pool.",
+  "imageName": "azorius signet",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

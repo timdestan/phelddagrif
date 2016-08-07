@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Give No Ground",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gets +2/+6 until end of turn and can block any number of creatures this turn.",
+  "imageName": "give no ground",
+  "colorIdentity": [
+    "W"
+  ]
+}

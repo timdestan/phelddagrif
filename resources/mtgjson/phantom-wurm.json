@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Phantom Wurm",
+  "manaCost": "{4}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wurm Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm",
+    "Spirit"
+  ],
+  "text": "Phantom Wurm enters the battlefield with four +1/+1 counters on it.\nIf damage would be dealt to Phantom Wurm, prevent that damage. Remove a +1/+1 counter from Phantom Wurm.",
+  "power": "2",
+  "toughness": "0",
+  "imageName": "phantom wurm",
+  "colorIdentity": [
+    "G"
+  ]
+}

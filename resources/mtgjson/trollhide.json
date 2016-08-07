@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Trollhide",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets +2/+2 and has \"{1}{G}: Regenerate this creature.\" (The next time the creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",
+  "imageName": "trollhide",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ageless Entity",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Whenever you gain life, put that many +1/+1 counters on Ageless Entity.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "ageless entity",
+  "colorIdentity": [
+    "G"
+  ]
+}

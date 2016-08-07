@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Nath's Buffoon",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Goblin Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Rogue"
+  ],
+  "text": "Protection from Elves",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "nath's buffoon",
+  "colorIdentity": [
+    "B"
+  ]
+}

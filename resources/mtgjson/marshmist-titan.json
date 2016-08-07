@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Marshmist Titan",
+  "manaCost": "{6}{B}",
+  "cmc": 7,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Giant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant"
+  ],
+  "text": "Marshmist Titan costs {X} less to cast, where X is your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "marshmist titan",
+  "colorIdentity": [
+    "B"
+  ]
+}

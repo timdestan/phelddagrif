@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Searing Rays",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Choose a color. Searing Rays deals damage to each player equal to the number of creatures of that color that player controls.",
+  "imageName": "searing rays",
+  "colorIdentity": [
+    "R"
+  ]
+}

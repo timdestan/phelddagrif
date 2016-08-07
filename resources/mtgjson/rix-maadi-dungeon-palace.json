@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Rix Maadi, Dungeon Palace",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{1}{B}{R}, {T}: Each player discards a card. Activate this ability only any time you could cast a sorcery.",
+  "imageName": "rix maadi, dungeon palace",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

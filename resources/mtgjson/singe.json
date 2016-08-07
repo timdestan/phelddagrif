@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Singe",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Singe deals 1 damage to target creature. That creature becomes black until end of turn.",
+  "imageName": "singe",
+  "colorIdentity": [
+    "R"
+  ]
+}

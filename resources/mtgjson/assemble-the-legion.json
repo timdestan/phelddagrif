@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Assemble the Legion",
+  "manaCost": "{3}{R}{W}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, put a muster counter on Assemble the Legion. Then put a 1/1 red and white Soldier creature token with haste onto the battlefield for each muster counter on Assemble the Legion.",
+  "imageName": "assemble the legion",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

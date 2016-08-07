@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Caverns of Despair",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "World Enchantment",
+  "supertypes": [
+    "World"
+  ],
+  "types": [
+    "Enchantment"
+  ],
+  "text": "No more than two creatures can attack each combat.\nNo more than two creatures can block each combat.",
+  "imageName": "caverns of despair",
+  "colorIdentity": [
+    "R"
+  ]
+}

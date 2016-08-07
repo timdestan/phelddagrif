@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Hydromorph Guardian",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "{U}, Sacrifice Hydromorph Guardian: Counter target spell that targets one or more creatures you control.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "hydromorph guardian",
+  "colorIdentity": [
+    "U"
+  ]
+}

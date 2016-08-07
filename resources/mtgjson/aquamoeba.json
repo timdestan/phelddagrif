@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Aquamoeba",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Elemental Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Beast"
+  ],
+  "text": "Discard a card: Switch Aquamoeba's power and toughness until end of turn.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "aquamoeba",
+  "colorIdentity": [
+    "U"
+  ]
+}

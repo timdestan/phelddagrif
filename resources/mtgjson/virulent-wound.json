@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Virulent Wound",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Put a -1/-1 counter on target creature. When that creature dies this turn, its controller gets a poison counter.",
+  "imageName": "virulent wound",
+  "colorIdentity": [
+    "B"
+  ]
+}

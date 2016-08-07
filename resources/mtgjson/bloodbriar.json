@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Bloodbriar",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Plant Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Plant",
+    "Elemental"
+  ],
+  "text": "Whenever you sacrifice another permanent, put a +1/+1 counter on Bloodbriar.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "bloodbriar",
+  "colorIdentity": [
+    "G"
+  ]
+}

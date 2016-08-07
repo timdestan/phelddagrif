@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Watcher in the Web",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Spider",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spider"
+  ],
+  "text": "Reach (This creature can block creatures with flying.)\nWatcher in the Web can block an additional seven creatures each combat.",
+  "power": "2",
+  "toughness": "5",
+  "imageName": "watcher in the web",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Olivia's Dragoon",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire Berserker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Berserker"
+  ],
+  "text": "Discard a card: Olivia's Dragoon gains flying until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "olivia's dragoon",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Rock Basilisk",
+  "manaCost": "{4}{R}{G}",
+  "cmc": 6,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Basilisk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Basilisk"
+  ],
+  "text": "Whenever Rock Basilisk blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat.",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "rock basilisk",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

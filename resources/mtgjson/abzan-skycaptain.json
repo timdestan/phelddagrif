@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Abzan Skycaptain",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Bird Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird",
+    "Soldier"
+  ],
+  "text": "Flying\nWhen Abzan Skycaptain dies, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "abzan skycaptain",
+  "colorIdentity": [
+    "W"
+  ]
+}

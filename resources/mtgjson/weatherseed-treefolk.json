@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Weatherseed Treefolk",
+  "manaCost": "{2}{G}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Treefolk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Treefolk"
+  ],
+  "text": "Trample\nWhen Weatherseed Treefolk dies, return it to its owner's hand.",
+  "power": "5",
+  "toughness": "3",
+  "imageName": "weatherseed treefolk",
+  "colorIdentity": [
+    "G"
+  ]
+}

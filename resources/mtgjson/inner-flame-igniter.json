@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Inner-Flame Igniter",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Warrior"
+  ],
+  "text": "{2}{R}: Creatures you control get +1/+0 until end of turn. If this is the third time this ability has resolved this turn, creatures you control gain first strike until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "inner-flame igniter",
+  "colorIdentity": [
+    "R"
+  ]
+}

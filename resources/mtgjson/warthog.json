@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Warthog",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Boar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Boar"
+  ],
+  "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "warthog",
+  "colorIdentity": [
+    "G"
+  ]
+}

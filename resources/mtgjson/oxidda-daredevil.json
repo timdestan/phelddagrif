@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Oxidda Daredevil",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Artificer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Artificer"
+  ],
+  "text": "Sacrifice an artifact: Oxidda Daredevil gains haste until end of turn.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "oxidda daredevil",
+  "colorIdentity": [
+    "R"
+  ]
+}

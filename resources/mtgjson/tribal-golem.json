@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Tribal Golem",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "Tribal Golem has trample as long as you control a Beast, haste as long as you control a Goblin, first strike as long as you control a Soldier, flying as long as you control a Wizard, and \"{B}: Regenerate Tribal Golem\" as long as you control a Zombie.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "tribal golem",
+  "colorIdentity": [
+    "B"
+  ]
+}

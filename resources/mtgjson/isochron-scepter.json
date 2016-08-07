@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Isochron Scepter",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Imprint — When Isochron Scepter enters the battlefield, you may exile an instant card with converted mana cost 2 or less from your hand.\n{2}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.",
+  "imageName": "isochron scepter"
+}

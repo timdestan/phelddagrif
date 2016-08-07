@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Silent Sentinel",
+  "manaCost": "{5}{W}{W}",
+  "cmc": 7,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Archon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Archon"
+  ],
+  "text": "Flying\nWhenever Silent Sentinel attacks, you may return target enchantment card from your graveyard to the battlefield.",
+  "power": "4",
+  "toughness": "6",
+  "imageName": "silent sentinel",
+  "colorIdentity": [
+    "W"
+  ]
+}

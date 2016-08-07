@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Grayscaled Gharial",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Crocodile",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Crocodile"
+  ],
+  "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "grayscaled gharial",
+  "colorIdentity": [
+    "U"
+  ]
+}

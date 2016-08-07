@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Phyrexian Altar",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Sacrifice a creature: Add one mana of any color to your mana pool.",
+  "imageName": "phyrexian altar"
+}

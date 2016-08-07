@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Augury Adept",
+  "manaCost": "{1}{W/U}{W/U}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Creature — Kithkin Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kithkin",
+    "Wizard"
+  ],
+  "text": "Whenever Augury Adept deals combat damage to a player, reveal the top card of your library and put that card into your hand. You gain life equal to its converted mana cost.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "augury adept",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

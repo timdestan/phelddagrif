@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dirtcowl Wurm",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "text": "Whenever an opponent plays a land, put a +1/+1 counter on Dirtcowl Wurm.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "dirtcowl wurm",
+  "colorIdentity": [
+    "G"
+  ]
+}

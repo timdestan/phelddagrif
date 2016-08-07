@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Obelisk of Undoing",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{6}, {T}: Return target permanent you both own and control to your hand.",
+  "imageName": "obelisk of undoing"
+}

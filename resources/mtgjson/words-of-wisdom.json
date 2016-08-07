@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Words of Wisdom",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "You draw two cards, then each other player draws a card.",
+  "imageName": "words of wisdom",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Predator's Howl",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Put a 2/2 green Wolf creature token onto the battlefield.\nMorbid — Put three 2/2 green Wolf creature tokens onto the battlefield instead if a creature died this turn.",
+  "imageName": "predator's howl",
+  "colorIdentity": [
+    "G"
+  ]
+}

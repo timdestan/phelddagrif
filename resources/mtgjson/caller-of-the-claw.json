@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Caller of the Claw",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf"
+  ],
+  "text": "Flash\nWhen Caller of the Claw enters the battlefield, put a 2/2 green Bear creature token onto the battlefield for each nontoken creature put into your graveyard from the battlefield this turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "caller of the claw",
+  "colorIdentity": [
+    "G"
+  ]
+}

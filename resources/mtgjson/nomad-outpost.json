@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Nomad Outpost",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Nomad Outpost enters the battlefield tapped.\n{T}: Add {R}, {W}, or {B} to your mana pool.",
+  "imageName": "nomad outpost",
+  "colorIdentity": [
+    "R",
+    "W",
+    "B"
+  ]
+}

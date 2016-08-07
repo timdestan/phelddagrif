@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Life Chisel",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Sacrifice a creature: You gain life equal to the sacrificed creature's toughness. Activate this ability only during your upkeep.",
+  "imageName": "life chisel"
+}

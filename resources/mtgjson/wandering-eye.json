@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wandering Eye",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Illusion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Illusion"
+  ],
+  "text": "Flying\nPlayers play with their hands revealed.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "wandering eye",
+  "colorIdentity": [
+    "U"
+  ]
+}

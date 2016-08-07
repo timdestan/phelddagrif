@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Longbow Archer",
+  "manaCost": "{W}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier Archer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier",
+    "Archer"
+  ],
+  "text": "First strike; reach (This creature can block creatures with flying.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "longbow archer",
+  "colorIdentity": [
+    "W"
+  ]
+}

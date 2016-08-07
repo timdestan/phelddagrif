@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Devour in Shadow",
+  "manaCost": "{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target creature. It can't be regenerated. You lose life equal to that creature's toughness.",
+  "imageName": "devour in shadow",
+  "colorIdentity": [
+    "B"
+  ]
+}

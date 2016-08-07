@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Boneshard Slasher",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "Flying\nThreshold — As long as seven or more cards are in your graveyard, Boneshard Slasher gets +2/+2 and has \"When Boneshard Slasher becomes the target of a spell or ability, sacrifice it.\"",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "boneshard slasher",
+  "colorIdentity": [
+    "B"
+  ]
+}

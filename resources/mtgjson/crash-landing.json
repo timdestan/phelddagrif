@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Crash Landing",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature with flying loses flying until end of turn. Crash Landing deals damage to that creature equal to the number of Forests you control.",
+  "imageName": "crash landing",
+  "colorIdentity": [
+    "G"
+  ]
+}

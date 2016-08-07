@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Field of Souls",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a nontoken creature is put into your graveyard from the battlefield, put a 1/1 white Spirit creature token with flying onto the battlefield.",
+  "imageName": "field of souls",
+  "colorIdentity": [
+    "W"
+  ]
+}

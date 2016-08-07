@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Beastcaller Savant",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Shaman Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Shaman",
+    "Ally"
+  ],
+  "text": "Haste\n{T}: Add one mana of any color to your mana pool. Spend this mana only to cast a creature spell.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "beastcaller savant",
+  "colorIdentity": [
+    "G"
+  ]
+}

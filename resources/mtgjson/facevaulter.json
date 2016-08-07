@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Facevaulter",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Goblin Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Warrior"
+  ],
+  "text": "{B}, Sacrifice a Goblin: Facevaulter gets +2/+2 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "facevaulter",
+  "colorIdentity": [
+    "B"
+  ]
+}

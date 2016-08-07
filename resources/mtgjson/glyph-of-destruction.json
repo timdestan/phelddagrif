@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Glyph of Destruction",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target blocking Wall you control gets +10/+0 until end of combat. Prevent all damage that would be dealt to it this turn. Destroy it at the beginning of the next end step.",
+  "imageName": "glyph of destruction",
+  "colorIdentity": [
+    "R"
+  ]
+}

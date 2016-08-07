@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Council Guardian",
+  "manaCost": "{5}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Giant Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant",
+    "Soldier"
+  ],
+  "text": "Will of the council — When Council Guardian enters the battlefield, starting with you, each player votes for blue, black, red, or green. Council Guardian gains protection from each color with the most votes or tied for most votes.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "council guardian",
+  "colorIdentity": [
+    "W"
+  ]
+}

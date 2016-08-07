@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Soul Collector",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire"
+  ],
+  "text": "Flying\nWhenever a creature dealt damage by Soul Collector this turn dies, return that card to the battlefield under your control.\nMorph {B}{B}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "soul collector",
+  "colorIdentity": [
+    "B"
+  ]
+}

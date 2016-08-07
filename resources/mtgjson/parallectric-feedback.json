@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Parallectric Feedback",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Parallectric Feedback deals damage to target spell's controller equal to that spell's converted mana cost.",
+  "imageName": "parallectric feedback",
+  "colorIdentity": [
+    "R"
+  ]
+}

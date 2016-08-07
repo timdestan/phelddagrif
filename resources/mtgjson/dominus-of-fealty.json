@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Dominus of Fealty",
+  "manaCost": "{U/R}{U/R}{U/R}{U/R}{U/R}",
+  "cmc": 5,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Creature — Spirit Avatar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit",
+    "Avatar"
+  ],
+  "text": "Flying\nAt the beginning of your upkeep, you may gain control of target permanent until end of turn. If you do, untap it and it gains haste until end of turn.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "dominus of fealty",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

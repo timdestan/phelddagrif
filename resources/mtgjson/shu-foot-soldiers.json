@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Shu Foot Soldiers",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "power": "2",
+  "toughness": "3",
+  "imageName": "shu foot soldiers",
+  "colorIdentity": [
+    "W"
+  ]
+}

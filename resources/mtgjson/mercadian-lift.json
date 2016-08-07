@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Mercadian Lift",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{1}, {T}: Put a winch counter on Mercadian Lift.\n{T}, Remove X winch counters from Mercadian Lift: You may put a creature card with converted mana cost X from your hand onto the battlefield.",
+  "imageName": "mercadian lift"
+}

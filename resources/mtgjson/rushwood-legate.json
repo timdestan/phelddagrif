@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Rushwood Legate",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Dryad",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dryad"
+  ],
+  "text": "If an opponent controls an Island and you control a Forest, you may cast Rushwood Legate without paying its mana cost.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "rushwood legate",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Sprouting Thrinax",
+  "manaCost": "{B}{R}{G}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Lizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Lizard"
+  ],
+  "text": "When Sprouting Thrinax dies, put three 1/1 green Saproling creature tokens onto the battlefield.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "sprouting thrinax",
+  "colorIdentity": [
+    "B",
+    "R",
+    "G"
+  ]
+}

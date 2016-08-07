@@ -1,0 +1,30 @@
+{
+  "layout": "normal",
+  "name": "Tariel, Reckoner of Souls",
+  "manaCost": "{4}{W}{B}{R}",
+  "cmc": 7,
+  "colors": [
+    "White",
+    "Black",
+    "Red"
+  ],
+  "type": "Legendary Creature — Angel",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying, vigilance\n{T}: Choose a creature card at random from target opponent's graveyard. Put that card onto the battlefield under your control.",
+  "power": "4",
+  "toughness": "7",
+  "imageName": "tariel, reckoner of souls",
+  "colorIdentity": [
+    "W",
+    "B",
+    "R"
+  ]
+}

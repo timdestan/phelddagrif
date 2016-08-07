@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Fade from Memory",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Exile target card from a graveyard.\nCycling {B} ({B}, Discard this card: Draw a card.)",
+  "imageName": "fade from memory",
+  "colorIdentity": [
+    "B"
+  ]
+}

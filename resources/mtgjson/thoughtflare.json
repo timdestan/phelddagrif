@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Thoughtflare",
+  "manaCost": "{3}{U}{R}",
+  "cmc": 5,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Draw four cards, then discard two cards.",
+  "imageName": "thoughtflare",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

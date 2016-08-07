@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Tsabo's Assassin",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Assassin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Assassin"
+  ],
+  "text": "{T}: Destroy target creature if it shares a color with the most common color among all permanents or a color tied for most common. A creature destroyed this way can't be regenerated.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "tsabo's assassin",
+  "colorIdentity": [
+    "B"
+  ]
+}

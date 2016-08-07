@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Early Harvest",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target player untaps all basic lands he or she controls.",
+  "imageName": "early harvest",
+  "colorIdentity": [
+    "G"
+  ]
+}

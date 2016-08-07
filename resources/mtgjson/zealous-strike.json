@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Zealous Strike",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gets +2/+2 and gains first strike until end of turn.",
+  "imageName": "zealous strike",
+  "colorIdentity": [
+    "W"
+  ]
+}

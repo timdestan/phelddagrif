@@ -1,0 +1,31 @@
+{
+  "layout": "normal",
+  "name": "Anafenza, the Foremost",
+  "manaCost": "{W}{B}{G}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Black",
+    "Green"
+  ],
+  "type": "Legendary Creature — Human Soldier",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Whenever Anafenza, the Foremost attacks, put a +1/+1 counter on another target tapped creature you control.\nIf a nontoken creature an opponent owns would die or a creature card not on the battlefield would be put into an opponent's graveyard, exile that card instead.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "anafenza, the foremost",
+  "colorIdentity": [
+    "W",
+    "B",
+    "G"
+  ]
+}

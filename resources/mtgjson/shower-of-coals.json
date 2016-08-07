@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Shower of Coals",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Shower of Coals deals 2 damage to each of up to three target creatures and/or players.\nThreshold — Shower of Coals deals 4 damage to each of those creatures and/or players instead if seven or more cards are in your graveyard.",
+  "imageName": "shower of coals",
+  "colorIdentity": [
+    "R"
+  ]
+}

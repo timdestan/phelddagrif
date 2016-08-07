@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Power Play",
+  "type": "Conspiracy",
+  "types": [
+    "Conspiracy"
+  ],
+  "text": "(Start the game with this conspiracy face up in the command zone.)\nYou are the starting player. If multiple players would be the starting player, one of those players is chosen at random.",
+  "imageName": "power play"
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Soulless One",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Avatar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Avatar"
+  ],
+  "text": "Soulless One's power and toughness are each equal to the number of Zombies on the battlefield plus the number of Zombie cards in all graveyards.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "soulless one",
+  "colorIdentity": [
+    "B"
+  ]
+}

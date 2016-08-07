@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Screams of the Damned",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{1}{B}, Exile a card from your graveyard: Screams of the Damned deals 1 damage to each creature and each player.",
+  "imageName": "screams of the damned",
+  "colorIdentity": [
+    "B"
+  ]
+}

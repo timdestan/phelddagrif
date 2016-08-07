@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Alaborn Trooper",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "power": "2",
+  "toughness": "3",
+  "imageName": "alaborn trooper",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Tonic Peddler",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Spellshaper",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Spellshaper"
+  ],
+  "text": "{W}, {T}, Discard a card: Target player gains 3 life.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "tonic peddler",
+  "colorIdentity": [
+    "W"
+  ]
+}

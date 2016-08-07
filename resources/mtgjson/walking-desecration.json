@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Walking Desecration",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "{B}, {T}: Creatures of the creature type of your choice attack this turn if able.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "walking desecration",
+  "colorIdentity": [
+    "B"
+  ]
+}

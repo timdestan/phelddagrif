@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Commandeer",
+  "manaCost": "{5}{U}{U}",
+  "cmc": 7,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "You may exile two blue cards from your hand rather than pay Commandeer's mana cost.\nGain control of target noncreature spell. You may choose new targets for it. (If that spell is an artifact, enchantment, or planeswalker, the permanent enters the battlefield under your control.)",
+  "imageName": "commandeer",
+  "colorIdentity": [
+    "U"
+  ]
+}

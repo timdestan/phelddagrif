@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "High Seas",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Red creature spells and green creature spells cost {1} more to cast.",
+  "imageName": "high seas",
+  "colorIdentity": [
+    "U"
+  ]
+}

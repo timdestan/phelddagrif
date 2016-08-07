@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Magnetic Theft",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Attach target Equipment to target creature. (Control of the Equipment doesn't change.)",
+  "imageName": "magnetic theft",
+  "colorIdentity": [
+    "R"
+  ]
+}

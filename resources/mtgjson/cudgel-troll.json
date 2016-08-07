@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Cudgel Troll",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Troll",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Troll"
+  ],
+  "text": "{G}: Regenerate Cudgel Troll. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "cudgel troll",
+  "colorIdentity": [
+    "G"
+  ]
+}

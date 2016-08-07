@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Uktabi Kong",
+  "manaCost": "{5}{G}{G}{G}",
+  "cmc": 8,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Ape",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ape"
+  ],
+  "text": "Trample\nWhen Uktabi Kong comes into play, destroy all artifacts.\nTap two untapped Apes you control: Put a 1/1 green Ape creature token into play.",
+  "power": "8",
+  "toughness": "8",
+  "imageName": "uktabi kong",
+  "colorIdentity": [
+    "G"
+  ]
+}

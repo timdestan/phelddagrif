@@ -1,0 +1,26 @@
+{
+  "layout": "double-faced",
+  "name": "Lone Wolf of the Natterknolls",
+  "names": [
+    "Hermit of the Natterknolls",
+    "Lone Wolf of the Natterknolls"
+  ],
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Werewolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Werewolf"
+  ],
+  "text": "Whenever an opponent casts a spell during your turn, draw two cards.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Lone Wolf of the Natterknolls.",
+  "power": "3",
+  "toughness": "5",
+  "imageName": "lone wolf of the natterknolls",
+  "colorIdentity": [
+    "G"
+  ]
+}

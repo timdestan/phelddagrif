@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Thieving Sprite",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Faerie Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Faerie",
+    "Rogue"
+  ],
+  "text": "Flying\nWhen Thieving Sprite enters the battlefield, target player reveals X cards from his or her hand, where X is the number of Faeries you control. You choose one of those cards. That player discards that card.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "thieving sprite",
+  "colorIdentity": [
+    "B"
+  ]
+}

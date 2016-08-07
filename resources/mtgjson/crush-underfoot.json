@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Crush Underfoot",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Tribal Instant — Giant",
+  "types": [
+    "Tribal",
+    "Instant"
+  ],
+  "subtypes": [
+    "Giant"
+  ],
+  "text": "Choose a Giant creature you control. It deals damage equal to its power to target creature.",
+  "imageName": "crush underfoot",
+  "colorIdentity": [
+    "R"
+  ]
+}

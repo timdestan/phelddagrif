@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ixidron",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Illusion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Illusion"
+  ],
+  "text": "As Ixidron enters the battlefield, turn all other nontoken creatures face down. (They're 2/2 creatures.)\nIxidron's power and toughness are each equal to the number of face-down creatures on the battlefield.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "ixidron",
+  "colorIdentity": [
+    "U"
+  ]
+}

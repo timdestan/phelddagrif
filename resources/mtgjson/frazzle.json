@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Frazzle",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target nonblue spell.",
+  "imageName": "frazzle",
+  "colorIdentity": [
+    "U"
+  ]
+}

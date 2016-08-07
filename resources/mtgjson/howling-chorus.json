@@ -1,0 +1,24 @@
+{
+  "layout": "double-faced",
+  "name": "Howling Chorus",
+  "names": [
+    "Shrill Howler",
+    "Howling Chorus"
+  ],
+  "cmc": 3,
+  "type": "Creature — Eldrazi Werewolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Werewolf"
+  ],
+  "text": "Creatures with power less than Howling Chorus's power can't block it.\nWhenever Howling Chorus deals combat damage to a player, put a 3/2 colorless Eldrazi Horror creature token onto the battlefield.",
+  "power": "3",
+  "toughness": "5",
+  "imageName": "howling chorus",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Lashknife Barrier",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "When Lashknife Barrier enters the battlefield, draw a card.\nIf a source would deal damage to a creature you control, it deals that much damage minus 1 to that creature instead.",
+  "imageName": "lashknife barrier",
+  "colorIdentity": [
+    "W"
+  ]
+}

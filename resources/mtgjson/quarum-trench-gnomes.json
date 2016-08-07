@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Quarum Trench Gnomes",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Gnome",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Gnome"
+  ],
+  "text": "{T}: If target Plains is tapped for mana, it produces colorless mana instead of white mana. (This effect lasts indefinitely.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "quarum trench gnomes",
+  "colorIdentity": [
+    "R"
+  ]
+}

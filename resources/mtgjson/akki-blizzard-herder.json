@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Akki Blizzard-Herder",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Shaman"
+  ],
+  "text": "When Akki Blizzard-Herder dies, each player sacrifices a land.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "akki blizzard-herder",
+  "colorIdentity": [
+    "R"
+  ]
+}

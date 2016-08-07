@@ -1,0 +1,16 @@
+{
+  "layout": "normal",
+  "name": "Boros Cluestone",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}: Add {R} or {W} to your mana pool.\n{R}{W}, {T}, Sacrifice Boros Cluestone: Draw a card.",
+  "imageName": "boros cluestone",
+  "colorIdentity": [
+    "R",
+    "W"
+  ]
+}

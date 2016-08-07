@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Foriysian Brigade",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Foriysian Brigade can block an additional creature each combat.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "foriysian brigade",
+  "colorIdentity": [
+    "W"
+  ]
+}

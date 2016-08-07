@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Burning Fields",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Burning Fields deals 5 damage to target opponent.",
+  "imageName": "burning fields",
+  "colorIdentity": [
+    "R"
+  ]
+}

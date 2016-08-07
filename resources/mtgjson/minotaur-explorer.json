@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Minotaur Explorer",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Minotaur Scout",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Minotaur",
+    "Scout"
+  ],
+  "text": "When Minotaur Explorer enters the battlefield, sacrifice it unless you discard a card at random.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "minotaur explorer",
+  "colorIdentity": [
+    "R"
+  ]
+}

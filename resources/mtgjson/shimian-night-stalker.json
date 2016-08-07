@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Shimian Night Stalker",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Nightstalker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Nightstalker"
+  ],
+  "text": "{B}, {T}: All damage that would be dealt to you this turn by target attacking creature is dealt to Shimian Night Stalker instead.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "shimian night stalker",
+  "colorIdentity": [
+    "B"
+  ]
+}

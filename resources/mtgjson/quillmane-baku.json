@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Quillmane Baku",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Quillmane Baku.\n{1}, {T}, Remove X ki counters from Quillmane Baku: Return target creature with converted mana cost X or less to its owner's hand.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "quillmane baku",
+  "colorIdentity": [
+    "U"
+  ]
+}

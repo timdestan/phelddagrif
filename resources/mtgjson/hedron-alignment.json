@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Hedron Alignment",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Hexproof\nAt the beginning of your upkeep, you may reveal your hand. If you do, you win the game if you own a card named Hedron Alignment in exile, in your hand, in your graveyard, and on the battlefield.\n{1}{U}: Scry 1.",
+  "imageName": "hedron alignment",
+  "colorIdentity": [
+    "U"
+  ]
+}

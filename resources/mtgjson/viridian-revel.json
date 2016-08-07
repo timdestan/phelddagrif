@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Viridian Revel",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever an artifact is put into an opponent's graveyard from the battlefield, you may draw a card.",
+  "imageName": "viridian revel",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Long-Forgotten Gohei",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Arcane spells you cast cost {1} less to cast.\nSpirit creatures you control get +1/+1.",
+  "imageName": "long-forgotten gohei"
+}

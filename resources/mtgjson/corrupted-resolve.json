@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Corrupted Resolve",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell if its controller is poisoned.",
+  "imageName": "corrupted resolve",
+  "colorIdentity": [
+    "U"
+  ]
+}

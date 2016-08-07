@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Defense of the Heart",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, if an opponent controls three or more creatures, sacrifice Defense of the Heart, search your library for up to two creature cards, and put those cards onto the battlefield. Then shuffle your library.",
+  "imageName": "defense of the heart",
+  "colorIdentity": [
+    "G"
+  ]
+}

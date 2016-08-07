@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Silent Observer",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying",
+  "power": "1",
+  "toughness": "5",
+  "imageName": "silent observer",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Banshee",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "{X}, {T}: Banshee deals half X damage, rounded down, to target creature or player, and half X damage, rounded up, to you.",
+  "power": "0",
+  "toughness": "1",
+  "imageName": "banshee",
+  "colorIdentity": [
+    "B"
+  ]
+}

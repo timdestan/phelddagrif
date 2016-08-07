@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Stomping Ground",
+  "type": "Land — Mountain Forest",
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Mountain",
+    "Forest"
+  ],
+  "text": "({T}: Add {R} or {G} to your mana pool.)\nAs Stomping Ground enters the battlefield, you may pay 2 life. If you don't, Stomping Ground enters the battlefield tapped.",
+  "imageName": "stomping ground",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

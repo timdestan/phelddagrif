@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Vastwood Animist",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Shaman Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Shaman",
+    "Ally"
+  ],
+  "text": "{T}: Target land you control becomes an X/X Elemental creature until end of turn, where X is the number of Allies you control. It's still a land.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "vastwood animist",
+  "colorIdentity": [
+    "G"
+  ]
+}

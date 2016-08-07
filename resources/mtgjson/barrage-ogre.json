@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Barrage Ogre",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Ogre Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ogre",
+    "Warrior"
+  ],
+  "text": "{T}, Sacrifice an artifact: Barrage Ogre deals 2 damage to target creature or player.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "barrage ogre",
+  "colorIdentity": [
+    "R"
+  ]
+}

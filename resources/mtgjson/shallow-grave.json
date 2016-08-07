@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Shallow Grave",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Return the top creature card of your graveyard to the battlefield. That creature gains haste until end of turn. Exile it at the beginning of the next end step.",
+  "imageName": "shallow grave",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Benthic Infiltrator",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "type": "Creature — Eldrazi Drone",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Drone"
+  ],
+  "text": "Devoid (This card has no color.)\nIngest (Whenever this creature deals combat damage to a player, that player exiles the top card of his or her library.)\nBenthic Infiltrator can't be blocked.",
+  "power": "1",
+  "toughness": "4",
+  "imageName": "benthic infiltrator",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Brink of Madness",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, if you have no cards in hand, sacrifice Brink of Madness and target opponent discards his or her hand.",
+  "imageName": "brink of madness",
+  "colorIdentity": [
+    "B"
+  ]
+}

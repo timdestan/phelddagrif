@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Skywinder Drake",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flying\nSkywinder Drake can block only creatures with flying.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "skywinder drake",
+  "colorIdentity": [
+    "U"
+  ]
+}

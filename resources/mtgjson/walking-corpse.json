@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Walking Corpse",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "power": "2",
+  "toughness": "2",
+  "imageName": "walking corpse",
+  "colorIdentity": [
+    "B"
+  ]
+}

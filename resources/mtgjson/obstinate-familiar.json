@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Obstinate Familiar",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Lizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Lizard"
+  ],
+  "text": "If you would draw a card, you may skip that draw instead.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "obstinate familiar",
+  "colorIdentity": [
+    "R"
+  ]
+}

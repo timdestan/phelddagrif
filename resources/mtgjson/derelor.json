@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Derelor",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Thrull",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Thrull"
+  ],
+  "text": "Black spells you cast cost {B} more to cast.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "derelor",
+  "colorIdentity": [
+    "B"
+  ]
+}

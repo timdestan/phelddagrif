@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Tinder Wall",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Plant Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Plant",
+    "Wall"
+  ],
+  "text": "Defender (This creature can't attack.)\nSacrifice Tinder Wall: Add {R}{R} to your mana pool.\n{R}, Sacrifice Tinder Wall: Tinder Wall deals 2 damage to target creature it's blocking.",
+  "power": "0",
+  "toughness": "3",
+  "imageName": "tinder wall",
+  "colorIdentity": [
+    "G",
+    "R"
+  ]
+}

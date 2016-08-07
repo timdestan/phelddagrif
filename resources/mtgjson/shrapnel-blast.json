@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Shrapnel Blast",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "As an additional cost to cast Shrapnel Blast, sacrifice an artifact.\nShrapnel Blast deals 5 damage to target creature or player.",
+  "imageName": "shrapnel blast",
+  "colorIdentity": [
+    "R"
+  ]
+}

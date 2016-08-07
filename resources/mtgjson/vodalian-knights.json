@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Vodalian Knights",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Knight"
+  ],
+  "text": "First strike\nVodalian Knights can't attack unless defending player controls an Island.\nWhen you control no Islands, sacrifice Vodalian Knights.\n{U}: Vodalian Knights gains flying until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "vodalian knights",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Keepsake Gorgon",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Gorgon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Gorgon"
+  ],
+  "text": "Deathtouch\n{5}{B}{B}: Monstrosity 1. (If this creature isn't monstrous, put a +1/+1 counter on it and it becomes monstrous.)\nWhen Keepsake Gorgon becomes monstrous, destroy target non-Gorgon creature an opponent controls.",
+  "power": "2",
+  "toughness": "5",
+  "imageName": "keepsake gorgon",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Lava Flow",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target creature or land.",
+  "imageName": "lava flow",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Selenia",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "Creatures you control have vigilance.",
+  "imageName": "selenia",
+  "hand": 1,
+  "life": 7
+}

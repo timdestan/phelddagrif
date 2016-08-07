@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Desert",
+  "type": "Land — Desert",
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Desert"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{T}: Desert deals 1 damage to target attacking creature. Activate this ability only during the end of combat step.",
+  "imageName": "desert"
+}

@@ -1,0 +1,16 @@
+{
+  "layout": "normal",
+  "name": "Gaea's Cradle",
+  "type": "Legendary Land",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {G} to your mana pool for each creature you control.",
+  "imageName": "gaea's cradle",
+  "colorIdentity": [
+    "G"
+  ]
+}

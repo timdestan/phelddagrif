@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Fungal Sprouting",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put X 1/1 green Saproling creature tokens onto the battlefield, where X is the greatest power among creatures you control.",
+  "imageName": "fungal sprouting",
+  "colorIdentity": [
+    "G"
+  ]
+}

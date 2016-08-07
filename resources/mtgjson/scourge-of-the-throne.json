@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Scourge of the Throne",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying\nDethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)\nWhenever Scourge of the Throne attacks for the first time each turn, if it's attacking the player with the most life or tied for most life, untap all attacking creatures. After this phase, there is an additional combat phase.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "scourge of the throne",
+  "colorIdentity": [
+    "R"
+  ]
+}

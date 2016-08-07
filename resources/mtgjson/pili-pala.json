@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Pili-Pala",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact Creature — Scarecrow",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Scarecrow"
+  ],
+  "text": "Flying\n{2}, {Q}: Add one mana of any color to your mana pool. ({Q} is the untap symbol.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "pili-pala"
+}

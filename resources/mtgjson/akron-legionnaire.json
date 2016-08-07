@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Akron Legionnaire",
+  "manaCost": "{6}{W}{W}",
+  "cmc": 8,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Giant Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant",
+    "Soldier"
+  ],
+  "text": "Except for creatures named Akron Legionnaire and artifact creatures, creatures you control can't attack.",
+  "power": "8",
+  "toughness": "4",
+  "imageName": "akron legionnaire",
+  "colorIdentity": [
+    "W"
+  ]
+}

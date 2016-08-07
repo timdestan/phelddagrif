@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mind Rot",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target player discards two cards.",
+  "imageName": "mind rot",
+  "colorIdentity": [
+    "B"
+  ]
+}

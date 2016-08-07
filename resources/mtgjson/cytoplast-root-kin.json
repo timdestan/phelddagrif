@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Cytoplast Root-Kin",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elemental Mutant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Mutant"
+  ],
+  "text": "Graft 4 (This creature enters the battlefield with four +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)\nWhen Cytoplast Root-Kin enters the battlefield, put a +1/+1 counter on each other creature you control with a +1/+1 counter on it.\n{2}: Move a +1/+1 counter from target creature you control onto Cytoplast Root-Kin.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "cytoplast root-kin",
+  "colorIdentity": [
+    "G"
+  ]
+}

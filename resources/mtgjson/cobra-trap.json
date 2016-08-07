@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Cobra Trap",
+  "manaCost": "{4}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant — Trap",
+  "types": [
+    "Instant"
+  ],
+  "subtypes": [
+    "Trap"
+  ],
+  "text": "If a noncreature permanent under your control was destroyed this turn by a spell or ability an opponent controlled, you may pay {G} rather than pay Cobra Trap's mana cost.\nPut four 1/1 green Snake creature tokens onto the battlefield.",
+  "imageName": "cobra trap",
+  "colorIdentity": [
+    "G"
+  ]
+}

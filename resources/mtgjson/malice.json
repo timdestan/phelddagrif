@@ -1,0 +1,23 @@
+{
+  "layout": "split",
+  "name": "Malice",
+  "names": [
+    "Spite",
+    "Malice"
+  ],
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target nonblack creature. It can't be regenerated.",
+  "imageName": "malice",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

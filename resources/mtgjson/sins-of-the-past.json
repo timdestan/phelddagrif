@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sins of the Past",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Until end of turn, you may cast target instant or sorcery card from your graveyard without paying its mana cost. If that card would be put into your graveyard this turn, exile it instead. Exile Sins of the Past.",
+  "imageName": "sins of the past",
+  "colorIdentity": [
+    "B"
+  ]
+}

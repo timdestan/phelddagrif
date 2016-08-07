@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Melesse Spirit",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel",
+    "Spirit"
+  ],
+  "text": "Flying, protection from black",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "melesse spirit",
+  "colorIdentity": [
+    "W"
+  ]
+}

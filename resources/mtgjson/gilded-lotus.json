@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Gilded Lotus",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}: Add three mana of any one color to your mana pool.",
+  "imageName": "gilded lotus"
+}

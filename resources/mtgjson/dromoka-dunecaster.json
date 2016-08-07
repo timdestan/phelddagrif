@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Dromoka Dunecaster",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{1}{W}, {T}: Tap target creature without flying.",
+  "power": "0",
+  "toughness": "2",
+  "imageName": "dromoka dunecaster",
+  "colorIdentity": [
+    "W"
+  ]
+}

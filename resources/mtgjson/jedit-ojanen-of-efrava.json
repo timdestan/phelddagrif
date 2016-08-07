@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Jedit Ojanen of Efrava",
+  "manaCost": "{3}{G}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Legendary Creature — Cat Warrior",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat",
+    "Warrior"
+  ],
+  "text": "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)\nWhenever Jedit Ojanen of Efrava attacks or blocks, put a 2/2 green Cat Warrior creature token with forestwalk onto the battlefield.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "jedit ojanen of efrava",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Iron Tusk Elephant",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Elephant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elephant"
+  ],
+  "text": "Trample",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "iron tusk elephant",
+  "colorIdentity": [
+    "W"
+  ]
+}

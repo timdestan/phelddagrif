@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Captain's Call",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put three 1/1 white Soldier creature tokens onto the battlefield.",
+  "imageName": "captain's call",
+  "colorIdentity": [
+    "W"
+  ]
+}

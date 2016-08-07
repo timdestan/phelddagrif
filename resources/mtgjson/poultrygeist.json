@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Poultrygeist",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Summon — Chicken",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Chicken"
+  ],
+  "text": "Flying\nWhenever a creature is put into any graveyard from play, you may roll a six-sided die. On a 1, sacrifice Poultrygeist. Otherwise, put a +1/+1 counter on Poultrygeist.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "poultrygeist",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "layout": "scheme",
+  "name": "Approach My Molten Realm",
+  "type": "Scheme",
+  "types": [
+    "Scheme"
+  ],
+  "text": "When you set this scheme in motion, until your next turn, if a source would deal damage, it deals double that damage instead.",
+  "imageName": "approach my molten realm"
+}

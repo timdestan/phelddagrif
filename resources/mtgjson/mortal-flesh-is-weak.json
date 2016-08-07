@@ -1,0 +1,10 @@
+{
+  "layout": "scheme",
+  "name": "Mortal Flesh Is Weak",
+  "type": "Scheme",
+  "types": [
+    "Scheme"
+  ],
+  "text": "When you set this scheme in motion, each opponent's life total becomes the lowest life total among your opponents.",
+  "imageName": "mortal flesh is weak"
+}

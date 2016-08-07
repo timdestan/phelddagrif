@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Security Blockade",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant land\nWhen Security Blockade enters the battlefield, put a 2/2 white Knight creature token with vigilance onto the battlefield.\nEnchanted land has \"{T}: Prevent the next 1 damage that would be dealt to you this turn.\"",
+  "imageName": "security blockade",
+  "colorIdentity": [
+    "W"
+  ]
+}

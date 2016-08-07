@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Foul Renewal",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Return target creature card from your graveyard to your hand. Target creature gets -X/-X until end of turn, where X is the toughness of the card returned this way.",
+  "imageName": "foul renewal",
+  "colorIdentity": [
+    "B"
+  ]
+}

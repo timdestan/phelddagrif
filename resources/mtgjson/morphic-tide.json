@@ -1,0 +1,10 @@
+{
+  "layout": "phenomenon",
+  "name": "Morphic Tide",
+  "type": "Phenomenon",
+  "types": [
+    "Phenomenon"
+  ],
+  "text": "When you encounter Morphic Tide, each player shuffles all permanents he or she owns into his or her library, then reveals that many cards from the top of his or her library. Each player puts all artifact, creature, land, and planeswalker cards revealed this way onto the battlefield, then does the same for enchantment cards, then puts all cards revealed this way that weren't put onto the battlefield on the bottom of his or her library in any order. (Then planeswalk away from this phenomenon.)",
+  "imageName": "morphic tide"
+}

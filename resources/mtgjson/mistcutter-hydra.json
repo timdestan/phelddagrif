@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Mistcutter Hydra",
+  "manaCost": "{X}{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Hydra",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hydra"
+  ],
+  "text": "Mistcutter Hydra can't be countered.\nHaste, protection from blue\nMistcutter Hydra enters the battlefield with X +1/+1 counters on it.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "mistcutter hydra",
+  "colorIdentity": [
+    "G"
+  ]
+}

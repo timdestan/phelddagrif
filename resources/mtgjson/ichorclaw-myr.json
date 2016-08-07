@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ichorclaw Myr",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact Creature — Myr",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Myr"
+  ],
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nWhenever Ichorclaw Myr becomes blocked, it gets +2/+2 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "ichorclaw myr"
+}

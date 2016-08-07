@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Minotaur Abomination",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Minotaur",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Minotaur"
+  ],
+  "power": "4",
+  "toughness": "6",
+  "imageName": "minotaur abomination",
+  "colorIdentity": [
+    "B"
+  ]
+}

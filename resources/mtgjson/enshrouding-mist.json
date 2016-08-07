@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Enshrouding Mist",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gets +1/+1 until end of turn. Prevent all damage that would be dealt to it this turn. If it's renowned, untap it.",
+  "imageName": "enshrouding mist",
+  "colorIdentity": [
+    "W"
+  ]
+}

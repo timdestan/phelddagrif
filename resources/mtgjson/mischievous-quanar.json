@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Mischievous Quanar",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "{3}{U}{U}: Turn Mischievous Quanar face down.\nMorph {1}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Mischievous Quanar is turned face up, copy target instant or sorcery spell. You may choose new targets for that copy.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "mischievous quanar",
+  "colorIdentity": [
+    "U"
+  ]
+}

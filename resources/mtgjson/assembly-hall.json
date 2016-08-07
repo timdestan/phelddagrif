@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Assembly Hall",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{4}, {T}: Reveal a creature card in your hand. Search your library for a card with the same name as that card, reveal it, and put it into your hand. Then shuffle your library.",
+  "imageName": "assembly hall"
+}

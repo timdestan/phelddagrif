@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Volrath's Curse",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature can't attack or block, and its activated abilities can't be activated. That creature's controller may sacrifice a permanent for that player to ignore this effect until end of turn.\n{1}{U}: Return Volrath's Curse to its owner's hand.",
+  "imageName": "volrath's curse",
+  "colorIdentity": [
+    "U"
+  ]
+}

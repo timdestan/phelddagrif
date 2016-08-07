@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Battlefield Thaumaturge",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Each instant and sorcery spell you cast costs {1} less to cast for each creature it targets.\nHeroic — Whenever you cast a spell that targets Battlefield Thaumaturge, Battlefield Thaumaturge gains hexproof until end of turn.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "battlefield thaumaturge",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Bear Cub",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Bear",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bear"
+  ],
+  "power": "2",
+  "toughness": "2",
+  "imageName": "bear cub",
+  "colorIdentity": [
+    "G"
+  ]
+}

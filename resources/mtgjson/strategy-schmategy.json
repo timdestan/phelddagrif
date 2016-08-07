@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Strategy, Schmategy",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Roll a six-sided die for Strategy, Schmategy. On a 1, Strategy, Schmategy has no effect. Otherwise, it has one of the following effects.\n2 Destroy all artifacts.\n3 Destroy all lands.\n4 Strategy, Schmategy deals 3 damage to each creature and player.\n5 Each player discards his or her hand and draws seven cards. \n6 Roll the die two more times.",
+  "imageName": "strategy, schmategy",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Alms Beast",
+  "manaCost": "{2}{W}{B}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Creatures blocking or blocked by Alms Beast have lifelink.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "alms beast",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

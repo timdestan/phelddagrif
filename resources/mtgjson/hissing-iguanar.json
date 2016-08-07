@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Hissing Iguanar",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Lizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Lizard"
+  ],
+  "text": "Whenever another creature dies, you may have Hissing Iguanar deal 1 damage to target player.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "hissing iguanar",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Wildwood Rebirth",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Return target creature card from your graveyard to your hand.",
+  "imageName": "wildwood rebirth",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Mortuary Mire",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Mortuary Mire enters the battlefield tapped.\nWhen Mortuary Mire enters the battlefield, you may put target creature card from your graveyard on top of your library.\n{T}: Add {B} to your mana pool.",
+  "imageName": "mortuary mire",
+  "colorIdentity": [
+    "B"
+  ]
+}

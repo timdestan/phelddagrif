@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rusted Slasher",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Horror",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "Sacrifice an artifact: Regenerate Rusted Slasher.",
+  "power": "4",
+  "toughness": "1",
+  "imageName": "rusted slasher"
+}

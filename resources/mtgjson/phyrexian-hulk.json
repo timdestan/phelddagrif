@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Phyrexian Hulk",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "power": "5",
+  "toughness": "4",
+  "imageName": "phyrexian hulk"
+}

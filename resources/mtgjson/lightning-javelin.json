@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Lightning Javelin",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Lightning Javelin deals 3 damage to target creature or player. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "imageName": "lightning javelin",
+  "colorIdentity": [
+    "R"
+  ]
+}

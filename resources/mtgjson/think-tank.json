@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Think Tank",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, look at the top card of your library. You may put that card into your graveyard.",
+  "imageName": "think tank",
+  "colorIdentity": [
+    "U"
+  ]
+}

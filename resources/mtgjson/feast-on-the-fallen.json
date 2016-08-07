@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Feast on the Fallen",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of each upkeep, if an opponent lost life last turn, put a +1/+1 counter on target creature you control.",
+  "imageName": "feast on the fallen",
+  "colorIdentity": [
+    "B"
+  ]
+}

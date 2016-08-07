@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Herald of War",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nWhenever Herald of War attacks, put a +1/+1 counter on it.\nAngel spells and Human spells you cast cost {1} less to cast for each +1/+1 counter on Herald of War.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "herald of war",
+  "colorIdentity": [
+    "W"
+  ]
+}

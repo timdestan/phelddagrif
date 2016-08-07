@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sphinx of Uthuun",
+  "manaCost": "{5}{U}{U}",
+  "cmc": 7,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Sphinx",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sphinx"
+  ],
+  "text": "Flying\nWhen Sphinx of Uthuun enters the battlefield, reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.",
+  "power": "5",
+  "toughness": "6",
+  "imageName": "sphinx of uthuun",
+  "colorIdentity": [
+    "U"
+  ]
+}

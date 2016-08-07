@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Darkslick Drake",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flying\nWhen Darkslick Drake dies, draw a card.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "darkslick drake",
+  "colorIdentity": [
+    "U"
+  ]
+}

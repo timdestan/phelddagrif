@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sea Sprite",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Faerie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Faerie"
+  ],
+  "text": "Flying, protection from red",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "sea sprite",
+  "colorIdentity": [
+    "U"
+  ]
+}

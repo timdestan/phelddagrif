@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Goblin Striker",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Berserker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Berserker"
+  ],
+  "text": "First strike, haste",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "goblin striker",
+  "colorIdentity": [
+    "R"
+  ]
+}

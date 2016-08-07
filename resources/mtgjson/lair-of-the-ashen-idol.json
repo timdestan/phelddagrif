@@ -1,0 +1,13 @@
+{
+  "layout": "plane",
+  "name": "Lair of the Ashen Idol",
+  "type": "Plane — Azgol",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Azgol"
+  ],
+  "text": "At the beginning of your upkeep, sacrifice a creature. If you can't, planeswalk.\nWhenever you roll CHAOS, any number of target players each put a 2/2 black Zombie creature token onto the battlefield.",
+  "imageName": "lair of the ashen idol"
+}

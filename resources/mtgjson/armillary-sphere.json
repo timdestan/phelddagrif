@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Armillary Sphere",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, {T}, Sacrifice Armillary Sphere: Search your library for up to two basic land cards, reveal them, and put them into your hand. Then shuffle your library.",
+  "imageName": "armillary sphere"
+}

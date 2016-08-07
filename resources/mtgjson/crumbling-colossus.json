@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Crumbling Colossus",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)\nWhen Crumbling Colossus attacks, sacrifice it at end of combat.",
+  "power": "7",
+  "toughness": "4",
+  "imageName": "crumbling colossus"
+}

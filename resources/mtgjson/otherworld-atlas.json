@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Otherworld Atlas",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}: Put a charge counter on Otherworld Atlas.\n{T}: Each player draws a card for each charge counter on Otherworld Atlas.",
+  "imageName": "otherworld atlas"
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Cephalid Shrine",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a player casts a spell, counter that spell unless that player pays {X}, where X is the number of cards in all graveyards with the same name as the spell.",
+  "imageName": "cephalid shrine",
+  "colorIdentity": [
+    "U"
+  ]
+}

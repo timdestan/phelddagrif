@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Leaping Master",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Monk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Monk"
+  ],
+  "text": "{2}{W}: Leaping Master gains flying until end of turn.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "leaping master",
+  "colorIdentity": [
+    "R",
+    "W"
+  ]
+}

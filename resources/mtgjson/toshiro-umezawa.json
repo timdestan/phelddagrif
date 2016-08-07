@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Toshiro Umezawa",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Legendary Creature — Human Samurai",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Samurai"
+  ],
+  "text": "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nWhenever a creature an opponent controls dies, you may cast target instant card from your graveyard. If that card would be put into a graveyard this turn, exile it instead.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "toshiro umezawa",
+  "colorIdentity": [
+    "B"
+  ]
+}

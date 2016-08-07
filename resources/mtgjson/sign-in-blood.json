@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sign in Blood",
+  "manaCost": "{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target player draws two cards and loses 2 life.",
+  "imageName": "sign in blood",
+  "colorIdentity": [
+    "B"
+  ]
+}

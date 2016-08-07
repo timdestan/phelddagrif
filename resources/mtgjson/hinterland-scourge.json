@@ -1,0 +1,25 @@
+{
+  "layout": "double-faced",
+  "name": "Hinterland Scourge",
+  "names": [
+    "Hinterland Hermit",
+    "Hinterland Scourge"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Werewolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Werewolf"
+  ],
+  "text": "Hinterland Scourge must be blocked if able.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Hinterland Scourge.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "hinterland scourge",
+  "colorIdentity": [
+    "R"
+  ]
+}

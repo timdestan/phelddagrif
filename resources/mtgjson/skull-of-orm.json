@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Skull of Orm",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{5}, {T}: Return target enchantment card from your graveyard to your hand.",
+  "imageName": "skull of orm"
+}

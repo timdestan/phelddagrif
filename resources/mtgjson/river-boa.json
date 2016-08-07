@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "River Boa",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Snake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Snake"
+  ],
+  "text": "Islandwalk (This creature can't be blocked as long as defending player controls an Island.)\n{G}: Regenerate River Boa.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "river boa",
+  "colorIdentity": [
+    "G"
+  ]
+}

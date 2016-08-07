@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ulrich's Kindred",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Wolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wolf"
+  ],
+  "text": "Trample\n{3}{G}: Target attacking Wolf or Werewolf gains indestructible until end of turn.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "ulrich's kindred",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Flay",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target player discards a card at random. Then that player discards another card at random unless he or she pays {1}.",
+  "imageName": "flay",
+  "colorIdentity": [
+    "B"
+  ]
+}

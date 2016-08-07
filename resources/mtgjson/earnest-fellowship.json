@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Earnest Fellowship",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Each creature has protection from its colors.",
+  "imageName": "earnest fellowship",
+  "colorIdentity": [
+    "W"
+  ]
+}

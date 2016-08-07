@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Demonspine Whip",
+  "manaCost": "{B}{R}",
+  "cmc": 2,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "{X}: Equipped creature gets +X/+0 until end of turn.\nEquip {1}",
+  "imageName": "demonspine whip",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

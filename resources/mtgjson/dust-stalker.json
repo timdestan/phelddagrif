@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Dust Stalker",
+  "manaCost": "{2}{B}{R}",
+  "cmc": 4,
+  "type": "Creature — Eldrazi",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi"
+  ],
+  "text": "Devoid (This card has no color.)\nHaste\nAt the beginning of each end step, if you control no other colorless creatures, return Dust Stalker to its owner's hand.",
+  "power": "5",
+  "toughness": "3",
+  "imageName": "dust stalker",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

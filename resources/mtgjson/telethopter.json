@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Telethopter",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Thopter",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Thopter"
+  ],
+  "text": "Tap an untapped creature you control: Telethopter gains flying until end of turn.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "telethopter"
+}

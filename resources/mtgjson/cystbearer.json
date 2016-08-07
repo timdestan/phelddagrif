@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Cystbearer",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "cystbearer",
+  "colorIdentity": [
+    "G"
+  ]
+}

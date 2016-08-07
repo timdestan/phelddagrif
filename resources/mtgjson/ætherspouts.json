@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ætherspouts",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "For each attacking creature, its owner puts it on the top or bottom of his or her library.",
+  "imageName": "ætherspouts",
+  "colorIdentity": [
+    "U"
+  ]
+}

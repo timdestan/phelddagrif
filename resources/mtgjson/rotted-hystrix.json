@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Rotted Hystrix",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "power": "3",
+  "toughness": "6",
+  "imageName": "rotted hystrix",
+  "colorIdentity": [
+    "G"
+  ]
+}

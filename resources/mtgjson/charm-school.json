@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Charm School",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchant Player",
+  "types": [
+    "Enchant",
+    "Player"
+  ],
+  "text": "When Charm School comes into play, choose a color and balance Charm School on your head.\nPrevent all damage to you of the chosen color.\nIf Charm School falls off your head, sacrifice Charm School.",
+  "imageName": "charm school",
+  "colorIdentity": [
+    "W"
+  ]
+}

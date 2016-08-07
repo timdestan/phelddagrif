@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ancestral Statue",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "When Ancestral Statue enters the battlefield, return a nonland permanent you control to its owner's hand.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "ancestral statue"
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mire's Malice",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target opponent discards two cards.\nAwaken 3—{5}{B} (If you cast this spell for {5}{B}, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",
+  "imageName": "mire's malice",
+  "colorIdentity": [
+    "B"
+  ]
+}

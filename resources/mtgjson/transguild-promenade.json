@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Transguild Promenade",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Transguild Promenade enters the battlefield tapped.\nWhen Transguild Promenade enters the battlefield, sacrifice it unless you pay {1}.\n{T}: Add one mana of any color to your mana pool.",
+  "imageName": "transguild promenade"
+}

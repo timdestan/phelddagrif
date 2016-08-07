@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Black Cat",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Cat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Cat"
+  ],
+  "text": "When Black Cat dies, target opponent discards a card at random.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "black cat",
+  "colorIdentity": [
+    "B"
+  ]
+}

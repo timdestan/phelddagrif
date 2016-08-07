@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Time Machine",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}: Remove Time Machine and target nontoken creature you own from the game. Return both cards to play at the beginning of your upkeep on your turn X of the next game you play with the same opponent, where X is the removed creature's converted mana cost.",
+  "imageName": "time machine"
+}

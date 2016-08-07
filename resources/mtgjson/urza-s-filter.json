@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Urza's Filter",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Multicolored spells cost up to {2} less to cast.",
+  "imageName": "urza's filter"
+}

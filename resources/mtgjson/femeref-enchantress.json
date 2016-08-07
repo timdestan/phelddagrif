@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Femeref Enchantress",
+  "manaCost": "{G}{W}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Human Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Druid"
+  ],
+  "text": "Whenever an enchantment is put into a graveyard from the battlefield, draw a card.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "femeref enchantress",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

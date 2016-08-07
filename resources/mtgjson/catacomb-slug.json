@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Catacomb Slug",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Slug",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Slug"
+  ],
+  "power": "2",
+  "toughness": "6",
+  "imageName": "catacomb slug",
+  "colorIdentity": [
+    "B"
+  ]
+}

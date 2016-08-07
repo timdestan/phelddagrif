@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rain of Filth",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Until end of turn, lands you control gain \"Sacrifice this land: Add {B} to your mana pool.\"",
+  "imageName": "rain of filth",
+  "colorIdentity": [
+    "B"
+  ]
+}

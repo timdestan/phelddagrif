@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Cytoplast Manipulator",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard Mutant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard",
+    "Mutant"
+  ],
+  "text": "Graft 2 (This creature enters the battlefield with two +1/+1 counters on it. Whenever another creature enters the battlefield, you may move a +1/+1 counter from this creature onto it.)\n{U}, {T}: Gain control of target creature with a +1/+1 counter on it for as long as Cytoplast Manipulator remains on the battlefield.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "cytoplast manipulator",
+  "colorIdentity": [
+    "U"
+  ]
+}

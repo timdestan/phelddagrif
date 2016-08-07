@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Undermine",
+  "manaCost": "{U}{U}{B}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell. Its controller loses 3 life.",
+  "imageName": "undermine",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

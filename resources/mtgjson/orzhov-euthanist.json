@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Orzhov Euthanist",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Assassin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Assassin"
+  ],
+  "text": "Haunt (When this creature dies, exile it haunting target creature.)\nWhen Orzhov Euthanist enters the battlefield or the creature it haunts dies, destroy target creature that was dealt damage this turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "orzhov euthanist",
+  "colorIdentity": [
+    "B"
+  ]
+}

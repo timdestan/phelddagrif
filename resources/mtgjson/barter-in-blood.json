@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Barter in Blood",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Each player sacrifices two creatures.",
+  "imageName": "barter in blood",
+  "colorIdentity": [
+    "B"
+  ]
+}

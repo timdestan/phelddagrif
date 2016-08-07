@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Thrill-Kill Assassin",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Assassin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Assassin"
+  ],
+  "text": "Deathtouch\nUnleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "thrill-kill assassin",
+  "colorIdentity": [
+    "B"
+  ]
+}

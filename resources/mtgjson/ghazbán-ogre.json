@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ghazbán Ogre",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Ogre",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ogre"
+  ],
+  "text": "At the beginning of your upkeep, if a player has more life than each other player, the player with the most life gains control of Ghazbán Ogre.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "ghazbán ogre",
+  "colorIdentity": [
+    "G"
+  ]
+}

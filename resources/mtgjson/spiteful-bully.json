@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Spiteful Bully",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Mercenary",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Mercenary"
+  ],
+  "text": "At the beginning of your upkeep, Spiteful Bully deals 3 damage to target creature you control.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "spiteful bully",
+  "colorIdentity": [
+    "B"
+  ]
+}

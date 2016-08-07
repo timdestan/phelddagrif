@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Raging Goblin",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Berserker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Berserker"
+  ],
+  "text": "Haste (This creature can attack and {T} as soon as it comes under your control.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "raging goblin",
+  "colorIdentity": [
+    "R"
+  ]
+}

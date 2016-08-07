@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Root-Kin Ally",
+  "manaCost": "{4}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elemental Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Warrior"
+  ],
+  "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nTap two untapped creatures you control: Root-Kin Ally gets +2/+2 until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "root-kin ally",
+  "colorIdentity": [
+    "G"
+  ]
+}

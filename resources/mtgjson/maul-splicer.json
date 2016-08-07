@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Maul Splicer",
+  "manaCost": "{6}{G}",
+  "cmc": 7,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Artificer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Artificer"
+  ],
+  "text": "When Maul Splicer enters the battlefield, put two 3/3 colorless Golem artifact creature tokens onto the battlefield.\nGolem creatures you control have trample.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "maul splicer",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Worldspine Wurm",
+  "manaCost": "{8}{G}{G}{G}",
+  "cmc": 11,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "text": "Trample\nWhen Worldspine Wurm dies, put three 5/5 green Wurm creature tokens with trample onto the battlefield.\nWhen Worldspine Wurm is put into a graveyard from anywhere, shuffle it into its owner's library.",
+  "power": "15",
+  "toughness": "15",
+  "imageName": "worldspine wurm",
+  "colorIdentity": [
+    "G"
+  ]
+}

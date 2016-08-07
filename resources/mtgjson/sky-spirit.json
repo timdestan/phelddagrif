@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Sky Spirit",
+  "manaCost": "{1}{W}{U}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying, first strike",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "sky spirit",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

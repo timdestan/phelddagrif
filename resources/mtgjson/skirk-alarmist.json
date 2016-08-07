@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Skirk Alarmist",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Haste\n{T}: Turn target face-down creature you control face up. At the beginning of the next end step, sacrifice it.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "skirk alarmist",
+  "colorIdentity": [
+    "R"
+  ]
+}

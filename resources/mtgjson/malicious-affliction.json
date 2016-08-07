@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Malicious Affliction",
+  "manaCost": "{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Morbid — When you cast Malicious Affliction, if a creature died this turn, you may copy Malicious Affliction and may choose a new target for the copy.\nDestroy target nonblack creature.",
+  "imageName": "malicious affliction",
+  "colorIdentity": [
+    "B"
+  ]
+}

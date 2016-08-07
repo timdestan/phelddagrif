@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Mortipede",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "{2}{G}: All creatures able to block Mortipede this turn do so.",
+  "power": "4",
+  "toughness": "1",
+  "imageName": "mortipede",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

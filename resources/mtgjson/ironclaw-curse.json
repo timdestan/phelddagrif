@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Ironclaw Curse",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets -0/-1.\nEnchanted creature can't block creatures with power equal to or greater than the enchanted creature's toughness.",
+  "imageName": "ironclaw curse",
+  "colorIdentity": [
+    "R"
+  ]
+}

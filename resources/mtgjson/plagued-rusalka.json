@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Plagued Rusalka",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "{B}, Sacrifice a creature: Target creature gets -1/-1 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "plagued rusalka",
+  "colorIdentity": [
+    "B"
+  ]
+}

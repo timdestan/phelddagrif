@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Whip Silk",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature has reach. (It can block creatures with flying.)\n{G}: Return Whip Silk to its owner's hand.",
+  "imageName": "whip silk",
+  "colorIdentity": [
+    "G"
+  ]
+}

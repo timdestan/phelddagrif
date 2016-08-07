@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Brass Squire",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Myr",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Myr"
+  ],
+  "text": "{T}: Attach target Equipment you control to target creature you control.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "brass squire"
+}

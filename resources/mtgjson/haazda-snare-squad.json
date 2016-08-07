@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Haazda Snare Squad",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Whenever Haazda Snare Squad attacks, you may pay {W}. If you do, tap target creature an opponent controls.",
+  "power": "1",
+  "toughness": "4",
+  "imageName": "haazda snare squad",
+  "colorIdentity": [
+    "W"
+  ]
+}

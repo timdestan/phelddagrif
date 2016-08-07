@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Flooded Woodlands",
+  "manaCost": "{2}{U}{B}",
+  "cmc": 4,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Green creatures can't attack unless their controller sacrifices a land for each green creature he or she controls that's attacking. (This cost is paid as attackers are declared.)",
+  "imageName": "flooded woodlands",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

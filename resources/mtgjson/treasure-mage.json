@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Treasure Mage",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "When Treasure Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 6 or greater, reveal that card, and put it into your hand. If you do, shuffle your library.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "treasure mage",
+  "colorIdentity": [
+    "U"
+  ]
+}

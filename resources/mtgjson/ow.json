@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ow",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever any creature damages a player, for each Ow card in play, that player says \"Ow\" once or Ow deals 1 damage to him or her.",
+  "imageName": "ow",
+  "colorIdentity": [
+    "B"
+  ]
+}

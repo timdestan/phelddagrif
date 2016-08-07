@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Darksteel Forge",
+  "manaCost": "{9}",
+  "cmc": 9,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Artifacts you control have indestructible. (Effects that say \"destroy\" don't destroy them. Artifact creatures with indestructible can't be destroyed by damage.)",
+  "imageName": "darksteel forge"
+}

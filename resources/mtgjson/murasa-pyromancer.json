@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Murasa Pyromancer",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Shaman Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Shaman",
+    "Ally"
+  ],
+  "text": "Whenever Murasa Pyromancer or another Ally enters the battlefield under your control, you may have Murasa Pyromancer deal damage to target creature equal to the number of Allies you control.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "murasa pyromancer",
+  "colorIdentity": [
+    "R"
+  ]
+}

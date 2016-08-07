@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Crash of Rhinos",
+  "manaCost": "{6}{G}{G}",
+  "cmc": 8,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Rhino",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rhino"
+  ],
+  "text": "Trample",
+  "power": "8",
+  "toughness": "4",
+  "imageName": "crash of rhinos",
+  "colorIdentity": [
+    "G"
+  ]
+}

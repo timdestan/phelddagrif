@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Battlewise Aven",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Bird Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird",
+    "Soldier"
+  ],
+  "text": "Flying\nThreshold — As long as seven or more cards are in your graveyard, Battlewise Aven gets +1/+1 and has first strike.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "battlewise aven",
+  "colorIdentity": [
+    "W"
+  ]
+}

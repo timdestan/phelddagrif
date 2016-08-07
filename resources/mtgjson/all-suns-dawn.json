@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "All Suns' Dawn",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "For each color, return up to one target card of that color from your graveyard to your hand. Exile All Suns' Dawn.",
+  "imageName": "all suns' dawn",
+  "colorIdentity": [
+    "G"
+  ]
+}

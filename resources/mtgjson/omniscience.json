@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Omniscience",
+  "manaCost": "{7}{U}{U}{U}",
+  "cmc": 10,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "You may cast nonland cards from your hand without paying their mana costs.",
+  "imageName": "omniscience",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dread Specter",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Specter",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Specter"
+  ],
+  "text": "Whenever Dread Specter blocks or becomes blocked by a nonblack creature, destroy that creature at end of combat.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "dread specter",
+  "colorIdentity": [
+    "B"
+  ]
+}

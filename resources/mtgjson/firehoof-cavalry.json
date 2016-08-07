@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Firehoof Cavalry",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Berserker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Berserker"
+  ],
+  "text": "{3}{R}: Firehoof Cavalry gets +2/+0 and gains trample until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "firehoof cavalry",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

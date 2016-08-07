@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sleeper Agent",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Minion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Minion"
+  ],
+  "text": "When Sleeper Agent enters the battlefield, target opponent gains control of it.\nAt the beginning of your upkeep, Sleeper Agent deals 2 damage to you.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "sleeper agent",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Mardu Shadowspear",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "Whenever Mardu Shadowspear attacks, each opponent loses 1 life.\nDash {1}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "mardu shadowspear",
+  "colorIdentity": [
+    "B"
+  ]
+}

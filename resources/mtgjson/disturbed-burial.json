@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Disturbed Burial",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)\nReturn target creature card from your graveyard to your hand.",
+  "imageName": "disturbed burial",
+  "colorIdentity": [
+    "B"
+  ]
+}

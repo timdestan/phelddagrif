@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Memory Lapse",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.",
+  "imageName": "memory lapse",
+  "colorIdentity": [
+    "U"
+  ]
+}

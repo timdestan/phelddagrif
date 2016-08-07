@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kitsune Riftwalker",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Fox Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Fox",
+    "Wizard"
+  ],
+  "text": "Protection from Spirits and from Arcane",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "kitsune riftwalker",
+  "colorIdentity": [
+    "W"
+  ]
+}

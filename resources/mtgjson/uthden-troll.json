@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Uthden Troll",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Troll",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Troll"
+  ],
+  "text": "{R}: Regenerate Uthden Troll.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "uthden troll",
+  "colorIdentity": [
+    "R"
+  ]
+}

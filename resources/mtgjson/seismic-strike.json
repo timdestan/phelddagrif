@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Seismic Strike",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Seismic Strike deals damage to target creature equal to the number of Mountains you control.",
+  "imageName": "seismic strike",
+  "starter": true,
+  "colorIdentity": [
+    "R"
+  ]
+}

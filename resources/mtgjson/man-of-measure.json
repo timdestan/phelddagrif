@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Man of Measure",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "As long as you're shorter than an opponent, Man of Measure has first strike and gets +0/+1.\nAs long as you're taller than an opponent, Man of Measure gets +1/+0.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "man of measure",
+  "colorIdentity": [
+    "W"
+  ]
+}

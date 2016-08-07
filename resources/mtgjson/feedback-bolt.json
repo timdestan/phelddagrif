@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Feedback Bolt",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Feedback Bolt deals damage to target player equal to the number of artifacts you control.",
+  "imageName": "feedback bolt",
+  "colorIdentity": [
+    "R"
+  ]
+}

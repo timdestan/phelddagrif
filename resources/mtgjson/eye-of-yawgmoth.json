@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Eye of Yawgmoth",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{3}, {T}, Sacrifice a creature: Reveal a number of cards from the top of your library equal to the sacrificed creature's power. Put one into your hand and exile the rest.",
+  "imageName": "eye of yawgmoth"
+}

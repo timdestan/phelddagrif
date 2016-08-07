@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Jareth, Leonine Titan",
+  "manaCost": "{3}{W}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Creature — Cat Giant",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat",
+    "Giant"
+  ],
+  "text": "Whenever Jareth, Leonine Titan blocks, it gets +7/+7 until end of turn.\n{W}: Jareth gains protection from the color of your choice until end of turn.",
+  "power": "4",
+  "toughness": "7",
+  "imageName": "jareth, leonine titan",
+  "colorIdentity": [
+    "W"
+  ]
+}

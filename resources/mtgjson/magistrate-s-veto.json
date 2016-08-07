@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Magistrate's Veto",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "White creatures and blue creatures can't block.",
+  "imageName": "magistrate's veto",
+  "colorIdentity": [
+    "R"
+  ]
+}

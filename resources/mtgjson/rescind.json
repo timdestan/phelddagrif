@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rescind",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Return target permanent to its owner's hand.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+  "imageName": "rescind",
+  "colorIdentity": [
+    "U"
+  ]
+}

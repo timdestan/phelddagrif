@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Sage of Lat-Nam",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Artificer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Artificer"
+  ],
+  "text": "{T}, Sacrifice an artifact: Draw a card.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "sage of lat-nam",
+  "colorIdentity": [
+    "U"
+  ]
+}

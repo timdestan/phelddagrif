@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Thalakos Seer",
+  "manaCost": "{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Thalakos Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Thalakos",
+    "Wizard"
+  ],
+  "text": "Shadow (This creature can block or be blocked by only creatures with shadow.)\nWhen Thalakos Seer leaves the battlefield, draw a card.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "thalakos seer",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Akoum Refuge",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Akoum Refuge enters the battlefield tapped.\nWhen Akoum Refuge enters the battlefield, you gain 1 life.\n{T}: Add {B} or {R} to your mana pool.",
+  "imageName": "akoum refuge",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

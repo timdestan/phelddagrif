@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Unexpectedly Absent",
+  "manaCost": "{X}{W}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Put target nonland permanent into its owner's library just beneath the top X cards of that library.",
+  "imageName": "unexpectedly absent",
+  "colorIdentity": [
+    "W"
+  ]
+}

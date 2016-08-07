@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Soratami Savant",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Moonfolk Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Moonfolk",
+    "Wizard"
+  ],
+  "text": "Flying\n{3}, Return a land you control to its owner's hand: Counter target spell unless its controller pays {3}.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "soratami savant",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dark Ritual",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Add {B}{B}{B} to your mana pool.",
+  "imageName": "dark ritual",
+  "colorIdentity": [
+    "B"
+  ]
+}

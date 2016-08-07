@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Knight of Meadowgrain",
+  "manaCost": "{W}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kithkin Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kithkin",
+    "Knight"
+  ],
+  "text": "First strike\nLifelink (Damage dealt by this creature also causes you to gain that much life.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "knight of meadowgrain",
+  "colorIdentity": [
+    "W"
+  ]
+}

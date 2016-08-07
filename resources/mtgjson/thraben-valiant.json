@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Thraben Valiant",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Vigilance",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "thraben valiant",
+  "colorIdentity": [
+    "W"
+  ]
+}

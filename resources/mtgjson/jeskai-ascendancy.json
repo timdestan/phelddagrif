@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Jeskai Ascendancy",
+  "manaCost": "{U}{R}{W}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Blue",
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn. Untap those creatures.\nWhenever you cast a noncreature spell, you may draw a card. If you do, discard a card.",
+  "imageName": "jeskai ascendancy",
+  "colorIdentity": [
+    "W",
+    "U",
+    "R"
+  ]
+}

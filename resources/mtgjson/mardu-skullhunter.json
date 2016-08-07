@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Mardu Skullhunter",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "Mardu Skullhunter enters the battlefield tapped.\nRaid — When Mardu Skullhunter enters the battlefield, if you attacked with a creature this turn, target opponent discards a card.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "mardu skullhunter",
+  "colorIdentity": [
+    "B"
+  ]
+}

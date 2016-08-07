@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dark Dabbling",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Regenerate target creature. Draw a card. (The next time the creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)\nSpell mastery — If there are two or more instant and/or sorcery cards in your graveyard, also regenerate each other creature you control.",
+  "imageName": "dark dabbling",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Scapeshift",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Sacrifice any number of lands. Search your library for up to that many land cards, put them onto the battlefield tapped, then shuffle your library.",
+  "imageName": "scapeshift",
+  "colorIdentity": [
+    "G"
+  ]
+}

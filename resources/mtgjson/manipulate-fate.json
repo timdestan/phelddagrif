@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Manipulate Fate",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Search your library for three cards, exile them, then shuffle your library.\nDraw a card.",
+  "imageName": "manipulate fate",
+  "colorIdentity": [
+    "U"
+  ]
+}

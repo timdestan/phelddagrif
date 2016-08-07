@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Hidden Ancients",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "When an opponent casts an enchantment spell, if Hidden Ancients is an enchantment, Hidden Ancients becomes a 5/5 Treefolk creature.",
+  "imageName": "hidden ancients",
+  "colorIdentity": [
+    "G"
+  ]
+}

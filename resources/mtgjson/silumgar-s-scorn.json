@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Silumgar's Scorn",
+  "manaCost": "{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "As an additional cost to cast Silumgar's Scorn, you may reveal a Dragon card from your hand.\nCounter target spell unless its controller pays {1}. If you revealed a Dragon card or controlled a Dragon as you cast Silumgar's Scorn, counter that spell instead.",
+  "imageName": "silumgar's scorn",
+  "colorIdentity": [
+    "U"
+  ]
+}

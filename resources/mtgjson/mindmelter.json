@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Mindmelter",
+  "manaCost": "{1}{U}{B}",
+  "cmc": 3,
+  "type": "Creature — Eldrazi Drone",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Drone"
+  ],
+  "text": "Devoid (This card has no color.)\nMindmelter can't be blocked.\n{3}{C}: Target opponent exiles a card from his or her hand. Activate this ability only any time you could cast a sorcery. ({C} represents colorless mana.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "mindmelter",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Jungle Patrol",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "{1}{G}, {T}:  Put a 0/1 green Wall creature token with defender named Wood onto the battlefield.\nSacrifice a token named Wood: Add {R} to your mana pool.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "jungle patrol",
+  "colorIdentity": [
+    "G",
+    "R"
+  ]
+}

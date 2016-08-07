@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Headless Skaab",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Zombie Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Warrior"
+  ],
+  "text": "As an additional cost to cast Headless Skaab, exile a creature card from your graveyard.\nHeadless Skaab enters the battlefield tapped.",
+  "power": "3",
+  "toughness": "6",
+  "imageName": "headless skaab",
+  "colorIdentity": [
+    "U"
+  ]
+}

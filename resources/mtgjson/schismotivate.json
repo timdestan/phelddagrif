@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Schismotivate",
+  "manaCost": "{1}{U}{R}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gets +4/+0 until end of turn. Another target creature gets -4/-0 until end of turn.",
+  "imageName": "schismotivate",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

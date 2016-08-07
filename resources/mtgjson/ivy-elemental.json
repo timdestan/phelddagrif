@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ivy Elemental",
+  "manaCost": "{X}{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Ivy Elemental enters the battlefield with X +1/+1 counters on it.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "ivy elemental",
+  "colorIdentity": [
+    "G"
+  ]
+}

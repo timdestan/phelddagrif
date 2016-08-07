@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Fault Line",
+  "manaCost": "{X}{R}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Fault Line deals X damage to each creature without flying and each player.",
+  "imageName": "fault line",
+  "colorIdentity": [
+    "R"
+  ]
+}

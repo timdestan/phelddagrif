@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Eternal Witness",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Shaman"
+  ],
+  "text": "When Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "eternal witness",
+  "colorIdentity": [
+    "G"
+  ]
+}

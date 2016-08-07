@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Temur Ascendancy",
+  "manaCost": "{G}{U}{R}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Red",
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Creatures you control have haste.\nWhenever a creature with power 4 or greater enters the battlefield under your control, you may draw a card.",
+  "imageName": "temur ascendancy",
+  "colorIdentity": [
+    "U",
+    "R",
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sangrophage",
+  "manaCost": "{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "At the beginning of your upkeep, tap Sangrophage unless you pay 2 life.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "sangrophage",
+  "colorIdentity": [
+    "B"
+  ]
+}

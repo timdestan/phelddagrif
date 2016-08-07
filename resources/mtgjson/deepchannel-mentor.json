@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Deepchannel Mentor",
+  "manaCost": "{5}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Rogue"
+  ],
+  "text": "Blue creatures you control can't be blocked.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "deepchannel mentor",
+  "colorIdentity": [
+    "U"
+  ]
+}

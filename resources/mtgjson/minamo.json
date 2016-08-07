@@ -1,0 +1,13 @@
+{
+  "layout": "plane",
+  "name": "Minamo",
+  "type": "Plane — Kamigawa",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Kamigawa"
+  ],
+  "text": "Whenever a player casts a spell, that player may draw a card. \nWhenever you roll CHAOS, each player may return a blue card from his or her graveyard to his or her hand.",
+  "imageName": "minamo"
+}

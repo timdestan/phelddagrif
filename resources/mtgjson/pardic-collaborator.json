@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Pardic Collaborator",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Barbarian",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Barbarian"
+  ],
+  "text": "First strike\n{B}: Pardic Collaborator gets +1/+1 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "pardic collaborator",
+  "colorIdentity": [
+    "R",
+    "B"
+  ]
+}

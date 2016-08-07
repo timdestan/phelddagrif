@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Arcane Sanctum",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Arcane Sanctum enters the battlefield tapped.\n{T}: Add {W}, {U}, or {B} to your mana pool.",
+  "imageName": "arcane sanctum",
+  "colorIdentity": [
+    "W",
+    "U",
+    "B"
+  ]
+}

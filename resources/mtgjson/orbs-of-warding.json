@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Orbs of Warding",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "You have hexproof. (You can't be the target of spells or abilities your opponents control.)\nIf a creature would deal damage to you, prevent 1 of that damage.",
+  "imageName": "orbs of warding"
+}

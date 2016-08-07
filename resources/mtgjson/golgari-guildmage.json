@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Golgari Guildmage",
+  "manaCost": "{B/G}{B/G}",
+  "cmc": 2,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Creature — Elf Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Shaman"
+  ],
+  "text": "{4}{B}, Sacrifice a creature: Return target creature card from your graveyard to your hand.\n{4}{G}: Put a +1/+1 counter on target creature.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "golgari guildmage",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

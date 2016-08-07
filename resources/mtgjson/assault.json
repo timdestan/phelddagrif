@@ -1,0 +1,23 @@
+{
+  "layout": "split",
+  "name": "Assault",
+  "names": [
+    "Assault",
+    "Battery"
+  ],
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Assault deals 2 damage to target creature or player.",
+  "imageName": "assault",
+  "colorIdentity": [
+    "G",
+    "R"
+  ]
+}

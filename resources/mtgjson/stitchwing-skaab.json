@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Stitchwing Skaab",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Zombie Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Horror"
+  ],
+  "text": "Flying\n{1}{U}, Discard two cards: Return Stitchwing Skaab from your graveyard to the battlefield tapped.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "stitchwing skaab",
+  "colorIdentity": [
+    "U"
+  ]
+}

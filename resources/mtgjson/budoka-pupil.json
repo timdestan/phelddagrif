@@ -1,0 +1,28 @@
+{
+  "layout": "flip",
+  "name": "Budoka Pupil",
+  "names": [
+    "Budoka Pupil",
+    "Ichiga, Who Topples Oaks"
+  ],
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Monk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Monk"
+  ],
+  "text": "Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Budoka Pupil.\nAt the beginning of the end step, if there are two or more ki counters on Budoka Pupil, you may flip it.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "budoka pupil",
+  "colorIdentity": [
+    "G"
+  ]
+}

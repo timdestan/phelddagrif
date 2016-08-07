@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Scab-Clan Giant",
+  "manaCost": "{4}{R}{G}",
+  "cmc": 6,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Giant Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant",
+    "Warrior"
+  ],
+  "text": "When Scab-Clan Giant enters the battlefield, it fights target creature an opponent controls chosen at random.",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "scab-clan giant",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

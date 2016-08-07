@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Stuffy Doll Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "{0}: If damage would be dealt to you this turn by a source of your choice, prevent that damage. Stuffy Doll Avatar deals damage to you and target opponent equal to half the damage prevented this way, rounded up. Activate this ability only once each turn.",
+  "imageName": "stuffy doll avatar",
+  "hand": 0,
+  "life": -6
+}

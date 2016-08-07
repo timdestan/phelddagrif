@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Muzzio, Visionary Architect",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Legendary Creature — Human Artificer",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Artificer"
+  ],
+  "text": "{3}{U}, {T}: Look at the top X cards of your library, where X is the highest converted mana cost among artifacts you control. You may reveal an artifact card from among them and put it onto the battlefield. Put the rest on the bottom of your library in any order.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "muzzio, visionary architect",
+  "colorIdentity": [
+    "U"
+  ]
+}

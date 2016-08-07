@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Riptide Shapeshifter",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Shapeshifter",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Shapeshifter"
+  ],
+  "text": "{2}{U}{U}, Sacrifice Riptide Shapeshifter: Choose a creature type. Reveal cards from the top of your library until you reveal a creature card of that type. Put that card onto the battlefield and shuffle the rest into your library.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "riptide shapeshifter",
+  "colorIdentity": [
+    "U"
+  ]
+}

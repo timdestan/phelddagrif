@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Silver-Inlaid Dagger",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature gets +2/+0.\nAs long as equipped creature is a Human, it gets an additional +1/+0.\nEquip {2}",
+  "imageName": "silver-inlaid dagger"
+}

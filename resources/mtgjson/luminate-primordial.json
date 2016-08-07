@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Luminate Primordial",
+  "manaCost": "{5}{W}{W}",
+  "cmc": 7,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Avatar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Avatar"
+  ],
+  "text": "Vigilance\nWhen Luminate Primordial enters the battlefield, for each opponent, exile up to one target creature that player controls and that player gains life equal to its power.",
+  "power": "4",
+  "toughness": "7",
+  "imageName": "luminate primordial",
+  "colorIdentity": [
+    "W"
+  ]
+}

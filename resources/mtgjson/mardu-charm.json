@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Mardu Charm",
+  "manaCost": "{R}{W}{B}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Black",
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose one —\n• Mardu Charm deals 4 damage to target creature.\n• Put two 1/1 white Warrior creature tokens onto the battlefield. They gain first strike until end of turn.\n• Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.",
+  "imageName": "mardu charm",
+  "colorIdentity": [
+    "W",
+    "B",
+    "R"
+  ]
+}

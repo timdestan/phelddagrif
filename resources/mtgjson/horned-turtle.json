@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Horned Turtle",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Turtle",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Turtle"
+  ],
+  "power": "1",
+  "toughness": "4",
+  "imageName": "horned turtle",
+  "colorIdentity": [
+    "U"
+  ]
+}

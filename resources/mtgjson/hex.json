@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Hex",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy six target creatures.",
+  "imageName": "hex",
+  "colorIdentity": [
+    "B"
+  ]
+}

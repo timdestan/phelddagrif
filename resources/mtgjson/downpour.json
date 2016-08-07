@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Downpour",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Tap up to three target creatures.",
+  "imageName": "downpour",
+  "colorIdentity": [
+    "U"
+  ]
+}

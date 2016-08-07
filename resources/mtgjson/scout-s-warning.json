@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Scout's Warning",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "The next creature card you play this turn can be played as though it had flash.\nDraw a card.",
+  "imageName": "scout's warning",
+  "colorIdentity": [
+    "W"
+  ]
+}

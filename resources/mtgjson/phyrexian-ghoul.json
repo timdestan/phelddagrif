@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Phyrexian Ghoul",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Sacrifice a creature: Phyrexian Ghoul gets +2/+2 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "phyrexian ghoul",
+  "colorIdentity": [
+    "B"
+  ]
+}

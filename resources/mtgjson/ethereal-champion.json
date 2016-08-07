@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ethereal Champion",
+  "manaCost": "{2}{W}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Avatar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Avatar"
+  ],
+  "text": "Pay 1 life: Prevent the next 1 damage that would be dealt to Ethereal Champion this turn.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "ethereal champion",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Fascination",
+  "manaCost": "{X}{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Choose one —\n• Each player draws X cards.\n• Each player puts the top X cards of his or her library into his or her graveyard.",
+  "imageName": "fascination",
+  "colorIdentity": [
+    "U"
+  ]
+}

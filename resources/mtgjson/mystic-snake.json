@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Mystic Snake",
+  "manaCost": "{1}{G}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Creature — Snake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Snake"
+  ],
+  "text": "Flash\nWhen Mystic Snake enters the battlefield, counter target spell.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "mystic snake",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Ebony Owl Netsuke",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "At the beginning of each opponent's upkeep, if that player has seven or more cards in hand, Ebony Owl Netsuke deals 4 damage to him or her.",
+  "imageName": "ebony owl netsuke"
+}

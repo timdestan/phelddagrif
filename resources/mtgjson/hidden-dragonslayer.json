@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Hidden Dragonslayer",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "Lifelink\nMegamorph {2}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)\nWhen Hidden Dragonslayer is turned face up, destroy target creature with power 4 or greater an opponent controls.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "hidden dragonslayer",
+  "colorIdentity": [
+    "W"
+  ]
+}

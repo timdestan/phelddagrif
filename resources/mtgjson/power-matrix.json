@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Power Matrix",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}: Target creature gets +1/+1 and gains flying, first strike, and trample until end of turn.",
+  "imageName": "power matrix"
+}

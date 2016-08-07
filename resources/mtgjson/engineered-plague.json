@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Engineered Plague",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "As Engineered Plague enters the battlefield, choose a creature type.\nAll creatures of the chosen type get -1/-1.",
+  "imageName": "engineered plague",
+  "colorIdentity": [
+    "B"
+  ]
+}

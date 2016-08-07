@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Wu Light Cavalry",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Horsemanship (This creature can't be blocked except by creatures with horsemanship.)",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "wu light cavalry",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Whims of the Fates",
+  "manaCost": "{5}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Starting with you, each player separates all permanents he or she controls into three piles. Then each player chooses one of his or her piles at random and sacrifices those permanents. (Piles can be empty.)",
+  "imageName": "whims of the fates",
+  "colorIdentity": [
+    "R"
+  ]
+}

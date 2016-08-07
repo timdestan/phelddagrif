@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Vaporkin",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Flying\nVaporkin can block only creatures with flying.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "vaporkin",
+  "colorIdentity": [
+    "U"
+  ]
+}

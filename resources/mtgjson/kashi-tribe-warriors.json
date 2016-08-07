@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kashi-Tribe Warriors",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Snake Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Snake",
+    "Warrior"
+  ],
+  "text": "Whenever Kashi-Tribe Warriors deals combat damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "kashi-tribe warriors",
+  "colorIdentity": [
+    "G"
+  ]
+}

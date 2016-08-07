@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mystic Meditation",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Draw three cards. Then discard two cards unless you discard a creature card.",
+  "imageName": "mystic meditation",
+  "colorIdentity": [
+    "U"
+  ]
+}

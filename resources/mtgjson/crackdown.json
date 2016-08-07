@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Crackdown",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Nonwhite creatures with power 3 or greater don't untap during their controllers' untap steps.",
+  "imageName": "crackdown",
+  "colorIdentity": [
+    "W"
+  ]
+}

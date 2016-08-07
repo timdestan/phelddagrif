@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mana Echoes",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a creature enters the battlefield, you may add an amount of {C} to your mana pool equal to the number of creatures you control that share a creature type with it.",
+  "imageName": "mana echoes",
+  "colorIdentity": [
+    "R"
+  ]
+}

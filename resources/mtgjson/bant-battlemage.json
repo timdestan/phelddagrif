@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Bant Battlemage",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{G}, {T}: Target creature gains trample until end of turn.\n{U}, {T}: Target creature gains flying until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "bant battlemage",
+  "colorIdentity": [
+    "W",
+    "G",
+    "U"
+  ]
+}

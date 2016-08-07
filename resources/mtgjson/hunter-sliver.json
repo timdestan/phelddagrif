@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Hunter Sliver",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "All Sliver creatures have provoke. (Whenever a Sliver attacks, its controller may have target creature defending player controls untap and block it if able.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "hunter sliver",
+  "colorIdentity": [
+    "R"
+  ]
+}

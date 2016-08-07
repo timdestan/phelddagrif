@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Possibility Storm",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a player casts a spell from his or her hand, that player exiles it, then exiles cards from the top of his or her library until he or she exiles a card that shares a card type with it. That player may cast that card without paying its mana cost. Then he or she puts all cards exiled with Possibility Storm on the bottom of his or her library in a random order.",
+  "imageName": "possibility storm",
+  "colorIdentity": [
+    "R"
+  ]
+}

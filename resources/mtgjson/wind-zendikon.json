@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Wind Zendikon",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant land\nEnchanted land is a 2/2 blue Elemental creature with flying. It's still a land.\nWhen enchanted land dies, return that card to its owner's hand.",
+  "imageName": "wind zendikon",
+  "colorIdentity": [
+    "U"
+  ]
+}

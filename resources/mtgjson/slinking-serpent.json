@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Slinking Serpent",
+  "manaCost": "{2}{U}{B}",
+  "cmc": 4,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Creature — Serpent",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Serpent"
+  ],
+  "text": "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "slinking serpent",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

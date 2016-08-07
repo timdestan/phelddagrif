@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Eye to Eye",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "You and target creature's controller have a staring contest. If you win, destroy that creature.",
+  "imageName": "eye to eye",
+  "colorIdentity": [
+    "B"
+  ]
+}

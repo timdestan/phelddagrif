@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ramosian Lieutenant",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Rebel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rebel"
+  ],
+  "text": "{4}, {T}: Search your library for a Rebel permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "ramosian lieutenant",
+  "colorIdentity": [
+    "W"
+  ]
+}

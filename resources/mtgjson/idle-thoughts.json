@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Idle Thoughts",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{2}: Draw a card if you have no cards in hand.",
+  "imageName": "idle thoughts",
+  "colorIdentity": [
+    "U"
+  ]
+}

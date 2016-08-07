@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Chameleon Blur",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Prevent all damage that creatures would deal to players this turn.",
+  "imageName": "chameleon blur",
+  "colorIdentity": [
+    "G"
+  ]
+}

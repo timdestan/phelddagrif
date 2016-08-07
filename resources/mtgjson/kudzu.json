@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Kudzu",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant land\nWhen enchanted land becomes tapped, destroy it. That land's controller attaches Kudzu to a land of his or her choice.",
+  "imageName": "kudzu",
+  "colorIdentity": [
+    "G"
+  ]
+}

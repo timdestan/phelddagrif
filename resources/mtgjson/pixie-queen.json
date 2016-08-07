@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Pixie Queen",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Faerie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Faerie"
+  ],
+  "text": "Flying\n{G}{G}{G}, {T}: Target creature gains flying until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "pixie queen",
+  "colorIdentity": [
+    "G"
+  ]
+}

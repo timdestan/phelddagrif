@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Osai Vultures",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\nAt the beginning of each end step, if a creature died this turn, put a carrion counter on Osai Vultures.\nRemove two carrion counters from Osai Vultures: Osai Vultures gets +1/+1 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "osai vultures",
+  "colorIdentity": [
+    "W"
+  ]
+}

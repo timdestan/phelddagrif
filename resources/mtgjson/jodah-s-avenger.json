@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Jodah's Avenger",
+  "manaCost": "{5}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Shapeshifter",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Shapeshifter"
+  ],
+  "text": "{0}: Until end of turn, Jodah's Avenger gets -1/-1 and gains your choice of double strike, protection from red, vigilance, or shadow. (A creature with shadow can block or be blocked by only creatures with shadow.)",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "jodah's avenger",
+  "colorIdentity": [
+    "U"
+  ]
+}

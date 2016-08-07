@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Reap the Seagraf",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put a 2/2 black Zombie creature token onto the battlefield.\nFlashback {4}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "reap the seagraf",
+  "colorIdentity": [
+    "B",
+    "U"
+  ]
+}

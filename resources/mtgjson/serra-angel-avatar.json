@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Serra Angel Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "Whenever you cast a spell, you gain 2 life.",
+  "imageName": "serra angel avatar",
+  "hand": 0,
+  "life": -1
+}

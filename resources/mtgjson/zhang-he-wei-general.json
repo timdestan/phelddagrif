@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Zhang He, Wei General",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Legendary Creature — Human Soldier",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Horsemanship (This creature can't be blocked except by creatures with horsemanship.)\nWhenever Zhang He, Wei General attacks, each other creature you control gets +1/+0 until end of turn.",
+  "power": "4",
+  "toughness": "2",
+  "imageName": "zhang he, wei general",
+  "colorIdentity": [
+    "B"
+  ]
+}

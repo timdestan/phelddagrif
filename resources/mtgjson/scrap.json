@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Scrap",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target artifact.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+  "imageName": "scrap",
+  "colorIdentity": [
+    "R"
+  ]
+}

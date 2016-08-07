@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Weirded Vampire",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Horror"
+  ],
+  "text": "Madness {2}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "weirded vampire",
+  "colorIdentity": [
+    "B"
+  ]
+}

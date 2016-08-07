@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rebuke",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target attacking creature.",
+  "imageName": "rebuke",
+  "colorIdentity": [
+    "W"
+  ]
+}

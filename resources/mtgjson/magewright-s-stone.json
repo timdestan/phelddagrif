@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Magewright's Stone",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{1}, {T}: Untap target creature that has an activated ability with {T} in its cost.",
+  "imageName": "magewright's stone"
+}

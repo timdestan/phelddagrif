@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Pendrell Mists",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "All creatures have \"At the beginning of your upkeep, sacrifice this creature unless you pay {1}.\"",
+  "imageName": "pendrell mists",
+  "colorIdentity": [
+    "U"
+  ]
+}

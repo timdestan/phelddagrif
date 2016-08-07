@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Hovermyr",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact Creature — Myr",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Myr"
+  ],
+  "text": "Flying, vigilance",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "hovermyr"
+}

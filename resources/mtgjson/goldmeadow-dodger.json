@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Goldmeadow Dodger",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kithkin Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kithkin",
+    "Rogue"
+  ],
+  "text": "Goldmeadow Dodger can't be blocked by creatures with power 4 or greater.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "goldmeadow dodger",
+  "colorIdentity": [
+    "W"
+  ]
+}

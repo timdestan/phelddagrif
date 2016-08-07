@@ -1,0 +1,31 @@
+{
+  "layout": "normal",
+  "name": "Transguild Courier",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "power": "3",
+  "toughness": "3",
+  "imageName": "transguild courier",
+  "colorIdentity": [
+    "W",
+    "U",
+    "B",
+    "R",
+    "G"
+  ]
+}

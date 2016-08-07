@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Drana's Emissary",
+  "manaCost": "{1}{W}{B}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Creature — Vampire Cleric Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Cleric",
+    "Ally"
+  ],
+  "text": "Flying\nAt the beginning of your upkeep, each opponent loses 1 life and you gain 1 life.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "drana's emissary",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

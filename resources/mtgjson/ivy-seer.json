@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ivy Seer",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Wizard"
+  ],
+  "text": "{2}{G}, {T}: Reveal any number of green cards in your hand. Target creature gets +X/+X until end of turn, where X is the number of cards revealed this way.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "ivy seer",
+  "colorIdentity": [
+    "G"
+  ]
+}

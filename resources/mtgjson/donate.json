@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Donate",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target player gains control of target permanent you control.",
+  "imageName": "donate",
+  "colorIdentity": [
+    "U"
+  ]
+}

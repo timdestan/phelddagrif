@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Squirrel Farm",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{1}{G}: Choose a card in your hand. Covering the artist's name, reveal the card to target player. If that player cannot name the artist, reveal the artist's name and put a Squirrel token into play. Treat this token as a 1/1 green creature.",
+  "imageName": "squirrel farm",
+  "colorIdentity": [
+    "G"
+  ]
+}

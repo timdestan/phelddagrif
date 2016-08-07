@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Skirk Fire Marshal",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "Protection from red\nTap five untapped Goblins you control: Skirk Fire Marshal deals 10 damage to each creature and each player.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "skirk fire marshal",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Belligerent Hatchling",
+  "manaCost": "{3}{R/W}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "First strike\nBelligerent Hatchling enters the battlefield with four -1/-1 counters on it.\nWhenever you cast a red spell, remove a -1/-1 counter from Belligerent Hatchling.\nWhenever you cast a white spell, remove a -1/-1 counter from Belligerent Hatchling.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "belligerent hatchling",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

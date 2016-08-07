@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sanitarium Skeleton",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Skeleton",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Skeleton"
+  ],
+  "text": "{2}{B}: Return Sanitarium Skeleton from your graveyard to your hand.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "sanitarium skeleton",
+  "colorIdentity": [
+    "B"
+  ]
+}

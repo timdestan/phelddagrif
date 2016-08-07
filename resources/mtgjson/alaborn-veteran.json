@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Alaborn Veteran",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "{T}: Target creature gets +2/+2 until end of turn. Activate this ability only during your turn, before attackers are declared.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "alaborn veteran",
+  "colorIdentity": [
+    "W"
+  ]
+}

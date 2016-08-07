@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Equilibrium",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever you cast a creature spell, you may pay {1}. If you do, return target creature to its owner's hand.",
+  "imageName": "equilibrium",
+  "colorIdentity": [
+    "U"
+  ]
+}

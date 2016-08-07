@@ -1,0 +1,29 @@
+{
+  "layout": "double-faced",
+  "name": "Tormented Pariah",
+  "names": [
+    "Tormented Pariah",
+    "Rampaging Werewolf"
+  ],
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Warrior Werewolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior",
+    "Werewolf"
+  ],
+  "text": "At the beginning of each upkeep, if no spells were cast last turn, transform Tormented Pariah.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "tormented pariah",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Academy Elite",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Academy Elite enters the battlefield with X +1/+1 counters on it, where X is the number of instant and sorcery cards in all graveyards.\n{2}{U}, Remove a +1/+1 counter from Academy Elite: Draw a card, then discard a card.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "academy elite",
+  "colorIdentity": [
+    "U"
+  ]
+}

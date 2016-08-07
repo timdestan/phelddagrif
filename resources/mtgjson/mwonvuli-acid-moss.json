@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mwonvuli Acid-Moss",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target land. Search your library for a Forest card and put that card onto the battlefield tapped. Then shuffle your library.",
+  "imageName": "mwonvuli acid-moss",
+  "colorIdentity": [
+    "G"
+  ]
+}

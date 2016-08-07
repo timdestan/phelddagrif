@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Tolsimir Wolfblood",
+  "manaCost": "{4}{G}{W}",
+  "cmc": 6,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Legendary Creature — Elf Warrior",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Warrior"
+  ],
+  "text": "Other green creatures you control get +1/+1.\nOther white creatures you control get +1/+1.\n{T}: Put a legendary 2/2 green and white Wolf creature token named Voja onto the battlefield.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "tolsimir wolfblood",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

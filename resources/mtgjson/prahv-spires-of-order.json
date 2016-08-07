@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Prahv, Spires of Order",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{4}{W}{U}, {T}: Prevent all damage a source of your choice would deal this turn.",
+  "imageName": "prahv, spires of order",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

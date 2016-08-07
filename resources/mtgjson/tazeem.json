@@ -1,0 +1,13 @@
+{
+  "layout": "plane",
+  "name": "Tazeem",
+  "type": "Plane — Zendikar",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Zendikar"
+  ],
+  "text": "Creatures can't block.\nWhenever you roll CHAOS, draw a card for each land you control.",
+  "imageName": "tazeem"
+}

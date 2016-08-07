@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Lotleth Troll",
+  "manaCost": "{B}{G}",
+  "cmc": 2,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Creature — Zombie Troll",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Troll"
+  ],
+  "text": "Trample\nDiscard a creature card: Put a +1/+1 counter on Lotleth Troll.\n{B}: Regenerate Lotleth Troll.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "lotleth troll",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

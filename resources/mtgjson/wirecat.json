@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Wirecat",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Cat",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat"
+  ],
+  "text": "Wirecat can't attack or block if an enchantment is on the battlefield.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "wirecat"
+}

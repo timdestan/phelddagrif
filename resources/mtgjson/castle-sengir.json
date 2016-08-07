@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Castle Sengir",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{1}, {T}: Add {B} to your mana pool.\n{2}, {T}: Add {U} or {R} to your mana pool.",
+  "imageName": "castle sengir",
+  "colorIdentity": [
+    "B",
+    "U",
+    "R"
+  ]
+}

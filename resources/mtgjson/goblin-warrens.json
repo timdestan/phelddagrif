@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Goblin Warrens",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{2}{R}, Sacrifice two Goblins: Put three 1/1 red Goblin creature tokens onto the battlefield.",
+  "imageName": "goblin warrens",
+  "colorIdentity": [
+    "R"
+  ]
+}

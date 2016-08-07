@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Incite Hysteria",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Radiance — Until end of turn, target creature and each other creature that shares a color with it gain \"This creature can't block.\"",
+  "imageName": "incite hysteria",
+  "colorIdentity": [
+    "R"
+  ]
+}

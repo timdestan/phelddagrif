@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Hell Swarm",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "All creatures get -1/-0 until end of turn.",
+  "imageName": "hell swarm",
+  "colorIdentity": [
+    "B"
+  ]
+}

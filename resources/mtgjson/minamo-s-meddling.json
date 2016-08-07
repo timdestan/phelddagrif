@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Minamo's Meddling",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell. That spell's controller reveals his or her hand, then discards each card with the same name as a card spliced onto that spell.",
+  "imageName": "minamo's meddling",
+  "colorIdentity": [
+    "U"
+  ]
+}

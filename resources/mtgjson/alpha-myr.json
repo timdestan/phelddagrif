@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Alpha Myr",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact Creature — Myr",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Myr"
+  ],
+  "power": "2",
+  "toughness": "1",
+  "imageName": "alpha myr"
+}

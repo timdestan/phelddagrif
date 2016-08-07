@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Fyndhorn Druid",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Druid"
+  ],
+  "text": "When Fyndhorn Druid dies, if it was blocked this turn, you gain 4 life.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "fyndhorn druid",
+  "colorIdentity": [
+    "G"
+  ]
+}

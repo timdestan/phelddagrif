@@ -1,0 +1,13 @@
+{
+  "layout": "plane",
+  "name": "Murasa",
+  "type": "Plane — Zendikar",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Zendikar"
+  ],
+  "text": "Whenever a nontoken creature enters the battlefield, its controller may search his or her library for a basic land card, put it onto the battlefield tapped, then shuffle his or her library.\nWhenever you roll CHAOS, target land becomes a 4/4 creature that's still a land.",
+  "imageName": "murasa"
+}

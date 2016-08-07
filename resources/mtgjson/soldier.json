@@ -1,0 +1,14 @@
+{
+  "layout": "token",
+  "name": "Soldier",
+  "type": " Creature — Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Soldier"
+  ],
+  "power": "1",
+  "toughness": "1",
+  "imageName": "soldier"
+}

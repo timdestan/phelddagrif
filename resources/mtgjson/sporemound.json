@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sporemound",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Fungus",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Fungus"
+  ],
+  "text": "Whenever a land enters the battlefield under your control, put a 1/1 green Saproling creature token onto the battlefield.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "sporemound",
+  "colorIdentity": [
+    "G"
+  ]
+}

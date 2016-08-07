@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Aerie Mystics",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Bird Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird",
+    "Wizard"
+  ],
+  "text": "Flying\n{1}{G}{U}: Creatures you control gain shroud until end of turn. (They can't be the targets of spells or abilities.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "aerie mystics",
+  "colorIdentity": [
+    "W",
+    "G",
+    "U"
+  ]
+}

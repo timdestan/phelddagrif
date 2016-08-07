@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Geier Reach Sanitarium",
+  "type": "Legendary Land",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{2}, {T}: Each player draws a card, then discards a card.",
+  "imageName": "geier reach sanitarium"
+}

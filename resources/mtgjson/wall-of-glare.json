@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wall of Glare",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender (This creature can't attack.)\nWall of Glare can block any number of creatures.",
+  "power": "0",
+  "toughness": "5",
+  "imageName": "wall of glare",
+  "colorIdentity": [
+    "W"
+  ]
+}

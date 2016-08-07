@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Awakener Druid",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Druid"
+  ],
+  "text": "When Awakener Druid enters the battlefield, target Forest becomes a 4/5 green Treefolk creature for as long as Awakener Druid remains on the battlefield. It's still a land.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "awakener druid",
+  "colorIdentity": [
+    "G"
+  ]
+}

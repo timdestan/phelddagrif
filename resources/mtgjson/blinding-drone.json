@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Blinding Drone",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "type": "Creature — Eldrazi Drone",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Drone"
+  ],
+  "text": "Devoid (This card has no color.)\n{C}, {T}: Tap target creature. ({C} represents colorless mana.)",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "blinding drone",
+  "colorIdentity": [
+    "U"
+  ]
+}

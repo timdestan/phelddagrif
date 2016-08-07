@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Greater Auramancy",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Other enchantments you control have shroud. (A permanent with shroud can't be the target of spells or abilities.)\nEnchanted creatures you control have shroud.",
+  "imageName": "greater auramancy",
+  "colorIdentity": [
+    "W"
+  ]
+}

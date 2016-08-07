@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Canopy Dragon",
+  "manaCost": "{4}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Trample\n{1}{G}: Canopy Dragon gains flying and loses trample until end of turn.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "canopy dragon",
+  "colorIdentity": [
+    "G"
+  ]
+}

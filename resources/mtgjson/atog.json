@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Atog",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Atog",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Atog"
+  ],
+  "text": "Sacrifice an artifact: Atog gets +2/+2 until end of turn.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "atog",
+  "colorIdentity": [
+    "R"
+  ]
+}

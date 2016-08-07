@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Overload",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Kicker {2} (You may pay an additional {2} as you cast this spell.)\nDestroy target artifact if its converted mana cost is 2 or less. If Overload was kicked, destroy that artifact if its converted mana cost is 5 or less instead.",
+  "imageName": "overload",
+  "colorIdentity": [
+    "R"
+  ]
+}

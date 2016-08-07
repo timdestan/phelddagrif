@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Brazen Wolves",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Wolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wolf"
+  ],
+  "text": "Whenever Brazen Wolves attacks, it gets +2/+0 until end of turn.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "brazen wolves",
+  "colorIdentity": [
+    "R"
+  ]
+}

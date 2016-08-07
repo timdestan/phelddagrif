@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Grinding Station",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}, Sacrifice an artifact: Target player puts the top three cards of his or her library into his or her graveyard.\nWhenever an artifact enters the battlefield, you may untap Grinding Station.",
+  "imageName": "grinding station"
+}

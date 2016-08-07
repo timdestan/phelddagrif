@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Cunning Breezedancer",
+  "manaCost": "{4}{W}{U}",
+  "cmc": 6,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying\nWhenever you cast a noncreature spell, Cunning Breezedancer gets +2/+2 until end of turn.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "cunning breezedancer",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

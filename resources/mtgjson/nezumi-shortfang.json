@@ -1,0 +1,28 @@
+{
+  "layout": "flip",
+  "name": "Nezumi Shortfang",
+  "names": [
+    "Nezumi Shortfang",
+    "Stabwhisker the Odious"
+  ],
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Rat Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rat",
+    "Rogue"
+  ],
+  "text": "{1}{B}, {T}: Target opponent discards a card. Then if that player has no cards in hand, flip Nezumi Shortfang.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "nezumi shortfang",
+  "colorIdentity": [
+    "B"
+  ]
+}

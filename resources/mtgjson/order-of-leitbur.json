@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Order of Leitbur",
+  "manaCost": "{W}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric",
+    "Knight"
+  ],
+  "text": "Protection from black\n{W}: Order of Leitbur gains first strike until end of turn.\n{W}{W}: Order of Leitbur gets +1/+0 until end of turn.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "order of leitbur",
+  "colorIdentity": [
+    "W"
+  ]
+}

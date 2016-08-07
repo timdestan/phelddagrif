@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Light of Day",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Black creatures can't attack or block.",
+  "imageName": "light of day",
+  "colorIdentity": [
+    "W"
+  ]
+}

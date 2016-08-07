@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Destructive Urge",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nWhenever enchanted creature deals combat damage to a player, that player sacrifices a land.",
+  "imageName": "destructive urge",
+  "colorIdentity": [
+    "R"
+  ]
+}

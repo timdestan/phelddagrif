@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Vexing Shusher",
+  "manaCost": "{R/G}{R/G}",
+  "cmc": 2,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Goblin Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Shaman"
+  ],
+  "text": "Vexing Shusher can't be countered.\n{R/G}: Target spell can't be countered by spells or abilities.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "vexing shusher",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

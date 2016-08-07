@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Gravebane Zombie",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "If Gravebane Zombie would die, put Gravebane Zombie on top of its owner's library instead.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "gravebane zombie",
+  "colorIdentity": [
+    "B"
+  ]
+}

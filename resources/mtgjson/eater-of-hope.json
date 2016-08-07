@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Eater of Hope",
+  "manaCost": "{5}{B}{B}",
+  "cmc": 7,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Demon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon"
+  ],
+  "text": "Flying\n{B}, Sacrifice another creature: Regenerate Eater of Hope.\n{2}{B}, Sacrifice two other creatures: Destroy target creature.",
+  "power": "6",
+  "toughness": "4",
+  "imageName": "eater of hope",
+  "colorIdentity": [
+    "B"
+  ]
+}

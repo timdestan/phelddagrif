@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Emerald Dragonfly",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "Flying\n{G}{G}: Emerald Dragonfly gains first strike until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "emerald dragonfly",
+  "colorIdentity": [
+    "G"
+  ]
+}

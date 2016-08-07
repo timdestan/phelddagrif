@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kuldotha Ringleader",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Giant Berserker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant",
+    "Berserker"
+  ],
+  "text": "Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)\nKuldotha Ringleader attacks each turn if able.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "kuldotha ringleader",
+  "colorIdentity": [
+    "R"
+  ]
+}

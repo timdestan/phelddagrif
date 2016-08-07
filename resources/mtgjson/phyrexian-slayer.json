@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Phyrexian Slayer",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Minion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Minion"
+  ],
+  "text": "Flying\nWhenever Phyrexian Slayer becomes blocked by a white creature, destroy that creature. It can't be regenerated.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "phyrexian slayer",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Shambling Attendants",
+  "manaCost": "{7}{B}",
+  "cmc": 8,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+  "power": "3",
+  "toughness": "5",
+  "imageName": "shambling attendants",
+  "colorIdentity": [
+    "B"
+  ]
+}

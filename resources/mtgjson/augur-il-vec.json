@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Augur il-Vec",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "Shadow (This creature can block or be blocked by only creatures with shadow.)\nSacrifice Augur il-Vec: You gain 4 life. Activate this ability only during your upkeep.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "augur il-vec",
+  "colorIdentity": [
+    "W"
+  ]
+}

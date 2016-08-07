@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Nyxborn Eidolon",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment Creature — Spirit",
+  "types": [
+    "Enchantment",
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Bestow {4}{B} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)\nEnchanted creature gets +2/+1.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "nyxborn eidolon",
+  "colorIdentity": [
+    "B"
+  ]
+}

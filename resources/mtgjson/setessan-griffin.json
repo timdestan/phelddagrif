@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Setessan Griffin",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Griffin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Griffin"
+  ],
+  "text": "Flying\n{2}{G}{G}: Setessan Griffin gets +2/+2 until end of turn. Activate this ability only once each turn.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "setessan griffin",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

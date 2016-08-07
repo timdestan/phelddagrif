@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Growing Ranks",
+  "manaCost": "{2}{G/W}{G/W}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, populate. (Put a token onto the battlefield that's a copy of a creature token you control.)",
+  "imageName": "growing ranks",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

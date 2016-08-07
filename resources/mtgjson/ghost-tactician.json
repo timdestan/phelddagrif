@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ghost Tactician",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Spirit Spellshaper",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit",
+    "Spellshaper"
+  ],
+  "text": "{W}, {T}, Discard a card: Creatures you control get +1/+0 until end of turn.",
+  "power": "2",
+  "toughness": "5",
+  "imageName": "ghost tactician",
+  "colorIdentity": [
+    "W"
+  ]
+}

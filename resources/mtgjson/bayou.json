@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Bayou",
+  "type": "Land — Swamp Forest",
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Swamp",
+    "Forest"
+  ],
+  "text": "({T}: Add {B} or {G} to your mana pool.)",
+  "imageName": "bayou",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

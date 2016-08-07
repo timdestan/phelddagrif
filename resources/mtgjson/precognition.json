@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Precognition",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, you may look at the top card of target opponent's library. If you do, you may put that card on the bottom of that player's library.",
+  "imageName": "precognition",
+  "colorIdentity": [
+    "U"
+  ]
+}

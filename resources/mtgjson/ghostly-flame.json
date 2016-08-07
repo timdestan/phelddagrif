@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Ghostly Flame",
+  "manaCost": "{B}{R}",
+  "cmc": 2,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Black and/or red permanents and spells are colorless sources of damage.",
+  "imageName": "ghostly flame",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

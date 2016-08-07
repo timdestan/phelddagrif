@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Brood Sliver",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "Whenever a Sliver deals combat damage to a player, its controller may put a 1/1 colorless Sliver creature token onto the battlefield.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "brood sliver",
+  "colorIdentity": [
+    "G"
+  ]
+}

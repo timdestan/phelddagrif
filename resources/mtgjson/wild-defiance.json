@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Wild Defiance",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a creature you control becomes the target of an instant or sorcery spell, that creature gets +3/+3 until end of turn.",
+  "imageName": "wild defiance",
+  "colorIdentity": [
+    "G"
+  ]
+}

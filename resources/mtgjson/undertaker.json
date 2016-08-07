@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Undertaker",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Spellshaper",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Spellshaper"
+  ],
+  "text": "{B}, {T}, Discard a card: Return target creature card from your graveyard to your hand.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "undertaker",
+  "colorIdentity": [
+    "B"
+  ]
+}

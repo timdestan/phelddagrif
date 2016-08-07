@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Stoneforge Acolyte",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kor Artificer Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kor",
+    "Artificer",
+    "Ally"
+  ],
+  "text": "Cohort — {T}, Tap an untapped Ally you control: Look at the top four cards of your library. You may reveal an Equipment card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "stoneforge acolyte",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Aerial Caravan",
+  "manaCost": "{4}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Flying\n{1}{U}{U}: Exile the top card of your library. Until end of turn, you may play that card. (Reveal the card as you exile it.)",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "aerial caravan",
+  "colorIdentity": [
+    "U"
+  ]
+}

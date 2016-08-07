@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Nature's Ruin",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy all green creatures.",
+  "imageName": "nature's ruin",
+  "colorIdentity": [
+    "B"
+  ]
+}

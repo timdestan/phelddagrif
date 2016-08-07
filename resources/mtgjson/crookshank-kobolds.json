@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Crookshank Kobolds",
+  "manaCost": "{0}",
+  "cmc": 0,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Kobold",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kobold"
+  ],
+  "power": "0",
+  "toughness": "1",
+  "imageName": "crookshank kobolds",
+  "colorIdentity": [
+    "R"
+  ]
+}

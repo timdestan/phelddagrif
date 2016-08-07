@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Akoum Flameseeker",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Shaman Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Shaman",
+    "Ally"
+  ],
+  "text": "Cohort — {T}, Tap an untapped Ally you control: Discard a card. If you do, draw a card.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "akoum flameseeker",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ranger of Eos",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "When Ranger of Eos enters the battlefield, you may search your library for up to two creature cards with converted mana cost 1 or less, reveal them, and put them into your hand. If you do, shuffle your library.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "ranger of eos",
+  "colorIdentity": [
+    "W"
+  ]
+}

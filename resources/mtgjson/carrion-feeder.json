@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Carrion Feeder",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Carrion Feeder can't block.\nSacrifice a creature: Put a +1/+1 counter on Carrion Feeder.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "carrion feeder",
+  "colorIdentity": [
+    "B"
+  ]
+}

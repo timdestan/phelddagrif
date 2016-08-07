@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wall of Diffusion",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender (This creature can't attack.)\nWall of Diffusion can block creatures with shadow as though Wall of Diffusion had shadow.",
+  "power": "0",
+  "toughness": "5",
+  "imageName": "wall of diffusion",
+  "colorIdentity": [
+    "R"
+  ]
+}

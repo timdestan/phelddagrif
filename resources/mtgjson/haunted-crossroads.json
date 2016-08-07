@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Haunted Crossroads",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{B}: Put target creature card from your graveyard on top of your library.",
+  "imageName": "haunted crossroads",
+  "colorIdentity": [
+    "B"
+  ]
+}

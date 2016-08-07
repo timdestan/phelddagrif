@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Singing Tree",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Plant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Plant"
+  ],
+  "text": "{T}: Target attacking creature has base power 0 until end of turn.",
+  "power": "0",
+  "toughness": "3",
+  "imageName": "singing tree",
+  "colorIdentity": [
+    "G"
+  ]
+}

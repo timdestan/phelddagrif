@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Iron-Barb Hellion",
+  "manaCost": "{5}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Hellion Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hellion",
+    "Beast"
+  ],
+  "text": "Haste\nIron-Barb Hellion can't block.",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "iron-barb hellion",
+  "colorIdentity": [
+    "R"
+  ]
+}

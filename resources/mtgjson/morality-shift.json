@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Morality Shift",
+  "manaCost": "{5}{B}{B}",
+  "cmc": 7,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Exchange your graveyard and library. Then shuffle your library.",
+  "imageName": "morality shift",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Knight-Captain of Eos",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "When Knight-Captain of Eos enters the battlefield, put two 1/1 white Soldier creature tokens onto the battlefield.\n{W}, Sacrifice a Soldier: Prevent all combat damage that would be dealt this turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "knight-captain of eos",
+  "colorIdentity": [
+    "W"
+  ]
+}

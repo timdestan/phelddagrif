@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Vent Sentinel",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Defender\n{1}{R}, {T}: Vent Sentinel deals damage to target player equal to the number of creatures with defender you control.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "vent sentinel",
+  "colorIdentity": [
+    "R"
+  ]
+}

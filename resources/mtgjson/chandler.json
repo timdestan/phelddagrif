@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Chandler",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Creature — Human Rogue",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "{R}{R}{R}, {T}: Destroy target artifact creature.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "chandler",
+  "colorIdentity": [
+    "R"
+  ]
+}

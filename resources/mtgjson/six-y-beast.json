@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Six-y Beast",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "As Six-y Beast comes into play, you secretly put six or fewer +1/+1 counters on it, then an opponent guesses the number of counters. If that player guesses right, sacrifice Six-y Beast.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "six-y beast",
+  "colorIdentity": [
+    "R"
+  ]
+}

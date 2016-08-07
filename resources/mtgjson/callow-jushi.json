@@ -1,0 +1,28 @@
+{
+  "layout": "flip",
+  "name": "Callow Jushi",
+  "names": [
+    "Callow Jushi",
+    "Jaraku the Interloper"
+  ],
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Callow Jushi.\nAt the beginning of the end step, if there are two or more ki counters on Callow Jushi, you may flip it.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "callow jushi",
+  "colorIdentity": [
+    "U"
+  ]
+}

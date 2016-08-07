@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dredge",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Sacrifice a creature or land.\nDraw a card.",
+  "imageName": "dredge",
+  "colorIdentity": [
+    "B"
+  ]
+}

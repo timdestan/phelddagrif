@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Rupture Spire",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Rupture Spire enters the battlefield tapped.\nWhen Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.\n{T}: Add one mana of any color to your mana pool.",
+  "imageName": "rupture spire"
+}

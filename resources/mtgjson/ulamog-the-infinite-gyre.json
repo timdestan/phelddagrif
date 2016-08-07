@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Ulamog, the Infinite Gyre",
+  "manaCost": "{11}",
+  "cmc": 11,
+  "type": "Legendary Creature — Eldrazi",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi"
+  ],
+  "text": "When you cast Ulamog, the Infinite Gyre, destroy target permanent.\nIndestructible\nAnnihilator 4 (Whenever this creature attacks, defending player sacrifices four permanents.)\nWhen Ulamog is put into a graveyard from anywhere, its owner shuffles his or her graveyard into his or her library.",
+  "power": "10",
+  "toughness": "10",
+  "imageName": "ulamog, the infinite gyre"
+}

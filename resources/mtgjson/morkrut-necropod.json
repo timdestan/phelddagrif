@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Morkrut Necropod",
+  "manaCost": "{5}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Slug Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Slug",
+    "Horror"
+  ],
+  "text": "Menace (This creature can't be blocked except by two or more creatures.)\nWhenever Morkrut Necropod attacks or blocks, sacrifice another creature or land.",
+  "power": "7",
+  "toughness": "7",
+  "imageName": "morkrut necropod",
+  "colorIdentity": [
+    "B"
+  ]
+}

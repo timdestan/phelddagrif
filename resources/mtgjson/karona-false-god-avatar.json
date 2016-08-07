@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Karona, False God Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "At the beginning of your upkeep, exchange control of a permanent you control chosen at random and a permanent target opponent controls chosen at random.",
+  "imageName": "karona, false god avatar",
+  "hand": -1,
+  "life": 8
+}

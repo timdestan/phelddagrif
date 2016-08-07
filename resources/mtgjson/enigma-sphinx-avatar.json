@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Enigma Sphinx Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "Whenever you cast a colored artifact spell for the first time in a turn, search your library for a colored artifact card chosen at random whose converted mana cost is less than that spell's converted mana cost. You may play that card without paying its mana cost. If you don't, put that card on the bottom of your library.",
+  "imageName": "enigma sphinx avatar",
+  "hand": 0,
+  "life": 5
+}

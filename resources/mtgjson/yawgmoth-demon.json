@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Yawgmoth Demon",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Demon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon"
+  ],
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nFirst strike (This creature deals combat damage before creatures without first strike.)\nAt the beginning of your upkeep, you may sacrifice an artifact. If you don't, tap Yawgmoth Demon and it deals 2 damage to you.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "yawgmoth demon",
+  "colorIdentity": [
+    "B"
+  ]
+}

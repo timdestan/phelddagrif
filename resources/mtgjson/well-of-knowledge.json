@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Well of Knowledge",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}: Draw a card. Any player may activate this ability but only during his or her draw step.",
+  "imageName": "well of knowledge"
+}

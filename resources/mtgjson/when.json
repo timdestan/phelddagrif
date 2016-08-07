@@ -1,0 +1,27 @@
+{
+  "layout": "split",
+  "name": "When",
+  "names": [
+    "Who",
+    "What",
+    "When",
+    "Where",
+    "Why"
+  ],
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target creature spell.",
+  "imageName": "when",
+  "colorIdentity": [
+    "U",
+    "R",
+    "W"
+  ]
+}

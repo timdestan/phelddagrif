@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Grim Return",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose target creature card in a graveyard that was put there from the battlefield this turn. Put that card onto the battlefield under your control.",
+  "imageName": "grim return",
+  "colorIdentity": [
+    "B"
+  ]
+}

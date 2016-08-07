@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Patrician's Scorn",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "If you've cast another white spell this turn, you may cast Patrician's Scorn without paying its mana cost.\nDestroy all enchantments.",
+  "imageName": "patrician's scorn",
+  "colorIdentity": [
+    "W"
+  ]
+}

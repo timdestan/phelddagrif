@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Abyssal Nightstalker",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Nightstalker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Nightstalker"
+  ],
+  "text": "Whenever Abyssal Nightstalker attacks and isn't blocked, defending player discards a card.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "abyssal nightstalker",
+  "colorIdentity": [
+    "B"
+  ]
+}

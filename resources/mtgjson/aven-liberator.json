@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Aven Liberator",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Bird Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird",
+    "Soldier"
+  ],
+  "text": "Flying\nMorph {3}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Aven Liberator is turned face up, target creature you control gains protection from the color of your choice until end of turn.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "aven liberator",
+  "colorIdentity": [
+    "W"
+  ]
+}

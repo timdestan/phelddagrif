@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Scarecrone",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Scarecrow",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Scarecrow"
+  ],
+  "text": "{1}, Sacrifice a Scarecrow: Draw a card.\n{4}, {T}: Return target artifact creature card from your graveyard to the battlefield.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "scarecrone"
+}

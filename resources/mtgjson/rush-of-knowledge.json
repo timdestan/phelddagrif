@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rush of Knowledge",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Draw cards equal to the highest converted mana cost among permanents you control.",
+  "imageName": "rush of knowledge",
+  "colorIdentity": [
+    "U"
+  ]
+}

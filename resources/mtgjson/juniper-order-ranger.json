@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Juniper Order Ranger",
+  "manaCost": "{3}{G}{W}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "Whenever another creature enters the battlefield under your control, put a +1/+1 counter on that creature and a +1/+1 counter on Juniper Order Ranger.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "juniper order ranger",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

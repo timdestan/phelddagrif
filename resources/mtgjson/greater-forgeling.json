@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Greater Forgeling",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "{1}{R}: Greater Forgeling gets +3/-3 until end of turn.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "greater forgeling",
+  "colorIdentity": [
+    "R"
+  ]
+}

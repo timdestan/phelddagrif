@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Enchanted Being",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human"
+  ],
+  "text": "Prevent all combat damage that would be dealt to Enchanted Being by enchanted creatures.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "enchanted being",
+  "colorIdentity": [
+    "W"
+  ]
+}

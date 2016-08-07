@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Return to the Earth",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target artifact, enchantment, or creature with flying.",
+  "imageName": "return to the earth",
+  "colorIdentity": [
+    "G"
+  ]
+}

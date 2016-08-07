@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Stalking Drone",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "type": "Creature — Eldrazi Drone",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Drone"
+  ],
+  "text": "Devoid (This card has no color.)\n{C}: Stalking Drone gets +1/+2 until end of turn. Activate this ability only once each turn. ({C} represents colorless mana.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "stalking drone",
+  "colorIdentity": [
+    "G"
+  ]
+}

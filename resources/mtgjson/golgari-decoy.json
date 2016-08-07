@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Golgari Decoy",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Rogue"
+  ],
+  "text": "All creatures able to block Golgari Decoy do so.\nScavenge {3}{G}{G} ({3}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "golgari decoy",
+  "colorIdentity": [
+    "G"
+  ]
+}

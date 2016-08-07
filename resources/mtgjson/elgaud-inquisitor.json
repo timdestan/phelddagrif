@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Elgaud Inquisitor",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "Lifelink (Damage dealt by this creature also causes you to gain that much life.)\nWhen Elgaud Inquisitor dies, put a 1/1 white Spirit creature token with flying onto the battlefield.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "elgaud inquisitor",
+  "colorIdentity": [
+    "W"
+  ]
+}

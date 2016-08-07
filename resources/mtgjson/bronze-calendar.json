@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Bronze Calendar",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Your spells cost {1} less to play as long as you speak in a voice other than your normal voice.\nIf you speak in your normal voice, sacrifice Bronze Calendar.",
+  "imageName": "bronze calendar"
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Restrain",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Prevent all combat damage that would be dealt by target attacking creature this turn.\nDraw a card.",
+  "imageName": "restrain",
+  "colorIdentity": [
+    "W"
+  ]
+}

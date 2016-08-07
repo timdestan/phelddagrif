@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Soultether Golem",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "Vanishing 1 (This creature enters the battlefield with a time counter on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)\nWhenever another creature enters the battlefield under your control, put a time counter on Soultether Golem.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "soultether golem"
+}

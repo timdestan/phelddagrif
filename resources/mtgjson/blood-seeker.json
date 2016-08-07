@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Blood Seeker",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Shaman"
+  ],
+  "text": "Whenever a creature enters the battlefield under an opponent's control, you may have that player lose 1 life.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "blood seeker",
+  "colorIdentity": [
+    "B"
+  ]
+}

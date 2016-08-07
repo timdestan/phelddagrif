@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Grixis Charm",
+  "manaCost": "{U}{B}{R}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Black",
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose one —\n• Return target permanent to its owner's hand.\n• Target creature gets -4/-4 until end of turn.\n• Creatures you control get +2/+0 until end of turn.",
+  "imageName": "grixis charm",
+  "colorIdentity": [
+    "U",
+    "B",
+    "R"
+  ]
+}

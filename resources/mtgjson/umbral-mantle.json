@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Umbral Mantle",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature has \"{3}, {Q}: This creature gets +2/+2 until end of turn.\" ({Q} is the untap symbol.)\nEquip {0}",
+  "imageName": "umbral mantle"
+}

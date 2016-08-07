@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Spin Engine",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "text": "{R}: Target creature can't block Spin Engine this turn.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "spin engine",
+  "colorIdentity": [
+    "R"
+  ]
+}

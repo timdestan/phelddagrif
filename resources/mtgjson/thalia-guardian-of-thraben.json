@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Thalia, Guardian of Thraben",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Creature — Human Soldier",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "First strike\nNoncreature spells cost {1} more to cast.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "thalia, guardian of thraben",
+  "colorIdentity": [
+    "W"
+  ]
+}

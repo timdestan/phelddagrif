@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Phantasmagorian",
+  "manaCost": "{5}{B}{B}",
+  "cmc": 7,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "When you cast Phantasmagorian, any player may discard three cards. If a player does, counter Phantasmagorian.\nDiscard three cards: Return Phantasmagorian from your graveyard to your hand.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "phantasmagorian",
+  "colorIdentity": [
+    "B"
+  ]
+}

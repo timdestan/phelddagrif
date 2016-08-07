@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Shinen of Stars' Light",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "First strike\nChannel — {1}{W}, Discard Shinen of Stars' Light: Target creature gains first strike until end of turn.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "shinen of stars' light",
+  "colorIdentity": [
+    "W"
+  ]
+}

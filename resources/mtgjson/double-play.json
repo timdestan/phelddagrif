@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Double Play",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Choose another player. Search your library for a basic land and put that land into play. At the beginning of the next game with that player, search your library for an additional basic land and put that land into play. In both cases, shuffle your library afterwards.",
+  "imageName": "double play",
+  "colorIdentity": [
+    "G"
+  ]
+}

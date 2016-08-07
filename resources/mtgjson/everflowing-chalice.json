@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Everflowing Chalice",
+  "manaCost": "{0}",
+  "cmc": 0,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Multikicker {2} (You may pay an additional {2} any number of times as you cast this spell.)\nEverflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked.\n{T}: Add {C} to your mana pool for each charge counter on Everflowing Chalice.",
+  "imageName": "everflowing chalice"
+}

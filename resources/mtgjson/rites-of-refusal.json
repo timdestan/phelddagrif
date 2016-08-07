@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rites of Refusal",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Discard any number of cards. Counter target spell unless its controller pays {3} for each card discarded this way.",
+  "imageName": "rites of refusal",
+  "colorIdentity": [
+    "U"
+  ]
+}

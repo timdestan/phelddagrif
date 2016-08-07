@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Tyrannize",
+  "manaCost": "{3}{B/R}{B/R}",
+  "cmc": 5,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target player discards his or her hand unless he or she pays 7 life.",
+  "imageName": "tyrannize",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

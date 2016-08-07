@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Maro",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Maro's power and toughness are each equal to the number of cards in your hand.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "maro",
+  "colorIdentity": [
+    "G"
+  ]
+}

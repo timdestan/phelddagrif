@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ferocious Charge",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gets +4/+4 until end of turn. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+  "imageName": "ferocious charge",
+  "colorIdentity": [
+    "G"
+  ]
+}

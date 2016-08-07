@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Walking Dead",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "{B}: Regenerate Walking Dead.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "walking dead",
+  "colorIdentity": [
+    "B"
+  ]
+}

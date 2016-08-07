@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Veteran Brawlers",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Veteran Brawlers can't attack if defending player controls an untapped land.\nVeteran Brawlers can't block if you control an untapped land.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "veteran brawlers",
+  "colorIdentity": [
+    "R"
+  ]
+}

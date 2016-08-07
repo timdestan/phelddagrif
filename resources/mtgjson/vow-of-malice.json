@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Vow of Malice",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets +2/+2, has intimidate, and can't attack you or a planeswalker you control. (A creature with intimidate can't be blocked except by artifact creatures and/or creatures that share a color with it.)",
+  "imageName": "vow of malice",
+  "colorIdentity": [
+    "B"
+  ]
+}

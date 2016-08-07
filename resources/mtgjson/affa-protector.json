@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Affa Protector",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier",
+    "Ally"
+  ],
+  "text": "Vigilance",
+  "power": "1",
+  "toughness": "4",
+  "imageName": "affa protector",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "layout": "flip",
+  "name": "Initiate of Blood",
+  "names": [
+    "Initiate of Blood",
+    "Goka the Unjust"
+  ],
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Ogre Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ogre",
+    "Shaman"
+  ],
+  "text": "{T}: Initiate of Blood deals 1 damage to target creature that was dealt damage this turn. When that creature dies this turn, flip Initiate of Blood.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "initiate of blood",
+  "colorIdentity": [
+    "R"
+  ]
+}

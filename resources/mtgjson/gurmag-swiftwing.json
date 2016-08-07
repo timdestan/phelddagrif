@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Gurmag Swiftwing",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Bat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bat"
+  ],
+  "text": "Flying, first strike, haste",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "gurmag swiftwing",
+  "colorIdentity": [
+    "B"
+  ]
+}

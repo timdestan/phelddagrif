@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Boros Fury-Shield",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Prevent all combat damage that would be dealt by target attacking or blocking creature this turn. If {R} was spent to cast Boros Fury-Shield, it deals damage to that creature's controller equal to the creature's power.",
+  "imageName": "boros fury-shield",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

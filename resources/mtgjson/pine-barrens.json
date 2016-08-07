@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Pine Barrens",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Pine Barrens enters the battlefield tapped.\n{T}: Add {C} to your mana pool.\n{T}: Add {B} or {G} to your mana pool. Pine Barrens deals 1 damage to you.",
+  "imageName": "pine barrens",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

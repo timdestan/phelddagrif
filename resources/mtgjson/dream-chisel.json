@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Dream Chisel",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Face-down creature spells you cast cost {1} less to cast.",
+  "imageName": "dream chisel"
+}

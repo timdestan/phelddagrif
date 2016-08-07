@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Will-o'-the-Wisp",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\n{B}: Regenerate Will-o'-the-Wisp. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)",
+  "power": "0",
+  "toughness": "1",
+  "imageName": "will-o'-the-wisp",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Golden Hind",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elk"
+  ],
+  "text": "{T}: Add {G} to your mana pool.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "golden hind",
+  "colorIdentity": [
+    "G"
+  ]
+}

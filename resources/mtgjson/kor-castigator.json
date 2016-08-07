@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Kor Castigator",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kor Wizard Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kor",
+    "Wizard",
+    "Ally"
+  ],
+  "text": "Kor Castigator can't be blocked by Eldrazi Scions.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "kor castigator",
+  "colorIdentity": [
+    "W"
+  ]
+}

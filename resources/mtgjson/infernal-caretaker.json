@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Infernal Caretaker",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "Morph {3}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Infernal Caretaker is turned face up, return all Zombie cards from all graveyards to their owners' hands.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "infernal caretaker",
+  "colorIdentity": [
+    "B"
+  ]
+}

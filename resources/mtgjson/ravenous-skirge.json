@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ravenous Skirge",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Imp",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Imp"
+  ],
+  "text": "Flying\nWhenever Ravenous Skirge attacks, it gets +2/+0 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "ravenous skirge",
+  "colorIdentity": [
+    "B"
+  ]
+}

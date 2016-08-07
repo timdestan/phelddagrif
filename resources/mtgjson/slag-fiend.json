@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Slag Fiend",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Construct",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "text": "Slag Fiend's power and toughness are each equal to the number of artifact cards in all graveyards.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "slag fiend",
+  "colorIdentity": [
+    "R"
+  ]
+}

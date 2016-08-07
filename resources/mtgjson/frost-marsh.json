@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Frost Marsh",
+  "type": "Snow Land",
+  "supertypes": [
+    "Snow"
+  ],
+  "types": [
+    "Land"
+  ],
+  "text": "Frost Marsh enters the battlefield tapped.\n{T}: Add {U} or {B} to your mana pool.",
+  "imageName": "frost marsh",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

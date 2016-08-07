@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Rotcrown Ghoul",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "When Rotcrown Ghoul dies, target player puts the top five cards of his or her library into his or her graveyard.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "rotcrown ghoul",
+  "colorIdentity": [
+    "U"
+  ]
+}

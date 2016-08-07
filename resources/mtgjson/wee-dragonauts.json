@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Wee Dragonauts",
+  "manaCost": "{1}{U}{R}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Creature — Faerie Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Faerie",
+    "Wizard"
+  ],
+  "text": "Flying\nWhenever you cast an instant or sorcery spell, Wee Dragonauts gets +2/+0 until end of turn.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "wee dragonauts",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Pyre Charger",
+  "manaCost": "{R}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Warrior"
+  ],
+  "text": "Haste\n{R}: Pyre Charger gets +1/+0 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "pyre charger",
+  "colorIdentity": [
+    "R"
+  ]
+}

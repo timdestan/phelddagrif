@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Despoiler of Souls",
+  "manaCost": "{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "Despoiler of Souls can't block.\n{B}{B}, Exile two other creature cards from your graveyard: Return Despoiler of Souls from your graveyard to the battlefield.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "despoiler of souls",
+  "colorIdentity": [
+    "B"
+  ]
+}

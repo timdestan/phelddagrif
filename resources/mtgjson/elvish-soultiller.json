@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Elvish Soultiller",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Mutant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Mutant"
+  ],
+  "text": "When Elvish Soultiller dies, choose a creature type. Shuffle all creature cards of that type from your graveyard into your library.",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "elvish soultiller",
+  "colorIdentity": [
+    "G"
+  ]
+}

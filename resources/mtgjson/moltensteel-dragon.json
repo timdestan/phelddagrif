@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Moltensteel Dragon",
+  "manaCost": "{4}{R/P}{R/P}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Artifact Creature — Dragon",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "({R/P} can be paid with either {R} or 2 life.)\nFlying\n{R/P}: Moltensteel Dragon gets +1/+0 until end of turn.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "moltensteel dragon",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ambuscade Shaman",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Orc Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Orc",
+    "Shaman"
+  ],
+  "text": "Whenever Ambuscade Shaman or another creature enters the battlefield under your control, that creature gets +2/+2 until end of turn.\nDash {3}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "ambuscade shaman",
+  "colorIdentity": [
+    "B"
+  ]
+}

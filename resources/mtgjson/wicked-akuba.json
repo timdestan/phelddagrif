@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wicked Akuba",
+  "manaCost": "{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "{B}: Target player dealt damage by Wicked Akuba this turn loses 1 life.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "wicked akuba",
+  "colorIdentity": [
+    "B"
+  ]
+}

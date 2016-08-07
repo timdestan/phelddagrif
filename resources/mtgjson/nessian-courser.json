@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Nessian Courser",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Centaur Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Centaur",
+    "Warrior"
+  ],
+  "power": "3",
+  "toughness": "3",
+  "imageName": "nessian courser",
+  "colorIdentity": [
+    "G"
+  ]
+}

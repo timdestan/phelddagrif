@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Western Paladin",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Knight"
+  ],
+  "text": "{B}{B}, {T}: Destroy target white creature.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "western paladin",
+  "colorIdentity": [
+    "B"
+  ]
+}

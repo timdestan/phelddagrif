@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Kobold Overlord",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Kobold",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kobold"
+  ],
+  "text": "First strike\nOther Kobold creatures you control have first strike.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "kobold overlord",
+  "colorIdentity": [
+    "R"
+  ]
+}

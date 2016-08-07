@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Seascape Aerialist",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Wizard Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Wizard",
+    "Ally"
+  ],
+  "text": "Whenever Seascape Aerialist or another Ally enters the battlefield under your control, you may have Ally creatures you control gain flying until end of turn.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "seascape aerialist",
+  "colorIdentity": [
+    "U"
+  ]
+}

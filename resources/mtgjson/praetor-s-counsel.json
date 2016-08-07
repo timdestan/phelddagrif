@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Praetor's Counsel",
+  "manaCost": "{5}{G}{G}{G}",
+  "cmc": 8,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Return all cards from your graveyard to your hand. Exile Praetor's Counsel. You have no maximum hand size for the rest of the game.",
+  "imageName": "praetor's counsel",
+  "colorIdentity": [
+    "G"
+  ]
+}

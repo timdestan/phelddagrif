@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Thought Reflection",
+  "manaCost": "{4}{U}{U}{U}",
+  "cmc": 7,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "If you would draw a card, draw two cards instead.",
+  "imageName": "thought reflection",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Little Girl",
+  "manaCost": "{hw}",
+  "cmc": 0.5,
+  "type": "Creature — Human Child",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Child"
+  ],
+  "power": ".5",
+  "toughness": ".5",
+  "imageName": "little girl"
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Wood Elves",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Scout",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Scout"
+  ],
+  "text": "When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "wood elves",
+  "colorIdentity": [
+    "G"
+  ]
+}

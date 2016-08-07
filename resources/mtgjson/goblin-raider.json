@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Goblin Raider",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Warrior"
+  ],
+  "text": "Goblin Raider can't block.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "goblin raider",
+  "starter": true,
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Reclaim",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Put target card from your graveyard on top of your library.",
+  "imageName": "reclaim",
+  "colorIdentity": [
+    "G"
+  ]
+}

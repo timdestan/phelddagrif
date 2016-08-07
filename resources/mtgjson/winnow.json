@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Winnow",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target nonland permanent if another permanent with the same name is on the battlefield.\nDraw a card.",
+  "imageName": "winnow",
+  "colorIdentity": [
+    "W"
+  ]
+}

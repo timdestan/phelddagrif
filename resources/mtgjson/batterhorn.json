@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Batterhorn",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "When Batterhorn enters the battlefield, you may destroy target artifact.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "batterhorn",
+  "colorIdentity": [
+    "R"
+  ]
+}

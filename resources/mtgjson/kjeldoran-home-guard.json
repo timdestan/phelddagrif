@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kjeldoran Home Guard",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "At end of combat, if Kjeldoran Home Guard attacked or blocked this combat, put a -0/-1 counter on Kjeldoran Home Guard and put a 0/1 white Deserter creature token onto the battlefield.",
+  "power": "1",
+  "toughness": "6",
+  "imageName": "kjeldoran home guard",
+  "colorIdentity": [
+    "W"
+  ]
+}

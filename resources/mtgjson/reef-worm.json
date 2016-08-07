@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Reef Worm",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Worm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Worm"
+  ],
+  "text": "When Reef Worm dies, put a 3/3 blue Fish creature token onto the battlefield with \"When this creature dies, put a 6/6 blue Whale creature token onto the battlefield with ‘When this creature dies, put a 9/9 blue Kraken creature token onto the battlefield.'\"",
+  "power": "0",
+  "toughness": "1",
+  "imageName": "reef worm",
+  "colorIdentity": [
+    "U"
+  ]
+}

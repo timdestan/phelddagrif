@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Tavern Swindler",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "{T}, Pay 3 life: Flip a coin. If you win the flip, you gain 6 life.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "tavern swindler",
+  "colorIdentity": [
+    "B"
+  ]
+}

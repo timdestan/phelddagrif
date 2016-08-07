@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Macetail Hystrodon",
+  "manaCost": "{6}{R}",
+  "cmc": 7,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "First strike, haste\nCycling {3} ({3}, Discard this card: Draw a card.)",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "macetail hystrodon",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Goblin Archaeologist",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Artificer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Artificer"
+  ],
+  "text": "{R}, {T}: Flip a coin. If you win the flip, destroy target artifact and untap Goblin Archaeologist. If you lose the flip, sacrifice Goblin Archaeologist.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "goblin archaeologist",
+  "colorIdentity": [
+    "R"
+  ]
+}

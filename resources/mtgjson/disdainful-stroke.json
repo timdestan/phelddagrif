@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Disdainful Stroke",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell with converted mana cost 4 or greater.",
+  "imageName": "disdainful stroke",
+  "colorIdentity": [
+    "U"
+  ]
+}

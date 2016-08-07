@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rockslide Ambush",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Rockslide Ambush deals damage to target creature equal to the number of Mountains you control.",
+  "imageName": "rockslide ambush",
+  "colorIdentity": [
+    "R"
+  ]
+}

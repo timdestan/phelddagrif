@@ -1,0 +1,10 @@
+{
+  "layout": "scheme",
+  "name": "The Fate of the Flammable",
+  "type": "Scheme",
+  "types": [
+    "Scheme"
+  ],
+  "text": "When you set this scheme in motion, target opponent chooses self or others. If that player chooses self, this scheme deals 6 damage to him or her. If the player chooses others, this scheme deals 3 damage to each of your other opponents.",
+  "imageName": "the fate of the flammable"
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Forsaken Drifters",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "When Forsaken Drifters dies, put the top four cards of your library into your graveyard.",
+  "power": "4",
+  "toughness": "2",
+  "imageName": "forsaken drifters",
+  "colorIdentity": [
+    "B"
+  ]
+}

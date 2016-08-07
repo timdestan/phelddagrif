@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Patron of the Akki",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Creature — Spirit",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Goblin offering (You may cast this card any time you could cast an instant by sacrificing a Goblin and paying the difference in mana costs between this and the sacrificed Goblin. Mana cost includes color.)\nWhenever Patron of the Akki attacks, creatures you control get +2/+0 until end of turn.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "patron of the akki",
+  "colorIdentity": [
+    "R"
+  ]
+}

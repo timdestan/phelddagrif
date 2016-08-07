@@ -1,0 +1,10 @@
+{
+  "layout": "scheme",
+  "name": "I Call on the Ancient Magics",
+  "type": "Scheme",
+  "types": [
+    "Scheme"
+  ],
+  "text": "When you set this scheme in motion, each other player searches his or her library for a card, reveals it, and puts it into his or her hand. Then you search your library for two cards and put them into your hand. Each player shuffles his or her library.",
+  "imageName": "i call on the ancient magics"
+}

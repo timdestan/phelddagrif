@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Shieldmage Elder",
+  "manaCost": "{5}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric",
+    "Wizard"
+  ],
+  "text": "Tap two untapped Clerics you control: Prevent all damage target creature would deal this turn.\nTap two untapped Wizards you control: Prevent all damage target spell would deal this turn.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "shieldmage elder",
+  "colorIdentity": [
+    "W"
+  ]
+}

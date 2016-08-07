@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Morselhoarder",
+  "manaCost": "{4}{R/G}{R/G}",
+  "cmc": 6,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Morselhoarder enters the battlefield with two -1/-1 counters on it.\nRemove a -1/-1 counter from Morselhoarder: Add one mana of any color to your mana pool.",
+  "power": "6",
+  "toughness": "4",
+  "imageName": "morselhoarder",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

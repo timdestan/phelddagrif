@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Blur Sliver",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "Sliver creatures you control have haste. (They can attack and {T} as soon as they come under your control.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "blur sliver",
+  "colorIdentity": [
+    "R"
+  ]
+}

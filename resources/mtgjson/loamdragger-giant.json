@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Loamdragger Giant",
+  "manaCost": "{4}{R/G}{R/G}{R/G}",
+  "cmc": 7,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Giant Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant",
+    "Warrior"
+  ],
+  "power": "7",
+  "toughness": "6",
+  "imageName": "loamdragger giant",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

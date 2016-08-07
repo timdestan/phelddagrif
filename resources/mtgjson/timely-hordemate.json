@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Timely Hordemate",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "Raid — When Timely Hordemate enters the battlefield, if you attacked with a creature this turn, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "timely hordemate",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Steel of the Godhead",
+  "manaCost": "{2}{W/U}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nAs long as enchanted creature is white, it gets +1/+1 and has lifelink. (Damage dealt by the creature also causes its controller to gain that much life.)\nAs long as enchanted creature is blue, it gets +1/+1 and can't be blocked.",
+  "imageName": "steel of the godhead",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

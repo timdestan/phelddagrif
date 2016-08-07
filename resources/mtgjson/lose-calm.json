@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Lose Calm",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Gain control of target creature until end of turn. Untap that creature. It gains haste and menace until end of turn. (A creature with menace can't be blocked except by two or more creatures.)",
+  "imageName": "lose calm",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sphinx of Magosi",
+  "manaCost": "{3}{U}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Sphinx",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sphinx"
+  ],
+  "text": "Flying\n{2}{U}: Draw a card, then put a +1/+1 counter on Sphinx of Magosi.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "sphinx of magosi",
+  "colorIdentity": [
+    "U"
+  ]
+}

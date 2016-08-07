@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ratcatcher",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Ogre Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ogre",
+    "Rogue"
+  ],
+  "text": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nAt the beginning of your upkeep, you may search your library for a Rat card, reveal it, and put it into your hand. If you do, shuffle your library.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "ratcatcher",
+  "colorIdentity": [
+    "B"
+  ]
+}

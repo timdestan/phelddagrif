@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Cinder Barrens",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Cinder Barrens enters the battlefield tapped.\n{T}: Add {B} or {R} to your mana pool.",
+  "imageName": "cinder barrens",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

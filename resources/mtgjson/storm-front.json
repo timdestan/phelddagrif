@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Storm Front",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{G}{G}: Tap target creature with flying.",
+  "imageName": "storm front",
+  "colorIdentity": [
+    "G"
+  ]
+}

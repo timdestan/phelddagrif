@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Krovikan Sorcerer",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{T}, Discard a nonblack card: Draw a card.\n{T}, Discard a black card: Draw two cards, then discard one of them.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "krovikan sorcerer",
+  "colorIdentity": [
+    "U"
+  ]
+}

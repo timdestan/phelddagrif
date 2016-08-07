@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Frontline Medic",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "Battalion — Whenever Frontline Medic and at least two other creatures attack, creatures you control gain indestructible until end of turn.\nSacrifice Frontline Medic: Counter target spell with {X} in its mana cost unless its controller pays {3}.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "frontline medic",
+  "colorIdentity": [
+    "W"
+  ]
+}

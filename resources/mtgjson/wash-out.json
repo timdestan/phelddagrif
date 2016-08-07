@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Wash Out",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Return all permanents of the color of your choice to their owners' hands.",
+  "imageName": "wash out",
+  "colorIdentity": [
+    "U"
+  ]
+}

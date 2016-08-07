@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Suffer the Past",
+  "manaCost": "{X}{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Exile X target cards from target player's graveyard. For each card exiled this way, that player loses 1 life and you gain 1 life.",
+  "imageName": "suffer the past",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Reckless Charge",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target creature gets +3/+0 and gains haste until end of turn.\nFlashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "reckless charge",
+  "colorIdentity": [
+    "R"
+  ]
+}

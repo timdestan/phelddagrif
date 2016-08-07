@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Nostalgic Dreams",
+  "manaCost": "{G}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "As an additional cost to cast Nostalgic Dreams, discard X cards.\nReturn X target cards from your graveyard to your hand. Exile Nostalgic Dreams.",
+  "imageName": "nostalgic dreams",
+  "colorIdentity": [
+    "G"
+  ]
+}

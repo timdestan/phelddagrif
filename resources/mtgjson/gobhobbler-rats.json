@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Gobhobbler Rats",
+  "manaCost": "{B}{R}",
+  "cmc": 2,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Rat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rat"
+  ],
+  "text": "Hellbent — As long as you have no cards in hand, Gobhobbler Rats gets +1/+0 and has \"{B}: Regenerate Gobhobbler Rats.\"",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "gobhobbler rats",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

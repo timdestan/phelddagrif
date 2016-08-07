@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Soul Shred",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Soul Shred deals 3 damage to target nonblack creature. You gain 3 life.",
+  "imageName": "soul shred",
+  "colorIdentity": [
+    "B"
+  ]
+}

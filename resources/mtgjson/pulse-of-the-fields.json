@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Pulse of the Fields",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "You gain 4 life. Then if an opponent has more life than you, return Pulse of the Fields to its owner's hand.",
+  "imageName": "pulse of the fields",
+  "colorIdentity": [
+    "W"
+  ]
+}

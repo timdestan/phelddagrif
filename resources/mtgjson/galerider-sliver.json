@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Galerider Sliver",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "Sliver creatures you control have flying.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "galerider sliver",
+  "colorIdentity": [
+    "U"
+  ]
+}

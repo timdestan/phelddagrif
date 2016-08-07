@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Hivis of the Scale",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Creature — Viashino Shaman",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Viashino",
+    "Shaman"
+  ],
+  "text": "You may choose not to untap Hivis of the Scale during your untap step.\n{T}: Gain control of target Dragon for as long as you control Hivis and Hivis remains tapped.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "hivis of the scale",
+  "colorIdentity": [
+    "R"
+  ]
+}

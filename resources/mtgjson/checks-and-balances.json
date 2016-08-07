@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Checks and Balances",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever any spell is played, counter that spell if each player, other than the caster and his or her teammates, agrees to choose and discard a card. Those players must discard those cards after agreeing.\nChecks and Balances may be played only in a game with three or more players.",
+  "imageName": "checks and balances",
+  "colorIdentity": [
+    "U"
+  ]
+}

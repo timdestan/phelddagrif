@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rivals' Duel",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Choose two target creatures that share no creature types. Those creatures fight each other. (Each deals damage equal to its power to the other.)",
+  "imageName": "rivals' duel",
+  "colorIdentity": [
+    "R"
+  ]
+}

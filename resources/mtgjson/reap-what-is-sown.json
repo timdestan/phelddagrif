@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Reap What Is Sown",
+  "manaCost": "{1}{G}{W}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Put a +1/+1 counter on each of up to three target creatures.",
+  "imageName": "reap what is sown",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

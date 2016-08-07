@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Once More with Feeling",
+  "manaCost": "{W}{W}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Remove Once More with Feeling from the game as well as all cards in play and in all graveyards. Each player shuffles his or her hand into her or his library, then draws seven cards. Each player's life total is set to 10.\nDCI ruling: This card is restricted. (You cannot play with more than one in a deck.)",
+  "imageName": "once more with feeling",
+  "colorIdentity": [
+    "W"
+  ]
+}

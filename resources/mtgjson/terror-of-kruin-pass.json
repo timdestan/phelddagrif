@@ -1,0 +1,26 @@
+{
+  "layout": "double-faced",
+  "name": "Terror of Kruin Pass",
+  "names": [
+    "Kruin Outlaw",
+    "Terror of Kruin Pass"
+  ],
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Werewolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Werewolf"
+  ],
+  "text": "Double strike\nWerewolves you control have menace. (They can't be blocked except by two or more creatures.)\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Terror of Kruin Pass.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "terror of kruin pass",
+  "colorIdentity": [
+    "R"
+  ]
+}

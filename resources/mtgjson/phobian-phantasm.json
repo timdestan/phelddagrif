@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Phobian Phantasm",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Illusion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Illusion"
+  ],
+  "text": "Flying; fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nCumulative upkeep {B} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "phobian phantasm",
+  "colorIdentity": [
+    "B"
+  ]
+}

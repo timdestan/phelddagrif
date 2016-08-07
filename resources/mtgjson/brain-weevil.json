@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Brain Weevil",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nSacrifice Brain Weevil: Target player discards two cards. Activate this ability only any time you could cast a sorcery.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "brain weevil",
+  "colorIdentity": [
+    "B"
+  ]
+}

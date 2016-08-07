@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Thoughtcutter Agent",
+  "manaCost": "{U}{B}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Artifact Creature — Human Rogue",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "{U}{B}, {T}: Target player loses 1 life and reveals his or her hand.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "thoughtcutter agent",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

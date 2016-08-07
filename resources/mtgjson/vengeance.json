@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Vengeance",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target tapped creature.",
+  "imageName": "vengeance",
+  "starter": true,
+  "colorIdentity": [
+    "W"
+  ]
+}

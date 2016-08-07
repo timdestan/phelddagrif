@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Ashling, the Extinguisher Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "{5}: Destroy all nonland permanents. Activate this ability only once and only during your turn.",
+  "imageName": "ashling, the extinguisher avatar",
+  "hand": 1,
+  "life": -3
+}

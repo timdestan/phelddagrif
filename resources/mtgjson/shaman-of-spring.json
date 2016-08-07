@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Shaman of Spring",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Shaman"
+  ],
+  "text": "When Shaman of Spring enters the battlefield, draw a card.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "shaman of spring",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Jazal Goldmane",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Creature — Cat Warrior",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat",
+    "Warrior"
+  ],
+  "text": "First strike\n{3}{W}{W}: Attacking creatures you control get +X/+X until end of turn, where X is the number of attacking creatures.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "jazal goldmane",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Throne of Geth",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}, Sacrifice an artifact: Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)",
+  "imageName": "throne of geth"
+}

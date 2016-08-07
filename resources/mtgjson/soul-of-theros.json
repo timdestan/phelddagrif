@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Soul of Theros",
+  "manaCost": "{4}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Avatar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Avatar"
+  ],
+  "text": "Vigilance\n{4}{W}{W}: Creatures you control get +2/+2 and gain first strike and lifelink until end of turn.\n{4}{W}{W}, Exile Soul of Theros from your graveyard: Creatures you control get +2/+2 and gain first strike and lifelink until end of turn.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "soul of theros",
+  "colorIdentity": [
+    "W"
+  ]
+}

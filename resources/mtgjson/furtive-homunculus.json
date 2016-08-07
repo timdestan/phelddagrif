@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Furtive Homunculus",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Homunculus",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Homunculus"
+  ],
+  "text": "Skulk (This creature can't be blocked by creatures with greater power.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "furtive homunculus",
+  "colorIdentity": [
+    "U"
+  ]
+}

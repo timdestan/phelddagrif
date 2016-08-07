@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Gomazoa",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Jellyfish",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Jellyfish"
+  ],
+  "text": "Defender, flying\n{T}: Put Gomazoa and each creature it's blocking on top of their owners' libraries, then those players shuffle their libraries.",
+  "power": "0",
+  "toughness": "3",
+  "imageName": "gomazoa",
+  "colorIdentity": [
+    "U"
+  ]
+}

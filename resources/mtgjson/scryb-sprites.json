@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Scryb Sprites",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Faerie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Faerie"
+  ],
+  "text": "Flying",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "scryb sprites",
+  "colorIdentity": [
+    "G"
+  ]
+}

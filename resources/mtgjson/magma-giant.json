@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Magma Giant",
+  "manaCost": "{5}{R}{R}",
+  "cmc": 7,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Giant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant"
+  ],
+  "text": "When Magma Giant enters the battlefield, it deals 2 damage to each creature and each player.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "magma giant",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Phyrexian Negator",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "Trample\nWhenever Phyrexian Negator is dealt damage, sacrifice that many permanents.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "phyrexian negator",
+  "colorIdentity": [
+    "B"
+  ]
+}

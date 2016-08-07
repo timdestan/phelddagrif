@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sylvan Paradise",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Any number of target creatures become green until end of turn.",
+  "imageName": "sylvan paradise",
+  "colorIdentity": [
+    "G"
+  ]
+}

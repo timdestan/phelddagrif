@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Lyzolda, the Blood Witch Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "Hellbent — As long as you have no cards in hand, if a source you control would deal damage to a creature or player, it deals double that damage to that creature or player instead.\nHellbent — At the beginning of your end step, if you have no cards in hand, each of your opponents discards a card.",
+  "imageName": "lyzolda, the blood witch avatar",
+  "hand": -1,
+  "life": -1
+}

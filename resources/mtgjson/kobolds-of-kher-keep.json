@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Kobolds of Kher Keep",
+  "manaCost": "{0}",
+  "cmc": 0,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Kobold",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kobold"
+  ],
+  "power": "0",
+  "toughness": "1",
+  "imageName": "kobolds of kher keep",
+  "colorIdentity": [
+    "R"
+  ]
+}

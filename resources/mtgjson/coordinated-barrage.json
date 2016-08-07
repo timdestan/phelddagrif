@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Coordinated Barrage",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose a creature type. Coordinated Barrage deals damage to target attacking or blocking creature equal to the number of permanents you control of the chosen type.",
+  "imageName": "coordinated barrage",
+  "colorIdentity": [
+    "W"
+  ]
+}

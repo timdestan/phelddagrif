@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Vorel of the Hull Clade",
+  "manaCost": "{1}{G}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Legendary Creature — Human Merfolk",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Merfolk"
+  ],
+  "text": "{G}{U}, {T}: For each counter on target artifact, creature, or land, put another of those counters on that permanent.",
+  "power": "1",
+  "toughness": "4",
+  "imageName": "vorel of the hull clade",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

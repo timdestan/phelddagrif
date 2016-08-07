@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Keeper of the Lens",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "You may look at face-down creatures you don't control. (You may do this at any time.)",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "keeper of the lens"
+}

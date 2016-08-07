@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Emrakul's Hatcher",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Eldrazi Drone",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Drone"
+  ],
+  "text": "When Emrakul's Hatcher enters the battlefield, put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have \"Sacrifice this creature: Add {C} to your mana pool.\"",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "emrakul's hatcher",
+  "colorIdentity": [
+    "R"
+  ]
+}

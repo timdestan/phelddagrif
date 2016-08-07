@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Reflex Sliver",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "All Sliver creatures have haste.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "reflex sliver",
+  "colorIdentity": [
+    "G"
+  ]
+}

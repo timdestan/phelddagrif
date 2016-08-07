@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Elvish Herder",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf"
+  ],
+  "text": "{G}: Target creature gains trample until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "elvish herder",
+  "colorIdentity": [
+    "G"
+  ]
+}

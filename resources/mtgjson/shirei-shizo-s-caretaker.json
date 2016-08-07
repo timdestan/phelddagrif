@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Shirei, Shizo's Caretaker",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Legendary Creature — Spirit",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Whenever a creature with power 1 or less is put into your graveyard from the battlefield, you may return that card to the battlefield at the beginning of the next end step if Shirei, Shizo's Caretaker is still on the battlefield.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "shirei, shizo's caretaker",
+  "colorIdentity": [
+    "B"
+  ]
+}

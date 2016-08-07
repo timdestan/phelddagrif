@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Argothian Wurm",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "text": "Trample\nWhen Argothian Wurm enters the battlefield, any player may sacrifice a land. If a player does, put Argothian Wurm on top of its owner's library.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "argothian wurm",
+  "colorIdentity": [
+    "G"
+  ]
+}

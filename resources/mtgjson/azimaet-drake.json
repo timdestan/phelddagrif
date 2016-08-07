@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Azimaet Drake",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flying\n{U}: Azimaet Drake gets +1/+0 until end of turn. Activate this ability only once each turn.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "azimaet drake",
+  "colorIdentity": [
+    "U"
+  ]
+}

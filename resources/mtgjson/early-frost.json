@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Early Frost",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Tap up to three target lands.",
+  "imageName": "early frost",
+  "colorIdentity": [
+    "U"
+  ]
+}

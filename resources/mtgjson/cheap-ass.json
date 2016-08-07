@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Cheap Ass",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Donkey Townsfolk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Donkey",
+    "Townsfolk"
+  ],
+  "text": "Spells you play cost {½} less to play.",
+  "power": "1",
+  "toughness": "3.5",
+  "imageName": "cheap ass",
+  "colorIdentity": [
+    "W"
+  ]
+}

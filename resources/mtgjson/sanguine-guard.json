@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Sanguine Guard",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Knight"
+  ],
+  "text": "First strike\n{1}{B}: Regenerate Sanguine Guard.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "sanguine guard",
+  "colorIdentity": [
+    "B"
+  ]
+}

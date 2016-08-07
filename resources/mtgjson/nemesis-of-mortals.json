@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Nemesis of Mortals",
+  "manaCost": "{4}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Snake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Snake"
+  ],
+  "text": "Nemesis of Mortals costs {1} less to cast for each creature card in your graveyard.\n{7}{G}{G}: Monstrosity 5. This ability costs {1} less to activate for each creature card in your graveyard. (If this creature isn't monstrous, put five +1/+1 counters on it and it becomes monstrous.)",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "nemesis of mortals",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Cunning Lethemancer",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "At the beginning of your upkeep, each player discards a card.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "cunning lethemancer",
+  "colorIdentity": [
+    "B"
+  ]
+}

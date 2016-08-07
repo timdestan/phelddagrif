@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Twisted Justice",
+  "manaCost": "{4}{U}{B}",
+  "cmc": 6,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target player sacrifices a creature. You draw cards equal to that creature's power.",
+  "imageName": "twisted justice",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

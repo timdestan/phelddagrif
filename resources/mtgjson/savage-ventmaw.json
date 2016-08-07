@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Savage Ventmaw",
+  "manaCost": "{4}{R}{G}",
+  "cmc": 6,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying\nWhenever Savage Ventmaw attacks, add {R}{R}{R}{G}{G}{G} to your mana pool. Until end of turn, this mana doesn't empty from your mana pool as steps and phases end.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "savage ventmaw",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

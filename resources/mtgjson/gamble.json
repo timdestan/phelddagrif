@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Gamble",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Search your library for a card, put that card into your hand, discard a card at random, then shuffle your library.",
+  "imageName": "gamble",
+  "colorIdentity": [
+    "R"
+  ]
+}

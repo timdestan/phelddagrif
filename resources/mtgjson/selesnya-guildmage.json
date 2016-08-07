@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Selesnya Guildmage",
+  "manaCost": "{G/W}{G/W}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Elf Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Wizard"
+  ],
+  "text": "{3}{G}: Put a 1/1 green Saproling creature token onto the battlefield.\n{3}{W}: Creatures you control get +1/+1 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "selesnya guildmage",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

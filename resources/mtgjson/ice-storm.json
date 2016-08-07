@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ice Storm",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target land.",
+  "imageName": "ice storm",
+  "colorIdentity": [
+    "G"
+  ]
+}

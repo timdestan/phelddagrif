@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Shadowmage Infiltrator",
+  "manaCost": "{1}{U}{B}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nWhenever Shadowmage Infiltrator deals combat damage to a player, you may draw a card.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "shadowmage infiltrator",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Qarsi Deceiver",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Naga Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Naga",
+    "Wizard"
+  ],
+  "text": "{T}: Add {C} to your mana pool. Spend this mana only to cast a face-down creature spell, pay a mana cost to turn a manifested creature face up, or pay a morph cost. (A megamorph cost is a morph cost.)",
+  "power": "0",
+  "toughness": "4",
+  "imageName": "qarsi deceiver",
+  "colorIdentity": [
+    "U"
+  ]
+}

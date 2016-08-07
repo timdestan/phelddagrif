@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Woebringer Demon",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Demon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon"
+  ],
+  "text": "Flying\nAt the beginning of each player's upkeep, that player sacrifices a creature. If the player can't, sacrifice Woebringer Demon.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "woebringer demon",
+  "colorIdentity": [
+    "B"
+  ]
+}

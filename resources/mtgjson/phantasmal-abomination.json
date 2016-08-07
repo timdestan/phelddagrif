@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Phantasmal Abomination",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Illusion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Illusion"
+  ],
+  "text": "Defender\nWhen Phantasmal Abomination becomes the target of a spell or ability, sacrifice it.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "phantasmal abomination",
+  "colorIdentity": [
+    "U"
+  ]
+}

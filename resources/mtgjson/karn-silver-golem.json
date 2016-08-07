@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Karn, Silver Golem",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Legendary Artifact Creature — Golem",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "Whenever Karn, Silver Golem blocks or becomes blocked, it gets -4/+4 until end of turn.\n{1}: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "karn, silver golem"
+}

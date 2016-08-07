@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "God-Favored General",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Inspired — Whenever God-Favored General becomes untapped, you may pay {2}{W}. If you do, put two 1/1 white Soldier enchantment creature tokens onto the battlefield.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "god-favored general",
+  "colorIdentity": [
+    "W"
+  ]
+}

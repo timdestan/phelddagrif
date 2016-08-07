@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Moldgraf Scavenger",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Fungus",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Fungus"
+  ],
+  "text": "Delirium — Moldgraf Scavenger gets +3/+0 as long as there are four or more card types among cards in your graveyard.",
+  "power": "0",
+  "toughness": "4",
+  "imageName": "moldgraf scavenger",
+  "colorIdentity": [
+    "G"
+  ]
+}

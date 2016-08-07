@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Maelstrom Djinn",
+  "manaCost": "{7}{U}",
+  "cmc": 8,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Djinn",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Djinn"
+  ],
+  "text": "Flying\nMorph {2}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)\nWhen Maelstrom Djinn is turned face up, put two time counters on it and it gains vanishing. (At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)",
+  "power": "5",
+  "toughness": "6",
+  "imageName": "maelstrom djinn",
+  "colorIdentity": [
+    "U"
+  ]
+}

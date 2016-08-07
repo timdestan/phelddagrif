@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Brave the Sands",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Creatures you control have vigilance.\nEach creature you control can block an additional creature each combat.",
+  "imageName": "brave the sands",
+  "colorIdentity": [
+    "W"
+  ]
+}

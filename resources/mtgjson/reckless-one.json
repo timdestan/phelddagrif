@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Reckless One",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Avatar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Avatar"
+  ],
+  "text": "Haste\nReckless One's power and toughness are each equal to the number of Goblins on the battlefield.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "reckless one",
+  "colorIdentity": [
+    "R"
+  ]
+}

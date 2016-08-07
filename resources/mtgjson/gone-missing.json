@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Gone Missing",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put target permanent on top of its owner's library.\nInvestigate. (Put a colorless Clue artifact token onto the battlefield with \"{2}, Sacrifice this artifact: Draw a card.\")",
+  "imageName": "gone missing",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Wing Storm",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Wing Storm deals damage to each player equal to twice the number of creatures with flying that player controls.",
+  "imageName": "wing storm",
+  "colorIdentity": [
+    "G"
+  ]
+}

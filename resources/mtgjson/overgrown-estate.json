@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Overgrown Estate",
+  "manaCost": "{B}{G}{W}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Black",
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Sacrifice a land: You gain 3 life.",
+  "imageName": "overgrown estate",
+  "colorIdentity": [
+    "W",
+    "B",
+    "G"
+  ]
+}

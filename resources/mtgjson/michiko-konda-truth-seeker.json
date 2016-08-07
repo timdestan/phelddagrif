@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Michiko Konda, Truth Seeker",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Creature — Human Advisor",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Advisor"
+  ],
+  "text": "Whenever a source an opponent controls deals damage to you, that player sacrifices a permanent.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "michiko konda, truth seeker",
+  "colorIdentity": [
+    "W"
+  ]
+}

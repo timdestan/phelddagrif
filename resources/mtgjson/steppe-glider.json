@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Steppe Glider",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Flying, vigilance\n{1}{W}: Target creature with a +1/+1 counter on it gains flying and vigilance until end of turn.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "steppe glider",
+  "colorIdentity": [
+    "W"
+  ]
+}

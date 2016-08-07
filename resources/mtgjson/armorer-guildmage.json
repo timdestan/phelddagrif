@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Armorer Guildmage",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{B}, {T}: Target creature gets +1/+0 until end of turn.\n{G}, {T}: Target creature gets +0/+1 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "armorer guildmage",
+  "colorIdentity": [
+    "R",
+    "B",
+    "G"
+  ]
+}

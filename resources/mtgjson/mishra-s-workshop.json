@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Mishra's Workshop",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C}{C}{C} to your mana pool. Spend this mana only to cast artifact spells.",
+  "imageName": "mishra's workshop"
+}

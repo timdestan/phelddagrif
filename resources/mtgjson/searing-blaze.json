@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Searing Blaze",
+  "manaCost": "{R}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Searing Blaze deals 1 damage to target player and 1 damage to target creature that player controls.\nLandfall — If you had a land enter the battlefield under your control this turn, Searing Blaze deals 3 damage to that player and 3 damage to that creature instead.",
+  "imageName": "searing blaze",
+  "colorIdentity": [
+    "R"
+  ]
+}

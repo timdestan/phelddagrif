@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Sands of Time",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Each player skips his or her untap step.\nAt the beginning of each player's upkeep, that player simultaneously untaps each tapped artifact, creature, and land he or she controls and taps each untapped artifact, creature, and land he or she controls.",
+  "imageName": "sands of time"
+}

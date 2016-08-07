@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sphere of Grace",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "If a black source would deal damage to you, prevent 2 of that damage.",
+  "imageName": "sphere of grace",
+  "colorIdentity": [
+    "W"
+  ]
+}

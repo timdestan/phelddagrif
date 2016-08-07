@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Ring of Evos Isle",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "{2}: Equipped creature gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)\nAt the beginning of your upkeep, put a +1/+1 counter on equipped creature if it's blue.\nEquip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)",
+  "imageName": "ring of evos isle"
+}

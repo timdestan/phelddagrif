@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Tahngarth",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "Creatures you control have haste.",
+  "imageName": "tahngarth",
+  "hand": -1,
+  "life": 7
+}

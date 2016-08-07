@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Obstinate Baloth",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "When Obstinate Baloth enters the battlefield, you gain 4 life.\nIf a spell or ability an opponent controls causes you to discard Obstinate Baloth, put it onto the battlefield instead of putting it into your graveyard.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "obstinate baloth",
+  "colorIdentity": [
+    "G"
+  ]
+}

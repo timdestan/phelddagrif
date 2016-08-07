@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Letter Bomb",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "When Letter Bomb comes into play, sign it and shuffle it into target player's library. That player reveals each card he or she draws until Letter Bomb is drawn. When that player draws Letter Bomb, it deals 19½ damage to him or her.",
+  "imageName": "letter bomb"
+}

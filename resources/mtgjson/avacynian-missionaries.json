@@ -1,0 +1,28 @@
+{
+  "layout": "double-faced",
+  "name": "Avacynian Missionaries",
+  "names": [
+    "Avacynian Missionaries",
+    "Lunarch Inquisitors"
+  ],
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "At the beginning of your end step, if Avacynian Missionaries is equipped, transform it.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "avacynian missionaries",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Volcanic Island",
+  "type": "Land — Island Mountain",
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Island",
+    "Mountain"
+  ],
+  "text": "({T}: Add {U} or {R} to your mana pool.)",
+  "imageName": "volcanic island",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

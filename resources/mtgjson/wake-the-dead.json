@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Wake the Dead",
+  "manaCost": "{X}{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Cast Wake the Dead only during combat on an opponent's turn.\nReturn X target creature cards from your graveyard to the battlefield. Sacrifice those creatures at the beginning of the next end step.",
+  "imageName": "wake the dead",
+  "colorIdentity": [
+    "B"
+  ]
+}

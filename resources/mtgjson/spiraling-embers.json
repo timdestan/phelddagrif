@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Spiraling Embers",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery — Arcane",
+  "types": [
+    "Sorcery"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "Spiraling Embers deals damage to target creature or player equal to the number of cards in your hand.",
+  "imageName": "spiraling embers",
+  "colorIdentity": [
+    "R"
+  ]
+}

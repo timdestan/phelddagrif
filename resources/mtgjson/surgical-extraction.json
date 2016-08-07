@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Surgical Extraction",
+  "manaCost": "{B/P}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "({B/P} can be paid with either {B} or 2 life.)\nChoose target card in a graveyard other than a basic land card. Search its owner's graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles his or her library.",
+  "imageName": "surgical extraction",
+  "colorIdentity": [
+    "B"
+  ]
+}

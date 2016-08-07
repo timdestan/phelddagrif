@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Strange Inversion",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant — Arcane",
+  "types": [
+    "Instant"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "Switch target creature's power and toughness until end of turn.\nSplice onto Arcane {1}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)",
+  "imageName": "strange inversion",
+  "colorIdentity": [
+    "R"
+  ]
+}

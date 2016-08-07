@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Magnify",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "All creatures get +1/+1 until end of turn.",
+  "imageName": "magnify",
+  "colorIdentity": [
+    "G"
+  ]
+}

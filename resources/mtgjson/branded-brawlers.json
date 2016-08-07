@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Branded Brawlers",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Branded Brawlers can't attack if defending player controls an untapped land.\nBranded Brawlers can't block if you control an untapped land.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "branded brawlers",
+  "colorIdentity": [
+    "R"
+  ]
+}

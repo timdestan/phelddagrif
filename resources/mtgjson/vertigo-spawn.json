@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Vertigo Spawn",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Illusion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Illusion"
+  ],
+  "text": "Defender (This creature can't attack.)\nWhenever Vertigo Spawn blocks a creature, tap that creature. That creature doesn't untap during its controller's next untap step.",
+  "power": "0",
+  "toughness": "3",
+  "imageName": "vertigo spawn",
+  "colorIdentity": [
+    "U"
+  ]
+}

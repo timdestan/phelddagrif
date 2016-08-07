@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Emissary of the Sleepless",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying\nWhen Emissary of the Sleepless enters the battlefield, if a creature died this turn, put a 1/1 white Spirit creature token with flying onto the battlefield.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "emissary of the sleepless",
+  "colorIdentity": [
+    "W"
+  ]
+}

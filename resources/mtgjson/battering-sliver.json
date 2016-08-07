@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Battering Sliver",
+  "manaCost": "{5}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "All Sliver creatures have trample.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "battering sliver",
+  "colorIdentity": [
+    "R"
+  ]
+}

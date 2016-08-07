@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Dauntless Dourbark",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Treefolk Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Treefolk",
+    "Warrior"
+  ],
+  "text": "Dauntless Dourbark's power and toughness are each equal to the number of Forests you control plus the number of Treefolk you control.\nDauntless Dourbark has trample as long as you control another Treefolk.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "dauntless dourbark",
+  "colorIdentity": [
+    "G"
+  ]
+}

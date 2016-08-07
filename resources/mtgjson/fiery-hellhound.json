@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Fiery Hellhound",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental Hound",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Hound"
+  ],
+  "text": "{R}: Fiery Hellhound gets +1/+0 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "fiery hellhound",
+  "starter": true,
+  "colorIdentity": [
+    "R"
+  ]
+}

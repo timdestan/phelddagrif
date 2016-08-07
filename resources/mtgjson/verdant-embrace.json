@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Verdant Embrace",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets +3/+3 and has \"At the beginning of each upkeep, put a 1/1 green Saproling creature token onto the battlefield.\"",
+  "imageName": "verdant embrace",
+  "colorIdentity": [
+    "G"
+  ]
+}

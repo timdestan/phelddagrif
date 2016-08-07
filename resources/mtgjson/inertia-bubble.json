@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Inertia Bubble",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant artifact\nEnchanted artifact doesn't untap during its controller's untap step.",
+  "imageName": "inertia bubble",
+  "colorIdentity": [
+    "U"
+  ]
+}

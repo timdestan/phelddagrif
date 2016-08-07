@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Basilisk Collar",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature has deathtouch and lifelink.\nEquip {2}",
+  "imageName": "basilisk collar"
+}

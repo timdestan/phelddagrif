@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Jokulmorder",
+  "manaCost": "{4}{U}{U}{U}",
+  "cmc": 7,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Leviathan",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Leviathan"
+  ],
+  "text": "Trample\nJokulmorder enters the battlefield tapped.\nWhen Jokulmorder enters the battlefield, sacrifice it unless you sacrifice five lands.\nJokulmorder doesn't untap during your untap step.\nWhenever you play an Island, you may untap Jokulmorder.",
+  "power": "12",
+  "toughness": "12",
+  "imageName": "jokulmorder",
+  "colorIdentity": [
+    "U"
+  ]
+}

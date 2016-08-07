@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Dread Slag",
+  "manaCost": "{3}{B}{R}",
+  "cmc": 5,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "Trample\nDread Slag gets -4/-4 for each card in your hand.",
+  "power": "9",
+  "toughness": "9",
+  "imageName": "dread slag",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

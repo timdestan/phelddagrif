@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Elvish Skysweeper",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Warrior"
+  ],
+  "text": "{4}{G}, Sacrifice a creature: Destroy target creature with flying.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "elvish skysweeper",
+  "colorIdentity": [
+    "G"
+  ]
+}

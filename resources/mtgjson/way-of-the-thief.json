@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Way of the Thief",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets +2/+2.\nEnchanted creature can't be blocked as long as you control a Gate.",
+  "imageName": "way of the thief",
+  "colorIdentity": [
+    "U"
+  ]
+}

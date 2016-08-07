@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Arcum's Whistle",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{3}, {T}: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That player may pay {X}, where X is that creature's converted mana cost. If he or she doesn't, the creature attacks this turn if able, and at the beginning of the next end step, destroy it if it didn't attack. Activate this ability only before attackers are declared.",
+  "imageName": "arcum's whistle"
+}

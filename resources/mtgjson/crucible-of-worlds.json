@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Crucible of Worlds",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "You may play land cards from your graveyard.",
+  "imageName": "crucible of worlds"
+}

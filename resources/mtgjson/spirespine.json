@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Spirespine",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment Creature — Beast",
+  "types": [
+    "Enchantment",
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Bestow {4}{G} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)\nSpirespine blocks each turn if able.\nEnchanted creature gets +4/+1 and blocks each turn if able.",
+  "power": "4",
+  "toughness": "1",
+  "imageName": "spirespine",
+  "colorIdentity": [
+    "G"
+  ]
+}

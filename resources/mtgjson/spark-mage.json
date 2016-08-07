@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Spark Mage",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dwarf Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dwarf",
+    "Wizard"
+  ],
+  "text": "Whenever Spark Mage deals combat damage to a player, you may have Spark Mage deal 1 damage to target creature that player controls.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "spark mage",
+  "colorIdentity": [
+    "R"
+  ]
+}

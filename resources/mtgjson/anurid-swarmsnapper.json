@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Anurid Swarmsnapper",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Frog Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Frog",
+    "Beast"
+  ],
+  "text": "Reach (This creature can block creatures with flying.)\n{1}{G}: Anurid Swarmsnapper can block an additional creature this turn.",
+  "power": "1",
+  "toughness": "4",
+  "imageName": "anurid swarmsnapper",
+  "colorIdentity": [
+    "G"
+  ]
+}

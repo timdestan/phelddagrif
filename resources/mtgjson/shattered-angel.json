@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Shattered Angel",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nWhenever a land enters the battlefield under an opponent's control, you may gain 3 life.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "shattered angel",
+  "colorIdentity": [
+    "W"
+  ]
+}

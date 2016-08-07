@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Goblin Arsonist",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Shaman"
+  ],
+  "text": "When Goblin Arsonist dies, you may have it deal 1 damage to target creature or player.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "goblin arsonist",
+  "colorIdentity": [
+    "R"
+  ]
+}

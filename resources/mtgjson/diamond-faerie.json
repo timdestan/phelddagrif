@@ -1,0 +1,30 @@
+{
+  "layout": "normal",
+  "name": "Diamond Faerie",
+  "manaCost": "{2}{G}{W}{U}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Blue",
+    "Green"
+  ],
+  "type": "Snow Creature — Faerie",
+  "supertypes": [
+    "Snow"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Faerie"
+  ],
+  "text": "Flying\n{1}{S}: Snow creatures you control get +1/+1 until end of turn. ({S} can be paid with one mana from a snow permanent.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "diamond faerie",
+  "colorIdentity": [
+    "W",
+    "U",
+    "G"
+  ]
+}

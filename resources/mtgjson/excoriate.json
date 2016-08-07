@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Excoriate",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Exile target tapped creature.",
+  "imageName": "excoriate",
+  "colorIdentity": [
+    "W"
+  ]
+}

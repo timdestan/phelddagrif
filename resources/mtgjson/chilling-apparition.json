@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Chilling Apparition",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "{B}: Regenerate Chilling Apparition.\nWhenever Chilling Apparition deals combat damage to a player, that player discards a card.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "chilling apparition",
+  "colorIdentity": [
+    "B"
+  ]
+}

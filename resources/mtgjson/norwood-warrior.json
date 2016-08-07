@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Norwood Warrior",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Warrior"
+  ],
+  "text": "Whenever Norwood Warrior becomes blocked, it gets +1/+1 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "norwood warrior",
+  "colorIdentity": [
+    "G"
+  ]
+}

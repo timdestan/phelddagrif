@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Avacyn, Angel of Hope",
+  "manaCost": "{5}{W}{W}{W}",
+  "cmc": 8,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Creature — Angel",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying, vigilance, indestructible\nOther permanents you control have indestructible.",
+  "power": "8",
+  "toughness": "8",
+  "imageName": "avacyn, angel of hope",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Stingmoggie",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Stingmoggie enters the battlefield with two +1/+1 counters on it.\n{3}{R}, Remove a +1/+1 counter from Stingmoggie: Destroy target artifact or land.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "stingmoggie",
+  "colorIdentity": [
+    "R"
+  ]
+}

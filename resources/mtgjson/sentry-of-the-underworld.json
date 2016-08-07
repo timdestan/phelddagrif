@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Sentry of the Underworld",
+  "manaCost": "{3}{W}{B}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Creature — Griffin Skeleton",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Griffin",
+    "Skeleton"
+  ],
+  "text": "Flying, vigilance\n{W}{B}, Pay 3 life: Regenerate Sentry of the Underworld.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "sentry of the underworld",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

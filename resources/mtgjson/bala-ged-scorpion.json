@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Bala Ged Scorpion",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Scorpion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Scorpion"
+  ],
+  "text": "When Bala Ged Scorpion enters the battlefield, you may destroy target creature with power 1 or less.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "bala ged scorpion",
+  "colorIdentity": [
+    "B"
+  ]
+}

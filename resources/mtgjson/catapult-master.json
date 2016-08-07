@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Catapult Master",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Tap five untapped Soldiers you control: Exile target creature.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "catapult master",
+  "colorIdentity": [
+    "W"
+  ]
+}

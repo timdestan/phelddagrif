@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Acridian",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "Echo {1}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "acridian",
+  "colorIdentity": [
+    "G"
+  ]
+}

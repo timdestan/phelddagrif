@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Shambling Strider",
+  "manaCost": "{4}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Yeti",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Yeti"
+  ],
+  "text": "{R}{G}: Shambling Strider gets +1/-1 until end of turn.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "shambling strider",
+  "colorIdentity": [
+    "G",
+    "R"
+  ]
+}

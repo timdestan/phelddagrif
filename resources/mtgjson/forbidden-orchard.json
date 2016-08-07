@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Forbidden Orchard",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add one mana of any color to your mana pool.\nWhenever you tap Forbidden Orchard for mana, target opponent puts a 1/1 colorless Spirit creature token onto the battlefield.",
+  "imageName": "forbidden orchard"
+}

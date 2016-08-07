@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Cogwork Spy",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Bird Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird",
+    "Construct"
+  ],
+  "text": "Reveal Cogwork Spy as you draft it. You may look at the next card drafted from this booster pack.\nFlying",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "cogwork spy"
+}

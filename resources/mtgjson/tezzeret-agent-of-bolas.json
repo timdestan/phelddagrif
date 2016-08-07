@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Tezzeret, Agent of Bolas",
+  "manaCost": "{2}{U}{B}",
+  "cmc": 4,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Planeswalker — Tezzeret",
+  "types": [
+    "Planeswalker"
+  ],
+  "subtypes": [
+    "Tezzeret"
+  ],
+  "text": "+1: Look at the top five cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.\n−1: Target artifact becomes an artifact creature with base power and toughness 5/5.\n−4: Target player loses X life and you gain X life, where X is twice the number of artifacts you control.",
+  "loyalty": 3,
+  "imageName": "tezzeret, agent of bolas",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

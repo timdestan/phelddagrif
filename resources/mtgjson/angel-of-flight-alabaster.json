@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Angel of Flight Alabaster",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nAt the beginning of your upkeep, return target Spirit card from your graveyard to your hand.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "angel of flight alabaster",
+  "colorIdentity": [
+    "W"
+  ]
+}

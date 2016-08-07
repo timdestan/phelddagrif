@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Reality Strobe",
+  "manaCost": "{4}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Return target permanent to its owner's hand. Exile Reality Strobe with three time counters on it.\nSuspend 3—{2}{U} (Rather than cast this card from your hand, you may pay {2}{U} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)",
+  "imageName": "reality strobe",
+  "colorIdentity": [
+    "U"
+  ]
+}

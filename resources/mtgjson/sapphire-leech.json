@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sapphire Leech",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Leech",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Leech"
+  ],
+  "text": "Flying\nBlue spells you cast cost {U} more to cast.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "sapphire leech",
+  "colorIdentity": [
+    "U"
+  ]
+}

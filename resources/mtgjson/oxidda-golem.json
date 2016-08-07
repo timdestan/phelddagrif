@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Oxidda Golem",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "Affinity for Mountains (This spell costs {1} less to cast for each Mountain you control.)\nHaste",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "oxidda golem"
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Shrine of Boundless Growth",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "At the beginning of your upkeep or whenever you cast a green spell, put a charge counter on Shrine of Boundless Growth.\n{T}, Sacrifice Shrine of Boundless Growth: Add {C} to your mana pool for each charge counter on Shrine of Boundless Growth.",
+  "imageName": "shrine of boundless growth"
+}

@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Time Sieve",
+  "manaCost": "{U}{B}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}, Sacrifice five artifacts: Take an extra turn after this one.",
+  "imageName": "time sieve",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

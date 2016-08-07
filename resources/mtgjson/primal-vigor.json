@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Primal Vigor",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "If one or more tokens would be put onto the battlefield, twice that many of those tokens are put onto the battlefield instead.\nIf one or more +1/+1 counters would be placed on a creature, twice that many +1/+1 counters are placed on that creature instead.",
+  "imageName": "primal vigor",
+  "colorIdentity": [
+    "G"
+  ]
+}

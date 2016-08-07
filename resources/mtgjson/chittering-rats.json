@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Chittering Rats",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Rat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rat"
+  ],
+  "text": "When Chittering Rats enters the battlefield, target opponent puts a card from his or her hand on top of his or her library.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "chittering rats",
+  "colorIdentity": [
+    "B"
+  ]
+}

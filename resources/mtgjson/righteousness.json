@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Righteousness",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target blocking creature gets +7/+7 until end of turn.",
+  "imageName": "righteousness",
+  "colorIdentity": [
+    "W"
+  ]
+}

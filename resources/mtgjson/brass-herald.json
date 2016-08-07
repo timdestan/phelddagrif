@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Brass Herald",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "As Brass Herald enters the battlefield, choose a creature type.\nWhen Brass Herald enters the battlefield, reveal the top four cards of your library. Put all creature cards of the chosen type revealed this way into your hand and the rest on the bottom of your library in any order.\nCreatures of the chosen type get +1/+1.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "brass herald"
+}

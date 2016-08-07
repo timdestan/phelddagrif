@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Lurker",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Lurker can't be the target of spells unless it attacked or blocked this turn.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "lurker",
+  "colorIdentity": [
+    "G"
+  ]
+}

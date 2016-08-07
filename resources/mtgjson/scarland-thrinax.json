@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Scarland Thrinax",
+  "manaCost": "{B}{R}{G}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Lizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Lizard"
+  ],
+  "text": "Sacrifice a creature: Put a +1/+1 counter on Scarland Thrinax.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "scarland thrinax",
+  "colorIdentity": [
+    "B",
+    "R",
+    "G"
+  ]
+}

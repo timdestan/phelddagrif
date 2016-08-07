@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Deepwood Tantiv",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Whenever Deepwood Tantiv becomes blocked, you gain 2 life.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "deepwood tantiv",
+  "colorIdentity": [
+    "G"
+  ]
+}

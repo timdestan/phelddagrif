@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Biomass Mutation",
+  "manaCost": "{X}{G/U}{G/U}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Creatures you control have base power and toughness X/X until end of turn.",
+  "imageName": "biomass mutation",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

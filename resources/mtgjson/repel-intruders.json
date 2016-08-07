@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Repel Intruders",
+  "manaCost": "{3}{W/U}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Put two 1/1 white Kithkin Soldier creature tokens onto the battlefield if {W} was spent to cast Repel Intruders. Counter up to one target creature spell if {U} was spent to cast Repel Intruders. (Do both if {W}{U} was spent.)",
+  "imageName": "repel intruders",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

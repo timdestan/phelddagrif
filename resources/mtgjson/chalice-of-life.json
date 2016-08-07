@@ -1,0 +1,16 @@
+{
+  "layout": "double-faced",
+  "name": "Chalice of Life",
+  "names": [
+    "Chalice of Life",
+    "Chalice of Death"
+  ],
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}: You gain 1 life. Then if you have at least 10 life more than your starting life total, transform Chalice of Life.",
+  "imageName": "chalice of life"
+}

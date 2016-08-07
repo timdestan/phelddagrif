@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Chorus of the Conclave",
+  "manaCost": "{4}{G}{G}{W}{W}",
+  "cmc": 8,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Legendary Creature — Dryad",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dryad"
+  ],
+  "text": "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)\nAs an additional cost to cast creature spells, you may pay any amount of mana. If you do, that creature enters the battlefield with that many additional +1/+1 counters on it.",
+  "power": "3",
+  "toughness": "8",
+  "imageName": "chorus of the conclave",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

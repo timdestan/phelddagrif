@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Etherium Astrolabe",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Flash\n{B}, {T}, Sacrifice an artifact: Draw a card.",
+  "imageName": "etherium astrolabe",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

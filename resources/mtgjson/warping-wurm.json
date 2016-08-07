@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Warping Wurm",
+  "manaCost": "{2}{G}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "text": "Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)\nAt the beginning of your upkeep, Warping Wurm phases out unless you pay {2}{G}{U}.\nWhen Warping Wurm phases in, put a +1/+1 counter on it.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "warping wurm",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Foriysian Interceptor",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Flash (You may cast this spell any time you could cast an instant.)\nDefender\nForiysian Interceptor can block an additional creature each combat.",
+  "power": "0",
+  "toughness": "5",
+  "imageName": "foriysian interceptor",
+  "colorIdentity": [
+    "W"
+  ]
+}

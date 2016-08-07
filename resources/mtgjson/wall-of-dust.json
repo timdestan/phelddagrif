@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wall of Dust",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender (This creature can't attack.)\nWhenever Wall of Dust blocks a creature, that creature can't attack during its controller's next turn.",
+  "power": "1",
+  "toughness": "4",
+  "imageName": "wall of dust",
+  "colorIdentity": [
+    "R"
+  ]
+}

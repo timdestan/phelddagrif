@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Sorcerer's Strongbox",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, {T}: Flip a coin. If you win the flip, sacrifice Sorcerer's Strongbox and draw three cards.",
+  "imageName": "sorcerer's strongbox"
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Skyshroud Ranger",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf"
+  ],
+  "text": "{T}: You may put a land card from your hand onto the battlefield. Activate this ability only any time you could cast a sorcery.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "skyshroud ranger",
+  "colorIdentity": [
+    "G"
+  ]
+}

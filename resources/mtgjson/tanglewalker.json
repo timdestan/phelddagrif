@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Tanglewalker",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Dryad",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dryad"
+  ],
+  "text": "Each creature you control can't be blocked as long as defending player controls an artifact land.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "tanglewalker",
+  "colorIdentity": [
+    "G"
+  ]
+}

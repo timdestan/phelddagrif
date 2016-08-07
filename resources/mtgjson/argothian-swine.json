@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Argothian Swine",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Boar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Boar"
+  ],
+  "text": "Trample",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "argothian swine",
+  "colorIdentity": [
+    "G"
+  ]
+}

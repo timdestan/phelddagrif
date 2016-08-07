@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Blighted Agent",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nBlighted Agent can't be blocked.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "blighted agent",
+  "colorIdentity": [
+    "U"
+  ]
+}

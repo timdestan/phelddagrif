@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Geth, Lord of the Vault",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Legendary Creature — Zombie",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\n{X}{B}: Put target artifact or creature card with converted mana cost X from an opponent's graveyard onto the battlefield under your control tapped. Then that player puts the top X cards of his or her library into his or her graveyard.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "geth, lord of the vault",
+  "colorIdentity": [
+    "B"
+  ]
+}

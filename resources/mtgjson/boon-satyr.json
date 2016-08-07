@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Boon Satyr",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment Creature — Satyr",
+  "types": [
+    "Enchantment",
+    "Creature"
+  ],
+  "subtypes": [
+    "Satyr"
+  ],
+  "text": "Flash\nBestow {3}{G}{G} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)\nEnchanted creature gets +4/+2.",
+  "power": "4",
+  "toughness": "2",
+  "imageName": "boon satyr",
+  "colorIdentity": [
+    "G"
+  ]
+}

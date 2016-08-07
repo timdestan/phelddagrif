@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Artifact Blast",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target artifact spell.",
+  "imageName": "artifact blast",
+  "colorIdentity": [
+    "R"
+  ]
+}

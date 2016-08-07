@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Boggart Mob",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Goblin Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Warrior"
+  ],
+  "text": "Champion a Goblin (When this enters the battlefield, sacrifice it unless you exile another Goblin you control. When this leaves the battlefield, that card returns to the battlefield.)\nWhenever a Goblin you control deals combat damage to a player, you may put a 1/1 black Goblin Rogue creature token onto the battlefield.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "boggart mob",
+  "colorIdentity": [
+    "B"
+  ]
+}

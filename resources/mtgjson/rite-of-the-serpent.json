@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rite of the Serpent",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target creature. If that creature had a +1/+1 counter on it, put a 1/1 green Snake creature token onto the battlefield.",
+  "imageName": "rite of the serpent",
+  "colorIdentity": [
+    "B"
+  ]
+}

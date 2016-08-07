@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Lunge",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Lunge deals 2 damage to target creature and 2 damage to target player.",
+  "imageName": "lunge",
+  "colorIdentity": [
+    "R"
+  ]
+}

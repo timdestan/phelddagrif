@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Defeat",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target creature with power 2 or less.",
+  "imageName": "defeat",
+  "colorIdentity": [
+    "B"
+  ]
+}

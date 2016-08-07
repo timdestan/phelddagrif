@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Azorius Chancery",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Azorius Chancery enters the battlefield tapped.\nWhen Azorius Chancery enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {W}{U} to your mana pool.",
+  "imageName": "azorius chancery",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

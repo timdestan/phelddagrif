@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Expedition Raptor",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\nWhen Expedition Raptor enters the battlefield, support 2. (Put a +1/+1 counter on each of up to two other target creatures.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "expedition raptor",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Angel of the Dire Hour",
+  "manaCost": "{5}{W}{W}",
+  "cmc": 7,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flash\nFlying\nWhen Angel of the Dire Hour enters the battlefield, if you cast it from your hand, exile all attacking creatures.",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "angel of the dire hour",
+  "colorIdentity": [
+    "W"
+  ]
+}

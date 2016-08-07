@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Aspiring Aeronaut",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Artificer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Artificer"
+  ],
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhen Aspiring Aeronaut enters the battlefield, put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "aspiring aeronaut",
+  "colorIdentity": [
+    "U"
+  ]
+}

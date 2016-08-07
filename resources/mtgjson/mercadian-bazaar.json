@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Mercadian Bazaar",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Mercadian Bazaar enters the battlefield tapped.\n{T}: Put a storage counter on Mercadian Bazaar.\n{T}, Remove any number of storage counters from Mercadian Bazaar: Add {R} to your mana pool for each storage counter removed this way.",
+  "imageName": "mercadian bazaar",
+  "colorIdentity": [
+    "R"
+  ]
+}

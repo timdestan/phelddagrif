@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Soratami Cloud Chariot",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}: Target creature you control gains flying until end of turn.\n{2}: Prevent all combat damage that would be dealt to and dealt by target creature you control this turn.",
+  "imageName": "soratami cloud chariot"
+}

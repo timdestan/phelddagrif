@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Gyre Sage",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Druid"
+  ],
+  "text": "Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)\n{T}: Add {G} to your mana pool for each +1/+1 counter on Gyre Sage.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "gyre sage",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Sunscape Apprentice",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{G}, {T}: Target creature gets +1/+1 until end of turn.\n{U}, {T}: Put target creature you control on top of its owner's library.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "sunscape apprentice",
+  "colorIdentity": [
+    "W",
+    "G",
+    "U"
+  ]
+}

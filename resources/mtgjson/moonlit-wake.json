@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Moonlit Wake",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a creature dies, you gain 1 life.",
+  "imageName": "moonlit wake",
+  "colorIdentity": [
+    "W"
+  ]
+}

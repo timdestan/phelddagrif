@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Hold the Line",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Blocking creatures get +7/+7 until end of turn.",
+  "imageName": "hold the line",
+  "colorIdentity": [
+    "W"
+  ]
+}

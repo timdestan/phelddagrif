@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Horncaller's Chant",
+  "manaCost": "{7}{G}",
+  "cmc": 8,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put a 4/4 green Rhino creature token with trample onto the battlefield, then populate. (Put a token onto the battlefield that's a copy of a creature token you control.)",
+  "imageName": "horncaller's chant",
+  "colorIdentity": [
+    "G"
+  ]
+}

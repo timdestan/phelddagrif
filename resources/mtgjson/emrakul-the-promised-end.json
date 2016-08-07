@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Emrakul, the Promised End",
+  "manaCost": "{13}",
+  "cmc": 13,
+  "type": "Legendary Creature — Eldrazi",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi"
+  ],
+  "text": "Emrakul, the Promised End costs {1} less to cast for each card type among cards in your graveyard.  \nWhen you cast Emrakul, you gain control of target opponent during that player's next turn. After that turn, that player takes an extra turn.\nFlying, trample, protection from instants",
+  "power": "13",
+  "toughness": "13",
+  "imageName": "emrakul, the promised end"
+}

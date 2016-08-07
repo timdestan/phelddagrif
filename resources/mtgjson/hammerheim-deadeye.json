@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Hammerheim Deadeye",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Giant Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant",
+    "Warrior"
+  ],
+  "text": "Echo {5}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Hammerheim Deadeye enters the battlefield, destroy target creature with flying.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "hammerheim deadeye",
+  "colorIdentity": [
+    "R"
+  ]
+}

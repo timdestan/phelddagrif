@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wailing Ghoul",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "When Wailing Ghoul enters the battlefield, put the top two cards of your library into your graveyard.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "wailing ghoul",
+  "colorIdentity": [
+    "B"
+  ]
+}

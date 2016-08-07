@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Devout Harpist",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human"
+  ],
+  "text": "{T}: Destroy target Aura attached to a creature.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "devout harpist",
+  "colorIdentity": [
+    "W"
+  ]
+}

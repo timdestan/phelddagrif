@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Murder of Crows",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\nWhenever another creature dies, you may draw a card. If you do, discard a card.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "murder of crows",
+  "colorIdentity": [
+    "U"
+  ]
+}

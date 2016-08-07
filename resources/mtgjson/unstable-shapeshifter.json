@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Unstable Shapeshifter",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Shapeshifter",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Shapeshifter"
+  ],
+  "text": "Whenever another creature enters the battlefield, Unstable Shapeshifter becomes a copy of that creature and gains this ability.",
+  "power": "0",
+  "toughness": "1",
+  "imageName": "unstable shapeshifter",
+  "colorIdentity": [
+    "U"
+  ]
+}

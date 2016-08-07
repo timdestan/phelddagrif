@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Glarecaster",
+  "manaCost": "{4}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Bird Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird",
+    "Cleric"
+  ],
+  "text": "Flying\n{5}{W}: The next time damage would be dealt to Glarecaster and/or you this turn, that damage is dealt to target creature or player instead.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "glarecaster",
+  "colorIdentity": [
+    "W"
+  ]
+}

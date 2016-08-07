@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Petalmane Baku",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Petalmane Baku.\n{1}, Remove X ki counters from Petalmane Baku: Add X mana of any one color to your mana pool.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "petalmane baku",
+  "colorIdentity": [
+    "G"
+  ]
+}

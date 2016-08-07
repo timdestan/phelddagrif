@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Mundungu",
+  "manaCost": "{1}{U}{B}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{T}: Counter target spell unless its controller pays {1} and 1 life.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "mundungu",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

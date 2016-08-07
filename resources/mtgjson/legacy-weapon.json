@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Legacy Weapon",
+  "manaCost": "{7}",
+  "cmc": 7,
+  "type": "Legendary Artifact",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Artifact"
+  ],
+  "text": "{W}{U}{B}{R}{G}: Exile target permanent.\nIf Legacy Weapon would be put into a graveyard from anywhere, reveal Legacy Weapon and shuffle it into its owner's library instead.",
+  "imageName": "legacy weapon",
+  "colorIdentity": [
+    "W",
+    "U",
+    "B",
+    "R",
+    "G"
+  ]
+}

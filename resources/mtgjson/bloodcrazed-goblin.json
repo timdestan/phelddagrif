@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Bloodcrazed Goblin",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Berserker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Berserker"
+  ],
+  "text": "Bloodcrazed Goblin can't attack unless an opponent has been dealt damage this turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "bloodcrazed goblin",
+  "colorIdentity": [
+    "R"
+  ]
+}

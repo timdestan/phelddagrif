@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Scrapskin Drake",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Zombie Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Drake"
+  ],
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nScrapskin Drake can block only creatures with flying.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "scrapskin drake",
+  "colorIdentity": [
+    "U"
+  ]
+}

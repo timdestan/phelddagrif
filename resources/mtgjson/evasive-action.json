@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Evasive Action",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Domain — Counter target spell unless its controller pays {1} for each basic land type among lands you control.",
+  "imageName": "evasive action",
+  "colorIdentity": [
+    "U"
+  ]
+}

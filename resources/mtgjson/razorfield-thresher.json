@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Razorfield Thresher",
+  "manaCost": "{7}",
+  "cmc": 7,
+  "type": "Artifact Creature — Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "power": "6",
+  "toughness": "4",
+  "imageName": "razorfield thresher"
+}

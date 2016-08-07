@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Taurean Mauler",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Shapeshifter",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Shapeshifter"
+  ],
+  "text": "Changeling (This card is every creature type.)\nWhenever an opponent casts a spell, you may put a +1/+1 counter on Taurean Mauler.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "taurean mauler",
+  "colorIdentity": [
+    "R"
+  ]
+}

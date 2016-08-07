@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Venerable Lammasu",
+  "manaCost": "{6}{W}",
+  "cmc": 7,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Lammasu",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Lammasu"
+  ],
+  "text": "Flying",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "venerable lammasu",
+  "colorIdentity": [
+    "W"
+  ]
+}

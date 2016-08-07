@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Metallurgeon",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Artifact Creature — Human Artificer",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Artificer"
+  ],
+  "text": "{W}, {T}: Regenerate target artifact.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "metallurgeon",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Gossamer Chains",
+  "manaCost": "{W}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Return Gossamer Chains to its owner's hand: Prevent all combat damage that would be dealt by target unblocked creature this turn.",
+  "imageName": "gossamer chains",
+  "colorIdentity": [
+    "W"
+  ]
+}

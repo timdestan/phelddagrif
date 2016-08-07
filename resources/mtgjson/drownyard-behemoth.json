@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Drownyard Behemoth",
+  "manaCost": "{9}",
+  "cmc": 9,
+  "type": "Creature — Eldrazi Crab",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Crab"
+  ],
+  "text": "Flash (You may cast this spell any time you could cast an instant.)\nEmerge {7}{U} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)\nDrownyard Behemoth has hexproof as long as it entered the battlefield this turn.",
+  "power": "5",
+  "toughness": "7",
+  "imageName": "drownyard behemoth",
+  "colorIdentity": [
+    "U"
+  ]
+}

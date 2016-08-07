@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Life's Legacy",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "As an additional cost to cast Life's Legacy, sacrifice a creature.\nDraw cards equal to the sacrificed creature's power.",
+  "imageName": "life's legacy",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Bosh, Iron Golem",
+  "manaCost": "{8}",
+  "cmc": 8,
+  "type": "Legendary Artifact Creature — Golem",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "Trample\n{3}{R}, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to the sacrificed artifact's converted mana cost to target creature or player.",
+  "power": "6",
+  "toughness": "7",
+  "imageName": "bosh, iron golem",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Nacatl Hunt-Pride",
+  "manaCost": "{5}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Cat Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat",
+    "Warrior"
+  ],
+  "text": "Vigilance\n{R}, {T}: Target creature can't block this turn.\n{G}, {T}: Target creature blocks this turn if able.",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "nacatl hunt-pride",
+  "colorIdentity": [
+    "W",
+    "R",
+    "G"
+  ]
+}

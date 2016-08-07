@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Conjurer's Closet",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "At the beginning of your end step, you may exile target creature you control, then return that card to the battlefield under your control.",
+  "imageName": "conjurer's closet"
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Taigam's Scheming",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Look at the top five cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.",
+  "imageName": "taigam's scheming",
+  "colorIdentity": [
+    "U"
+  ]
+}

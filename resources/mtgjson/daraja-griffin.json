@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Daraja Griffin",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Griffin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Griffin"
+  ],
+  "text": "Flying\nSacrifice Daraja Griffin: Destroy target black creature.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "daraja griffin",
+  "colorIdentity": [
+    "W"
+  ]
+}

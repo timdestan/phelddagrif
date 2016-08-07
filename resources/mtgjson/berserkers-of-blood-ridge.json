@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Berserkers of Blood Ridge",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Berserker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Berserker"
+  ],
+  "text": "Berserkers of Blood Ridge attacks each turn if able.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "berserkers of blood ridge",
+  "colorIdentity": [
+    "R"
+  ]
+}

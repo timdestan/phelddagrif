@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Even the Odds",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Cast Even the Odds only if you control fewer creatures than each opponent.\nPut three 1/1 white Soldier creature tokens onto the battlefield.",
+  "imageName": "even the odds",
+  "colorIdentity": [
+    "W"
+  ]
+}

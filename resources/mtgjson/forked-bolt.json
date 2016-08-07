@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Forked Bolt",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Forked Bolt deals 2 damage divided as you choose among one or two target creatures and/or players.",
+  "imageName": "forked bolt",
+  "colorIdentity": [
+    "R"
+  ]
+}

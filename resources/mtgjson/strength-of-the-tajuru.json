@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Strength of the Tajuru",
+  "manaCost": "{X}{G}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Multikicker {1} (You may pay an additional {1} any number of times as you cast this spell.)\nChoose target creature, then choose another target creature for each time Strength of the Tajuru was kicked. Put X +1/+1 counters on each of them.",
+  "imageName": "strength of the tajuru",
+  "colorIdentity": [
+    "G"
+  ]
+}

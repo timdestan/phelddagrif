@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Illusionist's Bracers",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Whenever an ability of equipped creature is activated, if it isn't a mana ability, copy that ability. You may choose new targets for the copy.\nEquip {3}",
+  "imageName": "illusionist's bracers"
+}

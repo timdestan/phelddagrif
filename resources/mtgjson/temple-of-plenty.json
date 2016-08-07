@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Temple of Plenty",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Temple of Plenty enters the battlefield tapped.\nWhen Temple of Plenty enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)\n{T}: Add {G} or {W} to your mana pool.",
+  "imageName": "temple of plenty",
+  "colorIdentity": [
+    "G",
+    "W"
+  ]
+}

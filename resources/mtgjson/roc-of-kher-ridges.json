@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Roc of Kher Ridges",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "roc of kher ridges",
+  "colorIdentity": [
+    "R"
+  ]
+}

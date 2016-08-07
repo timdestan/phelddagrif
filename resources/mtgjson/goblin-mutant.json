@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Goblin Mutant",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Mutant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Mutant"
+  ],
+  "text": "Trample\nGoblin Mutant can't attack if defending player controls an untapped creature with power 3 or greater.\nGoblin Mutant can't block creatures with power 3 or greater.",
+  "power": "5",
+  "toughness": "3",
+  "imageName": "goblin mutant",
+  "colorIdentity": [
+    "R"
+  ]
+}

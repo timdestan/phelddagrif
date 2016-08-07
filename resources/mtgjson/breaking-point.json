@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Breaking Point",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Any player may have Breaking Point deal 6 damage to him or her. If no one does, destroy all creatures. Creatures destroyed this way can't be regenerated.",
+  "imageName": "breaking point",
+  "colorIdentity": [
+    "R"
+  ]
+}

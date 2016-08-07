@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Golgari Germination",
+  "manaCost": "{1}{B}{G}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a nontoken creature you control dies, put a 1/1 green Saproling creature token onto the battlefield.",
+  "imageName": "golgari germination",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

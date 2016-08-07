@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ghostly Changeling",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Shapeshifter",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Shapeshifter"
+  ],
+  "text": "Changeling (This card is every creature type.)\n{1}{B}: Ghostly Changeling gets +1/+1 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "ghostly changeling",
+  "colorIdentity": [
+    "B"
+  ]
+}

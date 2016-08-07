@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Strength of Unity",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nDomain — Enchanted creature gets +1/+1 for each basic land type among lands you control.",
+  "imageName": "strength of unity",
+  "colorIdentity": [
+    "W"
+  ]
+}

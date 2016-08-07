@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Septic Rats",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Rat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rat"
+  ],
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nWhenever Septic Rats attacks, if defending player is poisoned, it gets +1/+1 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "septic rats",
+  "colorIdentity": [
+    "B"
+  ]
+}

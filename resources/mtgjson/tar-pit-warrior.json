@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Tar Pit Warrior",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Cyclops Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cyclops",
+    "Warrior"
+  ],
+  "text": "When Tar Pit Warrior becomes the target of a spell or ability, sacrifice it.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "tar pit warrior",
+  "colorIdentity": [
+    "B"
+  ]
+}

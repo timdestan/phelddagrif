@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Memory's Journey",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target player shuffles up to three target cards from his or her graveyard into his or her library.\nFlashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "memory's journey",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

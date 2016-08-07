@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Aven Mindcensor",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Bird Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird",
+    "Wizard"
+  ],
+  "text": "Flash (You may cast this spell any time you could cast an instant.)\nFlying\nIf an opponent would search a library, that player searches the top four cards of that library instead.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "aven mindcensor",
+  "colorIdentity": [
+    "W"
+  ]
+}

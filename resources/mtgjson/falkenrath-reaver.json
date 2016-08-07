@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Falkenrath Reaver",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Vampire",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire"
+  ],
+  "power": "2",
+  "toughness": "2",
+  "imageName": "falkenrath reaver",
+  "colorIdentity": [
+    "R"
+  ]
+}

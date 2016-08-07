@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Food Chain",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Exile a creature you control: Add X mana of any one color to your mana pool, where X is the exiled creature's converted mana cost plus one. Spend this mana only to cast creature spells.",
+  "imageName": "food chain",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Force of Nature",
+  "manaCost": "{2}{G}{G}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)\nAt the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay {G}{G}{G}{G}.",
+  "power": "8",
+  "toughness": "8",
+  "imageName": "force of nature",
+  "colorIdentity": [
+    "G"
+  ]
+}

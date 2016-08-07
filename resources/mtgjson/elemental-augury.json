@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Elemental Augury",
+  "manaCost": "{U}{B}{R}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Black",
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{3}: Look at the top three cards of target player's library, then put them back in any order.",
+  "imageName": "elemental augury",
+  "colorIdentity": [
+    "U",
+    "B",
+    "R"
+  ]
+}

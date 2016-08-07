@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Ob Nixilis, the Fallen",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Legendary Creature — Demon",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon"
+  ],
+  "text": "Landfall — Whenever a land enters the battlefield under your control, you may have target player lose 3 life. If you do, put three +1/+1 counters on Ob Nixilis, the Fallen.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "ob nixilis, the fallen",
+  "colorIdentity": [
+    "B"
+  ]
+}

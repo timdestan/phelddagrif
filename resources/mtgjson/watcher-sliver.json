@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Watcher Sliver",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "All Sliver creatures get +0/+2.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "watcher sliver",
+  "colorIdentity": [
+    "W"
+  ]
+}

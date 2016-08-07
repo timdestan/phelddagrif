@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Gnathosaur",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Lizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Lizard"
+  ],
+  "text": "Sacrifice an artifact: Gnathosaur gains trample until end of turn.",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "gnathosaur",
+  "colorIdentity": [
+    "R"
+  ]
+}

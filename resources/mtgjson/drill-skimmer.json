@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Drill-Skimmer",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Thopter",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Thopter"
+  ],
+  "text": "Flying\nDrill-Skimmer has shroud as long as you control another artifact creature. (It can't be the target of spells or abilities.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "drill-skimmer"
+}

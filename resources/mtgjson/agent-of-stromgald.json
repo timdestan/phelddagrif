@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Agent of Stromgald",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "{R}: Add {B} to your mana pool.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "agent of stromgald",
+  "colorIdentity": [
+    "R",
+    "B"
+  ]
+}

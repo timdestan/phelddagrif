@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ember Gale",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Creatures target player controls can't block this turn. Ember Gale deals 1 damage to each white and/or blue creature that player controls.",
+  "imageName": "ember gale",
+  "colorIdentity": [
+    "R"
+  ]
+}

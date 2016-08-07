@@ -1,0 +1,16 @@
+{
+  "layout": "normal",
+  "name": "Academy Ruins",
+  "type": "Legendary Land",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{1}{U}, {T}: Put target artifact card from your graveyard on top of your library.",
+  "imageName": "academy ruins",
+  "colorIdentity": [
+    "U"
+  ]
+}

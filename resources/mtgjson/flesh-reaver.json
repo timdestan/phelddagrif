@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Flesh Reaver",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "Whenever Flesh Reaver deals damage to a creature or opponent, Flesh Reaver deals that much damage to you.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "flesh reaver",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Elvish Lookout",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf"
+  ],
+  "text": "Shroud (This creature can't be the target of spells or abilities.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "elvish lookout",
+  "colorIdentity": [
+    "G"
+  ]
+}

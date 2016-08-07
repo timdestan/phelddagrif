@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Snow-Covered Forest",
+  "type": "Basic Snow Land — Forest",
+  "supertypes": [
+    "Basic",
+    "Snow"
+  ],
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Forest"
+  ],
+  "imageName": "snow-covered forest",
+  "colorIdentity": [
+    "G"
+  ]
+}

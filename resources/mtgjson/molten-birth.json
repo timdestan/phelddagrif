@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Molten Birth",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put two 1/1 red Elemental creature tokens onto the battlefield. Then flip a coin. If you win the flip, return Molten Birth to its owner's hand.",
+  "imageName": "molten birth",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Myr Superion",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact Creature — Myr",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Myr"
+  ],
+  "text": "Spend only mana produced by creatures to cast Myr Superion.",
+  "power": "5",
+  "toughness": "6",
+  "imageName": "myr superion"
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mobilization",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Soldier creatures have vigilance.\n{2}{W}: Put a 1/1 white Soldier creature token onto the battlefield.",
+  "imageName": "mobilization",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Veiled Serpent",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "When an opponent casts a spell, if Veiled Serpent is an enchantment, Veiled Serpent becomes a 4/4 Serpent creature with \"This creature can't attack unless defending player controls an Island.\"\nCycling {2} ({2}, Discard this card: Draw a card.)",
+  "imageName": "veiled serpent",
+  "colorIdentity": [
+    "U"
+  ]
+}

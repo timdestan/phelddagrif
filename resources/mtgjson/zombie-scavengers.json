@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Zombie Scavengers",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Exile the top creature card of your graveyard: Regenerate Zombie Scavengers.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "zombie scavengers",
+  "colorIdentity": [
+    "B"
+  ]
+}

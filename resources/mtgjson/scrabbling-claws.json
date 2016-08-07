@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Scrabbling Claws",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}: Target player exiles a card from his or her graveyard.\n{1}, Sacrifice Scrabbling Claws: Exile target card from a graveyard. Draw a card.",
+  "imageName": "scrabbling claws"
+}

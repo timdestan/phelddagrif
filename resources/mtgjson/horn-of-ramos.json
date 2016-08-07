@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Horn of Ramos",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}: Add {G} to your mana pool.\nSacrifice Horn of Ramos: Add {G} to your mana pool.",
+  "imageName": "horn of ramos",
+  "colorIdentity": [
+    "G"
+  ]
+}

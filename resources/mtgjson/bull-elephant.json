@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Bull Elephant",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elephant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elephant"
+  ],
+  "text": "When Bull Elephant enters the battlefield, sacrifice it unless you return two Forests you control to their owner's hand.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "bull elephant",
+  "colorIdentity": [
+    "G"
+  ]
+}

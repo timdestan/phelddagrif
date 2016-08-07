@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Dromoka Captain",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "First strike\nWhenever Dromoka Captain attacks, bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "dromoka captain",
+  "colorIdentity": [
+    "W"
+  ]
+}

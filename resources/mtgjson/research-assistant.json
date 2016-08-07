@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Research Assistant",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{3}{U}, {T}: Draw a card, then discard a card.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "research assistant",
+  "colorIdentity": [
+    "U"
+  ]
+}

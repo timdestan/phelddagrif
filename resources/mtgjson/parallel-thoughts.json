@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Parallel Thoughts",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "When Parallel Thoughts enters the battlefield, search your library for seven cards, exile them in a face-down pile, and shuffle that pile. Then shuffle your library.\nIf you would draw a card, you may instead put the top card of the pile you exiled into your hand.",
+  "imageName": "parallel thoughts",
+  "colorIdentity": [
+    "U"
+  ]
+}

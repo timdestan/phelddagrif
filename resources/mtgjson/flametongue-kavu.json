@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Flametongue Kavu",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Kavu",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kavu"
+  ],
+  "text": "When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature.",
+  "power": "4",
+  "toughness": "2",
+  "imageName": "flametongue kavu",
+  "colorIdentity": [
+    "R"
+  ]
+}

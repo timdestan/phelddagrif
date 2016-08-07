@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Leyline of Singularity",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "If Leyline of Singularity is in your opening hand, you may begin the game with it on the battlefield.\nAll nonland permanents are legendary.",
+  "imageName": "leyline of singularity",
+  "colorIdentity": [
+    "U"
+  ]
+}

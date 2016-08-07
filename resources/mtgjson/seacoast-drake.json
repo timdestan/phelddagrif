@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Seacoast Drake",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flying",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "seacoast drake",
+  "colorIdentity": [
+    "U"
+  ]
+}

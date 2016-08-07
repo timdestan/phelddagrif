@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Festerhide Boar",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Boar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Boar"
+  ],
+  "text": "Trample\nMorbid — Festerhide Boar enters the battlefield with two +1/+1 counters on it if a creature died this turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "festerhide boar",
+  "colorIdentity": [
+    "G"
+  ]
+}

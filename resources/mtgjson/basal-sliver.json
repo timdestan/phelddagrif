@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Basal Sliver",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "All Slivers have \"Sacrifice this permanent: Add {B}{B} to your mana pool.\"",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "basal sliver",
+  "colorIdentity": [
+    "B"
+  ]
+}

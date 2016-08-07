@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Time of Need",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Search your library for a legendary creature card, reveal it, and put it into your hand. Then shuffle your library.",
+  "imageName": "time of need",
+  "colorIdentity": [
+    "G"
+  ]
+}

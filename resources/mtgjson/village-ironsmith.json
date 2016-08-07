@@ -1,0 +1,28 @@
+{
+  "layout": "double-faced",
+  "name": "Village Ironsmith",
+  "names": [
+    "Village Ironsmith",
+    "Ironfang"
+  ],
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Werewolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Werewolf"
+  ],
+  "text": "First strike\nAt the beginning of each upkeep, if no spells were cast last turn, transform Village Ironsmith.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "village ironsmith",
+  "colorIdentity": [
+    "R"
+  ]
+}

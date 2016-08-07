@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Sandstone Needle",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Sandstone Needle enters the battlefield tapped with two depletion counters on it.\n{T}, Remove a depletion counter from Sandstone Needle: Add {R}{R} to your mana pool. If there are no depletion counters on Sandstone Needle, sacrifice it.",
+  "imageName": "sandstone needle",
+  "colorIdentity": [
+    "R"
+  ]
+}

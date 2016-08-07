@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Yavimaya Coast",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{T}: Add {G} or {U} to your mana pool. Yavimaya Coast deals 1 damage to you.",
+  "imageName": "yavimaya coast",
+  "colorIdentity": [
+    "G",
+    "U"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Oracle en-Vec",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{T}: Target opponent chooses any number of creatures he or she controls. During that player's next turn, the chosen creatures attack if able, and other creatures can't attack. At the beginning of that turn's end step, destroy each of the chosen creatures that didn't attack. Activate this ability only during your turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "oracle en-vec",
+  "colorIdentity": [
+    "W"
+  ]
+}

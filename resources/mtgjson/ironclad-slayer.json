@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ironclad Slayer",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "When Ironclad Slayer enters the battlefield, you may return target Aura or Equipment card from your graveyard to your hand.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "ironclad slayer",
+  "colorIdentity": [
+    "W"
+  ]
+}

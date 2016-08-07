@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Core Prowler",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Horror",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nWhen Core Prowler dies, proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "core prowler"
+}

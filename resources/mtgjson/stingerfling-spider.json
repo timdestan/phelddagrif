@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Stingerfling Spider",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Spider",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spider"
+  ],
+  "text": "Reach\nWhen Stingerfling Spider enters the battlefield, you may destroy target creature with flying.",
+  "power": "2",
+  "toughness": "5",
+  "imageName": "stingerfling spider",
+  "colorIdentity": [
+    "G"
+  ]
+}

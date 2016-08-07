@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Free-for-All",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "When Free-for-All comes into play, set aside all creatures in play, face down.\nDuring each player's upkeep, that player chooses a creature card at random from those set aside in this way and puts that creature into play under his or her control.\nIf Free-for-All leaves play, put each creature still set aside this way into its owner's graveyard.",
+  "imageName": "free-for-all",
+  "colorIdentity": [
+    "U"
+  ]
+}

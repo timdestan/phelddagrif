@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Volcanic Wind",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Volcanic Wind deals X damage divided as you choose among any number of target creatures, where X is the number of creatures on the battlefield as you cast Volcanic Wind.",
+  "imageName": "volcanic wind",
+  "colorIdentity": [
+    "R"
+  ]
+}

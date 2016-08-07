@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Brass Man",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact Creature — Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "text": "Brass Man doesn't untap during your untap step.\nAt the beginning of your upkeep, you may pay {1}. If you do, untap Brass Man.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "brass man"
+}

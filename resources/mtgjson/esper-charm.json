@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Esper Charm",
+  "manaCost": "{W}{U}{B}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Blue",
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose one —\n• Destroy target enchantment.\n• Draw two cards.\n• Target player discards two cards.",
+  "imageName": "esper charm",
+  "colorIdentity": [
+    "W",
+    "U",
+    "B"
+  ]
+}

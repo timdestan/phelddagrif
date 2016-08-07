@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Scatter Arc",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target noncreature spell.\nDraw a card.",
+  "imageName": "scatter arc",
+  "colorIdentity": [
+    "U"
+  ]
+}

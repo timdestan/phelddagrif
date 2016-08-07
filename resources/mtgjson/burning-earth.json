@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Burning Earth",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a player taps a nonbasic land for mana, Burning Earth deals 1 damage to that player.",
+  "imageName": "burning earth",
+  "colorIdentity": [
+    "R"
+  ]
+}

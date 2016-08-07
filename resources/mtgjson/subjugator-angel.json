@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Subjugator Angel",
+  "manaCost": "{4}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nWhen Subjugator Angel enters the battlefield, tap all creatures your opponents control.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "subjugator angel",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Haunted Dead",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "When Haunted Dead enters the battlefield, put a 1/1 white Spirit creature token with flying onto the battlefield.\n{1}{B}, Discard two cards: Return Haunted Dead from your graveyard to the battlefield tapped.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "haunted dead",
+  "colorIdentity": [
+    "B"
+  ]
+}

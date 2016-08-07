@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Displacement Wave",
+  "manaCost": "{X}{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Return all nonland permanents with converted mana cost X or less to their owners' hands.",
+  "imageName": "displacement wave",
+  "colorIdentity": [
+    "U"
+  ]
+}

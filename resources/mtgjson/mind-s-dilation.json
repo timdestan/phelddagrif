@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mind's Dilation",
+  "manaCost": "{5}{U}{U}",
+  "cmc": 7,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever an opponent casts his or her first spell each turn, that player exiles the top card of his or her library. If it's a nonland card, you may cast it without paying its mana cost.",
+  "imageName": "mind's dilation",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Multani's Presence",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a spell you've cast is countered, draw a card.",
+  "imageName": "multani's presence",
+  "colorIdentity": [
+    "G"
+  ]
+}

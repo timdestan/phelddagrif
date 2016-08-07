@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Epitaph Golem",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "{2}: Put target card from your graveyard on the bottom of your library.",
+  "power": "3",
+  "toughness": "5",
+  "imageName": "epitaph golem"
+}

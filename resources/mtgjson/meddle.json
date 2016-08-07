@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Meddle",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "If target spell has only one target and that target is a creature, change that spell's target to another creature.",
+  "imageName": "meddle",
+  "colorIdentity": [
+    "U"
+  ]
+}

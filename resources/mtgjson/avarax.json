@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Avarax",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Haste\nWhen Avarax enters the battlefield, you may search your library for a card named Avarax, reveal it, and put it into your hand. If you do, shuffle your library.\n{1}{R}: Avarax gets +1/+0 until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "avarax",
+  "colorIdentity": [
+    "R"
+  ]
+}

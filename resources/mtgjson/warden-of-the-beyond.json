@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Warden of the Beyond",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Vigilance (Attacking doesn't cause this creature to tap.)\nWarden of the Beyond gets +2/+2 as long as an opponent owns a card in exile.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "warden of the beyond",
+  "colorIdentity": [
+    "W"
+  ]
+}

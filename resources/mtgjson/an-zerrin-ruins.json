@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "An-Zerrin Ruins",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "As An-Zerrin Ruins enters the battlefield, choose a creature type.\nCreatures of the chosen type don't untap during their controllers' untap steps.",
+  "imageName": "an-zerrin ruins",
+  "colorIdentity": [
+    "R"
+  ]
+}

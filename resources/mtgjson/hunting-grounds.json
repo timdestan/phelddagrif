@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Hunting Grounds",
+  "manaCost": "{G}{W}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Threshold — As long as seven or more cards are in your graveyard, Hunting Grounds has \"Whenever an opponent casts a spell, you may put a creature card from your hand onto the battlefield.\"",
+  "imageName": "hunting grounds",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

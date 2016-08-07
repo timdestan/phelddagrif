@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Arboria",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "World Enchantment",
+  "supertypes": [
+    "World"
+  ],
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Creatures can't attack a player unless that player cast a spell or put a nontoken permanent onto the battlefield during his or her last turn.",
+  "imageName": "arboria",
+  "colorIdentity": [
+    "G"
+  ]
+}

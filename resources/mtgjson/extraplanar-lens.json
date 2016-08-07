@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Extraplanar Lens",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Imprint — When Extraplanar Lens enters the battlefield, you may exile target land you control.\nWhenever a land with the same name as the exiled card is tapped for mana, its controller adds one mana to his or her mana pool of any type that land produced.",
+  "imageName": "extraplanar lens"
+}

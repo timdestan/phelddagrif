@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Painful Memories",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Look at target opponent's hand and choose a card from it. Put that card on top of that player's library.",
+  "imageName": "painful memories",
+  "colorIdentity": [
+    "B"
+  ]
+}

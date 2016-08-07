@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Scarred Vinebreeder",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Elf Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Shaman"
+  ],
+  "text": "{2}{B}, Exile an Elf card from your graveyard: Scarred Vinebreeder gets +3/+3 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "scarred vinebreeder",
+  "colorIdentity": [
+    "B"
+  ]
+}

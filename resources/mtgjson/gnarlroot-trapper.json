@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Gnarlroot Trapper",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Elf Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Druid"
+  ],
+  "text": "{T}, Pay 1 life: Add {G} to your mana pool. Spend this mana only to cast an Elf creature spell.\n{T}: Target attacking Elf you control gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "gnarlroot trapper",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

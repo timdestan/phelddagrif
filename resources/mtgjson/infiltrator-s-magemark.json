@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Infiltrator's Magemark",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nCreatures you control that are enchanted get +1/+1 and can't be blocked except by creatures with defender.",
+  "imageName": "infiltrator's magemark",
+  "colorIdentity": [
+    "U"
+  ]
+}

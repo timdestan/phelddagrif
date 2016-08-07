@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Demonic Taskmaster",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Demon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon"
+  ],
+  "text": "Flying\nAt the beginning of your upkeep, sacrifice a creature other than Demonic Taskmaster.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "demonic taskmaster",
+  "colorIdentity": [
+    "B"
+  ]
+}

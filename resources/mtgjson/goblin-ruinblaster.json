@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Goblin Ruinblaster",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Shaman"
+  ],
+  "text": "Kicker {R} (You may pay an additional {R} as you cast this spell.)\nHaste\nWhen Goblin Ruinblaster enters the battlefield, if it was kicked, destroy target nonbasic land.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "goblin ruinblaster",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Unnatural Selection",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{1}: Choose a creature type other than Wall. Target creature becomes that type until end of turn.",
+  "imageName": "unnatural selection",
+  "colorIdentity": [
+    "U"
+  ]
+}

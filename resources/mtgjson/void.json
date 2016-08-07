@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Void",
+  "manaCost": "{3}{B}{R}",
+  "cmc": 5,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Choose a number. Destroy all artifacts and creatures with converted mana cost equal to that number. Then target player reveals his or her hand and discards all nonland cards with converted mana cost equal to the number.",
+  "imageName": "void",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

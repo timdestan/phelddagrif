@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Flooded Strand",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card and put it onto the battlefield. Then shuffle your library.",
+  "imageName": "flooded strand"
+}

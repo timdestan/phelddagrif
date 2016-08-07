@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Victim of Night",
+  "manaCost": "{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target non-Vampire, non-Werewolf, non-Zombie creature.",
+  "imageName": "victim of night",
+  "colorIdentity": [
+    "B"
+  ]
+}

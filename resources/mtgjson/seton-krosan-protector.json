@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Seton, Krosan Protector",
+  "manaCost": "{G}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Legendary Creature — Centaur Druid",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Centaur",
+    "Druid"
+  ],
+  "text": "Tap an untapped Druid you control: Add {G} to your mana pool.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "seton, krosan protector",
+  "colorIdentity": [
+    "G"
+  ]
+}

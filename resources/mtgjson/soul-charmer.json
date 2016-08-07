@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Soul Charmer",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Rebel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rebel"
+  ],
+  "text": "Whenever Soul Charmer deals combat damage to a creature, you gain 2 life unless that creature's controller pays {2}.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "soul charmer",
+  "colorIdentity": [
+    "W"
+  ]
+}

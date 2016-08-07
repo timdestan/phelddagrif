@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Glint Hawk Idol",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Whenever another artifact enters the battlefield under your control, you may have Glint Hawk Idol become a 2/2 Bird artifact creature with flying until end of turn.\n{W}: Glint Hawk Idol becomes a 2/2 Bird artifact creature with flying until end of turn.",
+  "imageName": "glint hawk idol",
+  "colorIdentity": [
+    "W"
+  ]
+}

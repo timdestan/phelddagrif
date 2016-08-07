@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Avatar of Discord",
+  "manaCost": "{B/R}{B/R}{B/R}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Avatar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Avatar"
+  ],
+  "text": "({B/R} can be paid with either {B} or {R}.)\nFlying\nWhen Avatar of Discord enters the battlefield, sacrifice it unless you discard two cards.",
+  "power": "5",
+  "toughness": "3",
+  "imageName": "avatar of discord",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

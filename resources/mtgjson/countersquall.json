@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Countersquall",
+  "manaCost": "{U}{B}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target noncreature spell. Its controller loses 2 life.",
+  "imageName": "countersquall",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

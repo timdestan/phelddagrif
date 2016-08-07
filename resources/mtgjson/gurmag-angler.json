@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Gurmag Angler",
+  "manaCost": "{6}{B}",
+  "cmc": 7,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Fish",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Fish"
+  ],
+  "text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "gurmag angler",
+  "colorIdentity": [
+    "B"
+  ]
+}

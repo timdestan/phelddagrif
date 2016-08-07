@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Treetop Defense",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Cast Treetop Defense only during the declare attackers step and only if you've been attacked this step.\nCreatures you control gain reach until end of turn. (They can block creatures with flying.)",
+  "imageName": "treetop defense",
+  "colorIdentity": [
+    "G"
+  ]
+}

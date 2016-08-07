@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Side to Side",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "You and target opponent arm-wrestle. If you win, put a 3/3 green Ape creature token into play.",
+  "imageName": "side to side",
+  "colorIdentity": [
+    "G"
+  ]
+}

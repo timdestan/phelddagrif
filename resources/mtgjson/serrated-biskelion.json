@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Serrated Biskelion",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "text": "{T}: Put a -1/-1 counter on Serrated Biskelion and a -1/-1 counter on target creature.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "serrated biskelion"
+}

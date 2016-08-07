@@ -1,0 +1,20 @@
+{
+  "layout": "plane",
+  "name": "Krosa",
+  "type": "Plane — Dominaria",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Dominaria"
+  ],
+  "text": "All creatures get +2/+2.\nWhenever you roll CHAOS, you may add {W}{U}{B}{R}{G} to your mana pool.",
+  "imageName": "krosa",
+  "colorIdentity": [
+    "W",
+    "U",
+    "B",
+    "R",
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Whitemane Lion",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Cat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat"
+  ],
+  "text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen Whitemane Lion enters the battlefield, return a creature you control to its owner's hand.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "whitemane lion",
+  "colorIdentity": [
+    "W"
+  ]
+}

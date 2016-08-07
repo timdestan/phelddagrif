@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Fires of Yavimaya",
+  "manaCost": "{1}{R}{G}",
+  "cmc": 3,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Creatures you control have haste.\nSacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.",
+  "imageName": "fires of yavimaya",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

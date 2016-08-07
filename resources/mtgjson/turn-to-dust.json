@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Turn to Dust",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target Equipment. Add {G} to your mana pool.",
+  "imageName": "turn to dust",
+  "colorIdentity": [
+    "G"
+  ]
+}

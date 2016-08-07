@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Ben-Ben, Akki Hermit",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Creature — Goblin Shaman",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Shaman"
+  ],
+  "text": "{T}: Ben-Ben, Akki Hermit deals damage to target attacking creature equal to the number of untapped Mountains you control.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "ben-ben, akki hermit",
+  "colorIdentity": [
+    "R"
+  ]
+}

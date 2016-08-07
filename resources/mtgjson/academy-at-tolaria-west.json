@@ -1,0 +1,13 @@
+{
+  "layout": "plane",
+  "name": "Academy at Tolaria West",
+  "type": "Plane — Dominaria",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Dominaria"
+  ],
+  "text": "At the beginning of your end step, if you have no cards in hand, draw seven cards.\nWhenever you roll CHAOS, discard your hand.",
+  "imageName": "academy at tolaria west"
+}

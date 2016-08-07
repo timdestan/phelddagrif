@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Angelic Page",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel",
+    "Spirit"
+  ],
+  "text": "Flying\n{T}: Target attacking or blocking creature gets +1/+1 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "angelic page",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Unsummon",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Return target creature to its owner's hand.",
+  "imageName": "unsummon",
+  "colorIdentity": [
+    "U"
+  ]
+}

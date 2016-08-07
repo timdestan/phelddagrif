@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Foxfire Oak",
+  "manaCost": "{5}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Treefolk Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Treefolk",
+    "Shaman"
+  ],
+  "text": "{R/G}{R/G}{R/G}: Foxfire Oak gets +3/+0 until end of turn.",
+  "power": "3",
+  "toughness": "6",
+  "imageName": "foxfire oak",
+  "colorIdentity": [
+    "G",
+    "R"
+  ]
+}

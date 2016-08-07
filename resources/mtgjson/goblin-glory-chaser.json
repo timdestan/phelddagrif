@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Goblin Glory Chaser",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Warrior"
+  ],
+  "text": "Renown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)\nAs long as Goblin Glory Chaser is renowned, it has menace. (It can't be blocked except by two or more creatures.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "goblin glory chaser",
+  "colorIdentity": [
+    "R"
+  ]
+}

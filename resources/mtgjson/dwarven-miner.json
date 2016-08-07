@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dwarven Miner",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dwarf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dwarf"
+  ],
+  "text": "{2}{R}, {T}: Destroy target nonbasic land.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "dwarven miner",
+  "colorIdentity": [
+    "R"
+  ]
+}

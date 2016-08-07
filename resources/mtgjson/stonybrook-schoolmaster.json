@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Stonybrook Schoolmaster",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Merfolk Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Wizard"
+  ],
+  "text": "Whenever Stonybrook Schoolmaster becomes tapped, you may put a 1/1 blue Merfolk Wizard creature token onto the battlefield.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "stonybrook schoolmaster",
+  "colorIdentity": [
+    "W"
+  ]
+}

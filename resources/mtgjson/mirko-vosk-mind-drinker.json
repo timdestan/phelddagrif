@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Mirko Vosk, Mind Drinker",
+  "manaCost": "{3}{U}{B}",
+  "cmc": 5,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Legendary Creature — Vampire",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire"
+  ],
+  "text": "Flying\nWhenever Mirko Vosk, Mind Drinker deals combat damage to a player, that player reveals cards from the top of his or her library until he or she reveals four land cards, then puts those cards into his or her graveyard.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "mirko vosk, mind drinker",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

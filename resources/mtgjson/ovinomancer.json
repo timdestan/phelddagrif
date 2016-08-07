@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ovinomancer",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "When Ovinomancer enters the battlefield, sacrifice it unless you return three basic lands you control to their owner's hand.\n{T}, Return Ovinomancer to its owner's hand: Destroy target creature. It can't be regenerated. That creature's controller puts a 0/1 green Sheep creature token onto the battlefield.",
+  "power": "0",
+  "toughness": "1",
+  "imageName": "ovinomancer",
+  "colorIdentity": [
+    "U"
+  ]
+}

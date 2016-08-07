@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mire's Toll",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target player reveals a number of cards from his or her hand equal to the number of Swamps you control. You choose one of them. That player discards that card.",
+  "imageName": "mire's toll",
+  "colorIdentity": [
+    "B"
+  ]
+}

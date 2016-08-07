@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Forethought Amulet",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "At the beginning of your upkeep, sacrifice Forethought Amulet unless you pay {3}.\nIf an instant or sorcery source would deal 3 or more damage to you, it deals 2 damage to you instead.",
+  "imageName": "forethought amulet"
+}

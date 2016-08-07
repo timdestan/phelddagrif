@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Incorrigible Youths",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Vampire",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire"
+  ],
+  "text": "Haste\nMadness {2}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "incorrigible youths",
+  "colorIdentity": [
+    "R"
+  ]
+}

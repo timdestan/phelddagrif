@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Snow-Covered Plains",
+  "type": "Basic Snow Land — Plains",
+  "supertypes": [
+    "Basic",
+    "Snow"
+  ],
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Plains"
+  ],
+  "imageName": "snow-covered plains",
+  "colorIdentity": [
+    "W"
+  ]
+}

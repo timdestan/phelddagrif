@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Retract",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Return all artifacts you control to their owner's hand.",
+  "imageName": "retract",
+  "colorIdentity": [
+    "U"
+  ]
+}

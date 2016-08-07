@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Rolling Spoil",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target land. If {B} was spent to cast Rolling Spoil, all creatures get -1/-1 until end of turn.",
+  "imageName": "rolling spoil",
+  "colorIdentity": [
+    "G",
+    "B"
+  ]
+}

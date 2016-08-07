@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Preyseizer Dragon",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying\nDevour 2 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.)\nWhenever Preyseizer Dragon attacks, it deals damage to target creature or player equal to the number of +1/+1 counters on Preyseizer Dragon.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "preyseizer dragon",
+  "colorIdentity": [
+    "R"
+  ]
+}

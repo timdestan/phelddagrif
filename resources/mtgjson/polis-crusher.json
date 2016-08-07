@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Polis Crusher",
+  "manaCost": "{2}{R}{G}",
+  "cmc": 4,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Cyclops",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cyclops"
+  ],
+  "text": "Trample, protection from enchantments\n{4}{R}{G}: Monstrosity 3. (If this creature isn't monstrous, put three +1/+1 counters on it and it becomes monstrous.)\nWhenever Polis Crusher deals combat damage to a player, if Polis Crusher is monstrous, destroy target enchantment that player controls.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "polis crusher",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Silverchase Fox",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Fox",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Fox"
+  ],
+  "text": "{1}{W}, Sacrifice Silverchase Fox: Exile target enchantment.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "silverchase fox",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Invigorating Boon",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a player cycles a card, you may put a +1/+1 counter on target creature.",
+  "imageName": "invigorating boon",
+  "colorIdentity": [
+    "G"
+  ]
+}

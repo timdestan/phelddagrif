@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Jwari Shapeshifter",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Shapeshifter Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Shapeshifter",
+    "Ally"
+  ],
+  "text": "You may have Jwari Shapeshifter enter the battlefield as a copy of any Ally creature on the battlefield.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "jwari shapeshifter",
+  "colorIdentity": [
+    "U"
+  ]
+}

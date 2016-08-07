@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Dragonlord's Servant",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Shaman"
+  ],
+  "text": "Dragon spells you cast cost {1} less to cast.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "dragonlord's servant",
+  "colorIdentity": [
+    "R"
+  ]
+}

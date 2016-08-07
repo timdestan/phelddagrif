@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Harm's Way",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "The next 2 damage that a source of your choice would deal to you and/or permanents you control this turn is dealt to target creature or player instead.",
+  "imageName": "harm's way",
+  "colorIdentity": [
+    "W"
+  ]
+}

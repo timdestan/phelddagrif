@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Water Gun Balloon Game",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "As Water Gun Balloon Game comes into play, each player puts a pop counter on a 0.\nWhenever a player plays a spell, move that player's pop counter up 1.\nWhenever a player's pop counter hits 5, that player puts a 5/5 pink Giant Teddy Bear creature token into play and resets all pop counters to 0.",
+  "imageName": "water gun balloon game"
+}

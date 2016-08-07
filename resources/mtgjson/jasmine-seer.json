@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Jasmine Seer",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{2}{W}, {T}: Reveal any number of white cards in your hand. You gain 2 life for each card revealed this way.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "jasmine seer",
+  "colorIdentity": [
+    "W"
+  ]
+}

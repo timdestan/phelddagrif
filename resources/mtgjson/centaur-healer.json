@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Centaur Healer",
+  "manaCost": "{1}{G}{W}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Centaur Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Centaur",
+    "Cleric"
+  ],
+  "text": "When Centaur Healer enters the battlefield, you gain 3 life.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "centaur healer",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Eladamri, Lord of Leaves Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "At the beginning of each player's precombat main phase, that player adds {G}{G} to his or her mana pool.",
+  "imageName": "eladamri, lord of leaves avatar",
+  "hand": -1,
+  "life": 2
+}

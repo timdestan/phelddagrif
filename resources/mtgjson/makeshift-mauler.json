@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Makeshift Mauler",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Zombie Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Horror"
+  ],
+  "text": "As an additional cost to cast Makeshift Mauler, exile a creature card from your graveyard.",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "makeshift mauler",
+  "colorIdentity": [
+    "U"
+  ]
+}

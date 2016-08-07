@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Alloy Golem",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "As Alloy Golem enters the battlefield, choose a color.\nAlloy Golem is the chosen color. (It's still an artifact.)",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "alloy golem"
+}

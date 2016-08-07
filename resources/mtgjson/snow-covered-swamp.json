@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Snow-Covered Swamp",
+  "type": "Basic Snow Land — Swamp",
+  "supertypes": [
+    "Basic",
+    "Snow"
+  ],
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Swamp"
+  ],
+  "imageName": "snow-covered swamp",
+  "colorIdentity": [
+    "B"
+  ]
+}

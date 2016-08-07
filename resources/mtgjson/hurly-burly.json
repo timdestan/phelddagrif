@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Hurly-Burly",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Choose one —\n• Hurly-Burly deals 1 damage to each creature without flying.\n• Hurly-Burly deals 1 damage to each creature with flying.",
+  "imageName": "hurly-burly",
+  "colorIdentity": [
+    "R"
+  ]
+}

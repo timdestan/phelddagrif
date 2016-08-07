@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Soltari Guerrillas",
+  "manaCost": "{2}{R}{W}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Creature — Soltari Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Soltari",
+    "Soldier"
+  ],
+  "text": "Shadow (This creature can block or be blocked by only creatures with shadow.)\n{0}: The next time Soltari Guerrillas would deal combat damage to an opponent this turn, it deals that damage to target creature instead.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "soltari guerrillas",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Charmed Pendant",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}, Put the top card of your library into your graveyard: For each colored mana symbol in that card's mana cost, add one mana of that color to your mana pool. Activate this ability only any time you could cast an instant. (For example, if the card's mana cost is {3}{U}{U}{B}, you add {U}{U}{B} to your mana pool.)",
+  "imageName": "charmed pendant"
+}

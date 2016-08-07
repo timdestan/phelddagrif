@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Aleatory",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Cast Aleatory only during combat after blockers are declared.\nFlip a coin. If you win the flip, target creature gets +1/+1 until end of turn.\nDraw a card at the beginning of the next turn's upkeep.",
+  "imageName": "aleatory",
+  "colorIdentity": [
+    "R"
+  ]
+}

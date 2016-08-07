@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Blood Ogre",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Ogre Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ogre",
+    "Warrior"
+  ],
+  "text": "Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)\nFirst strike (This creature deals combat damage before creatures without first strike.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "blood ogre",
+  "colorIdentity": [
+    "R"
+  ]
+}

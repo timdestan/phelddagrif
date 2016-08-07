@@ -1,0 +1,13 @@
+{
+  "layout": "plane",
+  "name": "Goldmeadow",
+  "type": "Plane — Lorwyn",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Lorwyn"
+  ],
+  "text": "Whenever a land enters the battlefield, that land's controller puts three 0/1 white Goat creature tokens onto the battlefield.\nWhenever you roll CHAOS, put a 0/1 white Goat creature token onto the battlefield.",
+  "imageName": "goldmeadow"
+}

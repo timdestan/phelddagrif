@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Halcyon Glaze",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever you cast a creature spell, Halcyon Glaze becomes a 4/4 Illusion creature with flying in addition to its other types until end of turn.",
+  "imageName": "halcyon glaze",
+  "colorIdentity": [
+    "U"
+  ]
+}

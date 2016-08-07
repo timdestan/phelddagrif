@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Coffin Queen",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Wizard"
+  ],
+  "text": "You may choose not to untap Coffin Queen during your untap step.\n{2}{B}, {T}: Put target creature card from a graveyard onto the battlefield under your control. When Coffin Queen becomes untapped or you lose control of Coffin Queen, exile that creature.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "coffin queen",
+  "colorIdentity": [
+    "B"
+  ]
+}

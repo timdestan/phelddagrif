@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Veteran Cathar",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "{3}{W}: Target Human gains double strike until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "veteran cathar",
+  "colorIdentity": [
+    "G",
+    "W"
+  ]
+}

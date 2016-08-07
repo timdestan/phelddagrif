@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Detention Sphere",
+  "manaCost": "{1}{W}{U}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "When Detention Sphere enters the battlefield, you may exile target nonland permanent not named Detention Sphere and all other permanents with the same name as that permanent.\nWhen Detention Sphere leaves the battlefield, return the exiled cards to the battlefield under their owner's control.",
+  "imageName": "detention sphere",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

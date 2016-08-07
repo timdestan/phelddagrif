@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Biomantic Mastery",
+  "manaCost": "{4}{G/U}{G/U}{G/U}",
+  "cmc": 7,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Draw a card for each creature target player controls, then draw a card for each creature another target player controls.",
+  "imageName": "biomantic mastery",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

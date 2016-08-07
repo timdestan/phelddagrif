@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Battlegrowth",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Put a +1/+1 counter on target creature.",
+  "imageName": "battlegrowth",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Duskmantle Prowler",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Rogue"
+  ],
+  "text": "Haste (This creature can attack and {T} as soon as it comes under your control.)\nExalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "duskmantle prowler",
+  "colorIdentity": [
+    "B"
+  ]
+}

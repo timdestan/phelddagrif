@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Volcanic Eruption",
+  "manaCost": "{X}{U}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy X target Mountains. Volcanic Eruption deals damage to each creature and each player equal to the number of Mountains put into a graveyard this way.",
+  "imageName": "volcanic eruption",
+  "colorIdentity": [
+    "U"
+  ]
+}

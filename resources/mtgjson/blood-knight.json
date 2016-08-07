@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Blood Knight",
+  "manaCost": "{R}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "First strike, protection from white",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "blood knight",
+  "colorIdentity": [
+    "R"
+  ]
+}

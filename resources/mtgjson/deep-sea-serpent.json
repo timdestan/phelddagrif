@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Deep-Sea Serpent",
+  "manaCost": "{4}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Serpent",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Serpent"
+  ],
+  "text": "Deep-Sea Serpent can't attack unless defending player controls an Island.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "deep-sea serpent",
+  "colorIdentity": [
+    "U"
+  ]
+}

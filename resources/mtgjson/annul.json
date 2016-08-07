@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Annul",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target artifact or enchantment spell.",
+  "imageName": "annul",
+  "colorIdentity": [
+    "U"
+  ]
+}

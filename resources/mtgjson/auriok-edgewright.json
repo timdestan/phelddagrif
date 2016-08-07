@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Auriok Edgewright",
+  "manaCost": "{W}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Metalcraft — Auriok Edgewright has double strike as long as you control three or more artifacts.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "auriok edgewright",
+  "colorIdentity": [
+    "W"
+  ]
+}

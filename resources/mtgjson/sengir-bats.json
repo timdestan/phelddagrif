@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sengir Bats",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Bat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bat"
+  ],
+  "text": "Flying\nWhenever a creature dealt damage by Sengir Bats this turn dies, put a +1/+1 counter on Sengir Bats.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "sengir bats",
+  "colorIdentity": [
+    "B"
+  ]
+}

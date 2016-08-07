@@ -1,0 +1,28 @@
+{
+  "layout": "double-faced",
+  "name": "Gatstaf Arsonists",
+  "names": [
+    "Gatstaf Arsonists",
+    "Gatstaf Ravagers"
+  ],
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Werewolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Werewolf"
+  ],
+  "text": "At the beginning of each upkeep, if no spells were cast last turn, transform Gatstaf Arsonists.",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "gatstaf arsonists",
+  "colorIdentity": [
+    "R"
+  ]
+}

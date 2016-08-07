@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Rakdos Pit Dragon",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "{R}{R}: Rakdos Pit Dragon gains flying until end of turn.\n{R}: Rakdos Pit Dragon gets +1/+0 until end of turn.\nHellbent — Rakdos Pit Dragon has double strike as long as you have no cards in hand.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "rakdos pit dragon",
+  "colorIdentity": [
+    "R"
+  ]
+}

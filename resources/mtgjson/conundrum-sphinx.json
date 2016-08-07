@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Conundrum Sphinx",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Sphinx",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sphinx"
+  ],
+  "text": "Flying\nWhenever Conundrum Sphinx attacks, each player names a card. Then each player reveals the top card of his or her library. If the card a player revealed is the card he or she named, that player puts it into his or her hand. If it's not, that player puts it on the bottom of his or her library.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "conundrum sphinx",
+  "colorIdentity": [
+    "U"
+  ]
+}

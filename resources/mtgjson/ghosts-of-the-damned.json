@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ghosts of the Damned",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "{T}: Target creature gets -1/-0 until end of turn.",
+  "power": "0",
+  "toughness": "2",
+  "imageName": "ghosts of the damned",
+  "colorIdentity": [
+    "B"
+  ]
+}

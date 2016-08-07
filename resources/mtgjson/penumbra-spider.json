@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Penumbra Spider",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Spider",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spider"
+  ],
+  "text": "Reach\nWhen Penumbra Spider dies, put a 2/4 black Spider creature token with reach onto the battlefield.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "penumbra spider",
+  "colorIdentity": [
+    "G"
+  ]
+}

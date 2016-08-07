@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rejuvenate",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "You gain 6 life.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+  "imageName": "rejuvenate",
+  "colorIdentity": [
+    "G"
+  ]
+}

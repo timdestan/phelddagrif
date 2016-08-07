@@ -1,0 +1,16 @@
+{
+  "layout": "normal",
+  "name": "Shivan Gorge",
+  "type": "Legendary Land",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{2}{R}, {T}: Shivan Gorge deals 1 damage to each opponent.",
+  "imageName": "shivan gorge",
+  "colorIdentity": [
+    "R"
+  ]
+}

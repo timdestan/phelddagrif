@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Grinning Demon Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "Whenever a nontoken creature you control dies, target opponent discards a card.",
+  "imageName": "grinning demon avatar",
+  "hand": -1,
+  "life": -2
+}

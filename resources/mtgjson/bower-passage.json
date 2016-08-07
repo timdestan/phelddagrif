@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Bower Passage",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Creatures with flying can't block creatures you control.",
+  "imageName": "bower passage",
+  "colorIdentity": [
+    "G"
+  ]
+}

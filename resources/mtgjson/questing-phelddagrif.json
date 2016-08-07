@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Questing Phelddagrif",
+  "manaCost": "{1}{G}{W}{U}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Blue",
+    "Green"
+  ],
+  "type": "Creature — Phelddagrif",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Phelddagrif"
+  ],
+  "text": "{G}: Questing Phelddagrif gets +1/+1 until end of turn. Target opponent puts a 1/1 green Hippo creature token onto the battlefield.\n{W}: Questing Phelddagrif gains protection from black and from red until end of turn. Target opponent gains 2 life.\n{U}: Questing Phelddagrif gains flying until end of turn. Target opponent may draw a card.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "questing phelddagrif",
+  "colorIdentity": [
+    "W",
+    "U",
+    "G"
+  ]
+}

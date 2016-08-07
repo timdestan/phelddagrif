@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Cruel Bargain",
+  "manaCost": "{B}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Draw four cards. You lose half your life, rounded up.",
+  "imageName": "cruel bargain",
+  "colorIdentity": [
+    "B"
+  ]
+}

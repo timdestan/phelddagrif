@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Beacon of Tomorrows",
+  "manaCost": "{6}{U}{U}",
+  "cmc": 8,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target player takes an extra turn after this one. Shuffle Beacon of Tomorrows into its owner's library.",
+  "imageName": "beacon of tomorrows",
+  "colorIdentity": [
+    "U"
+  ]
+}

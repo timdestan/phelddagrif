@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Academy Rector",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "When Academy Rector dies, you may exile it. If you do, search your library for an enchantment card, put that card onto the battlefield, then shuffle your library.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "academy rector",
+  "colorIdentity": [
+    "W"
+  ]
+}

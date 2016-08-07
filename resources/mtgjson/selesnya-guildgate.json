@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Selesnya Guildgate",
+  "type": "Land — Gate",
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Gate"
+  ],
+  "text": "Selesnya Guildgate enters the battlefield tapped.\n{T}: Add {G} or {W} to your mana pool.",
+  "imageName": "selesnya guildgate",
+  "colorIdentity": [
+    "G",
+    "W"
+  ]
+}

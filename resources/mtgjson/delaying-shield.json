@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Delaying Shield",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "If damage would be dealt to you, put that many delay counters on Delaying Shield instead.\nAt the beginning of your upkeep, remove all delay counters from Delaying Shield. For each delay counter removed this way, you lose 1 life unless you pay {1}{W}.",
+  "imageName": "delaying shield",
+  "colorIdentity": [
+    "W"
+  ]
+}

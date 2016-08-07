@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Presence of Gond",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature has \"{T}: Put a 1/1 green Elf Warrior creature token onto the battlefield.\"",
+  "imageName": "presence of gond",
+  "colorIdentity": [
+    "G"
+  ]
+}

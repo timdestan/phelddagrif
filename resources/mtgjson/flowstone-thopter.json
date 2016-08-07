@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Flowstone Thopter",
+  "manaCost": "{7}",
+  "cmc": 7,
+  "type": "Artifact Creature — Thopter",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Thopter"
+  ],
+  "text": "{1}: Flowstone Thopter gets +1/-1 and gains flying until end of turn.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "flowstone thopter"
+}

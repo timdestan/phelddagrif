@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Siren Song Lyre",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature has \"{2}, {T}: Tap target creature.\"\nEquip {2}",
+  "imageName": "siren song lyre"
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sphinx of Lost Truths",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Sphinx",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sphinx"
+  ],
+  "text": "Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)\nFlying\nWhen Sphinx of Lost Truths enters the battlefield, draw three cards. Then if it wasn't kicked, discard three cards.",
+  "power": "3",
+  "toughness": "5",
+  "imageName": "sphinx of lost truths",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Remove",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Cast Remove only during the declare attackers step and only if you've been attacked this step.\nReturn target attacking creature to its owner's hand.",
+  "imageName": "remove",
+  "colorIdentity": [
+    "U"
+  ]
+}

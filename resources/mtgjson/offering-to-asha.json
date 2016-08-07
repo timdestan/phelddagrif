@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Offering to Asha",
+  "manaCost": "{2}{W}{U}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell unless its controller pays {4}. You gain 4 life.",
+  "imageName": "offering to asha",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

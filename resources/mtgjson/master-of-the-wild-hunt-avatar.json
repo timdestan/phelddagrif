@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Master of the Wild Hunt Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "{2}{G}: Put a green creature token onto the battlefield that's a 2/2 Wolf, a 2/3 Antelope with forestwalk, a 3/2 Cat with shroud, or a 4/4 green Rhino with trample, chosen at random.",
+  "imageName": "master of the wild hunt avatar",
+  "hand": 1,
+  "life": 3
+}

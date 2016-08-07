@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Valleymaker",
+  "manaCost": "{5}{R/G}",
+  "cmc": 6,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Giant Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant",
+    "Shaman"
+  ],
+  "text": "{T}, Sacrifice a Mountain: Valleymaker deals 3 damage to target creature.\n{T}, Sacrifice a Forest: Choose a player. That player adds {G}{G}{G} to his or her mana pool.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "valleymaker",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

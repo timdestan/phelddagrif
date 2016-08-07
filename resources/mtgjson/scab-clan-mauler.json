@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Scab-Clan Mauler",
+  "manaCost": "{R}{G}",
+  "cmc": 2,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Human Berserker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Berserker"
+  ],
+  "text": "Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)\nTrample",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "scab-clan mauler",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

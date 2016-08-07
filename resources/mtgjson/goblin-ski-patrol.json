@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Goblin Ski Patrol",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "{1}{R}: Goblin Ski Patrol gets +2/+0 and gains flying. Its controller sacrifices it at the beginning of the next end step. Activate this ability only once and only if you control a snow Mountain.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "goblin ski patrol",
+  "colorIdentity": [
+    "R"
+  ]
+}

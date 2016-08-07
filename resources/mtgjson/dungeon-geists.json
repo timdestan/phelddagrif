@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dungeon Geists",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying\nWhen Dungeon Geists enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's untap step for as long as you control Dungeon Geists.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "dungeon geists",
+  "colorIdentity": [
+    "U"
+  ]
+}

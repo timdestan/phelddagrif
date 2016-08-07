@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Jiwari, the Earth Aflame",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Creature — Spirit",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "{X}{R}, {T}: Jiwari, the Earth Aflame deals X damage to target creature without flying.\nChannel — {X}{R}{R}{R}, Discard Jiwari: Jiwari deals X damage to each creature without flying.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "jiwari, the earth aflame",
+  "colorIdentity": [
+    "R"
+  ]
+}

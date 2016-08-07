@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Monk Realist",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Monk Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Monk",
+    "Cleric"
+  ],
+  "text": "When Monk Realist enters the battlefield, destroy target enchantment.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "monk realist",
+  "colorIdentity": [
+    "W"
+  ]
+}

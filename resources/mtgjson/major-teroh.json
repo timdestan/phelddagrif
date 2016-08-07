@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Major Teroh",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Creature — Bird Soldier",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird",
+    "Soldier"
+  ],
+  "text": "Flying\n{3}{W}{W}, Sacrifice Major Teroh: Exile all black creatures.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "major teroh",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Soul Channeling",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nPay 2 life: Regenerate enchanted creature.",
+  "imageName": "soul channeling",
+  "colorIdentity": [
+    "B"
+  ]
+}

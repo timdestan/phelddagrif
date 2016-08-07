@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Gatecreeper Vine",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Plant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Plant"
+  ],
+  "text": "Defender\nWhen Gatecreeper Vine enters the battlefield, you may search your library for a basic land card or a Gate card, reveal it, put it into your hand, then shuffle your library.",
+  "power": "0",
+  "toughness": "2",
+  "imageName": "gatecreeper vine",
+  "colorIdentity": [
+    "G"
+  ]
+}

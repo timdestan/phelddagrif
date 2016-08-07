@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Bane Alley Blackguard",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "power": "1",
+  "toughness": "3",
+  "imageName": "bane alley blackguard",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Seaside Haven",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{W}{U}, {T}, Sacrifice a Bird: Draw a card.",
+  "imageName": "seaside haven",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Reki, the History of Kamigawa",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Legendary Creature — Human Shaman",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Shaman"
+  ],
+  "text": "Whenever you cast a legendary spell, draw a card.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "reki, the history of kamigawa",
+  "colorIdentity": [
+    "G"
+  ]
+}

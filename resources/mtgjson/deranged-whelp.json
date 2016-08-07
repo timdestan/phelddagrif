@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Deranged Whelp",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Wolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wolf"
+  ],
+  "text": "Menace (This creature can't be blocked except by two or more creatures.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "deranged whelp",
+  "colorIdentity": [
+    "R"
+  ]
+}

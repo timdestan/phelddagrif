@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sustenance",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{1}, Sacrifice a land: Target creature gets +1/+1 until end of turn.",
+  "imageName": "sustenance",
+  "colorIdentity": [
+    "G"
+  ]
+}

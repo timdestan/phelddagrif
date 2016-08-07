@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Riding the Dilu Horse",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target creature gets +2/+2 and gains horsemanship. (It can't be blocked except by creatures with horsemanship. This effect lasts indefinitely.)",
+  "imageName": "riding the dilu horse",
+  "colorIdentity": [
+    "G"
+  ]
+}

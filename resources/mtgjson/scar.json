@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Scar",
+  "manaCost": "{B/R}",
+  "cmc": 1,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Put a -1/-1 counter on target creature.",
+  "imageName": "scar",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

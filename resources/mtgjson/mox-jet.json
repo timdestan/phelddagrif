@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Mox Jet",
+  "manaCost": "{0}",
+  "cmc": 0,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}: Add {B} to your mana pool.",
+  "imageName": "mox jet",
+  "colorIdentity": [
+    "B"
+  ]
+}

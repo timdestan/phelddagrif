@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Terrus Wurm",
+  "manaCost": "{6}{B}",
+  "cmc": 7,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Wurm"
+  ],
+  "text": "Scavenge {6}{B} ({6}{B}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "terrus wurm",
+  "colorIdentity": [
+    "B"
+  ]
+}

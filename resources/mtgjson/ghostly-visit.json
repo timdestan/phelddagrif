@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ghostly Visit",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target nonblack creature.",
+  "imageName": "ghostly visit",
+  "colorIdentity": [
+    "B"
+  ]
+}

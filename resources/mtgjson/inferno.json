@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Inferno",
+  "manaCost": "{5}{R}{R}",
+  "cmc": 7,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Inferno deals 6 damage to each creature and each player.",
+  "imageName": "inferno",
+  "colorIdentity": [
+    "R"
+  ]
+}

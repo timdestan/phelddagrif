@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mantis Engine",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact Creature — Insect",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "{2}: Mantis Engine gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)\n{2}: Mantis Engine gains first strike until end of turn. (It deals combat damage before creatures without first strike.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "mantis engine"
+}

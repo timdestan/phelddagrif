@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Necrite",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Thrull",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Thrull"
+  ],
+  "text": "Whenever Necrite attacks and isn't blocked, you may sacrifice it. If you do, destroy target creature defending player controls. It can't be regenerated.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "necrite",
+  "colorIdentity": [
+    "B"
+  ]
+}

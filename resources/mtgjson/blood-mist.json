@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Blood Mist",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of combat on your turn, target creature you control gains double strike until end of turn.",
+  "imageName": "blood mist",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Keldon Halberdier",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "First strike\nSuspend 4—{R} (Rather than cast this card from your hand, you may pay {R} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)",
+  "power": "4",
+  "toughness": "1",
+  "imageName": "keldon halberdier",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Golgari Charm",
+  "manaCost": "{B}{G}",
+  "cmc": 2,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose one —\n• All creatures get -1/-1 until end of turn.\n• Destroy target enchantment.\n• Regenerate each creature you control.",
+  "imageName": "golgari charm",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

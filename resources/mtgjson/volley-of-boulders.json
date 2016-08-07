@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Volley of Boulders",
+  "manaCost": "{8}{R}",
+  "cmc": 9,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Volley of Boulders deals 6 damage divided as you choose among any number of target creatures and/or players.\nFlashback {R}{R}{R}{R}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "volley of boulders",
+  "colorIdentity": [
+    "R"
+  ]
+}

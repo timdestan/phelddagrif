@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wall of Tears",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender (This creature can't attack.)\nWhenever Wall of Tears blocks a creature, return that creature to its owner's hand at end of combat.",
+  "power": "0",
+  "toughness": "4",
+  "imageName": "wall of tears",
+  "colorIdentity": [
+    "U"
+  ]
+}

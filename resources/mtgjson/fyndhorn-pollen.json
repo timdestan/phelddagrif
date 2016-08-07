@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Fyndhorn Pollen",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nAll creatures get -1/-0.\n{1}{G}: All creatures get -1/-0 until end of turn.",
+  "imageName": "fyndhorn pollen",
+  "colorIdentity": [
+    "G"
+  ]
+}

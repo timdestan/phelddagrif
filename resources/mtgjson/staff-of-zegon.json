@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Staff of Zegon",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{3}, {T}: Target creature gets -2/-0 until end of turn.",
+  "imageName": "staff of zegon"
+}

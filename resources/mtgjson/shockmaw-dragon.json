@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Shockmaw Dragon",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying\nWhenever Shockmaw Dragon deals combat damage to a player, it deals 1 damage to each creature that player controls.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "shockmaw dragon",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Magus of the Mirror",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{T}, Sacrifice Magus of the Mirror: Exchange life totals with target opponent. Activate this ability only during your upkeep.",
+  "power": "4",
+  "toughness": "2",
+  "imageName": "magus of the mirror",
+  "colorIdentity": [
+    "B"
+  ]
+}

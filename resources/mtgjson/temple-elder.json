@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Temple Elder",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "{T}: You gain 1 life. Activate this ability only during your turn, before attackers are declared.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "temple elder",
+  "colorIdentity": [
+    "W"
+  ]
+}

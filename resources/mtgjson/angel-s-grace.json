@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Angel's Grace",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Split second (As long as this spell is on the stack, players can't cast spells or activate abilities that aren't mana abilities.)\nYou can't lose the game this turn and your opponents can't win the game this turn. Until end of turn, damage that would reduce your life total to less than 1 reduces it to 1 instead.",
+  "imageName": "angel's grace",
+  "colorIdentity": [
+    "W"
+  ]
+}

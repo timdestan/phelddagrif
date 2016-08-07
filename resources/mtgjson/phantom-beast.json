@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Phantom Beast",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Illusion Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Illusion",
+    "Beast"
+  ],
+  "text": "When Phantom Beast becomes the target of a spell or ability, sacrifice it.",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "phantom beast",
+  "colorIdentity": [
+    "U"
+  ]
+}

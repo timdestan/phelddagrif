@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Chromatic Armor",
+  "manaCost": "{1}{W}{U}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nAs Chromatic Armor enters the battlefield, choose a color.\nChromatic Armor enters the battlefield with a sleight counter on it.\nPrevent all damage that would be dealt to enchanted creature by sources of the last chosen color.\n{X}: Put a sleight counter on Chromatic Armor and choose a color. X is the number of sleight counters on Chromatic Armor.",
+  "imageName": "chromatic armor",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

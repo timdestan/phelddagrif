@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ronin Cliffrider",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Samurai",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Samurai"
+  ],
+  "text": "Bushido 1 (Whenever this creature blocks or becomes blocked, it gets +1/+1 until end of turn.)\nWhenever Ronin Cliffrider attacks, you may have it deal 1 damage to each creature defending player controls.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "ronin cliffrider",
+  "colorIdentity": [
+    "R"
+  ]
+}

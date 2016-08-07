@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Skeletal Vampire",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire Skeleton",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Skeleton"
+  ],
+  "text": "Flying\nWhen Skeletal Vampire enters the battlefield, put two 1/1 black Bat creature tokens with flying onto the battlefield.\n{3}{B}{B}, Sacrifice a Bat: Put two 1/1 black Bat creature tokens with flying onto the battlefield.\nSacrifice a Bat: Regenerate Skeletal Vampire.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "skeletal vampire",
+  "colorIdentity": [
+    "B"
+  ]
+}

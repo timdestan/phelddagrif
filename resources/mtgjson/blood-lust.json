@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Blood Lust",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "If target creature has toughness 5 or greater, it gets +4/-4 until end of turn. Otherwise, it gets +4/-X until end of turn, where X is its toughness minus 1.",
+  "imageName": "blood lust",
+  "colorIdentity": [
+    "R"
+  ]
+}

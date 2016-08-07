@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Narwhal",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Whale",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Whale"
+  ],
+  "text": "First strike, protection from red",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "narwhal",
+  "colorIdentity": [
+    "U"
+  ]
+}

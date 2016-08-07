@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Caustic Tar",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant land\nEnchanted land has \"{T}: Target player loses 3 life.\"",
+  "imageName": "caustic tar",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ravenous Baboons",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Ape",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ape"
+  ],
+  "text": "When Ravenous Baboons enters the battlefield, destroy target nonbasic land.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "ravenous baboons",
+  "colorIdentity": [
+    "R"
+  ]
+}

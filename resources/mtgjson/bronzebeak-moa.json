@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Bronzebeak Moa",
+  "manaCost": "{2}{G}{W}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Whenever another creature enters the battlefield under your control, Bronzebeak Moa gets +3/+3 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "bronzebeak moa",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

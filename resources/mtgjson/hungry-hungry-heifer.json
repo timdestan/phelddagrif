@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Hungry Hungry Heifer",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Summon — Cow",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cow"
+  ],
+  "text": "During your upkeep, remove a counter from any card you control or sacrifice Hungry Hungry Heifer.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "hungry hungry heifer",
+  "colorIdentity": [
+    "G"
+  ]
+}

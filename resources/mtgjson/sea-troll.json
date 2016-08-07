@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sea Troll",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Troll",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Troll"
+  ],
+  "text": "{U}: Regenerate Sea Troll. Activate this ability only if Sea Troll blocked or was blocked by a blue creature this turn.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "sea troll",
+  "colorIdentity": [
+    "U"
+  ]
+}

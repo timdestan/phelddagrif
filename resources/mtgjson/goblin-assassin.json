@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Goblin Assassin",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Assassin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Assassin"
+  ],
+  "text": "Whenever Goblin Assassin or another Goblin enters the battlefield, each player flips a coin. Each player whose coin comes up tails sacrifices a creature.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "goblin assassin",
+  "colorIdentity": [
+    "R"
+  ]
+}

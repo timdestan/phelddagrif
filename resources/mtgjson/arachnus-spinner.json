@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Arachnus Spinner",
+  "manaCost": "{5}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Spider",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spider"
+  ],
+  "text": "Reach (This creature can block creatures with flying.)\nTap an untapped Spider you control: Search your graveyard and/or library for a card named Arachnus Web and put it onto the battlefield attached to target creature. If you search your library this way, shuffle it.",
+  "power": "5",
+  "toughness": "7",
+  "imageName": "arachnus spinner",
+  "colorIdentity": [
+    "G"
+  ]
+}

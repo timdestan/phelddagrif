@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Elvish Berserker",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Berserker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Berserker"
+  ],
+  "text": "Whenever Elvish Berserker becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "elvish berserker",
+  "colorIdentity": [
+    "G"
+  ]
+}

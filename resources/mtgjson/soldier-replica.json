@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Soldier Replica",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Soldier",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Soldier"
+  ],
+  "text": "{1}{W}, Sacrifice Soldier Replica: Soldier Replica deals 3 damage to target attacking or blocking creature.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "soldier replica",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Tidal Surge",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Tap up to three target creatures without flying.",
+  "imageName": "tidal surge",
+  "colorIdentity": [
+    "U"
+  ]
+}

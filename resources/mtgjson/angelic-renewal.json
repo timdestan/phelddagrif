@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Angelic Renewal",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a creature is put into your graveyard from the battlefield, you may sacrifice Angelic Renewal. If you do, return that card to the battlefield.",
+  "imageName": "angelic renewal",
+  "colorIdentity": [
+    "W"
+  ]
+}

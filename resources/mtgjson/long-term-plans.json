@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Long-Term Plans",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Search your library for a card, shuffle your library, then put that card third from the top.",
+  "imageName": "long-term plans",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Wanderwine Prophets",
+  "manaCost": "{4}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Wizard"
+  ],
+  "text": "Champion a Merfolk (When this enters the battlefield, sacrifice it unless you exile another Merfolk you control. When this leaves the battlefield, that card returns to the battlefield.)\nWhenever Wanderwine Prophets deals combat damage to a player, you may sacrifice a Merfolk. If you do, take an extra turn after this one.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "wanderwine prophets",
+  "colorIdentity": [
+    "U"
+  ]
+}

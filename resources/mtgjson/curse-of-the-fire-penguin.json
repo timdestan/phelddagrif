@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Curse of the Fire Penguin",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchant Creature",
+  "types": [
+    "Enchant",
+    "Creature"
+  ],
+  "text": "Curse of the Fire Penguin consumes and confuses enchanted creature.\n-----\nCreature Penguin\nTrample\nWhen this creature is put into a graveyard from play, return Curse of the Fire Penguin from your graveyard to play.\n6/5",
+  "imageName": "curse of the fire penguin",
+  "colorIdentity": [
+    "R"
+  ]
+}

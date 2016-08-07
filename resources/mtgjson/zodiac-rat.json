@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Zodiac Rat",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Rat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rat"
+  ],
+  "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "zodiac rat",
+  "colorIdentity": [
+    "B"
+  ]
+}

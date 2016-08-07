@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Cloudgoat Ranger",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Giant Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant",
+    "Warrior"
+  ],
+  "text": "When Cloudgoat Ranger enters the battlefield, put three 1/1 white Kithkin Soldier creature tokens onto the battlefield.\nTap three untapped Kithkin you control: Cloudgoat Ranger gets +2/+0 and gains flying until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "cloudgoat ranger",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Coastal Piracy",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a creature you control deals combat damage to an opponent, you may draw a card.",
+  "imageName": "coastal piracy",
+  "colorIdentity": [
+    "U"
+  ]
+}

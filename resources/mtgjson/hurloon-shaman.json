@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Hurloon Shaman",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Minotaur Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Minotaur",
+    "Shaman"
+  ],
+  "text": "When Hurloon Shaman dies, each player sacrifices a land.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "hurloon shaman",
+  "colorIdentity": [
+    "R"
+  ]
+}

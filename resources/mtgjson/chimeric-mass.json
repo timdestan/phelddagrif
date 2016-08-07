@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Chimeric Mass",
+  "manaCost": "{X}",
+  "cmc": 0,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Chimeric Mass enters the battlefield with X charge counters on it.\n{1}: Until end of turn, Chimeric Mass becomes a Construct artifact creature with \"This creature's power and toughness are each equal to the number of charge counters on it.\"",
+  "imageName": "chimeric mass"
+}

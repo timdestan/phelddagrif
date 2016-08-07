@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Nature's Claim",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target artifact or enchantment. Its controller gains 4 life.",
+  "imageName": "nature's claim",
+  "colorIdentity": [
+    "G"
+  ]
+}

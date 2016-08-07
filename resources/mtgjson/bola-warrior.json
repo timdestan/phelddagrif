@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Bola Warrior",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Spellshaper Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Spellshaper",
+    "Warrior"
+  ],
+  "text": "{R}, {T}, Discard a card: Target creature can't block this turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "bola warrior",
+  "colorIdentity": [
+    "R"
+  ]
+}

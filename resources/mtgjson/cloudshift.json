@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Cloudshift",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Exile target creature you control, then return that card to the battlefield under your control.",
+  "imageName": "cloudshift",
+  "colorIdentity": [
+    "W"
+  ]
+}

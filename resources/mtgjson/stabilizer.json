@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Stabilizer",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Players can't cycle cards.",
+  "imageName": "stabilizer"
+}

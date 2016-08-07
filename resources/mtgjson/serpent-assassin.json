@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Serpent Assassin",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Snake Assassin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Snake",
+    "Assassin"
+  ],
+  "text": "When Serpent Assassin enters the battlefield, you may destroy target nonblack creature.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "serpent assassin",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dwarven Grunt",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dwarf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dwarf"
+  ],
+  "text": "Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "dwarven grunt",
+  "colorIdentity": [
+    "R"
+  ]
+}

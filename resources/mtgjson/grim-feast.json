@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Grim Feast",
+  "manaCost": "{1}{B}{G}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, Grim Feast deals 1 damage to you.\nWhenever a creature is put into an opponent's graveyard from the battlefield, you gain life equal to its toughness.",
+  "imageName": "grim feast",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

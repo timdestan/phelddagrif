@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Wretched Anurid",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Frog Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Frog",
+    "Beast"
+  ],
+  "text": "Whenever another creature enters the battlefield, you lose 1 life.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "wretched anurid",
+  "colorIdentity": [
+    "B"
+  ]
+}

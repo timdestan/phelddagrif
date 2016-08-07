@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Path to Exile",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Exile target creature. Its controller may search his or her library for a basic land card, put that card onto the battlefield tapped, then shuffle his or her library.",
+  "imageName": "path to exile",
+  "colorIdentity": [
+    "W"
+  ]
+}

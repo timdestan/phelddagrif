@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Soldier of the Pantheon",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Protection from multicolored\nWhenever an opponent casts a multicolored spell, you gain 1 life.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "soldier of the pantheon",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Gate to Phyrexia",
+  "manaCost": "{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Sacrifice a creature: Destroy target artifact. Activate this ability only during your upkeep and only once each turn.",
+  "imageName": "gate to phyrexia",
+  "colorIdentity": [
+    "B"
+  ]
+}

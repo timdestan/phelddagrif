@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Demystify",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target enchantment.",
+  "imageName": "demystify",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Forge Devil",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Devil",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Devil"
+  ],
+  "text": "When Forge Devil enters the battlefield, it deals 1 damage to target creature and 1 damage to you.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "forge devil",
+  "colorIdentity": [
+    "R"
+  ]
+}

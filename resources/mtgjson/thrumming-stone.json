@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Thrumming Stone",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Legendary Artifact",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Artifact"
+  ],
+  "text": "Spells you cast have ripple 4. (Whenever you cast a spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as the spell without paying their mana costs. Put the rest on the bottom of your library.)",
+  "imageName": "thrumming stone"
+}

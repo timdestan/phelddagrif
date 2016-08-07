@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Reassembling Skeleton",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Skeleton Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Skeleton",
+    "Warrior"
+  ],
+  "text": "{1}{B}: Return Reassembling Skeleton from your graveyard to the battlefield tapped.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "reassembling skeleton",
+  "colorIdentity": [
+    "B"
+  ]
+}

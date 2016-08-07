@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Obsidian Fireheart",
+  "manaCost": "{1}{R}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "{1}{R}{R}: Put a blaze counter on target land without a blaze counter on it. For as long as that land has a blaze counter on it, it has \"At the beginning of your upkeep, this land deals 1 damage to you.\" (The land continues to burn after Obsidian Fireheart has left the battlefield.)",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "obsidian fireheart",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ivy Dancer",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Dryad Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dryad",
+    "Shaman"
+  ],
+  "text": "{T}: Target creature gains forestwalk until end of turn. (It can't be blocked as long as defending player controls a Forest.)",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "ivy dancer",
+  "colorIdentity": [
+    "G"
+  ]
+}

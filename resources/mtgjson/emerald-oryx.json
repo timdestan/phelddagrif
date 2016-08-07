@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Emerald Oryx",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Antelope",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Antelope"
+  ],
+  "text": "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "emerald oryx",
+  "colorIdentity": [
+    "G"
+  ]
+}

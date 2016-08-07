@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Isolated Chapel",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Isolated Chapel enters the battlefield tapped unless you control a Plains or a Swamp.\n{T}: Add {W} or {B} to your mana pool.",
+  "imageName": "isolated chapel",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

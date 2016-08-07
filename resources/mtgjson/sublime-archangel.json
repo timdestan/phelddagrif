@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sublime Archangel",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nExalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\nOther creatures you control have exalted. (If a creature has multiple instances of exalted, each triggers separately.)",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "sublime archangel",
+  "colorIdentity": [
+    "W"
+  ]
+}

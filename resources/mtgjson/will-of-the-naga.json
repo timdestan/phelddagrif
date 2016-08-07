@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Will of the Naga",
+  "manaCost": "{4}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nTap up to two target creatures. Those creatures don't untap during their controller's next untap step.",
+  "imageName": "will of the naga",
+  "colorIdentity": [
+    "U"
+  ]
+}

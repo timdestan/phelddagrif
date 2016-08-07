@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Savage Conception",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put a 3/3 green Beast creature token onto the battlefield.\nRetrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)",
+  "imageName": "savage conception",
+  "colorIdentity": [
+    "G"
+  ]
+}

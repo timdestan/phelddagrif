@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Rathi Assassin",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Mercenary Assassin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Mercenary",
+    "Assassin"
+  ],
+  "text": "{1}{B}{B}, {T}: Destroy target tapped nonblack creature.\n{3}, {T}: Search your library for a Mercenary permanent card with converted mana cost 3 or less and put it onto the battlefield. Then shuffle your library.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "rathi assassin",
+  "colorIdentity": [
+    "B"
+  ]
+}

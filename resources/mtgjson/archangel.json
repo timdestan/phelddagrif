@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Archangel",
+  "manaCost": "{5}{W}{W}",
+  "cmc": 7,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying, vigilance",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "archangel",
+  "colorIdentity": [
+    "W"
+  ]
+}

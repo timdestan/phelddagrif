@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Righteous Authority",
+  "manaCost": "{3}{W}{U}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets +1/+1 for each card in its controller's hand.\nAt the beginning of the draw step of enchanted creature's controller, that player draws an additional card.",
+  "imageName": "righteous authority",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

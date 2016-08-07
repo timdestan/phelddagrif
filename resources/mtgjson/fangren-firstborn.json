@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Fangren Firstborn",
+  "manaCost": "{1}{G}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Whenever Fangren Firstborn attacks, put a +1/+1 counter on each attacking creature.",
+  "power": "4",
+  "toughness": "2",
+  "imageName": "fangren firstborn",
+  "colorIdentity": [
+    "G"
+  ]
+}

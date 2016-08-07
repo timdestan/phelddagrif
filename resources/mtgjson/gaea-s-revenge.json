@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Gaea's Revenge",
+  "manaCost": "{5}{G}{G}",
+  "cmc": 7,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Gaea's Revenge can't be countered.\nHaste\nGaea's Revenge can't be the target of nongreen spells or abilities from nongreen sources.",
+  "power": "8",
+  "toughness": "5",
+  "imageName": "gaea's revenge",
+  "colorIdentity": [
+    "G"
+  ]
+}

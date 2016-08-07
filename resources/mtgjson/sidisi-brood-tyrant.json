@@ -1,0 +1,31 @@
+{
+  "layout": "normal",
+  "name": "Sidisi, Brood Tyrant",
+  "manaCost": "{1}{B}{G}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue",
+    "Black",
+    "Green"
+  ],
+  "type": "Legendary Creature — Naga Shaman",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Naga",
+    "Shaman"
+  ],
+  "text": "Whenever Sidisi, Brood Tyrant enters the battlefield or attacks, put the top three cards of your library into your graveyard.\nWhenever one or more creature cards are put into your graveyard from your library, put a 2/2 black Zombie creature token onto the battlefield.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "sidisi, brood tyrant",
+  "colorIdentity": [
+    "U",
+    "B",
+    "G"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Krark's Thumb",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Legendary Artifact",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Artifact"
+  ],
+  "text": "If you would flip a coin, instead flip two coins and ignore one.",
+  "imageName": "krark's thumb"
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Blockade Runner",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk"
+  ],
+  "text": "{U}: Blockade Runner can't be blocked this turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "blockade runner",
+  "colorIdentity": [
+    "U"
+  ]
+}

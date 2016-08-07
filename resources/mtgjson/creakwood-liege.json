@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Creakwood Liege",
+  "manaCost": "{1}{B/G}{B/G}{B/G}",
+  "cmc": 4,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "Other black creatures you control get +1/+1.\nOther green creatures you control get +1/+1.\nAt the beginning of your upkeep, you may put a 1/1 black and green Worm creature token onto the battlefield.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "creakwood liege",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

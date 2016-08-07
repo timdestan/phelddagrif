@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Opportunity",
+  "manaCost": "{4}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target player draws four cards.",
+  "imageName": "opportunity",
+  "colorIdentity": [
+    "U"
+  ]
+}

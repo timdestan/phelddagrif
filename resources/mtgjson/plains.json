@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Plains",
+  "type": "Basic Land — Plains",
+  "supertypes": [
+    "Basic"
+  ],
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Plains"
+  ],
+  "imageName": "plains",
+  "colorIdentity": [
+    "W"
+  ]
+}

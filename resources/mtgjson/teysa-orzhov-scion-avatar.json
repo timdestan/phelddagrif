@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Teysa, Orzhov Scion Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "Whenever a nontoken creature dies, put a 1/1 white Spirit creature token with flying onto the battlefield.",
+  "imageName": "teysa, orzhov scion avatar",
+  "hand": 0,
+  "life": -2
+}

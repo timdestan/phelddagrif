@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Instill Energy",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature can attack as though it had haste.\n{0}: Untap enchanted creature. Activate this ability only during your turn and only once each turn.",
+  "imageName": "instill energy",
+  "colorIdentity": [
+    "G"
+  ]
+}

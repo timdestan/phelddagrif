@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Skarrg, the Rage Pits",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{R}{G}, {T}: Target creature gets +1/+1 and gains trample until end of turn.",
+  "imageName": "skarrg, the rage pits",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

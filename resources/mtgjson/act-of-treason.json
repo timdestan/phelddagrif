@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Act of Treason",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)",
+  "imageName": "act of treason",
+  "colorIdentity": [
+    "R"
+  ]
+}

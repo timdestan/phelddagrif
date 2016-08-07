@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Urge to Feed",
+  "manaCost": "{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gets -3/-3 until end of turn. You may tap any number of untapped Vampire creatures you control. If you do, put a +1/+1 counter on each of those Vampires.",
+  "imageName": "urge to feed",
+  "colorIdentity": [
+    "B"
+  ]
+}

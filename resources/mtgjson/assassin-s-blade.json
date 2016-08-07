@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Assassin's Blade",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Cast Assassin's Blade only during the declare attackers step and only if you've been attacked this step.\nDestroy target nonblack attacking creature.",
+  "imageName": "assassin's blade",
+  "colorIdentity": [
+    "B"
+  ]
+}

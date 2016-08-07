@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Hickory Woodlot",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Hickory Woodlot enters the battlefield tapped with two depletion counters on it.\n{T}, Remove a depletion counter from Hickory Woodlot: Add {G}{G} to your mana pool. If there are no depletion counters on Hickory Woodlot, sacrifice it.",
+  "imageName": "hickory woodlot",
+  "colorIdentity": [
+    "G"
+  ]
+}

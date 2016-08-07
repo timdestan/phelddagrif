@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Meloku the Clouded Mirror",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Legendary Creature — Moonfolk Wizard",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Moonfolk",
+    "Wizard"
+  ],
+  "text": "Flying\n{1}, Return a land you control to its owner's hand: Put a 1/1 blue Illusion creature token with flying onto the battlefield.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "meloku the clouded mirror",
+  "colorIdentity": [
+    "U"
+  ]
+}

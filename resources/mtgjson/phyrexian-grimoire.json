@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Phyrexian Grimoire",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{4}, {T}: Target opponent chooses one of the top two cards of your graveyard. Exile that card and put the other one into your hand.",
+  "imageName": "phyrexian grimoire"
+}

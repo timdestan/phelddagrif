@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Feudkiller's Verdict",
+  "manaCost": "{4}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Tribal Sorcery — Giant",
+  "types": [
+    "Tribal",
+    "Sorcery"
+  ],
+  "subtypes": [
+    "Giant"
+  ],
+  "text": "You gain 10 life. Then if you have more life than an opponent, put a 5/5 white Giant Warrior creature token onto the battlefield.",
+  "imageName": "feudkiller's verdict",
+  "colorIdentity": [
+    "W"
+  ]
+}

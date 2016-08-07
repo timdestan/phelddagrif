@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Thraben Standard Bearer",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "{1}{W}, {T}, Discard a card: Put a 1/1 white Human Soldier creature token onto the battlefield.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "thraben standard bearer",
+  "colorIdentity": [
+    "W"
+  ]
+}

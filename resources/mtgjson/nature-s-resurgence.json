@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Nature's Resurgence",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Each player draws a card for each creature card in his or her graveyard.",
+  "imageName": "nature's resurgence",
+  "colorIdentity": [
+    "G"
+  ]
+}

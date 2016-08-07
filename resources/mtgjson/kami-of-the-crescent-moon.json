@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Kami of the Crescent Moon",
+  "manaCost": "{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Legendary Creature — Spirit",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "At the beginning of each player's draw step, that player draws an additional card.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "kami of the crescent moon",
+  "colorIdentity": [
+    "U"
+  ]
+}

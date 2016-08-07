@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Draco",
+  "manaCost": "{16}",
+  "cmc": 16,
+  "type": "Artifact Creature — Dragon",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Domain — Draco costs {2} less to cast for each basic land type among lands you control.\nFlying\nDomain — At the beginning of your upkeep, sacrifice Draco unless you pay {10}. This cost is reduced by {2} for each basic land type among lands you control.",
+  "power": "9",
+  "toughness": "9",
+  "imageName": "draco"
+}

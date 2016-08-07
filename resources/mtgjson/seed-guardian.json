@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Seed Guardian",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Reach\nWhen Seed Guardian dies, put an X/X green Elemental creature token onto the battlefield, where X is the number of creature cards in your graveyard.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "seed guardian",
+  "colorIdentity": [
+    "G"
+  ]
+}

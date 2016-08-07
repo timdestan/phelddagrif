@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ancestor's Chosen",
+  "manaCost": "{5}{W}{W}",
+  "cmc": 7,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "First strike (This creature deals combat damage before creatures without first strike.)\nWhen Ancestor's Chosen enters the battlefield, you gain 1 life for each card in your graveyard.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "ancestor's chosen",
+  "colorIdentity": [
+    "W"
+  ]
+}

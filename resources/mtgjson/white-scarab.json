@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "White Scarab",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature can't be blocked by white creatures.\nEnchanted creature gets +2/+2 as long as an opponent controls a white permanent.",
+  "imageName": "white scarab",
+  "colorIdentity": [
+    "W"
+  ]
+}

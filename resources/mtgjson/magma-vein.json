@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Magma Vein",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{R}, Sacrifice a land: Magma Vein deals 1 damage to each creature without flying.",
+  "imageName": "magma vein",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Omen of Fire",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Return all Islands to their owners' hands.\nEach player sacrifices a Plains or a white permanent for each white permanent he or she controls.",
+  "imageName": "omen of fire",
+  "colorIdentity": [
+    "R"
+  ]
+}

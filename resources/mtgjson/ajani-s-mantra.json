@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ajani's Mantra",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, you may gain 1 life.",
+  "imageName": "ajani's mantra",
+  "colorIdentity": [
+    "W"
+  ]
+}

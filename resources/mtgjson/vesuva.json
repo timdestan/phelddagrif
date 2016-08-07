@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Vesuva",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "You may have Vesuva enter the battlefield tapped as a copy of any land on the battlefield.",
+  "imageName": "vesuva"
+}

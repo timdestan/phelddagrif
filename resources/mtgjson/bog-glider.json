@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Bog Glider",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Mercenary",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Mercenary"
+  ],
+  "text": "Flying\n{T}, Sacrifice a land: Search your library for a Mercenary permanent card with converted mana cost 2 or less and put it onto the battlefield. Then shuffle your library.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "bog glider",
+  "colorIdentity": [
+    "B"
+  ]
+}

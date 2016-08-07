@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Brainspoil",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target creature that isn't enchanted. It can't be regenerated.\nTransmute {1}{B}{B} ({1}{B}{B}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)",
+  "imageName": "brainspoil",
+  "colorIdentity": [
+    "B"
+  ]
+}

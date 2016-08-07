@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Chilling Shade",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Snow Creature — Shade",
+  "supertypes": [
+    "Snow"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Shade"
+  ],
+  "text": "Flying\n{S}: Chilling Shade gets +1/+1 until end of turn. ({S} can be paid with one mana from a snow permanent.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "chilling shade",
+  "colorIdentity": [
+    "B"
+  ]
+}

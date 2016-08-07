@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rain of Embers",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Rain of Embers deals 1 damage to each creature and each player.",
+  "imageName": "rain of embers",
+  "colorIdentity": [
+    "R"
+  ]
+}

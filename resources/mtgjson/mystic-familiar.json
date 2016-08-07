@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Mystic Familiar",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\nThreshold — As long as seven or more cards are in your graveyard, Mystic Familiar gets +1/+1 and has protection from black.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "mystic familiar",
+  "colorIdentity": [
+    "W"
+  ]
+}

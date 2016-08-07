@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Giant Turtle",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Turtle",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Turtle"
+  ],
+  "text": "Giant Turtle can't attack if it attacked during your last turn.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "giant turtle",
+  "colorIdentity": [
+    "G"
+  ]
+}

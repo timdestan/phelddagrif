@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Medomai the Ageless",
+  "manaCost": "{4}{W}{U}",
+  "cmc": 6,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Legendary Creature — Sphinx",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sphinx"
+  ],
+  "text": "Flying\nWhenever Medomai the Ageless deals combat damage to a player, take an extra turn after this one.\nMedomai the Ageless can't attack during extra turns.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "medomai the ageless",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

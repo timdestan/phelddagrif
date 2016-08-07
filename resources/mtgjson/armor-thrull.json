@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Armor Thrull",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Thrull",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Thrull"
+  ],
+  "text": "{T}, Sacrifice Armor Thrull: Put a +1/+2 counter on target creature.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "armor thrull",
+  "colorIdentity": [
+    "B"
+  ]
+}

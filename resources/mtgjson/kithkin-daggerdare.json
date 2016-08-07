@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kithkin Daggerdare",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Kithkin Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kithkin",
+    "Soldier"
+  ],
+  "text": "{G}, {T}: Target attacking creature gets +2/+2 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "kithkin daggerdare",
+  "colorIdentity": [
+    "G"
+  ]
+}

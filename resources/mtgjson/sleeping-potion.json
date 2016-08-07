@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Sleeping Potion",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nWhen Sleeping Potion enters the battlefield, tap enchanted creature.\nEnchanted creature doesn't untap during its controller's untap step.\nWhen enchanted creature becomes the target of a spell or ability, sacrifice Sleeping Potion.",
+  "imageName": "sleeping potion",
+  "colorIdentity": [
+    "U"
+  ]
+}

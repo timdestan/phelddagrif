@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Illusionary Forces",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Illusion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Illusion"
+  ],
+  "text": "Flying\nCumulative upkeep {U} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "illusionary forces",
+  "colorIdentity": [
+    "U"
+  ]
+}

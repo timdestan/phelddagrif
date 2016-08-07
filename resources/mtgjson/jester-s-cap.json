@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Jester's Cap",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, {T}, Sacrifice Jester's Cap: Search target player's library for three cards and exile them. Then that player shuffles his or her library.",
+  "imageName": "jester's cap"
+}

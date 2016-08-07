@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Underworld Connections",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant land\nEnchanted land has \"{T}, Pay 1 life: Draw a card.\"",
+  "imageName": "underworld connections",
+  "colorIdentity": [
+    "B"
+  ]
+}

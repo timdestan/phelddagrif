@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ophidian",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Snake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Snake"
+  ],
+  "text": "Whenever Ophidian attacks and isn't blocked, you may draw a card. If you do, Ophidian assigns no combat damage this turn.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "ophidian",
+  "colorIdentity": [
+    "U"
+  ]
+}

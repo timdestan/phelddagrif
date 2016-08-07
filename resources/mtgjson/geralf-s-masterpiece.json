@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Geralf's Masterpiece",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Zombie Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Horror"
+  ],
+  "text": "Flying\nGeralf's Masterpiece gets -1/-1 for each card in your hand.\n{3}{U}, Discard three cards: Return Geralf's Masterpiece from your graveyard to the battlefield tapped.",
+  "power": "7",
+  "toughness": "7",
+  "imageName": "geralf's masterpiece",
+  "colorIdentity": [
+    "U"
+  ]
+}

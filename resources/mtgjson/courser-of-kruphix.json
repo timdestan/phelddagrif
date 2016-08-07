@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Courser of Kruphix",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment Creature — Centaur",
+  "types": [
+    "Enchantment",
+    "Creature"
+  ],
+  "subtypes": [
+    "Centaur"
+  ],
+  "text": "Play with the top card of your library revealed.\nYou may play the top card of your library if it's a land card.\nWhenever a land enters the battlefield under your control, you gain 1 life.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "courser of kruphix",
+  "colorIdentity": [
+    "G"
+  ]
+}

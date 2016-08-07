@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Borderland Marauder",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "Whenever Borderland Marauder attacks, it gets +2/+0 until end of turn.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "borderland marauder",
+  "colorIdentity": [
+    "R"
+  ]
+}

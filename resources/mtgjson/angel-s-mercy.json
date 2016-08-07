@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Angel's Mercy",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "You gain 7 life.",
+  "imageName": "angel's mercy",
+  "colorIdentity": [
+    "W"
+  ]
+}

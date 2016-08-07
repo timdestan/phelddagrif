@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Crimson Manticore",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Manticore",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Manticore"
+  ],
+  "text": "Flying\n{R}, {T}: Crimson Manticore deals 1 damage to target attacking or blocking creature.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "crimson manticore",
+  "colorIdentity": [
+    "R"
+  ]
+}

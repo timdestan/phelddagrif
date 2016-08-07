@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Lumberknot",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Treefolk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Treefolk"
+  ],
+  "text": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nWhenever a creature dies, put a +1/+1 counter on Lumberknot.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "lumberknot",
+  "colorIdentity": [
+    "G"
+  ]
+}

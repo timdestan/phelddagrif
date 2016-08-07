@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Taiga",
+  "type": "Land — Mountain Forest",
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Mountain",
+    "Forest"
+  ],
+  "text": "({T}: Add {R} or {G} to your mana pool.)",
+  "imageName": "taiga",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

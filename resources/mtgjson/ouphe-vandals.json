@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ouphe Vandals",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Ouphe Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ouphe",
+    "Rogue"
+  ],
+  "text": "{G}, Sacrifice Ouphe Vandals: Counter target activated ability from an artifact source and destroy that artifact if it's on the battlefield. (Mana abilities can't be targeted.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "ouphe vandals",
+  "colorIdentity": [
+    "G"
+  ]
+}

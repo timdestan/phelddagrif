@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Graven Dominator",
+  "manaCost": "{4}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Gargoyle",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Gargoyle"
+  ],
+  "text": "Flying\nHaunt (When this creature dies, exile it haunting target creature.)\nWhen Graven Dominator enters the battlefield or the creature it haunts dies, each other creature has base power and toughness 1/1 until end of turn.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "graven dominator",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Rakdos Shred-Freak",
+  "manaCost": "{B/R}{B/R}",
+  "cmc": 2,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Human Berserker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Berserker"
+  ],
+  "text": "Haste",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "rakdos shred-freak",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

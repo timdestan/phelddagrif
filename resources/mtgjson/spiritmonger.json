@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Spiritmonger",
+  "manaCost": "{3}{B}{G}",
+  "cmc": 5,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Whenever Spiritmonger deals damage to a creature, put a +1/+1 counter on Spiritmonger.\n{B}: Regenerate Spiritmonger.\n{G}: Spiritmonger becomes the color of your choice until end of turn.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "spiritmonger",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

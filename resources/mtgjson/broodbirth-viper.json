@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Broodbirth Viper",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Snake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Snake"
+  ],
+  "text": "Myriad (Whenever this creature attacks, for each opponent other than defending player, you may put a token that's a copy of this creature onto the battlefield tapped and attacking that player or a planeswalker he or she controls. Exile the tokens at end of combat.)\nWhenever Broodbirth Viper deals combat damage to a player, you may draw a card.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "broodbirth viper",
+  "colorIdentity": [
+    "U"
+  ]
+}

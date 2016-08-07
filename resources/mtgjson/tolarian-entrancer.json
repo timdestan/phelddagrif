@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Tolarian Entrancer",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Whenever Tolarian Entrancer becomes blocked by a creature, gain control of that creature at end of combat.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "tolarian entrancer",
+  "colorIdentity": [
+    "U"
+  ]
+}

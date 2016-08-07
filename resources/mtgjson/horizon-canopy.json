@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Horizon Canopy",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}, Pay 1 life: Add {G} or {W} to your mana pool.\n{1}, {T}, Sacrifice Horizon Canopy: Draw a card.",
+  "imageName": "horizon canopy",
+  "colorIdentity": [
+    "G",
+    "W"
+  ]
+}

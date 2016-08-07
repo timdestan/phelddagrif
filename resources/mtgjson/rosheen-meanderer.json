@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Rosheen Meanderer",
+  "manaCost": "{3}{R/G}",
+  "cmc": 4,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Legendary Creature — Giant Shaman",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant",
+    "Shaman"
+  ],
+  "text": "{T}: Add {C}{C}{C}{C} to your mana pool. Spend this mana only on costs that contain {X}.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "rosheen meanderer",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

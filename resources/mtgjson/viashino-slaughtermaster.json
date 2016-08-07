@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Viashino Slaughtermaster",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Viashino Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Viashino",
+    "Warrior"
+  ],
+  "text": "Double strike\n{B}{G}: Viashino Slaughtermaster gets +1/+1 until end of turn. Activate this ability only once each turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "viashino slaughtermaster",
+  "colorIdentity": [
+    "R",
+    "B",
+    "G"
+  ]
+}

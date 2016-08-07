@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Mindstorm Crown",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "At the beginning of your upkeep, draw a card if you had no cards in hand at the beginning of this turn. If you had a card in hand, Mindstorm Crown deals 1 damage to you.",
+  "imageName": "mindstorm crown"
+}

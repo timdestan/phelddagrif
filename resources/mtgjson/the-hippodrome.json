@@ -1,0 +1,13 @@
+{
+  "layout": "plane",
+  "name": "The Hippodrome",
+  "type": "Plane — Segovia",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Segovia"
+  ],
+  "text": "All creatures get -5/-0.\nWhenever you roll CHAOS, you may destroy target creature if its power is 0 or less.",
+  "imageName": "the hippodrome"
+}

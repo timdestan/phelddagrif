@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Blaze of Glory",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Cast Blaze of Glory only during combat before blockers are declared.\nTarget creature defending player controls can block any number of creatures this turn. It blocks each attacking creature this turn if able.",
+  "imageName": "blaze of glory",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Naya Hushblade",
+  "manaCost": "{R/W}{G}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Elf Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Rogue"
+  ],
+  "text": "As long as you control another multicolored permanent, Naya Hushblade gets +1/+1 and has shroud. (It can't be the target of spells or abilities.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "naya hushblade",
+  "colorIdentity": [
+    "W",
+    "R",
+    "G"
+  ]
+}

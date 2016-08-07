@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Ray of Revelation",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target enchantment.\nFlashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "ray of revelation",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

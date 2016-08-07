@@ -1,0 +1,16 @@
+{
+  "layout": "plane",
+  "name": "Llanowar",
+  "type": "Plane — Dominaria",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Dominaria"
+  ],
+  "text": "All creatures have \"{T}: Add {G}{G} to your mana pool.\"\nWhenever you roll CHAOS, untap all creatures you control.",
+  "imageName": "llanowar",
+  "colorIdentity": [
+    "G"
+  ]
+}

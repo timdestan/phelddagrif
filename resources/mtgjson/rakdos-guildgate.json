@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Rakdos Guildgate",
+  "type": "Land — Gate",
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Gate"
+  ],
+  "text": "Rakdos Guildgate enters the battlefield tapped.\n{T}: Add {B} or {R} to your mana pool.",
+  "imageName": "rakdos guildgate",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Faerie Squadron",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Faerie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Faerie"
+  ],
+  "text": "Kicker {3}{U} (You may pay an additional {3}{U} as you cast this spell.)\nIf Faerie Squadron was kicked, it enters the battlefield with two +1/+1 counters on it and with flying.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "faerie squadron",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Steamflogger Boss",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Rigger",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Rigger"
+  ],
+  "text": "Other Rigger creatures you control get +1/+0 and have haste.\nIf a Rigger you control would assemble a Contraption, it assembles two Contraptions instead.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "steamflogger boss",
+  "colorIdentity": [
+    "R"
+  ]
+}

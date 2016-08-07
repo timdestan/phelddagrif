@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Burning Shield Askari",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)\n{R}{R}: Burning Shield Askari gains first strike until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "burning shield askari",
+  "colorIdentity": [
+    "R"
+  ]
+}

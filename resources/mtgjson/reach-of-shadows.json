@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Reach of Shadows",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target creature that's one or more colors.",
+  "imageName": "reach of shadows",
+  "colorIdentity": [
+    "B"
+  ]
+}

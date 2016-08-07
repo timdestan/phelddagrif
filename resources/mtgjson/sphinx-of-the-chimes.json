@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sphinx of the Chimes",
+  "manaCost": "{4}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Sphinx",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sphinx"
+  ],
+  "text": "Flying\nDiscard two nonland cards with the same name: Draw four cards.",
+  "power": "5",
+  "toughness": "6",
+  "imageName": "sphinx of the chimes",
+  "colorIdentity": [
+    "U"
+  ]
+}

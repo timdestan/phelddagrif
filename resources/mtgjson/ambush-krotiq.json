@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ambush Krotiq",
+  "manaCost": "{5}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "Trample\nWhen Ambush Krotiq enters the battlefield, return another creature you control to its owner's hand.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "ambush krotiq",
+  "colorIdentity": [
+    "G"
+  ]
+}

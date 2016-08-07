@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Composite Golem",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "Sacrifice Composite Golem: Add {W}{U}{B}{R}{G} to your mana pool.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "composite golem",
+  "colorIdentity": [
+    "W",
+    "U",
+    "B",
+    "R",
+    "G"
+  ]
+}

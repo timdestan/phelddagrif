@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Cephalid Pathmage",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Cephalid Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cephalid",
+    "Wizard"
+  ],
+  "text": "Cephalid Pathmage can't be blocked.\n{T}, Sacrifice Cephalid Pathmage: Target creature can't be blocked this turn.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "cephalid pathmage",
+  "colorIdentity": [
+    "U"
+  ]
+}

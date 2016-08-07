@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Battle Strain",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a creature blocks, Battle Strain deals 1 damage to that creature's controller.",
+  "imageName": "battle strain",
+  "colorIdentity": [
+    "R"
+  ]
+}

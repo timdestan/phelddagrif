@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Reflecting Mirror",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{X}, {T}: Change the target of target spell with a single target if that target is you. The new target must be a player. X is twice the converted mana cost of that spell.",
+  "imageName": "reflecting mirror"
+}

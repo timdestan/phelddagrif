@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dread Summons",
+  "manaCost": "{X}{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Each player puts the top X cards of his or her library into his or her graveyard. For each creature card put into a graveyard this way, you put a 2/2 black Zombie creature token onto the battlefield tapped.",
+  "imageName": "dread summons",
+  "colorIdentity": [
+    "B"
+  ]
+}

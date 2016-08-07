@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Thundercloud Elemental",
+  "manaCost": "{5}{U}{U}",
+  "cmc": 7,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Flying\n{3}{U}: Tap all creatures with toughness 2 or less.\n{3}{U}: All other creatures lose flying until end of turn.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "thundercloud elemental",
+  "colorIdentity": [
+    "U"
+  ]
+}

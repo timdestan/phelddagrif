@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Kjeldoran Frostbeast",
+  "manaCost": "{3}{G}{W}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Elemental Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Beast"
+  ],
+  "text": "At end of combat, destroy all creatures blocking or blocked by Kjeldoran Frostbeast.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "kjeldoran frostbeast",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Barl's Cage",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{3}: Target creature doesn't untap during its controller's next untap step.",
+  "imageName": "barl's cage"
+}

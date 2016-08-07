@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "\"Ach! Hans, Run!\"",
+  "manaCost": "{2}{R}{R}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, you may say \"Ach! Hans, run! It's the . . .\" and name a creature card. If you do, search your library for the named card, put it into play, then shuffle your library. That creature has haste. Remove it from the game at end of turn.",
+  "imageName": "ach! hans, run!",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Saproling Infestation",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a player kicks a spell, you put a 1/1 green Saproling creature token onto the battlefield.",
+  "imageName": "saproling infestation",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Krovikan Mist",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Illusion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Illusion"
+  ],
+  "text": "Flying\nKrovikan Mist's power and toughness are each equal to the number of Illusions on the battlefield.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "krovikan mist",
+  "colorIdentity": [
+    "U"
+  ]
+}

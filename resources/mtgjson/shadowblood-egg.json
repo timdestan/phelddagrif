@@ -1,0 +1,16 @@
+{
+  "layout": "normal",
+  "name": "Shadowblood Egg",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, {T}, Sacrifice Shadowblood Egg: Add {B}{R} to your mana pool. Draw a card.",
+  "imageName": "shadowblood egg",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

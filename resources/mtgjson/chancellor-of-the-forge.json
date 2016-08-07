@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Chancellor of the Forge",
+  "manaCost": "{4}{R}{R}{R}",
+  "cmc": 7,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Giant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant"
+  ],
+  "text": "You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, put a 1/1 red Goblin creature token with haste onto the battlefield.\nWhen Chancellor of the Forge enters the battlefield, put X 1/1 red Goblin creature tokens with haste onto the battlefield, where X is the number of creatures you control.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "chancellor of the forge",
+  "colorIdentity": [
+    "R"
+  ]
+}

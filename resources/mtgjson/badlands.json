@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Badlands",
+  "type": "Land — Swamp Mountain",
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Swamp",
+    "Mountain"
+  ],
+  "text": "({T}: Add {B} or {R} to your mana pool.)",
+  "imageName": "badlands",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

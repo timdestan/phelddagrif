@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Lightning Hounds",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Hound",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hound"
+  ],
+  "text": "First strike",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "lightning hounds",
+  "colorIdentity": [
+    "R"
+  ]
+}

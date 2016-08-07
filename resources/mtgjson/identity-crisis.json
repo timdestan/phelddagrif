@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Identity Crisis",
+  "manaCost": "{2}{W}{W}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Exile all cards from target player's hand and graveyard.",
+  "imageName": "identity crisis",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

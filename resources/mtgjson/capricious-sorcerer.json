@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Capricious Sorcerer",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{T}: Capricious Sorcerer deals 1 damage to target creature or player. Activate this ability only during your turn, before attackers are declared.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "capricious sorcerer",
+  "colorIdentity": [
+    "U"
+  ]
+}

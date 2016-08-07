@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Plow Under",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put two target lands on top of their owners' libraries.",
+  "imageName": "plow under",
+  "colorIdentity": [
+    "G"
+  ]
+}

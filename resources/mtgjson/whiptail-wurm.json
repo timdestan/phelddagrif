@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Whiptail Wurm",
+  "manaCost": "{6}{G}",
+  "cmc": 7,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "power": "8",
+  "toughness": "5",
+  "imageName": "whiptail wurm",
+  "colorIdentity": [
+    "G"
+  ]
+}

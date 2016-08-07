@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Think Twice",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Draw a card.\nFlashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "think twice",
+  "colorIdentity": [
+    "U"
+  ]
+}

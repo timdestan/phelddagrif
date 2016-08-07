@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Lose Hope",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gets -1/-1 until end of turn. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+  "imageName": "lose hope",
+  "colorIdentity": [
+    "B"
+  ]
+}

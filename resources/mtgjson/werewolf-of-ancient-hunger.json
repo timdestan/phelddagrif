@@ -1,0 +1,26 @@
+{
+  "layout": "double-faced",
+  "name": "Werewolf of Ancient Hunger",
+  "names": [
+    "Sage of Ancient Lore",
+    "Werewolf of Ancient Hunger"
+  ],
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Werewolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Werewolf"
+  ],
+  "text": "Vigilance, trample\nWerewolf of Ancient Hunger's power and toughness are each equal to the total number of cards in all players' hands.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Werewolf of Ancient Hunger.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "werewolf of ancient hunger",
+  "colorIdentity": [
+    "G"
+  ]
+}

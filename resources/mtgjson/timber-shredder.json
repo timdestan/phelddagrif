@@ -1,0 +1,26 @@
+{
+  "layout": "double-faced",
+  "name": "Timber Shredder",
+  "names": [
+    "Hinterland Logger",
+    "Timber Shredder"
+  ],
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Werewolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Werewolf"
+  ],
+  "text": "Trample\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Timber Shredder.",
+  "power": "4",
+  "toughness": "2",
+  "imageName": "timber shredder",
+  "colorIdentity": [
+    "G"
+  ]
+}

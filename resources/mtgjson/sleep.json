@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sleep",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Tap all creatures target player controls. Those creatures don't untap during that player's next untap step.",
+  "imageName": "sleep",
+  "colorIdentity": [
+    "U"
+  ]
+}

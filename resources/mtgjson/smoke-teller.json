@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Smoke Teller",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Shaman"
+  ],
+  "text": "{1}{U}: Look at target face-down creature.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "smoke teller",
+  "colorIdentity": [
+    "G",
+    "U"
+  ]
+}

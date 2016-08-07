@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Valorous Stance",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose one —\n• Target creature gains indestructible until end of turn.\n• Destroy target creature with toughness 4 or greater.",
+  "imageName": "valorous stance",
+  "colorIdentity": [
+    "W"
+  ]
+}

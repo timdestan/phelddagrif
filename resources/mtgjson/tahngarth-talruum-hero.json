@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Tahngarth, Talruum Hero",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Creature — Minotaur Warrior",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Minotaur",
+    "Warrior"
+  ],
+  "text": "Vigilance\n{1}{R}, {T}: Tahngarth, Talruum Hero deals damage equal to its power to target creature. That creature deals damage equal to its power to Tahngarth.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "tahngarth, talruum hero",
+  "colorIdentity": [
+    "R"
+  ]
+}

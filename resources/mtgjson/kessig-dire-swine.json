@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kessig Dire Swine",
+  "manaCost": "{4}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Boar Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Boar",
+    "Horror"
+  ],
+  "text": "Delirium — Kessig Dire Swine has trample as long as there are four or more card types among cards in your graveyard.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "kessig dire swine",
+  "colorIdentity": [
+    "G"
+  ]
+}

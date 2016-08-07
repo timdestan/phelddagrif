@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Drinker of Sorrow",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "Drinker of Sorrow can't block.\nWhenever Drinker of Sorrow deals combat damage, sacrifice a permanent.",
+  "power": "5",
+  "toughness": "3",
+  "imageName": "drinker of sorrow",
+  "colorIdentity": [
+    "B"
+  ]
+}

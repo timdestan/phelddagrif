@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Hunting Drake",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flying\nWhen Hunting Drake enters the battlefield, put target red or green creature on top of its owner's library.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "hunting drake",
+  "colorIdentity": [
+    "U"
+  ]
+}

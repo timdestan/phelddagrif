@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Purify the Grave",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Exile target card from a graveyard.\nFlashback {W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "purify the grave",
+  "colorIdentity": [
+    "W"
+  ]
+}

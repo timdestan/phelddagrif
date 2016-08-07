@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Prime Speaker Zegana",
+  "manaCost": "{2}{G}{G}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Legendary Creature — Merfolk Wizard",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Wizard"
+  ],
+  "text": "Prime Speaker Zegana enters the battlefield with X +1/+1 counters on it, where X is the greatest power among other creatures you control.\nWhen Prime Speaker Zegana enters the battlefield, draw cards equal to its power.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "prime speaker zegana",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

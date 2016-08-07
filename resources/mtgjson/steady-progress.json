@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Steady Progress",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)\nDraw a card.",
+  "imageName": "steady progress",
+  "colorIdentity": [
+    "U"
+  ]
+}

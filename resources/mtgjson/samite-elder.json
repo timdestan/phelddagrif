@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Samite Elder",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "{T}: Creatures you control gain protection from the colors of target permanent you control until end of turn.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "samite elder",
+  "colorIdentity": [
+    "W"
+  ]
+}

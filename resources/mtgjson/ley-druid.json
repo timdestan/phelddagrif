@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ley Druid",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Druid"
+  ],
+  "text": "{T}: Untap target land.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "ley druid",
+  "colorIdentity": [
+    "G"
+  ]
+}

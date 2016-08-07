@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Wizard Replica",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Wizard",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Wizard"
+  ],
+  "text": "Flying\n{U}, Sacrifice Wizard Replica: Counter target spell unless its controller pays {2}.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "wizard replica",
+  "colorIdentity": [
+    "U"
+  ]
+}

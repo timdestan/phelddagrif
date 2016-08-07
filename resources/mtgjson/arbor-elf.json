@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Arbor Elf",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Druid"
+  ],
+  "text": "{T}: Untap target Forest.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "arbor elf",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Mass of Ghouls",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Warrior"
+  ],
+  "power": "5",
+  "toughness": "3",
+  "imageName": "mass of ghouls",
+  "colorIdentity": [
+    "B"
+  ]
+}

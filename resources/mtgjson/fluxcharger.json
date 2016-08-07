@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Fluxcharger",
+  "manaCost": "{2}{U}{R}",
+  "cmc": 4,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Creature — Weird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Weird"
+  ],
+  "text": "Flying\nWhenever you cast an instant or sorcery spell, you may switch Fluxcharger's power and toughness until end of turn.",
+  "power": "1",
+  "toughness": "5",
+  "imageName": "fluxcharger",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

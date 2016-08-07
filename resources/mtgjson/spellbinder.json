@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Spellbinder",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Imprint — When Spellbinder enters the battlefield, you may exile an instant card from your hand.\nWhenever equipped creature deals combat damage to a player, you may copy the exiled card. If you do, you may cast the copy without paying its mana cost.\nEquip {4}",
+  "imageName": "spellbinder"
+}

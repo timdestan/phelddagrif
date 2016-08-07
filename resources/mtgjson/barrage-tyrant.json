@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Barrage Tyrant",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "type": "Creature — Eldrazi",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi"
+  ],
+  "text": "Devoid (This card has no color.)\n{2}{R}, Sacrifice another colorless creature: Barrage Tyrant deals damage equal to the sacrificed creature's power to target creature or player.",
+  "power": "5",
+  "toughness": "3",
+  "imageName": "barrage tyrant",
+  "colorIdentity": [
+    "R"
+  ]
+}

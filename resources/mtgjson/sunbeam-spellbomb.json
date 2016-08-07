@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Sunbeam Spellbomb",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{W}, Sacrifice Sunbeam Spellbomb: You gain 5 life.\n{1}, Sacrifice Sunbeam Spellbomb: Draw a card.",
+  "imageName": "sunbeam spellbomb",
+  "colorIdentity": [
+    "W"
+  ]
+}

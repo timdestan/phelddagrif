@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Fog Bank",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender, flying\nPrevent all combat damage that would be dealt to and dealt by Fog Bank.",
+  "power": "0",
+  "toughness": "2",
+  "imageName": "fog bank",
+  "colorIdentity": [
+    "U"
+  ]
+}

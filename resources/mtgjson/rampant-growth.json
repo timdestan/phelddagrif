@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rampant Growth",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.",
+  "imageName": "rampant growth",
+  "colorIdentity": [
+    "G"
+  ]
+}

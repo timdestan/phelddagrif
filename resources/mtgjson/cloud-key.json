@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Cloud Key",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "As Cloud Key enters the battlefield, choose artifact, creature, enchantment, instant, or sorcery.\nSpells you cast of the chosen type cost {1} less to cast.",
+  "imageName": "cloud key"
+}

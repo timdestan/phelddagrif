@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Breeding Pit",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, sacrifice Breeding Pit unless you pay {B}{B}.\nAt the beginning of your end step, put a 0/1 black Thrull creature token onto the battlefield.",
+  "imageName": "breeding pit",
+  "colorIdentity": [
+    "B"
+  ]
+}

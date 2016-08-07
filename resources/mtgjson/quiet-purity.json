@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Quiet Purity",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant — Arcane",
+  "types": [
+    "Instant"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "Destroy target enchantment.",
+  "imageName": "quiet purity",
+  "colorIdentity": [
+    "W"
+  ]
+}

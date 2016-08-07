@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Remote Isle",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Remote Isle enters the battlefield tapped.\n{T}: Add {U} to your mana pool.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+  "imageName": "remote isle",
+  "colorIdentity": [
+    "U"
+  ]
+}

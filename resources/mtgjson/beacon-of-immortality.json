@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Beacon of Immortality",
+  "manaCost": "{5}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Double target player's life total. Shuffle Beacon of Immortality into its owner's library.",
+  "imageName": "beacon of immortality",
+  "colorIdentity": [
+    "W"
+  ]
+}

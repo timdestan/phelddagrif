@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Shadowborn Apostle",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "A deck can have any number of cards named Shadowborn Apostle.\n{B}, Sacrifice six creatures named Shadowborn Apostle: Search your library for a Demon creature card and put it onto the battlefield. Then shuffle your library.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "shadowborn apostle",
+  "colorIdentity": [
+    "B"
+  ]
+}

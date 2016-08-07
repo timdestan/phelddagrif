@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Gush",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "You may return two Islands you control to their owner's hand rather than pay Gush's mana cost.\nDraw two cards.",
+  "imageName": "gush",
+  "colorIdentity": [
+    "U"
+  ]
+}

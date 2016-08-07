@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Smoke",
+  "manaCost": "{R}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Players can't untap more than one creature during their untap steps.",
+  "imageName": "smoke",
+  "colorIdentity": [
+    "R"
+  ]
+}

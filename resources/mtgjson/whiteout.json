@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Whiteout",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "All creatures lose flying until end of turn.\nSacrifice a snow land: Return Whiteout from your graveyard to your hand.",
+  "imageName": "whiteout",
+  "colorIdentity": [
+    "G"
+  ]
+}

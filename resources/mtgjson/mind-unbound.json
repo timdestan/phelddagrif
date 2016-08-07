@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mind Unbound",
+  "manaCost": "{4}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, put a lore counter on Mind Unbound, then draw a card for each lore counter on Mind Unbound.",
+  "imageName": "mind unbound",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Cenn's Tactician",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kithkin Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kithkin",
+    "Soldier"
+  ],
+  "text": "{W}, {T}: Put a +1/+1 counter on target Soldier creature.\nEach creature you control with a +1/+1 counter on it can block an additional creature.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "cenn's tactician",
+  "colorIdentity": [
+    "W"
+  ]
+}

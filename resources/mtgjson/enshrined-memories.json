@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Enshrined Memories",
+  "manaCost": "{X}{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Reveal the top X cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.",
+  "imageName": "enshrined memories",
+  "colorIdentity": [
+    "G"
+  ]
+}

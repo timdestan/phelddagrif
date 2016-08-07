@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Hindering Touch",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell unless its controller pays {2}.\nStorm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)",
+  "imageName": "hindering touch",
+  "colorIdentity": [
+    "U"
+  ]
+}

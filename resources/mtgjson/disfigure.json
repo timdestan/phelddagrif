@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Disfigure",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gets -2/-2 until end of turn.",
+  "imageName": "disfigure",
+  "colorIdentity": [
+    "B"
+  ]
+}

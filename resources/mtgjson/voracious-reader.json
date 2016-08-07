@@ -1,0 +1,24 @@
+{
+  "layout": "double-faced",
+  "name": "Voracious Reader",
+  "names": [
+    "Curious Homunculus",
+    "Voracious Reader"
+  ],
+  "cmc": 2,
+  "type": "Creature — Eldrazi Homunculus",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Homunculus"
+  ],
+  "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nInstant and sorcery spells you cast cost {1} less to cast.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "voracious reader",
+  "colorIdentity": [
+    "U"
+  ]
+}

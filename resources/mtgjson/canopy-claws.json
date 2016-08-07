@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Canopy Claws",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature loses flying until end of turn.\nFlashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "canopy claws",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ajani's Pridemate",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Cat Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat",
+    "Soldier"
+  ],
+  "text": "Whenever you gain life, you may put a +1/+1 counter on Ajani's Pridemate.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "ajani's pridemate",
+  "colorIdentity": [
+    "W"
+  ]
+}

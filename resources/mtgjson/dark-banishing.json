@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dark Banishing",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target nonblack creature. It can't be regenerated.",
+  "imageName": "dark banishing",
+  "colorIdentity": [
+    "B"
+  ]
+}

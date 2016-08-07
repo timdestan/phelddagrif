@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Laboratory Brute",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Zombie Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Horror"
+  ],
+  "text": "When Laboratory Brute enters the battlefield, put the top four cards of your library into your graveyard.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "laboratory brute",
+  "colorIdentity": [
+    "U"
+  ]
+}

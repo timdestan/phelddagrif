@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Voice of Law",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying, protection from red",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "voice of law",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Glowrider",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "Noncreature spells cost {1} more to cast.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "glowrider",
+  "colorIdentity": [
+    "W"
+  ]
+}

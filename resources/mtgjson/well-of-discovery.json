@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Well of Discovery",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "At the beginning of your end step, if you control no untapped lands, draw a card.",
+  "imageName": "well of discovery"
+}

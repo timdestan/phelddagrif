@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Zodiac Rabbit",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Rabbit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rabbit"
+  ],
+  "text": "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "zodiac rabbit",
+  "colorIdentity": [
+    "G"
+  ]
+}

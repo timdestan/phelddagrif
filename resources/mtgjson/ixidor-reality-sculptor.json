@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Ixidor, Reality Sculptor",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Legendary Creature — Human Wizard",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Face-down creatures get +1/+1.\n{2}{U}: Turn target face-down creature face up.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "ixidor, reality sculptor",
+  "colorIdentity": [
+    "U"
+  ]
+}

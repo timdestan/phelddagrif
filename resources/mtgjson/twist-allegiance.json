@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Twist Allegiance",
+  "manaCost": "{6}{R}",
+  "cmc": 7,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "You and target opponent each gain control of all creatures the other controls until end of turn. Untap those creatures. Those creatures gain haste until end of turn.",
+  "imageName": "twist allegiance",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Memory Erosion",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever an opponent casts a spell, that player puts the top two cards of his or her library into his or her graveyard.",
+  "imageName": "memory erosion",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rite of Flame",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Add {R}{R} to your mana pool, then add {R} to your mana pool for each card named Rite of Flame in each graveyard.",
+  "imageName": "rite of flame",
+  "colorIdentity": [
+    "R"
+  ]
+}

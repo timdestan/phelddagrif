@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Inkfathom Witch",
+  "manaCost": "{1}{U/B}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Creature — Merfolk Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Wizard"
+  ],
+  "text": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\n{2}{U}{B}: Each unblocked creature has base power and toughness 4/1 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "inkfathom witch",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

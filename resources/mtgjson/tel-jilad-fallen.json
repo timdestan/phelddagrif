@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Tel-Jilad Fallen",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Warrior"
+  ],
+  "text": "Protection from artifacts\nInfect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "tel-jilad fallen",
+  "colorIdentity": [
+    "G"
+  ]
+}

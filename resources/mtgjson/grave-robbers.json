@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Grave Robbers",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "{B}, {T}: Exile target artifact card from a graveyard. You gain 2 life.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "grave robbers",
+  "colorIdentity": [
+    "B"
+  ]
+}

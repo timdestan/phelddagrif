@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sunken Hollow",
+  "type": "Land — Island Swamp",
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Island",
+    "Swamp"
+  ],
+  "text": "({T}: Add {U} or {B} to your mana pool.)\nSunken Hollow enters the battlefield tapped unless you control two or more basic lands.",
+  "imageName": "sunken hollow",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

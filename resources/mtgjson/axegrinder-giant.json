@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Axegrinder Giant",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Giant Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant",
+    "Warrior"
+  ],
+  "power": "6",
+  "toughness": "4",
+  "imageName": "axegrinder giant",
+  "colorIdentity": [
+    "R"
+  ]
+}

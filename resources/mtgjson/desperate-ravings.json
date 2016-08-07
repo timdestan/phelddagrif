@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Desperate Ravings",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Draw two cards, then discard a card at random.\nFlashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "desperate ravings",
+  "colorIdentity": [
+    "R",
+    "U"
+  ]
+}

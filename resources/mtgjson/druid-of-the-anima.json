@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Druid of the Anima",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Druid"
+  ],
+  "text": "{T}: Add {R}, {G}, or {W} to your mana pool.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "druid of the anima",
+  "colorIdentity": [
+    "G",
+    "R",
+    "W"
+  ]
+}

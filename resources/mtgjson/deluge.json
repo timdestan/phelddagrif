@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Deluge",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Tap all creatures without flying.",
+  "imageName": "deluge",
+  "colorIdentity": [
+    "U"
+  ]
+}

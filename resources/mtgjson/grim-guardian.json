@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Grim Guardian",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment Creature — Zombie",
+  "types": [
+    "Enchantment",
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Constellation — Whenever Grim Guardian or another enchantment enters the battlefield under your control, each opponent loses 1 life.",
+  "power": "1",
+  "toughness": "4",
+  "imageName": "grim guardian",
+  "colorIdentity": [
+    "B"
+  ]
+}

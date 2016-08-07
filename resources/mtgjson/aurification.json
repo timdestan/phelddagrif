@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Aurification",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a creature deals damage to you, put a gold counter on it.\nEach creature with a gold counter on it is a Wall in addition to its other creature types and has defender. (Those creatures can't attack.)\nWhen Aurification leaves the battlefield, remove all gold counters from all creatures.",
+  "imageName": "aurification",
+  "colorIdentity": [
+    "W"
+  ]
+}

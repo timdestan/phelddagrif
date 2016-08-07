@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ward Sliver",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "As Ward Sliver enters the battlefield, choose a color.\nAll Slivers have protection from the chosen color.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "ward sliver",
+  "colorIdentity": [
+    "W"
+  ]
+}

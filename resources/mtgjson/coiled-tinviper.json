@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Coiled Tinviper",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Snake",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Snake"
+  ],
+  "text": "First strike",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "coiled tinviper"
+}

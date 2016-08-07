@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Shivan Oasis",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Shivan Oasis enters the battlefield tapped.\n{T}: Add {R} or {G} to your mana pool.",
+  "imageName": "shivan oasis",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

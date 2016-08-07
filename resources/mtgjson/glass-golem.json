@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Glass Golem",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "power": "6",
+  "toughness": "2",
+  "imageName": "glass golem"
+}

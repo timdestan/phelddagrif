@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Aisling Leprechaun",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Faerie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Faerie"
+  ],
+  "text": "Whenever Aisling Leprechaun blocks or becomes blocked by a creature, that creature becomes green. (This effect lasts indefinitely.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "aisling leprechaun",
+  "colorIdentity": [
+    "G"
+  ]
+}

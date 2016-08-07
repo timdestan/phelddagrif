@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Plagiarize",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Until end of turn, if target player would draw a card, instead that player skips that draw and you draw a card.",
+  "imageName": "plagiarize",
+  "colorIdentity": [
+    "U"
+  ]
+}

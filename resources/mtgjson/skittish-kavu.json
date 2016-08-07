@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Skittish Kavu",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Kavu",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kavu"
+  ],
+  "text": "Skittish Kavu gets +1/+1 as long as no opponent controls a white or blue creature.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "skittish kavu",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Ruin in Their Wake",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Devoid (This card has no color.)\nSearch your library for a basic land card and reveal it. You may put that card onto the battlefield tapped if you control a land named Wastes. Otherwise, put that card into your hand. Then shuffle your library.",
+  "imageName": "ruin in their wake",
+  "colorIdentity": [
+    "G"
+  ]
+}

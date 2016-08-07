@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Active Volcano",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose one —\n• Destroy target blue permanent.\n• Return target Island to its owner's hand.",
+  "imageName": "active volcano",
+  "colorIdentity": [
+    "R"
+  ]
+}

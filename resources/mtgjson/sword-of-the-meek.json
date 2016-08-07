@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Sword of the Meek",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature gets +1/+2.\nEquip {2}\nWhenever a 1/1 creature enters the battlefield under your control, you may return Sword of the Meek from your graveyard to the battlefield, then attach it to that creature.",
+  "imageName": "sword of the meek"
+}

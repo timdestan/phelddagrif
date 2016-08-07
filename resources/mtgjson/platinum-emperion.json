@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Platinum Emperion",
+  "manaCost": "{8}",
+  "cmc": 8,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "Your life total can't change. (You can't gain or lose life. You can't pay any amount of life except 0.)",
+  "power": "8",
+  "toughness": "8",
+  "imageName": "platinum emperion"
+}

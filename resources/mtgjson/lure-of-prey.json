@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Lure of Prey",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Cast Lure of Prey only if an opponent cast a creature spell this turn.\nYou may put a green creature card from your hand onto the battlefield.",
+  "imageName": "lure of prey",
+  "colorIdentity": [
+    "G"
+  ]
+}

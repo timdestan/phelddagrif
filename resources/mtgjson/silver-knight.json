@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Silver Knight",
+  "manaCost": "{W}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "First strike, protection from red",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "silver knight",
+  "colorIdentity": [
+    "W"
+  ]
+}

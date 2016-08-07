@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Hunter's Ambush",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Prevent all combat damage that would be dealt by nongreen creatures this turn.",
+  "imageName": "hunter's ambush",
+  "colorIdentity": [
+    "G"
+  ]
+}

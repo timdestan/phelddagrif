@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Lingering Souls",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put two 1/1 white Spirit creature tokens with flying onto the battlefield.\nFlashback {1}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "lingering souls",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

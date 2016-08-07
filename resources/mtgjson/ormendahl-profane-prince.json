@@ -1,0 +1,28 @@
+{
+  "layout": "double-faced",
+  "name": "Ormendahl, Profane Prince",
+  "names": [
+    "Westvale Abbey",
+    "Ormendahl, Profane Prince"
+  ],
+  "colors": [
+    "Black"
+  ],
+  "type": "Legendary Creature — Demon",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon"
+  ],
+  "text": "Flying, lifelink, indestructible, haste",
+  "power": "9",
+  "toughness": "7",
+  "imageName": "ormendahl, profane prince",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Fortified Rampart",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender",
+  "power": "0",
+  "toughness": "6",
+  "imageName": "fortified rampart",
+  "colorIdentity": [
+    "W"
+  ]
+}

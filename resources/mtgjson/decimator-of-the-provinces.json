@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Decimator of the Provinces",
+  "manaCost": "{10}",
+  "cmc": 10,
+  "type": "Creature — Eldrazi Boar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Boar"
+  ],
+  "text": "Emerge {6}{G}{G}{G} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)\nWhen you cast Decimator of the Provinces, creatures you control get +2/+2 and gain trample until end of turn.\nTrample, haste",
+  "power": "7",
+  "toughness": "7",
+  "imageName": "decimator of the provinces",
+  "colorIdentity": [
+    "G"
+  ]
+}

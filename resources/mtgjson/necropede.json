@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Necropede",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact Creature — Insect",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nWhen Necropede dies, you may put a -1/-1 counter on target creature.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "necropede"
+}

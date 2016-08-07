@@ -1,0 +1,13 @@
+{
+  "layout": "plane",
+  "name": "The Zephyr Maze",
+  "type": "Plane — Kyneth",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Kyneth"
+  ],
+  "text": "Creatures with flying get +2/+0.\nCreatures without flying get -2/-0.\nWhenever you roll CHAOS, target creature gains flying until end of turn.",
+  "imageName": "the zephyr maze"
+}

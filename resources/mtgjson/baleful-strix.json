@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Baleful Strix",
+  "manaCost": "{U}{B}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Artifact Creature — Bird",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying, deathtouch\nWhen Baleful Strix enters the battlefield, draw a card.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "baleful strix",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

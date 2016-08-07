@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Quest for the Gravelord",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a creature dies, you may put a quest counter on Quest for the Gravelord.\nRemove three quest counters from Quest for the Gravelord and sacrifice it: Put a 5/5 black Zombie Giant creature token onto the battlefield.",
+  "imageName": "quest for the gravelord",
+  "colorIdentity": [
+    "B"
+  ]
+}

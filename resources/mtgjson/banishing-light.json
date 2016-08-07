@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Banishing Light",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "When Banishing Light enters the battlefield, exile target nonland permanent an opponent controls until Banishing Light leaves the battlefield. (That permanent returns under its owner's control.)",
+  "imageName": "banishing light",
+  "colorIdentity": [
+    "W"
+  ]
+}

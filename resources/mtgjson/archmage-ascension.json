@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Archmage Ascension",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of each end step, if you drew two or more cards this turn, you may put a quest counter on Archmage Ascension.\nAs long as Archmage Ascension has six or more quest counters on it, if you would draw a card, you may instead search your library for a card, put that card into your hand, then shuffle your library.",
+  "imageName": "archmage ascension",
+  "colorIdentity": [
+    "U"
+  ]
+}

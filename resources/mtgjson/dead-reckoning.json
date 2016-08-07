@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dead Reckoning",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "You may put target creature card from your graveyard on top of your library. If you do, Dead Reckoning deals damage equal to that card's power to target creature.",
+  "imageName": "dead reckoning",
+  "colorIdentity": [
+    "B"
+  ]
+}

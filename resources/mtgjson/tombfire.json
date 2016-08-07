@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Tombfire",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target player exiles all cards with flashback from his or her graveyard.",
+  "imageName": "tombfire",
+  "colorIdentity": [
+    "B"
+  ]
+}

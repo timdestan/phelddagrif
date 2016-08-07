@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "One Dozen Eyes",
+  "manaCost": "{5}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Choose one —\n• Put a 5/5 green Beast creature token onto the battlefield.\n• Put five 1/1 green Insect creature tokens onto the battlefield.\nEntwine {G}{G}{G} (Choose both if you pay the entwine cost.)",
+  "imageName": "one dozen eyes",
+  "colorIdentity": [
+    "G"
+  ]
+}

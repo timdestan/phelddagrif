@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Dungeon Shade",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Shade Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Shade",
+    "Spirit"
+  ],
+  "text": "Flying\n{B}: Dungeon Shade gets +1/+1 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "dungeon shade",
+  "colorIdentity": [
+    "B"
+  ]
+}

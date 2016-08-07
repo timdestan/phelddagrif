@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wall of Faith",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender (This creature can't attack.)\n{W}: Wall of Faith gets +0/+1 until end of turn.",
+  "power": "0",
+  "toughness": "5",
+  "imageName": "wall of faith",
+  "colorIdentity": [
+    "W"
+  ]
+}

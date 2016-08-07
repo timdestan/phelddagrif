@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Harsh Sustenance",
+  "manaCost": "{1}{W}{B}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Harsh Sustenance deals X damage to target creature or player and you gain X life, where X is the number of creatures you control.",
+  "imageName": "harsh sustenance",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

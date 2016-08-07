@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Natural State",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target artifact or enchantment with converted mana cost 3 or less.",
+  "imageName": "natural state",
+  "colorIdentity": [
+    "G"
+  ]
+}

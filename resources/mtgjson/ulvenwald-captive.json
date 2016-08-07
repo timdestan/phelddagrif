@@ -1,0 +1,28 @@
+{
+  "layout": "double-faced",
+  "name": "Ulvenwald Captive",
+  "names": [
+    "Ulvenwald Captive",
+    "Ulvenwald Abomination"
+  ],
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Werewolf Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Werewolf",
+    "Horror"
+  ],
+  "text": "Defender\n{T}: Add {G} to your mana pool. \n{5}{G}{G}: Transform Ulvenwald Captive.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "ulvenwald captive",
+  "colorIdentity": [
+    "G"
+  ]
+}

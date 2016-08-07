@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Griffin Canyon",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{T}: Untap target Griffin. If it's a creature, it gets +1/+1 until end of turn.",
+  "imageName": "griffin canyon"
+}

@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Morgue Toad",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Frog",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Frog"
+  ],
+  "text": "Sacrifice Morgue Toad: Add {U}{R} to your mana pool.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "morgue toad",
+  "colorIdentity": [
+    "B",
+    "U",
+    "R"
+  ]
+}

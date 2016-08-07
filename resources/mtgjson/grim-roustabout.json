@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Grim Roustabout",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Skeleton Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Skeleton",
+    "Warrior"
+  ],
+  "text": "Unleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can't block as long as it has a +1/+1 counter on it.)\n{1}{B}: Regenerate Grim Roustabout.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "grim roustabout",
+  "colorIdentity": [
+    "B"
+  ]
+}

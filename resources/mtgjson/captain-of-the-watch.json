@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Captain of the Watch",
+  "manaCost": "{4}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Vigilance (Attacking doesn't cause this creature to tap.)\nOther Soldier creatures you control get +1/+1 and have vigilance.\nWhen Captain of the Watch enters the battlefield, put three 1/1 white Soldier creature tokens onto the battlefield.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "captain of the watch",
+  "colorIdentity": [
+    "W"
+  ]
+}

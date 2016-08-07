@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Reliquary Monk",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Monk Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Monk",
+    "Cleric"
+  ],
+  "text": "When Reliquary Monk dies, destroy target artifact or enchantment.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "reliquary monk",
+  "colorIdentity": [
+    "W"
+  ]
+}

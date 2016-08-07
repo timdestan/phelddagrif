@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Ulamog, the Ceaseless Hunger",
+  "manaCost": "{10}",
+  "cmc": 10,
+  "type": "Legendary Creature — Eldrazi",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi"
+  ],
+  "text": "When you cast Ulamog, the Ceaseless Hunger, exile two target permanents.\nIndestructible\nWhenever Ulamog attacks, defending player exiles the top twenty cards of his or her library.",
+  "power": "10",
+  "toughness": "10",
+  "imageName": "ulamog, the ceaseless hunger"
+}

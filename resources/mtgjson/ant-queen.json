@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ant Queen",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "{1}{G}: Put a 1/1 green Insect creature token onto the battlefield.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "ant queen",
+  "colorIdentity": [
+    "G"
+  ]
+}

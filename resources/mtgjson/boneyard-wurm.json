@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Boneyard Wurm",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "text": "Boneyard Wurm's power and toughness are each equal to the number of creature cards in your graveyard.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "boneyard wurm",
+  "colorIdentity": [
+    "G"
+  ]
+}

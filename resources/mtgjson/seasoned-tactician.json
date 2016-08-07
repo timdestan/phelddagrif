@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Seasoned Tactician",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Advisor",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Advisor"
+  ],
+  "text": "{3}, Exile the top four cards of your library: The next time a source of your choice would deal damage to you this turn, prevent that damage.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "seasoned tactician",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Teferi's Realm",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "World Enchantment",
+  "supertypes": [
+    "World"
+  ],
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of each player's upkeep, that player chooses artifact, creature, land, or non-Aura enchantment. All nontoken permanents of that type phase out. (While they're phased out, they're treated as though they don't exist. Each one phases in before its controller untaps during his or her next untap step.)",
+  "imageName": "teferi's realm",
+  "colorIdentity": [
+    "U"
+  ]
+}

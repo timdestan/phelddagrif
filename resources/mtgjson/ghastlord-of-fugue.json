@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Ghastlord of Fugue",
+  "manaCost": "{U/B}{U/B}{U/B}{U/B}{U/B}",
+  "cmc": 5,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Creature — Spirit Avatar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit",
+    "Avatar"
+  ],
+  "text": "Ghastlord of Fugue can't be blocked.\nWhenever Ghastlord of Fugue deals combat damage to a player, that player reveals his or her hand. You choose a card from it. That player exiles that card.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "ghastlord of fugue",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

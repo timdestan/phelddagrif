@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Second Harvest",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "For each token you control, put a token onto the battlefield that's a copy of that permanent.",
+  "imageName": "second harvest",
+  "colorIdentity": [
+    "G"
+  ]
+}

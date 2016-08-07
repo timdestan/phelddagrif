@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Razia's Purification",
+  "manaCost": "{4}{R}{W}",
+  "cmc": 6,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Each player chooses three permanents he or she controls, then sacrifices the rest.",
+  "imageName": "razia's purification",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Scourge Devil",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Devil",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Devil"
+  ],
+  "text": "When Scourge Devil enters the battlefield, creatures you control get +1/+0 until end of turn.\nUnearth {2}{R} ({2}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "scourge devil",
+  "colorIdentity": [
+    "R"
+  ]
+}

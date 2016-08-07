@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Llanowar Elves",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Druid"
+  ],
+  "text": "{T}: Add {G} to your mana pool.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "llanowar elves",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Mirror Entity",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Shapeshifter",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Shapeshifter"
+  ],
+  "text": "Changeling (This card is every creature type.)\n{X}: Until end of turn, creatures you control have base power and toughness X/X and gain all creature types.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "mirror entity",
+  "colorIdentity": [
+    "W"
+  ]
+}

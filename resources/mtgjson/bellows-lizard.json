@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Bellows Lizard",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Lizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Lizard"
+  ],
+  "text": "{1}{R}: Bellows Lizard gets +1/+0 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "bellows lizard",
+  "colorIdentity": [
+    "R"
+  ]
+}

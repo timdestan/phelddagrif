@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Rapacious One",
+  "manaCost": "{5}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Eldrazi Drone",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Drone"
+  ],
+  "text": "Trample\nWhenever Rapacious One deals combat damage to a player, put that many 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have \"Sacrifice this creature: Add {C} to your mana pool.\"",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "rapacious one",
+  "colorIdentity": [
+    "R"
+  ]
+}

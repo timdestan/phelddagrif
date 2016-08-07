@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Tyrant's Familiar",
+  "manaCost": "{5}{R}{R}",
+  "cmc": 7,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying, haste\nLieutenant — As long as you control your commander, Tyrant's Familiar gets +2/+2 and has \"Whenever Tyrant's Familiar attacks, it deals 7 damage to target creature defending player controls.\"",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "tyrant's familiar",
+  "colorIdentity": [
+    "R"
+  ]
+}

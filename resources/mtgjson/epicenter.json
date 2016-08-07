@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Epicenter",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target player sacrifices a land.\nThreshold — Each player sacrifices all lands he or she controls instead if seven or more cards are in your graveyard.",
+  "imageName": "epicenter",
+  "colorIdentity": [
+    "R"
+  ]
+}

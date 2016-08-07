@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "End Hostilities",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy all creatures and all permanents attached to creatures.",
+  "imageName": "end hostilities",
+  "colorIdentity": [
+    "W"
+  ]
+}

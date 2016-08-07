@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Jungle Shrine",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Jungle Shrine enters the battlefield tapped.\n{T}: Add {R}, {G}, or {W} to your mana pool.",
+  "imageName": "jungle shrine",
+  "colorIdentity": [
+    "R",
+    "G",
+    "W"
+  ]
+}

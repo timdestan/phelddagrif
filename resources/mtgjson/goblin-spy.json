@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Goblin Spy",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Rogue"
+  ],
+  "text": "Play with the top card of your library revealed.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "goblin spy",
+  "colorIdentity": [
+    "R"
+  ]
+}

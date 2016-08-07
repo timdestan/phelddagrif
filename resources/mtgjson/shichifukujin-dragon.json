@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Shichifukujin Dragon",
+  "manaCost": "{6}{R}{R}{R}",
+  "cmc": 9,
+  "colors": [
+    "Red"
+  ],
+  "type": "Summon — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "When Shichifukujin Dragon comes into play, put seven +1/+1 counters on it.\n {R}{R}{R}, Remove two +1/+1 counters: Put three +1/+1 counters on Shichifukujin Dragon at end of turn. Play this ability as a sorcery.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "shichifukujin dragon"
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dirtwater Wraith",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Wraith",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wraith"
+  ],
+  "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\n{B}: Dirtwater Wraith gets +1/+0 until end of turn.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "dirtwater wraith",
+  "colorIdentity": [
+    "B"
+  ]
+}

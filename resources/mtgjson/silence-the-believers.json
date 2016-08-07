@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Silence the Believers",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Strive — Silence the Believers costs {2}{B} more to cast for each target beyond the first.\nExile any number of target creatures and all Auras attached to them.",
+  "imageName": "silence the believers",
+  "colorIdentity": [
+    "B"
+  ]
+}

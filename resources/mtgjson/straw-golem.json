@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Straw Golem",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "When an opponent casts a creature spell, sacrifice Straw Golem.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "straw golem"
+}

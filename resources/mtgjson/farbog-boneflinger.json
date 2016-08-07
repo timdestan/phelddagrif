@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Farbog Boneflinger",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "When Farbog Boneflinger enters the battlefield, target creature gets -2/-2 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "farbog boneflinger",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Hate Weaver",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Wizard"
+  ],
+  "text": "{2}: Target blue or red creature gets +1/+0 until end of turn.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "hate weaver",
+  "colorIdentity": [
+    "B"
+  ]
+}

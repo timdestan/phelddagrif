@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Metathran Soldier",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Metathran Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Metathran",
+    "Soldier"
+  ],
+  "text": "Metathran Soldier can't be blocked.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "metathran soldier",
+  "colorIdentity": [
+    "U"
+  ]
+}

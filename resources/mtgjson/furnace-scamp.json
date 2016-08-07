@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Furnace Scamp",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Whenever Furnace Scamp deals combat damage to a player, you may sacrifice it. If you do, Furnace Scamp deals 3 damage to that player.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "furnace scamp",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Winter Orb",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "As long as Winter Orb is untapped, players can't untap more than one land during their untap steps.",
+  "imageName": "winter orb"
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sylvan Scrying",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.",
+  "imageName": "sylvan scrying",
+  "colorIdentity": [
+    "G"
+  ]
+}

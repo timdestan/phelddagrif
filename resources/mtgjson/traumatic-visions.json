@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Traumatic Visions",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell.\nBasic landcycling {1}{U} ({1}{U}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)",
+  "imageName": "traumatic visions",
+  "colorIdentity": [
+    "U"
+  ]
+}

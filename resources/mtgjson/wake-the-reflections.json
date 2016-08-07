@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Wake the Reflections",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Populate. (Put a token onto the battlefield that's a copy of a creature token you control.)",
+  "imageName": "wake the reflections",
+  "colorIdentity": [
+    "W"
+  ]
+}

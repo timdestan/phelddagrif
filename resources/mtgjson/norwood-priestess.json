@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Norwood Priestess",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Druid"
+  ],
+  "text": "{T}: You may put a green creature card from your hand onto the battlefield. Activate this ability only during your turn, before attackers are declared.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "norwood priestess",
+  "colorIdentity": [
+    "G"
+  ]
+}

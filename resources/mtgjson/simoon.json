@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Simoon",
+  "manaCost": "{R}{G}",
+  "cmc": 2,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Simoon deals 1 damage to each creature target opponent controls.",
+  "imageName": "simoon",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

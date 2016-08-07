@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Hurr Jackal",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Hound",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hound"
+  ],
+  "text": "{T}: Target creature can't be regenerated this turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "hurr jackal",
+  "colorIdentity": [
+    "R"
+  ]
+}

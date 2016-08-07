@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Primeval Shambler",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror Mercenary",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror",
+    "Mercenary"
+  ],
+  "text": "{B}: Primeval Shambler gets +1/+1 until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "primeval shambler",
+  "colorIdentity": [
+    "B"
+  ]
+}

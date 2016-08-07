@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Hulking Devil",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Devil",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Devil"
+  ],
+  "power": "5",
+  "toughness": "2",
+  "imageName": "hulking devil",
+  "colorIdentity": [
+    "R"
+  ]
+}

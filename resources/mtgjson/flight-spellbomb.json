@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Flight Spellbomb",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}, Sacrifice Flight Spellbomb: Target creature gains flying until end of turn.\nWhen Flight Spellbomb is put into a graveyard from the battlefield, you may pay {U}. If you do, draw a card.",
+  "imageName": "flight spellbomb",
+  "colorIdentity": [
+    "U"
+  ]
+}

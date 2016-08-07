@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Setessan Starbreaker",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "When Setessan Starbreaker enters the battlefield, you may destroy target Aura.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "setessan starbreaker",
+  "colorIdentity": [
+    "G"
+  ]
+}

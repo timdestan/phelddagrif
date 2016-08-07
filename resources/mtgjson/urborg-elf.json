@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Urborg Elf",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Druid"
+  ],
+  "text": "{T}: Add {G}, {U}, or {B} to your mana pool.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "urborg elf",
+  "colorIdentity": [
+    "G",
+    "U",
+    "B"
+  ]
+}

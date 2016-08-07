@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Goblin Cavaliers",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "power": "3",
+  "toughness": "2",
+  "imageName": "goblin cavaliers",
+  "colorIdentity": [
+    "R"
+  ]
+}

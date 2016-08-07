@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sparksmith",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "{T}: Sparksmith deals X damage to target creature and X damage to you, where X is the number of Goblins on the battlefield.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "sparksmith",
+  "colorIdentity": [
+    "R"
+  ]
+}

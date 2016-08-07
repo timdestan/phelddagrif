@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Voracious Null",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "{1}{B}, Sacrifice another creature: Put two +1/+1 counters on Voracious Null. Activate this ability only any time you could cast a sorcery.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "voracious null",
+  "colorIdentity": [
+    "B"
+  ]
+}

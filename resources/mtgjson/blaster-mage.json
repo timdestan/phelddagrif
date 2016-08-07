@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Blaster Mage",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Spellshaper",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Spellshaper"
+  ],
+  "text": "{R}, {T}, Discard a card: Destroy target Wall.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "blaster mage",
+  "colorIdentity": [
+    "R"
+  ]
+}

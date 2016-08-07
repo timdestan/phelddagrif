@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Celestial Kirin",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Creature — Kirin Spirit",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kirin",
+    "Spirit"
+  ],
+  "text": "Flying\nWhenever you cast a Spirit or Arcane spell, destroy all permanents with that spell's converted mana cost.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "celestial kirin",
+  "colorIdentity": [
+    "W"
+  ]
+}

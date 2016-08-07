@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Guilty Conscience",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nWhenever enchanted creature deals damage, Guilty Conscience deals that much damage to that creature.",
+  "imageName": "guilty conscience",
+  "colorIdentity": [
+    "W"
+  ]
+}

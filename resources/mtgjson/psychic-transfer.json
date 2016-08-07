@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Psychic Transfer",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "If the difference between your life total and target player's life total is 5 or less, exchange life totals with that player.",
+  "imageName": "psychic transfer",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Thelon's Curse",
+  "manaCost": "{G}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Blue creatures don't untap during their controllers' untap steps.\nAt the beginning of each player's upkeep, that player may choose any number of tapped blue creatures he or she controls and pay {U} for each creature chosen this way. If the player does, untap those creatures.",
+  "imageName": "thelon's curse",
+  "colorIdentity": [
+    "G",
+    "U"
+  ]
+}

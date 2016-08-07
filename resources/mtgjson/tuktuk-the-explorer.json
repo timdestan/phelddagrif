@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Tuktuk the Explorer",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Creature — Goblin",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "Haste\nWhen Tuktuk the Explorer dies, put a legendary 5/5 colorless Goblin Golem artifact creature token named Tuktuk the Returned onto the battlefield.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "tuktuk the explorer",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Keldon Firebombers",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "When Keldon Firebombers enters the battlefield, each player sacrifices all lands he or she controls except for three.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "keldon firebombers",
+  "colorIdentity": [
+    "R"
+  ]
+}

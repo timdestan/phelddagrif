@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Pinecrest Ridge",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{T}: Add {R} or {G} to your mana pool. Pinecrest Ridge doesn't untap during your next untap step.",
+  "imageName": "pinecrest ridge",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

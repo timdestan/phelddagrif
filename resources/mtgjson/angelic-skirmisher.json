@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Angelic Skirmisher",
+  "manaCost": "{4}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nAt the beginning of each combat, choose first strike, vigilance, or lifelink. Creatures you control gain that ability until end of turn.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "angelic skirmisher",
+  "colorIdentity": [
+    "W"
+  ]
+}

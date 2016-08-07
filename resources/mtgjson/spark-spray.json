@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Spark Spray",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Spark Spray deals 1 damage to target creature or player.\nCycling {R} ({R}, Discard this card: Draw a card.)",
+  "imageName": "spark spray",
+  "colorIdentity": [
+    "R"
+  ]
+}

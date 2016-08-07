@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Freewind Falcon",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying, protection from red",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "freewind falcon",
+  "colorIdentity": [
+    "W"
+  ]
+}

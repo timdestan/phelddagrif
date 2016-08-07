@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Fatal Blow",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target creature that was dealt damage this turn. It can't be regenerated.",
+  "imageName": "fatal blow",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Liliana's Indignation",
+  "manaCost": "{X}{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put the top X cards of your library into your graveyard. Target player loses 2 life for each creature card put into your graveyard this way.",
+  "imageName": "liliana's indignation",
+  "colorIdentity": [
+    "B"
+  ]
+}

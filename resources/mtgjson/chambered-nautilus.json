@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Chambered Nautilus",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Nautilus Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Nautilus",
+    "Beast"
+  ],
+  "text": "Whenever Chambered Nautilus becomes blocked, you may draw a card.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "chambered nautilus",
+  "colorIdentity": [
+    "U"
+  ]
+}

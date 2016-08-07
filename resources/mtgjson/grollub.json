@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Grollub",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Whenever Grollub is dealt damage, each opponent gains that much life.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "grollub",
+  "colorIdentity": [
+    "B"
+  ]
+}

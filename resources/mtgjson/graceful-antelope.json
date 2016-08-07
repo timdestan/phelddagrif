@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Graceful Antelope",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Antelope",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Antelope"
+  ],
+  "text": "Plainswalk (This creature can't be blocked as long as defending player controls a Plains.)\nWhenever Graceful Antelope deals combat damage to a player, you may have target land become a Plains until Graceful Antelope leaves the battlefield.",
+  "power": "1",
+  "toughness": "4",
+  "imageName": "graceful antelope",
+  "colorIdentity": [
+    "W"
+  ]
+}

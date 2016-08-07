@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Magus of the Unseen",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{1}{U}, {T}: Untap target artifact an opponent controls and gain control of it until end of turn. It gains haste until end of turn. When you lose control of the artifact, tap it.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "magus of the unseen",
+  "colorIdentity": [
+    "U"
+  ]
+}

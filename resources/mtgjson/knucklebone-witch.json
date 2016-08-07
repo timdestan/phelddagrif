@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Knucklebone Witch",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Goblin Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Shaman"
+  ],
+  "text": "Whenever a Goblin you control is put into a graveyard from the battlefield, you may put a +1/+1 counter on Knucklebone Witch.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "knucklebone witch",
+  "colorIdentity": [
+    "B"
+  ]
+}

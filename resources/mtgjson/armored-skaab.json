@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Armored Skaab",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Zombie Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Warrior"
+  ],
+  "text": "When Armored Skaab enters the battlefield, put the top four cards of your library into your graveyard.",
+  "power": "1",
+  "toughness": "4",
+  "imageName": "armored skaab",
+  "colorIdentity": [
+    "U"
+  ]
+}

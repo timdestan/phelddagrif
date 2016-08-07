@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Gruul Charm",
+  "manaCost": "{R}{G}",
+  "cmc": 2,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose one —\n• Creatures without flying can't block this turn.\n• Gain control of all permanents you own.\n• Gruul Charm deals 3 damage to each creature with flying.",
+  "imageName": "gruul charm",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Rhys the Exiled",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Legendary Creature — Elf Warrior",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Warrior"
+  ],
+  "text": "Whenever Rhys the Exiled attacks, you gain 1 life for each Elf you control.\n{B}, Sacrifice an Elf: Regenerate Rhys the Exiled.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "rhys the exiled",
+  "colorIdentity": [
+    "G",
+    "B"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Rushing-Tide Zubera",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Zubera Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zubera",
+    "Spirit"
+  ],
+  "text": "When Rushing-Tide Zubera dies, if 4 or more damage was dealt to it this turn, draw three cards.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "rushing-tide zubera",
+  "colorIdentity": [
+    "U"
+  ]
+}

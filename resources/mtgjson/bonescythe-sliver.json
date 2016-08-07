@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Bonescythe Sliver",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "Sliver creatures you control have double strike. (They deal both first-strike and regular combat damage.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "bonescythe sliver",
+  "colorIdentity": [
+    "W"
+  ]
+}

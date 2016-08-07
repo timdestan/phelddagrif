@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Skyshroud War Beast",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Trample\nAs Skyshroud War Beast enters the battlefield, choose an opponent.\nSkyshroud War Beast's power and toughness are each equal to the number of nonbasic lands the chosen player controls.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "skyshroud war beast",
+  "colorIdentity": [
+    "G"
+  ]
+}

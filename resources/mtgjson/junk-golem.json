@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Junk Golem",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "Junk Golem enters the battlefield with three +1/+1 counters on it.\nAt the beginning of your upkeep, sacrifice Junk Golem unless you remove a +1/+1 counter from it.\n{1}, Discard a card: Put a +1/+1 counter on Junk Golem.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "junk golem"
+}

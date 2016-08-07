@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Battle Screech",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put two 1/1 white Bird creature tokens with flying onto the battlefield.\nFlashback—Tap three untapped white creatures you control. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "battle screech",
+  "colorIdentity": [
+    "W"
+  ]
+}

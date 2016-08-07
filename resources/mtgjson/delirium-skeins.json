@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Delirium Skeins",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Each player discards three cards.",
+  "imageName": "delirium skeins",
+  "colorIdentity": [
+    "B"
+  ]
+}

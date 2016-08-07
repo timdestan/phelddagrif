@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Lurking Nightstalker",
+  "manaCost": "{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Nightstalker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Nightstalker"
+  ],
+  "text": "Whenever Lurking Nightstalker attacks, it gets +2/+0 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "lurking nightstalker",
+  "colorIdentity": [
+    "B"
+  ]
+}

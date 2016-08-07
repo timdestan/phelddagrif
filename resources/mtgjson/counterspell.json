@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Counterspell",
+  "manaCost": "{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell.",
+  "imageName": "counterspell",
+  "colorIdentity": [
+    "U"
+  ]
+}

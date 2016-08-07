@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Blanchwood Treefolk",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Treefolk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Treefolk"
+  ],
+  "power": "4",
+  "toughness": "5",
+  "imageName": "blanchwood treefolk",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Scute Mob",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "At the beginning of your upkeep, if you control five or more lands, put four +1/+1 counters on Scute Mob.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "scute mob",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Shield Dancer",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Rebel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rebel"
+  ],
+  "text": "{2}{W}: The next time target attacking creature would deal combat damage to Shield Dancer this turn, that creature deals that damage to itself instead.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "shield dancer",
+  "colorIdentity": [
+    "W"
+  ]
+}

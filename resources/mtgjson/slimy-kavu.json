@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Slimy Kavu",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Kavu",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kavu"
+  ],
+  "text": "{T}: Target land becomes a Swamp until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "slimy kavu",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Wicker Warcrawler",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact Creature — Scarecrow",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Scarecrow"
+  ],
+  "text": "Whenever Wicker Warcrawler attacks or blocks, put a -1/-1 counter on it at end of combat.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "wicker warcrawler"
+}

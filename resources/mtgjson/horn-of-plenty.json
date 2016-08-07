@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Horn of Plenty",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Whenever a player casts a spell, he or she may pay {1}. If that player does, he or she draws a card at the beginning of the next end step.",
+  "imageName": "horn of plenty"
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Pus Kami",
+  "manaCost": "{5}{B}{B}",
+  "cmc": 7,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "{B}, Sacrifice Pus Kami: Destroy target nonblack creature.\nSoulshift 6 (When this creature dies, you may return target Spirit card with converted mana cost 6 or less from your graveyard to your hand.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "pus kami",
+  "colorIdentity": [
+    "B"
+  ]
+}

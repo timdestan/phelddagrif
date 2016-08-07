@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Sisay",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "Whenever you tap a land for mana, add one mana to your mana pool of any type that land produced.",
+  "imageName": "sisay",
+  "hand": -2,
+  "life": -3
+}

@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Kuro, Pitlord",
+  "manaCost": "{6}{B}{B}{B}",
+  "cmc": 9,
+  "colors": [
+    "Black"
+  ],
+  "type": "Legendary Creature — Demon Spirit",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon",
+    "Spirit"
+  ],
+  "text": "At the beginning of your upkeep, sacrifice Kuro, Pitlord unless you pay {B}{B}{B}{B}.\nPay 1 life: Target creature gets -1/-1 until end of turn.",
+  "power": "9",
+  "toughness": "9",
+  "imageName": "kuro, pitlord",
+  "colorIdentity": [
+    "B"
+  ]
+}

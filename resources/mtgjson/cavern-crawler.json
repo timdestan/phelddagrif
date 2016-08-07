@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Cavern Crawler",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)\n{R}: Cavern Crawler gets +1/-1 until end of turn.",
+  "power": "0",
+  "toughness": "3",
+  "imageName": "cavern crawler",
+  "colorIdentity": [
+    "R"
+  ]
+}

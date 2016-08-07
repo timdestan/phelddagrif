@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rising Miasma",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "All creatures get -2/-2 until end of turn.\nAwaken 3—{5}{B}{B} (If you cast this spell for {5}{B}{B}, also put three +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It's still a land.)",
+  "imageName": "rising miasma",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Whitesun's Passage",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "You gain 5 life.",
+  "imageName": "whitesun's passage",
+  "colorIdentity": [
+    "W"
+  ]
+}

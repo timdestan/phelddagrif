@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "S.N.O.T.",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Ooze",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ooze"
+  ],
+  "text": "As S.N.O.T. comes into play, you may stick it onto another creature named S.N.O.T. in play. If you do, all those creatures form a single creature.\nS.N.O.T.'s power and toughness are equal to the square of the number of S.N.O.T.s stuck together. (One is a 1/1, two are a 4/4, three are a 9/9, and four are a 16/16.)",
+  "power": "*²",
+  "toughness": "*²",
+  "imageName": "s.n.o.t",
+  "colorIdentity": [
+    "G"
+  ]
+}

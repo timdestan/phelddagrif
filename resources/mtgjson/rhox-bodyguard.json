@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Rhox Bodyguard",
+  "manaCost": "{3}{G}{W}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Rhino Monk Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rhino",
+    "Monk",
+    "Soldier"
+  ],
+  "text": "Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\nWhen Rhox Bodyguard enters the battlefield, you gain 3 life.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "rhox bodyguard",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Illusory Gains",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nYou control enchanted creature.\nWhenever a creature enters the battlefield under an opponent's control, attach Illusory Gains to that creature.",
+  "imageName": "illusory gains",
+  "colorIdentity": [
+    "U"
+  ]
+}

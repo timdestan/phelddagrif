@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Thornweald Archer",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Archer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Archer"
+  ],
+  "text": "Reach (This creature can block creatures with flying.)\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "thornweald archer",
+  "colorIdentity": [
+    "G"
+  ]
+}

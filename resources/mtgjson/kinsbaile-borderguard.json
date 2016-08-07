@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kinsbaile Borderguard",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kithkin Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kithkin",
+    "Soldier"
+  ],
+  "text": "Kinsbaile Borderguard enters the battlefield with a +1/+1 counter on it for each other Kithkin you control.\nWhen Kinsbaile Borderguard dies, put a 1/1 white Kithkin Soldier creature token onto the battlefield for each counter on it.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "kinsbaile borderguard",
+  "colorIdentity": [
+    "W"
+  ]
+}

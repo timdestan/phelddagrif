@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Kilnmouth Dragon",
+  "manaCost": "{5}{R}{R}",
+  "cmc": 7,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Amplify 3 (As this creature enters the battlefield, put three +1/+1 counters on it for each Dragon card you reveal in your hand.)\nFlying\n{T}: Kilnmouth Dragon deals damage equal to the number of +1/+1 counters on it to target creature or player.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "kilnmouth dragon",
+  "colorIdentity": [
+    "R"
+  ]
+}

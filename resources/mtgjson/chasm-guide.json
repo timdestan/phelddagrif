@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Chasm Guide",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Scout Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Scout",
+    "Ally"
+  ],
+  "text": "Rally — Whenever Chasm Guide or another Ally enters the battlefield under your control, creatures you control gain haste until end of turn.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "chasm guide",
+  "colorIdentity": [
+    "R"
+  ]
+}

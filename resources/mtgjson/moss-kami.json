@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Moss Kami",
+  "manaCost": "{5}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Trample",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "moss kami",
+  "colorIdentity": [
+    "G"
+  ]
+}

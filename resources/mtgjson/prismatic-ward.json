@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Prismatic Ward",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nAs Prismatic Ward enters the battlefield, choose a color.\nPrevent all damage that would be dealt to enchanted creature by sources of the chosen color.",
+  "imageName": "prismatic ward",
+  "colorIdentity": [
+    "W"
+  ]
+}

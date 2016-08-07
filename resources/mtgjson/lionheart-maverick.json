@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Lionheart Maverick",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "Vigilance\n{4}{W}: Lionheart Maverick gets +1/+2 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "lionheart maverick",
+  "colorIdentity": [
+    "W"
+  ]
+}

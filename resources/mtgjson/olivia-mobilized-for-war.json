@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Olivia, Mobilized for War",
+  "manaCost": "{1}{B}{R}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Legendary Creature — Vampire Knight",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Knight"
+  ],
+  "text": "Flying\nWhenever another creature enters the battlefield under your control, you may discard a card. If you do, put a +1/+1 counter on that creature, it gains haste until end of turn, and it becomes a Vampire in addition to its other types.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "olivia, mobilized for war",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

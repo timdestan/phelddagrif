@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ainok Artillerist",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Hound Archer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hound",
+    "Archer"
+  ],
+  "text": "Ainok Artillerist has reach as long as it has a +1/+1 counter on it. (It can block creatures with flying.)",
+  "power": "4",
+  "toughness": "1",
+  "imageName": "ainok artillerist",
+  "colorIdentity": [
+    "G"
+  ]
+}

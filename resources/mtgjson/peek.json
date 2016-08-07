@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Peek",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Look at target player's hand.\nDraw a card.",
+  "imageName": "peek",
+  "colorIdentity": [
+    "U"
+  ]
+}

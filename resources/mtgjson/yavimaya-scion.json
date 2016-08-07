@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Yavimaya Scion",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Treefolk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Treefolk"
+  ],
+  "text": "Protection from artifacts",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "yavimaya scion",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Barrin",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "Sacrifice a permanent: Return target creature to its owner's hand.",
+  "imageName": "barrin",
+  "hand": 0,
+  "life": 6
+}

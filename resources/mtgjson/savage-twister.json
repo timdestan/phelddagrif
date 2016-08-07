@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Savage Twister",
+  "manaCost": "{X}{R}{G}",
+  "cmc": 2,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Savage Twister deals X damage to each creature.",
+  "imageName": "savage twister",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

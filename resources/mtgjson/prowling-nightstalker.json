@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Prowling Nightstalker",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Nightstalker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Nightstalker"
+  ],
+  "text": "Prowling Nightstalker can't be blocked except by black creatures.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "prowling nightstalker",
+  "colorIdentity": [
+    "B"
+  ]
+}

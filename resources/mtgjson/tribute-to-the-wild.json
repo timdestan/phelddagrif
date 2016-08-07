@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Tribute to the Wild",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Each opponent sacrifices an artifact or enchantment.",
+  "imageName": "tribute to the wild",
+  "colorIdentity": [
+    "G"
+  ]
+}

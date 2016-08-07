@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ridgeline Rager",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "{R}: Ridgeline Rager gets +1/+0 until end of turn.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "ridgeline rager",
+  "colorIdentity": [
+    "R"
+  ]
+}

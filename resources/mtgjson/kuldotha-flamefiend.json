@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Kuldotha Flamefiend",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "When Kuldotha Flamefiend enters the battlefield, you may sacrifice an artifact. If you do, Kuldotha Flamefiend deals 4 damage divided as you choose among any number of target creatures and/or players.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "kuldotha flamefiend",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Akki Rockspeaker",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Shaman"
+  ],
+  "text": "When Akki Rockspeaker enters the battlefield, add {R} to your mana pool.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "akki rockspeaker",
+  "colorIdentity": [
+    "R"
+  ]
+}

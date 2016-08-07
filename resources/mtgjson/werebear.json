@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Werebear",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Bear Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Bear",
+    "Druid"
+  ],
+  "text": "{T}: Add {G} to your mana pool.\nThreshold — Werebear gets +3/+3 as long as seven or more cards are in your graveyard.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "werebear",
+  "colorIdentity": [
+    "G"
+  ]
+}

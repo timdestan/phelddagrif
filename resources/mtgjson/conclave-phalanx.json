@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Conclave Phalanx",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nWhen Conclave Phalanx enters the battlefield, you gain 1 life for each creature you control.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "conclave phalanx",
+  "colorIdentity": [
+    "W"
+  ]
+}

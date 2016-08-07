@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Pursuit of Knowledge",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "If you would draw a card, you may put a study counter on Pursuit of Knowledge instead.\nRemove three study counters from Pursuit of Knowledge, Sacrifice Pursuit of Knowledge: Draw seven cards.",
+  "imageName": "pursuit of knowledge",
+  "colorIdentity": [
+    "W"
+  ]
+}

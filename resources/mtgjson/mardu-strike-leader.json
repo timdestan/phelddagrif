@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Mardu Strike Leader",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "Whenever Mardu Strike Leader attacks, put a 2/1 black Warrior creature token onto the battlefield.\nDash {3}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "mardu strike leader",
+  "colorIdentity": [
+    "B"
+  ]
+}

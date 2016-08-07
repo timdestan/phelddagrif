@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Necrogen Spellbomb",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{B}, Sacrifice Necrogen Spellbomb: Target player discards a card.\n{1}, Sacrifice Necrogen Spellbomb: Draw a card.",
+  "imageName": "necrogen spellbomb",
+  "colorIdentity": [
+    "B"
+  ]
+}

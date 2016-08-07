@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Prismatic Wardrobe",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target card that does not share a color with clothing worn by its controller. You cannot choose an artifact or land card.",
+  "imageName": "prismatic wardrobe",
+  "colorIdentity": [
+    "W"
+  ]
+}

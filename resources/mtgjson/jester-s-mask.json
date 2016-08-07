@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Jester's Mask",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Jester's Mask enters the battlefield tapped.\n{1}, {T}, Sacrifice Jester's Mask: Target opponent puts the cards from his or her hand on top of his or her library. Search that player's library for that many cards. That player puts those cards into his or her hand, then shuffles his or her library.",
+  "imageName": "jester's mask"
+}

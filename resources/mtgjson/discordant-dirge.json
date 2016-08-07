@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Discordant Dirge",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, you may put a verse counter on Discordant Dirge.\n{B}, Sacrifice Discordant Dirge: Look at target opponent's hand and choose up to X cards from it, where X is the number of verse counters on Discordant Dirge. That player discards those cards.",
+  "imageName": "discordant dirge",
+  "colorIdentity": [
+    "B"
+  ]
+}

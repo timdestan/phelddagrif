@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Izzet Guildgate",
+  "type": "Land — Gate",
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Gate"
+  ],
+  "text": "Izzet Guildgate enters the battlefield tapped.\n{T}: Add {U} or {R} to your mana pool.",
+  "imageName": "izzet guildgate",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

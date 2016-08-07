@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Territorial Dispute",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, sacrifice Territorial Dispute unless you sacrifice a land.\nPlayers can't play lands.",
+  "imageName": "territorial dispute",
+  "colorIdentity": [
+    "R"
+  ]
+}

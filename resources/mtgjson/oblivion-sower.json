@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Oblivion Sower",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Creature — Eldrazi",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi"
+  ],
+  "text": "When you cast Oblivion Sower, target opponent exiles the top four cards of his or her library, then you may put any number of land cards that player owns from exile onto the battlefield under your control.",
+  "power": "5",
+  "toughness": "8",
+  "imageName": "oblivion sower"
+}

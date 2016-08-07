@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Skirge Familiar",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Imp",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Imp"
+  ],
+  "text": "Flying\nDiscard a card: Add {B} to your mana pool.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "skirge familiar",
+  "colorIdentity": [
+    "B"
+  ]
+}

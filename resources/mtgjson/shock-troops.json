@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Shock Troops",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Sacrifice Shock Troops: Shock Troops deals 2 damage to target creature or player.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "shock troops",
+  "colorIdentity": [
+    "R"
+  ]
+}

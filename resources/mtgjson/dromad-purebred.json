@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Dromad Purebred",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Camel Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Camel",
+    "Beast"
+  ],
+  "text": "Whenever Dromad Purebred is dealt damage, you gain 1 life.",
+  "power": "1",
+  "toughness": "5",
+  "imageName": "dromad purebred",
+  "colorIdentity": [
+    "W"
+  ]
+}

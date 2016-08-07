@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Captain Sisay",
+  "manaCost": "{2}{G}{W}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Legendary Creature — Human Soldier",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "{T}: Search your library for a legendary card, reveal that card, and put it into your hand. Then shuffle your library.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "captain sisay",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

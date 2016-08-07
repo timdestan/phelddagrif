@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Air Bladder",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature has flying.\nEnchanted creature can block only creatures with flying.",
+  "imageName": "air bladder",
+  "colorIdentity": [
+    "U"
+  ]
+}

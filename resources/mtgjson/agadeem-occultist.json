@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Agadeem Occultist",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Shaman Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Shaman",
+    "Ally"
+  ],
+  "text": "{T}: Put target creature card from an opponent's graveyard onto the battlefield under your control if its converted mana cost is less than or equal to the number of Allies you control.",
+  "power": "0",
+  "toughness": "2",
+  "imageName": "agadeem occultist",
+  "colorIdentity": [
+    "B"
+  ]
+}

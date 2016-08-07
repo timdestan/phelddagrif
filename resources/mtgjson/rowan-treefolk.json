@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Rowan Treefolk",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Treefolk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Treefolk"
+  ],
+  "power": "3",
+  "toughness": "4",
+  "imageName": "rowan treefolk",
+  "colorIdentity": [
+    "G"
+  ]
+}

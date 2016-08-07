@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Firespout",
+  "manaCost": "{2}{R/G}",
+  "cmc": 3,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Firespout deals 3 damage to each creature without flying if {R} was spent to cast Firespout and 3 damage to each creature with flying if {G} was spent to cast it. (Do both if {R}{G} was spent.)",
+  "imageName": "firespout",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

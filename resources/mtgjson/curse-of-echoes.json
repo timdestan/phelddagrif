@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Curse of Echoes",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura Curse",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura",
+    "Curse"
+  ],
+  "text": "Enchant player\nWhenever enchanted player casts an instant or sorcery spell, each other player may copy that spell and may choose new targets for the copy he or she controls.",
+  "imageName": "curse of echoes",
+  "colorIdentity": [
+    "U"
+  ]
+}

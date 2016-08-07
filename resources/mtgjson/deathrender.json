@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Deathrender",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature gets +2/+2.\nWhenever equipped creature dies, you may put a creature card from your hand onto the battlefield and attach Deathrender to it.\nEquip {2}",
+  "imageName": "deathrender"
+}

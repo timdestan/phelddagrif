@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Shu General",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Vigilance; horsemanship (This creature can't be blocked except by creatures with horsemanship.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "shu general",
+  "colorIdentity": [
+    "W"
+  ]
+}

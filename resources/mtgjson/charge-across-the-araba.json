@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Charge Across the Araba",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant — Arcane",
+  "types": [
+    "Instant"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "Sweep — Return any number of Plains you control to their owner's hand. Creatures you control get +1/+1 until end of turn for each Plains returned this way.",
+  "imageName": "charge across the araba",
+  "colorIdentity": [
+    "W"
+  ]
+}

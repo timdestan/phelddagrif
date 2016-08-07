@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Parallax Tide",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Fading 5 (This enchantment enters the battlefield with five fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)\nRemove a fade counter from Parallax Tide: Exile target land.\nWhen Parallax Tide leaves the battlefield, each player returns to the battlefield all cards he or she owns exiled with Parallax Tide.",
+  "imageName": "parallax tide",
+  "colorIdentity": [
+    "U"
+  ]
+}

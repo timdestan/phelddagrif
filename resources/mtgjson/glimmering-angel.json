@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Glimmering Angel",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\n{U}: Glimmering Angel gains shroud until end of turn. (It can't be the target of spells or abilities.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "glimmering angel",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

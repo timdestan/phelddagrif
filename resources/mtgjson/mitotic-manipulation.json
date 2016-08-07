@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mitotic Manipulation",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Look at the top seven cards of your library. You may put one of those cards onto the battlefield if it has the same name as a permanent. Put the rest on the bottom of your library in any order.",
+  "imageName": "mitotic manipulation",
+  "colorIdentity": [
+    "U"
+  ]
+}

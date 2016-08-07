@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Lich Lord of Unx",
+  "manaCost": "{1}{U}{B}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Creature — Zombie Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Wizard"
+  ],
+  "text": "{U}{B}, {T}: Put a 1/1 blue and black Zombie Wizard creature token onto the battlefield.\n{U}{U}{B}{B}: Target player loses X life and puts the top X cards of his or her library into his or her graveyard, where X is the number of Zombies you control.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "lich lord of unx",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Lavinia of the Tenth",
+  "manaCost": "{3}{W}{U}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Legendary Creature — Human Soldier",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Protection from red\nWhen Lavinia of the Tenth enters the battlefield, detain each nonland permanent your opponents control with converted mana cost 4 or less. (Until your next turn, those permanents can't attack or block and their activated abilities can't be activated.)",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "lavinia of the tenth",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

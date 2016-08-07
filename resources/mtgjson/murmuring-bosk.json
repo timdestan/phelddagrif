@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Murmuring Bosk",
+  "type": "Land — Forest",
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Forest"
+  ],
+  "text": "({T}: Add {G} to your mana pool.)\nAs Murmuring Bosk enters the battlefield, you may reveal a Treefolk card from your hand. If you don't, Murmuring Bosk enters the battlefield tapped.\n{T}: Add {W} or {B} to your mana pool. Murmuring Bosk deals 1 damage to you.",
+  "imageName": "murmuring bosk",
+  "colorIdentity": [
+    "G",
+    "W",
+    "B"
+  ]
+}

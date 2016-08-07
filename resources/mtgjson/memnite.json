@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Memnite",
+  "manaCost": "{0}",
+  "cmc": 0,
+  "type": "Artifact Creature — Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "power": "1",
+  "toughness": "1",
+  "imageName": "memnite"
+}

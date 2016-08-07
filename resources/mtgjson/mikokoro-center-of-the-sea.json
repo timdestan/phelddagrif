@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Mikokoro, Center of the Sea",
+  "type": "Legendary Land",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{2}, {T}: Each player draws a card.",
+  "imageName": "mikokoro, center of the sea"
+}

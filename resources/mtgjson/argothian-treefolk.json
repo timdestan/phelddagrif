@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Argothian Treefolk",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Treefolk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Treefolk"
+  ],
+  "text": "Prevent all damage that would be dealt to Argothian Treefolk by artifact sources.",
+  "power": "3",
+  "toughness": "5",
+  "imageName": "argothian treefolk",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Inundate",
+  "manaCost": "{3}{U}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Return all nonblue creatures to their owners' hands.",
+  "imageName": "inundate",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Viashino Heretic",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Viashino",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Viashino"
+  ],
+  "text": "{1}{R}, {T}: Destroy target artifact. Viashino Heretic deals damage to that artifact's controller equal to the artifact's converted mana cost.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "viashino heretic",
+  "colorIdentity": [
+    "R"
+  ]
+}

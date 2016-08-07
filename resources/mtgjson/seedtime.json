@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Seedtime",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Cast Seedtime only during your turn.\nTake an extra turn after this one if an opponent cast a blue spell this turn.",
+  "imageName": "seedtime",
+  "colorIdentity": [
+    "G"
+  ]
+}

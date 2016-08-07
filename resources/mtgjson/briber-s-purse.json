@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Briber's Purse",
+  "manaCost": "{X}",
+  "cmc": 0,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Briber's Purse enters the battlefield with X gem counters on it.\n{1}, {T}, Remove a gem counter from Briber's Purse: Target creature can't attack or block this turn.",
+  "imageName": "briber's purse"
+}

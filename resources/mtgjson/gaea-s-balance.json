@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Gaea's Balance",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "As an additional cost to cast Gaea's Balance, sacrifice five lands.\nSearch your library for a land card of each basic land type and put them onto the battlefield. Then shuffle your library.",
+  "imageName": "gaea's balance",
+  "colorIdentity": [
+    "G"
+  ]
+}

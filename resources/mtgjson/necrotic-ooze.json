@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Necrotic Ooze",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Ooze",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ooze"
+  ],
+  "text": "As long as Necrotic Ooze is on the battlefield, it has all activated abilities of all creature cards in all graveyards.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "necrotic ooze",
+  "colorIdentity": [
+    "B"
+  ]
+}

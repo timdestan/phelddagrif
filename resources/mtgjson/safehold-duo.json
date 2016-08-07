@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Safehold Duo",
+  "manaCost": "{3}{G/W}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Elf Warrior Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Warrior",
+    "Shaman"
+  ],
+  "text": "Whenever you cast a green spell, Safehold Duo gets +1/+1 until end of turn.\nWhenever you cast a white spell, Safehold Duo gains vigilance until end of turn.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "safehold duo",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

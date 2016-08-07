@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Akroan Mastiff",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Hound",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hound"
+  ],
+  "text": "{W}, {T}: Tap target creature.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "akroan mastiff",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Tradewind Rider Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "{3}: Each player returns a permanent he or she controls to its owner's hand unless he or she pays 2 life.",
+  "imageName": "tradewind rider avatar",
+  "hand": 1,
+  "life": 4
+}

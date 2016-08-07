@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Goblin Dark-Dwellers",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "Menace\nWhen Goblin Dark-Dwellers enters the battlefield, you may cast target instant or sorcery card with converted mana cost 3 or less from your graveyard without paying its mana cost. If that card would be put into your graveyard this turn, exile it instead.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "goblin dark-dwellers",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mind Games",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Buyback {2}{U} (You may pay an additional {2}{U} as you cast this spell. If you do, put this card into your hand as it resolves.)\nTap target artifact, creature, or land.",
+  "imageName": "mind games",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Caustic Wasps",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "Flying\nWhenever Caustic Wasps deals combat damage to a player, you may destroy target artifact that player controls.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "caustic wasps",
+  "colorIdentity": [
+    "G"
+  ]
+}

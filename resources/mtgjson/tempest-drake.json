@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Tempest Drake",
+  "manaCost": "{1}{W}{U}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flying, vigilance",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "tempest drake",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

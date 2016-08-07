@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Living Terrain",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant land\nEnchanted land is a 5/6 green Treefolk creature that's still a land.",
+  "imageName": "living terrain",
+  "colorIdentity": [
+    "G"
+  ]
+}

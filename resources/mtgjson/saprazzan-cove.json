@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Saprazzan Cove",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Saprazzan Cove enters the battlefield tapped.\n{T}: Put a storage counter on Saprazzan Cove.\n{T}, Remove any number of storage counters from Saprazzan Cove: Add {U} to your mana pool for each storage counter removed this way.",
+  "imageName": "saprazzan cove",
+  "colorIdentity": [
+    "U"
+  ]
+}

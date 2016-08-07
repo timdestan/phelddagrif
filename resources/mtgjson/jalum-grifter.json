@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Jalum Grifter",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Summon — Legend",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Legend"
+  ],
+  "text": "{1}{R}, {T}: Put Jalum Grifter and two lands you control face down in front of target opponent after revealing each card to him or her. Then, rearrange the order of the three cards as often as you wish, keeping them on the table at all times. That opponent then chooses one of those cards. If a land is chosen, destroy target card in play. Otherwise, sacrifice Jalum Grifter.",
+  "power": "3",
+  "toughness": "5",
+  "imageName": "jalum grifter",
+  "colorIdentity": [
+    "R"
+  ]
+}

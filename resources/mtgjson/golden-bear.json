@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Golden Bear",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Bear",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bear"
+  ],
+  "power": "4",
+  "toughness": "3",
+  "imageName": "golden bear",
+  "colorIdentity": [
+    "G"
+  ]
+}

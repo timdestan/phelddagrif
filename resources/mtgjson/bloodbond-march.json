@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Bloodbond March",
+  "manaCost": "{2}{B}{G}",
+  "cmc": 4,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a player casts a creature spell, each player returns all cards with the same name as that spell from his or her graveyard to the battlefield.",
+  "imageName": "bloodbond march",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Lys Alana Bowmaster",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Archer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Archer"
+  ],
+  "text": "Reach (This creature can block creatures with flying.)\nWhenever you cast an Elf spell, you may have Lys Alana Bowmaster deal 2 damage to target creature with flying.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "lys alana bowmaster",
+  "colorIdentity": [
+    "G"
+  ]
+}

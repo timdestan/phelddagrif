@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Thousand-Year Elixir",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "You may activate abilities of creatures you control as though those creatures had haste.\n{1}, {T}: Untap target creature.",
+  "imageName": "thousand-year elixir"
+}

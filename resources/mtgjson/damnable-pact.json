@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Damnable Pact",
+  "manaCost": "{X}{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target player draws X cards and loses X life.",
+  "imageName": "damnable pact",
+  "colorIdentity": [
+    "B"
+  ]
+}

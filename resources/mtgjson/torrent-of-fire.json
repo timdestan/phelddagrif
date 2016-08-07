@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Torrent of Fire",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Torrent of Fire deals damage equal to the highest converted mana cost among permanents you control to target creature or player.",
+  "imageName": "torrent of fire",
+  "colorIdentity": [
+    "R"
+  ]
+}

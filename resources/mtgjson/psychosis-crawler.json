@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Psychosis Crawler",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact Creature — Horror",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "Psychosis Crawler's power and toughness are each equal to the number of cards in your hand.\nWhenever you draw a card, each opponent loses 1 life.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "psychosis crawler"
+}

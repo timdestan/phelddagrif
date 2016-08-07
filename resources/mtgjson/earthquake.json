@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Earthquake",
+  "manaCost": "{X}{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Earthquake deals X damage to each creature without flying and each player.",
+  "imageName": "earthquake",
+  "colorIdentity": [
+    "R"
+  ]
+}

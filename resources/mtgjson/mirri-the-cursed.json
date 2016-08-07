@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Mirri the Cursed",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Legendary Creature — Vampire Cat",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Cat"
+  ],
+  "text": "Flying, first strike, haste\nWhenever Mirri the Cursed deals combat damage to a creature, put a +1/+1 counter on Mirri the Cursed.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "mirri the cursed",
+  "colorIdentity": [
+    "B"
+  ]
+}

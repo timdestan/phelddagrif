@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wardscale Dragon",
+  "manaCost": "{4}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying\nAs long as Wardscale Dragon is attacking, defending player can't cast spells.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "wardscale dragon",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Advent of the Wurm",
+  "manaCost": "{1}{G}{G}{W}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Put a 5/5 green Wurm creature token with trample onto the battlefield.",
+  "imageName": "advent of the wurm",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

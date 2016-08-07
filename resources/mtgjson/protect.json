@@ -1,0 +1,23 @@
+{
+  "layout": "split",
+  "name": "Protect",
+  "names": [
+    "Protect",
+    "Serve"
+  ],
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gets +2/+4 until end of turn.\nFuse (You may cast one or both halves of this card from your hand.)",
+  "imageName": "protect",
+  "colorIdentity": [
+    "U",
+    "W"
+  ]
+}

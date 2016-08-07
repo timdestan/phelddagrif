@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Saltblast",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target nonwhite permanent.",
+  "imageName": "saltblast",
+  "colorIdentity": [
+    "W"
+  ]
+}

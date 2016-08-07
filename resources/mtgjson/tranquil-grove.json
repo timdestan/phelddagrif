@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Tranquil Grove",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{1}{G}{G}: Destroy all other enchantments.",
+  "imageName": "tranquil grove",
+  "colorIdentity": [
+    "G"
+  ]
+}

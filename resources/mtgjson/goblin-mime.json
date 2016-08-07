@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Goblin Mime",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Mime",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Mime"
+  ],
+  "text": "When you speak, sacrifice Goblin Mime.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "goblin mime",
+  "colorIdentity": [
+    "R"
+  ]
+}

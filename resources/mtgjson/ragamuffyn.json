@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ragamuffyn",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Cleric"
+  ],
+  "text": "Hellbent — {T}, Sacrifice a creature or land: Draw a card. Activate this ability only if you have no cards in hand.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "ragamuffyn",
+  "colorIdentity": [
+    "B"
+  ]
+}

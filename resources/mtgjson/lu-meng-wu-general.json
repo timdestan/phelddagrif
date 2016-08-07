@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Lu Meng, Wu General",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Legendary Creature — Human Soldier",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Horsemanship (This creature can't be blocked except by creatures with horsemanship.)",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "lu meng, wu general",
+  "colorIdentity": [
+    "U"
+  ]
+}

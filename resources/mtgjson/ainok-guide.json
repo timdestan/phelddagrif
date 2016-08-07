@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ainok Guide",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Hound Scout",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hound",
+    "Scout"
+  ],
+  "text": "When Ainok Guide enters the battlefield, choose one —\n• Put a +1/+1 counter on Ainok Guide.\n• Search your library for a basic land card, reveal it, then shuffle your library and put that card on top of it.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "ainok guide",
+  "colorIdentity": [
+    "G"
+  ]
+}

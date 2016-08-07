@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Rustrazor Butcher",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Warrior"
+  ],
+  "text": "First strike\nWither (This deals damage to creatures in the form of -1/-1 counters.)",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "rustrazor butcher",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Followed Footsteps",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nAt the beginning of your upkeep, put a token that's a copy of enchanted creature onto the battlefield.",
+  "imageName": "followed footsteps",
+  "colorIdentity": [
+    "U"
+  ]
+}

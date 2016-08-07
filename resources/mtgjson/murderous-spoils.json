@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Murderous Spoils",
+  "manaCost": "{5}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target nonblack creature. It can't be regenerated. You gain control of all Equipment that was attached to it. (This effect lasts indefinitely.)",
+  "imageName": "murderous spoils",
+  "colorIdentity": [
+    "B"
+  ]
+}

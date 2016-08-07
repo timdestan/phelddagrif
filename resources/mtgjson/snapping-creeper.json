@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Snapping Creeper",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Plant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Plant"
+  ],
+  "text": "Landfall — Whenever a land enters the battlefield under your control, Snapping Creeper gains vigilance until end of turn.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "snapping creeper",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Witch-Maw Nephilim",
+  "manaCost": "{G}{W}{U}{B}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Green"
+  ],
+  "type": "Creature — Nephilim",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Nephilim"
+  ],
+  "text": "Whenever you cast a spell, you may put two +1/+1 counters on Witch-Maw Nephilim.\nWhenever Witch-Maw Nephilim attacks, it gains trample until end of turn if its power is 10 or greater.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "witch-maw nephilim",
+  "colorIdentity": [
+    "W",
+    "U",
+    "B",
+    "G"
+  ]
+}

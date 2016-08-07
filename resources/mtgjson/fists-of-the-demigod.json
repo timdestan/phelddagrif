@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Fists of the Demigod",
+  "manaCost": "{1}{B/R}",
+  "cmc": 2,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nAs long as enchanted creature is black, it gets +1/+1 and has wither. (It deals damage to creatures in the form of -1/-1 counters.)\nAs long as enchanted creature is red, it gets +1/+1 and has first strike.",
+  "imageName": "fists of the demigod",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

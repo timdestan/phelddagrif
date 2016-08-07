@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Soulcatchers' Aerie",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a Bird is put into your graveyard from the battlefield, put a feather counter on Soulcatchers' Aerie.\nBird creatures get +1/+1 for each feather counter on Soulcatchers' Aerie.",
+  "imageName": "soulcatchers' aerie",
+  "colorIdentity": [
+    "W"
+  ]
+}

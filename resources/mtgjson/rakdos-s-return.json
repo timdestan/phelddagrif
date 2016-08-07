@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Rakdos's Return",
+  "manaCost": "{X}{B}{R}",
+  "cmc": 2,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Rakdos's Return deals X damage to target opponent. That player discards X cards.",
+  "imageName": "rakdos's return",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

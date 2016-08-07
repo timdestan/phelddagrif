@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Krovikan Whispers",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nCumulative upkeep {U} or {B} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nYou control enchanted creature.\nWhen Krovikan Whispers is put into a graveyard from the battlefield, you lose 2 life for each age counter on it.",
+  "imageName": "krovikan whispers",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

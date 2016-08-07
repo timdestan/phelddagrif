@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Vines of Vastwood",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Kicker {G} (You may pay an additional {G} as you cast this spell.)\nTarget creature can't be the target of spells or abilities your opponents control this turn. If Vines of Vastwood was kicked, that creature gets +4/+4 until end of turn.",
+  "imageName": "vines of vastwood",
+  "colorIdentity": [
+    "G"
+  ]
+}

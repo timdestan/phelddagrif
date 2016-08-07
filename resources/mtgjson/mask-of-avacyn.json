@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Mask of Avacyn",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature gets +1/+2 and has hexproof. (It can't be the target of spells or abilities your opponents control.)\nEquip {3}",
+  "imageName": "mask of avacyn"
+}

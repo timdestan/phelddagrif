@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Gilt-Leaf Archdruid",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Druid"
+  ],
+  "text": "Whenever you cast a Druid spell, you may draw a card.\nTap seven untapped Druids you control: Gain control of all lands target player controls.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "gilt-leaf archdruid",
+  "colorIdentity": [
+    "G"
+  ]
+}

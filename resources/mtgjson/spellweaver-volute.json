@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Spellweaver Volute",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant instant card in a graveyard\nWhenever you cast a sorcery spell, copy the enchanted instant card. You may cast the copy without paying its mana cost. If you do, exile the enchanted card and attach Spellweaver Volute to another instant card in a graveyard.",
+  "imageName": "spellweaver volute",
+  "colorIdentity": [
+    "U"
+  ]
+}

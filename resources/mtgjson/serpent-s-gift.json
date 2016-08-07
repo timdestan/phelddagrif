@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Serpent's Gift",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)",
+  "imageName": "serpent's gift",
+  "colorIdentity": [
+    "G"
+  ]
+}

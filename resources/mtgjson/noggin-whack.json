@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Noggin Whack",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Tribal Sorcery — Rogue",
+  "types": [
+    "Tribal",
+    "Sorcery"
+  ],
+  "subtypes": [
+    "Rogue"
+  ],
+  "text": "Prowl {1}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)\nTarget player reveals three cards from his or her hand. You choose two of them. That player discards those cards.",
+  "imageName": "noggin whack",
+  "colorIdentity": [
+    "B"
+  ]
+}

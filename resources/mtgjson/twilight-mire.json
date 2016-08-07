@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Twilight Mire",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{B/G}, {T}: Add {B}{B}, {B}{G}, or {G}{G} to your mana pool.",
+  "imageName": "twilight mire",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

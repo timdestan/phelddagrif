@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Mordant Dragon",
+  "manaCost": "{3}{R}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying\n{1}{R}: Mordant Dragon gets +1/+0 until end of turn.\nWhenever Mordant Dragon deals combat damage to a player, you may have it deal that much damage to target creature that player controls.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "mordant dragon",
+  "colorIdentity": [
+    "R"
+  ]
+}

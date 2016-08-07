@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Elvish Piper",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Shaman"
+  ],
+  "text": "{G}, {T}: You may put a creature card from your hand onto the battlefield.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "elvish piper",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Transmutation",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Switch target creature's power and toughness until end of turn.",
+  "imageName": "transmutation",
+  "colorIdentity": [
+    "B"
+  ]
+}

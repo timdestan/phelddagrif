@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Kodama of the Center Tree",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Legendary Creature — Spirit",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Kodama of the Center Tree's power and toughness are each equal to the number of Spirits you control.\nKodama of the Center Tree has soulshift X, where X is the number of Spirits you control. (When this creature dies, you may return target Spirit card with converted mana cost X or less from your graveyard to your hand.)",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "kodama of the center tree",
+  "colorIdentity": [
+    "G"
+  ]
+}

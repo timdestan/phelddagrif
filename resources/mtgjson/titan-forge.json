@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Titan Forge",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{3}, {T}: Put a charge counter on Titan Forge.\n{T}, Remove three charge counters from Titan Forge: Put a 9/9 colorless Golem artifact creature token onto the battlefield.",
+  "imageName": "titan forge"
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Lobber Crew",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Warrior"
+  ],
+  "text": "Defender\n{T}: Lobber Crew deals 1 damage to each opponent.\nWhenever you cast a multicolored spell, untap Lobber Crew.",
+  "power": "0",
+  "toughness": "4",
+  "imageName": "lobber crew",
+  "colorIdentity": [
+    "R"
+  ]
+}

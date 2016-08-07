@@ -1,0 +1,28 @@
+{
+  "layout": "double-faced",
+  "name": "Lambholt Elder",
+  "names": [
+    "Lambholt Elder",
+    "Silverpelt Werewolf"
+  ],
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Werewolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Werewolf"
+  ],
+  "text": "At the beginning of each upkeep, if no spells were cast last turn, transform Lambholt Elder.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "lambholt elder",
+  "colorIdentity": [
+    "G"
+  ]
+}

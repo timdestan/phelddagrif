@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Angelic Field Marshal",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nLieutenant — As long as you control your commander, Angelic Field Marshal gets +2/+2 and creatures you control have vigilance.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "angelic field marshal",
+  "colorIdentity": [
+    "W"
+  ]
+}

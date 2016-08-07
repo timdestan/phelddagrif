@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Thraben Doomsayer",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "{T}: Put a 1/1 white Human creature token onto the battlefield.\nFateful hour — As long as you have 5 or less life, other creatures you control get +2/+2.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "thraben doomsayer",
+  "colorIdentity": [
+    "W"
+  ]
+}

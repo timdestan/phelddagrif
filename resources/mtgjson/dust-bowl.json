@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Dust Bowl",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{3}, {T}, Sacrifice a land: Destroy target nonbasic land.",
+  "imageName": "dust bowl"
+}

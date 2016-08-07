@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Ashen Rider",
+  "manaCost": "{4}{W}{W}{B}{B}",
+  "cmc": 8,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Creature — Archon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Archon"
+  ],
+  "text": "Flying\nWhen Ashen Rider enters the battlefield or dies, exile target permanent.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "ashen rider",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

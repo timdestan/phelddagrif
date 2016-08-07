@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Spider Climb",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "You may cast Spider Climb as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.\nEnchant creature\nEnchanted creature gets +0/+3 and has reach. (It can block creatures with flying.)",
+  "imageName": "spider climb",
+  "colorIdentity": [
+    "G"
+  ]
+}

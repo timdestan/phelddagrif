@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Dauntless Escort Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "Creatures you control have exalted. (Whenever a creature you control attacks alone, it gets +1/+1 until end of turn for each instance of exalted among permanents you control.)",
+  "imageName": "dauntless escort avatar",
+  "hand": 1,
+  "life": 1
+}

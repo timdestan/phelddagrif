@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Lost in Thought",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature can't attack or block, and its activated abilities can't be activated. Its controller may exile three cards from his or her graveyard for that player to ignore this effect until end of turn.",
+  "imageName": "lost in thought",
+  "colorIdentity": [
+    "U"
+  ]
+}

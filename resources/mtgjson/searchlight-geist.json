@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Searchlight Geist",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying\n{3}{B}: Searchlight Geist gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "searchlight geist",
+  "colorIdentity": [
+    "B"
+  ]
+}

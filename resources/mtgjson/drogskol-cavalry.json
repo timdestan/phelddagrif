@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Drogskol Cavalry",
+  "manaCost": "{5}{W}{W}",
+  "cmc": 7,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Spirit Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit",
+    "Knight"
+  ],
+  "text": "Flying\nWhenever another Spirit enters the battlefield under your control, you gain 2 life.\n{3}{W}: Put a 1/1 white Spirit creature token with flying onto the battlefield.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "drogskol cavalry",
+  "colorIdentity": [
+    "W"
+  ]
+}

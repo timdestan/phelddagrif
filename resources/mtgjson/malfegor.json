@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Malfegor",
+  "manaCost": "{2}{B}{B}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Legendary Creature — Demon Dragon",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon",
+    "Dragon"
+  ],
+  "text": "Flying\nWhen Malfegor enters the battlefield, discard your hand. Each opponent sacrifices a creature for each card discarded this way.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "malfegor",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

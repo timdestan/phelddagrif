@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Rakdos Ragemutt",
+  "manaCost": "{3}{B}{R}",
+  "cmc": 5,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Elemental Hound",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Hound"
+  ],
+  "text": "Lifelink, haste",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "rakdos ragemutt",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

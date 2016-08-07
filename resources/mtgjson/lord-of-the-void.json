@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Lord of the Void",
+  "manaCost": "{4}{B}{B}{B}",
+  "cmc": 7,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Demon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon"
+  ],
+  "text": "Flying\nWhenever Lord of the Void deals combat damage to a player, exile the top seven cards of that player's library, then put a creature card from among them onto the battlefield under your control.",
+  "power": "7",
+  "toughness": "7",
+  "imageName": "lord of the void",
+  "colorIdentity": [
+    "B"
+  ]
+}

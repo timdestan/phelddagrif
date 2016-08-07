@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ondu Greathorn",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "First strike\nLandfall — Whenever a land enters the battlefield under your control, Ondu Greathorn gets +2/+2 until end of turn.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "ondu greathorn",
+  "colorIdentity": [
+    "W"
+  ]
+}

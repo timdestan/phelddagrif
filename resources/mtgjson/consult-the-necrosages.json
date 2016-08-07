@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Consult the Necrosages",
+  "manaCost": "{1}{U}{B}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Choose one —\n• Target player draws two cards.\n• Target player discards two cards.",
+  "imageName": "consult the necrosages",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

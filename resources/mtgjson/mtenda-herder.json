@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Mtenda Herder",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Scout",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Scout"
+  ],
+  "text": "Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "mtenda herder",
+  "colorIdentity": [
+    "W"
+  ]
+}

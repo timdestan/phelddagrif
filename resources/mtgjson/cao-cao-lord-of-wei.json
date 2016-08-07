@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Cao Cao, Lord of Wei",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Legendary Creature — Human Soldier",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "{T}: Target opponent discards two cards. Activate this ability only during your turn, before attackers are declared.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "cao cao, lord of wei",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Heron's Grace Champion",
+  "manaCost": "{2}{G}{W}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "Flash\nLifelink\nWhen Heron's Grace Champion enters the battlefield, other Humans you control get +1/+1 and gain lifelink until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "heron's grace champion",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

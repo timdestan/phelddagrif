@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Mana Leech",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Leech",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Leech"
+  ],
+  "text": "You may choose not to untap Mana Leech during your untap step.\n{T}: Tap target land. It doesn't untap during its controller's untap step for as long as Mana Leech remains tapped.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "mana leech",
+  "colorIdentity": [
+    "B"
+  ]
+}

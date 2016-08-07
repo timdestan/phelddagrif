@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Human Frailty",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target Human creature.",
+  "imageName": "human frailty",
+  "colorIdentity": [
+    "B"
+  ]
+}

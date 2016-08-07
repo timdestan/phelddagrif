@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Burst of Energy",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Untap target permanent.",
+  "imageName": "burst of energy",
+  "colorIdentity": [
+    "W"
+  ]
+}

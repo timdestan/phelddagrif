@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Cloud Cover",
+  "manaCost": "{2}{W}{U}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever another permanent you control becomes the target of a spell or ability an opponent controls, you may return that permanent to its owner's hand.",
+  "imageName": "cloud cover",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

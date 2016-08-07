@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Alesha, Who Smiles at Death",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Creature — Human Warrior",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "First strike\nWhenever Alesha, Who Smiles at Death attacks, you may pay {W/B}{W/B}. If you do, return target creature card with power 2 or less from your graveyard to the battlefield tapped and attacking.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "alesha, who smiles at death",
+  "colorIdentity": [
+    "R",
+    "W",
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mutagenic Growth",
+  "manaCost": "{G/P}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "({G/P} can be paid with either {G} or 2 life.)\nTarget creature gets +2/+2 until end of turn.",
+  "imageName": "mutagenic growth",
+  "colorIdentity": [
+    "G"
+  ]
+}

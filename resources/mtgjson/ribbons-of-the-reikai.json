@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Ribbons of the Reikai",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery — Arcane",
+  "types": [
+    "Sorcery"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "Draw a card for each Spirit you control.",
+  "imageName": "ribbons of the reikai",
+  "colorIdentity": [
+    "U"
+  ]
+}

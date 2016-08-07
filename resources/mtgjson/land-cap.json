@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Land Cap",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Land Cap doesn't untap during your untap step if it has a depletion counter on it.\nAt the beginning of your upkeep, remove a depletion counter from Land Cap.\n{T}: Add {W} or {U} to your mana pool. Put a depletion counter on Land Cap.",
+  "imageName": "land cap",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

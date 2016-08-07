@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Silverglade Elemental",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "When Silverglade Elemental enters the battlefield, you may search your library for a Forest card and put that card onto the battlefield. If you do, shuffle your library.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "silverglade elemental",
+  "colorIdentity": [
+    "G"
+  ]
+}

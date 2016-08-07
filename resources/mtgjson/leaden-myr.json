@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Leaden Myr",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact Creature — Myr",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Myr"
+  ],
+  "text": "{T}: Add {B} to your mana pool.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "leaden myr",
+  "colorIdentity": [
+    "B"
+  ]
+}

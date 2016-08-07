@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Silver Drake",
+  "manaCost": "{1}{W}{U}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flying\nWhen Silver Drake enters the battlefield, return a white or blue creature you control to its owner's hand.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "silver drake",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

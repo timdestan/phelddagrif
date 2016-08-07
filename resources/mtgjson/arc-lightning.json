@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Arc Lightning",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Arc Lightning deals 3 damage divided as you choose among one, two, or three target creatures and/or players.",
+  "imageName": "arc lightning",
+  "colorIdentity": [
+    "R"
+  ]
+}

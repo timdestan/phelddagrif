@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Traveling Philosopher",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Advisor",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Advisor"
+  ],
+  "power": "2",
+  "toughness": "2",
+  "imageName": "traveling philosopher",
+  "colorIdentity": [
+    "W"
+  ]
+}

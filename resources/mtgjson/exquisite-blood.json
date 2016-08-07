@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Exquisite Blood",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever an opponent loses life, you gain that much life.",
+  "imageName": "exquisite blood",
+  "colorIdentity": [
+    "B"
+  ]
+}

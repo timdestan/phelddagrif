@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Torpid Moloch",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Lizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Lizard"
+  ],
+  "text": "Defender (This creature can't attack.)\nSacrifice three lands: Torpid Moloch loses defender until end of turn.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "torpid moloch",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Savage Alliance",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Escalate {1} (Pay this cost for each mode chosen beyond the first.)\nChoose one or more —\n• Creatures target player controls gain trample until end of turn.\n• Savage Alliance deals 2 damage to target creature.\n• Savage Alliance deals 1 damage to each creature target opponent controls.",
+  "imageName": "savage alliance",
+  "colorIdentity": [
+    "R"
+  ]
+}

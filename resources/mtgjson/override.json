@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Override",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell unless its controller pays {1} for each artifact you control.",
+  "imageName": "override",
+  "colorIdentity": [
+    "U"
+  ]
+}

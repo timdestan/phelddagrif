@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Rishadan Brigand",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Pirate",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Pirate"
+  ],
+  "text": "Flying\nWhen Rishadan Brigand enters the battlefield, each opponent sacrifices a permanent unless he or she pays {3}.\nRishadan Brigand can block only creatures with flying.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "rishadan brigand",
+  "colorIdentity": [
+    "U"
+  ]
+}

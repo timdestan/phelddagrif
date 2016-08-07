@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Barkhide Mauler",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Cycling {2} ({2}, Discard this card: Draw a card.)",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "barkhide mauler",
+  "colorIdentity": [
+    "G"
+  ]
+}

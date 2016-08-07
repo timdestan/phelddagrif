@@ -1,0 +1,13 @@
+{
+  "layout": "scheme",
+  "name": "I Know All, I See All",
+  "type": "Ongoing Scheme",
+  "supertypes": [
+    "Ongoing"
+  ],
+  "types": [
+    "Scheme"
+  ],
+  "text": "(An ongoing scheme remains face up until it's abandoned.)\nUntap all permanents you control during each opponent's untap step.\nAt the beginning of each end step, if three or more cards were put into your graveyard this turn from anywhere, abandon this scheme.",
+  "imageName": "i know all, i see all"
+}

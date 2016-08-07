@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rescue from the Underworld",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "As an additional cost to cast Rescue from the Underworld, sacrifice a creature.\nChoose target creature card in your graveyard. Return that card and the sacrificed card to the battlefield under your control at the beginning of your next upkeep. Exile Rescue from the Underworld.",
+  "imageName": "rescue from the underworld",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Tremor",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Tremor deals 1 damage to each creature without flying.",
+  "imageName": "tremor",
+  "colorIdentity": [
+    "R"
+  ]
+}

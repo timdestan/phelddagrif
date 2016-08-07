@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Infused Arrows",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)\n{T}, Remove X charge counters from Infused Arrows: Target creature gets -X/-X until end of turn.",
+  "imageName": "infused arrows"
+}

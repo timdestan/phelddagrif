@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Impatience",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of each player's end step, if that player didn't cast a spell this turn, Impatience deals 2 damage to him or her.",
+  "imageName": "impatience",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Voltaic Construct",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Golem Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem",
+    "Construct"
+  ],
+  "text": "{2}: Untap target artifact creature.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "voltaic construct"
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Albino Troll",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Troll",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Troll"
+  ],
+  "text": "Echo {1}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\n{1}{G}: Regenerate Albino Troll.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "albino troll",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Treasure Hunter",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human"
+  ],
+  "text": "When Treasure Hunter enters the battlefield, you may return target artifact card from your graveyard to your hand.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "treasure hunter",
+  "colorIdentity": [
+    "W"
+  ]
+}

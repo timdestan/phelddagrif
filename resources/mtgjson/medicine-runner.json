@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Medicine Runner",
+  "manaCost": "{1}{G/W}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Elf Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Cleric"
+  ],
+  "text": "When Medicine Runner enters the battlefield, you may remove a counter from target permanent.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "medicine runner",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

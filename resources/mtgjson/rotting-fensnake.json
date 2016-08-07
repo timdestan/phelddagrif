@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Rotting Fensnake",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Snake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Snake"
+  ],
+  "power": "5",
+  "toughness": "1",
+  "imageName": "rotting fensnake",
+  "colorIdentity": [
+    "B"
+  ]
+}

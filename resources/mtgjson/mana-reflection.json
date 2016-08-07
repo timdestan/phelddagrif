@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mana Reflection",
+  "manaCost": "{4}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "If you tap a permanent for mana, it produces twice as much of that mana instead.",
+  "imageName": "mana reflection",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Yosei, the Morning Star",
+  "manaCost": "{4}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Creature — Dragon Spirit",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon",
+    "Spirit"
+  ],
+  "text": "Flying\nWhen Yosei, the Morning Star dies, target player skips his or her next untap step. Tap up to five target permanents that player controls.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "yosei, the morning star",
+  "colorIdentity": [
+    "W"
+  ]
+}

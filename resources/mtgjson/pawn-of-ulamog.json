@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Pawn of Ulamog",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Shaman"
+  ],
+  "text": "Whenever Pawn of Ulamog or another nontoken creature you control dies, you may put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has \"Sacrifice this creature: Add {C} to your mana pool.\"",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "pawn of ulamog",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Desolation Giant",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Giant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant"
+  ],
+  "text": "Kicker {W}{W} (You may pay an additional {W}{W} as you cast this spell.)\nWhen Desolation Giant enters the battlefield, destroy all other creatures you control. If it was kicked, destroy all other creatures instead.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "desolation giant",
+  "colorIdentity": [
+    "R",
+    "W"
+  ]
+}

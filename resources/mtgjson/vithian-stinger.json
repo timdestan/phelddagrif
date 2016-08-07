@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Vithian Stinger",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Shaman"
+  ],
+  "text": "{T}: Vithian Stinger deals 1 damage to target creature or player.\nUnearth {1}{R} ({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",
+  "power": "0",
+  "toughness": "1",
+  "imageName": "vithian stinger",
+  "colorIdentity": [
+    "R"
+  ]
+}

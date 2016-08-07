@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Rimewind Cryomancer",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{1}, {T}: Counter target activated ability. Activate this ability only if you control four or more snow permanents. (Mana abilities can't be targeted.)",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "rimewind cryomancer",
+  "colorIdentity": [
+    "U"
+  ]
+}

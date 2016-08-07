@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Pyrotechnics",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Pyrotechnics deals 4 damage divided as you choose among any number of target creatures and/or players.",
+  "imageName": "pyrotechnics",
+  "colorIdentity": [
+    "R"
+  ]
+}

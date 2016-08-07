@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Decomposition",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant black creature\nEnchanted creature has \"Cumulative upkeep—Pay 1 life.\" (At the beginning of its controller's upkeep, that player puts an age counter on it, then sacrifices it unless he or she pays its upkeep cost for each age counter on it.)\nWhen enchanted creature dies, its controller loses 2 life.",
+  "imageName": "decomposition",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "layout": "normal",
+  "name": "Karn Liberated",
+  "manaCost": "{7}",
+  "cmc": 7,
+  "type": "Planeswalker — Karn",
+  "types": [
+    "Planeswalker"
+  ],
+  "subtypes": [
+    "Karn"
+  ],
+  "text": "+4: Target player exiles a card from his or her hand.\n−3: Exile target permanent.\n−14: Restart the game, leaving in exile all non-Aura permanent cards exiled with Karn Liberated. Then put those cards onto the battlefield under your control.",
+  "loyalty": 6,
+  "imageName": "karn liberated"
+}

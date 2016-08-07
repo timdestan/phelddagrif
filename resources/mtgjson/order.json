@@ -1,0 +1,23 @@
+{
+  "layout": "split",
+  "name": "Order",
+  "names": [
+    "Order",
+    "Chaos"
+  ],
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Exile target attacking creature.",
+  "imageName": "order",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

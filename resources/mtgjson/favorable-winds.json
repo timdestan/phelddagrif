@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Favorable Winds",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Creatures you control with flying get +1/+1.",
+  "imageName": "favorable winds",
+  "colorIdentity": [
+    "U"
+  ]
+}

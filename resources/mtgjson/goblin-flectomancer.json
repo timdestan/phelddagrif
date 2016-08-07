@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Goblin Flectomancer",
+  "manaCost": "{U}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Creature — Goblin Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Wizard"
+  ],
+  "text": "Sacrifice Goblin Flectomancer: You may change the targets of target instant or sorcery spell.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "goblin flectomancer",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

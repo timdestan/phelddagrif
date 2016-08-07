@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Bump in the Night",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target opponent loses 3 life.\nFlashback {5}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "bump in the night",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

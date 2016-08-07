@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dawn Gryff",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Hippogriff",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hippogriff"
+  ],
+  "text": "Flying",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "dawn gryff",
+  "colorIdentity": [
+    "W"
+  ]
+}

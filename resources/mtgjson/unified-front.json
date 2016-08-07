@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Unified Front",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Converge — Put a 1/1 white Kor Ally creature token onto the battlefield for each color of mana spent to cast Unified Front.",
+  "imageName": "unified front",
+  "colorIdentity": [
+    "W"
+  ]
+}

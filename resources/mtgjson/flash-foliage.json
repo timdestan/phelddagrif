@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Flash Foliage",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Cast Flash Foliage only during combat after blockers are declared.\nPut a 1/1 green Saproling creature token onto the battlefield blocking target creature attacking you.\nDraw a card.",
+  "imageName": "flash foliage",
+  "colorIdentity": [
+    "G"
+  ]
+}

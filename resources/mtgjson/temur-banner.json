@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Temur Banner",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}: Add {G}, {U}, or {R} to your mana pool.\n{G}{U}{R}, {T}, Sacrifice Temur Banner: Draw a card.",
+  "imageName": "temur banner",
+  "colorIdentity": [
+    "G",
+    "U",
+    "R"
+  ]
+}

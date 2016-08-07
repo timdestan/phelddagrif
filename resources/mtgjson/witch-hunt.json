@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Witch Hunt",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Players can't gain life.\nAt the beginning of your upkeep, Witch Hunt deals 4 damage to you.\nAt the beginning of your end step, target opponent chosen at random gains control of Witch Hunt.",
+  "imageName": "witch hunt",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Bog Witch",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Spellshaper",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Spellshaper"
+  ],
+  "text": "{B}, {T}, Discard a card: Add {B}{B}{B} to your mana pool.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "bog witch",
+  "colorIdentity": [
+    "B"
+  ]
+}

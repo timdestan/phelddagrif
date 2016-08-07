@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Goblin Rabblemaster",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Warrior"
+  ],
+  "text": "Other Goblin creatures you control attack each turn if able.\nAt the beginning of combat on your turn, put a 1/1 red Goblin creature token with haste onto the battlefield.\nWhenever Goblin Rabblemaster attacks, it gets +1/+0 until end of turn for each other attacking Goblin.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "goblin rabblemaster",
+  "colorIdentity": [
+    "R"
+  ]
+}

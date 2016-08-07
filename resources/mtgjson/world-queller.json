@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "World Queller",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Avatar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Avatar"
+  ],
+  "text": "At the beginning of your upkeep, you may choose a card type. If you do, each player sacrifices a permanent of that type.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "world queller",
+  "colorIdentity": [
+    "W"
+  ]
+}

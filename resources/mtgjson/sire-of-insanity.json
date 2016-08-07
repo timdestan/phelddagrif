@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Sire of Insanity",
+  "manaCost": "{4}{B}{R}",
+  "cmc": 6,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Demon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon"
+  ],
+  "text": "At the beginning of each end step, each player discards his or her hand.",
+  "power": "6",
+  "toughness": "4",
+  "imageName": "sire of insanity",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

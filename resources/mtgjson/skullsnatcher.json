@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Skullsnatcher",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Rat Ninja",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rat",
+    "Ninja"
+  ],
+  "text": "Ninjutsu {B} ({B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)\nWhenever Skullsnatcher deals combat damage to a player, exile up to two target cards from that player's graveyard.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "skullsnatcher",
+  "colorIdentity": [
+    "B"
+  ]
+}

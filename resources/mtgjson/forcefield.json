@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Forcefield",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{1}: The next time an unblocked creature of your choice would deal combat damage to you this turn, prevent all but 1 of that damage.",
+  "imageName": "forcefield"
+}

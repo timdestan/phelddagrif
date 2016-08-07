@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Advantageous Proclamation",
+  "type": "Conspiracy",
+  "types": [
+    "Conspiracy"
+  ],
+  "text": "(Start the game with this conspiracy face up in the command zone.)\nYour minimum deck size is reduced by five.",
+  "imageName": "advantageous proclamation"
+}

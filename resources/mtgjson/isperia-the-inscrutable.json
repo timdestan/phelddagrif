@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Isperia the Inscrutable",
+  "manaCost": "{1}{W}{W}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Legendary Creature — Sphinx",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sphinx"
+  ],
+  "text": "Flying\nWhenever Isperia the Inscrutable deals combat damage to a player, name a card. That player reveals his or her hand. If he or she reveals the named card, search your library for a creature card with flying, reveal it, put it into your hand, then shuffle your library.",
+  "power": "3",
+  "toughness": "6",
+  "imageName": "isperia the inscrutable",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

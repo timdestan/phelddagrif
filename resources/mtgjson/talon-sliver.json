@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Talon Sliver",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "All Sliver creatures have first strike.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "talon sliver",
+  "colorIdentity": [
+    "W"
+  ]
+}

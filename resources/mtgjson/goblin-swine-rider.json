@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Goblin Swine-Rider",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "Whenever Goblin Swine-Rider becomes blocked, it deals 2 damage to each attacking creature and each blocking creature.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "goblin swine-rider",
+  "colorIdentity": [
+    "R"
+  ]
+}

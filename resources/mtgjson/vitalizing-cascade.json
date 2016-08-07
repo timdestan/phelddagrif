@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Vitalizing Cascade",
+  "manaCost": "{X}{G}{W}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "You gain X plus 3 life.",
+  "imageName": "vitalizing cascade",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

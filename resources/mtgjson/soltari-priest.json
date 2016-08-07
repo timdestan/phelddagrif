@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Soltari Priest",
+  "manaCost": "{W}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Soltari Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Soltari",
+    "Cleric"
+  ],
+  "text": "Protection from red\nShadow (This creature can block or be blocked by only creatures with shadow.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "soltari priest",
+  "colorIdentity": [
+    "W"
+  ]
+}

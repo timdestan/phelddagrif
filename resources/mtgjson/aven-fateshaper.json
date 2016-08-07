@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Aven Fateshaper",
+  "manaCost": "{6}{U}",
+  "cmc": 7,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Bird Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird",
+    "Wizard"
+  ],
+  "text": "Flying\nWhen Aven Fateshaper enters the battlefield, look at the top four cards of your library, then put them back in any order.\n{4}{U}: Look at the top four cards of your library, then put them back in any order.",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "aven fateshaper",
+  "colorIdentity": [
+    "U"
+  ]
+}

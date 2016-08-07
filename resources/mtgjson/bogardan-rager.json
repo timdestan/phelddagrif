@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Bogardan Rager",
+  "manaCost": "{5}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Flash (You may cast this spell any time you could cast an instant.)\nWhen Bogardan Rager enters the battlefield, target creature gets +4/+0 until end of turn.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "bogardan rager",
+  "colorIdentity": [
+    "R"
+  ]
+}

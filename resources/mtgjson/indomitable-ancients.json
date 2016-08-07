@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Indomitable Ancients",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Treefolk Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Treefolk",
+    "Warrior"
+  ],
+  "power": "2",
+  "toughness": "10",
+  "imageName": "indomitable ancients",
+  "colorIdentity": [
+    "W"
+  ]
+}

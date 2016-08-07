@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Zendikar Resurgent",
+  "manaCost": "{5}{G}{G}",
+  "cmc": 7,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever you tap a land for mana, add one mana to your mana pool of any type that land produced. (The types of mana are white, blue, black, red, green, and colorless.)\nWhenever you cast a creature spell, draw a card.",
+  "imageName": "zendikar resurgent",
+  "colorIdentity": [
+    "G"
+  ]
+}

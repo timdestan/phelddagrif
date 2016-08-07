@@ -1,0 +1,16 @@
+{
+  "layout": "normal",
+  "name": "Not of This World",
+  "manaCost": "{7}",
+  "cmc": 7,
+  "type": "Tribal Instant — Eldrazi",
+  "types": [
+    "Tribal",
+    "Instant"
+  ],
+  "subtypes": [
+    "Eldrazi"
+  ],
+  "text": "Counter target spell or ability that targets a permanent you control.\nNot of This World costs {7} less to cast if it targets a spell or ability that targets a creature you control with power 7 or greater.",
+  "imageName": "not of this world"
+}

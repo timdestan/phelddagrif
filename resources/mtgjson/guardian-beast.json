@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Guardian Beast",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "As long as Guardian Beast is untapped, noncreature artifacts you control can't be enchanted, they have indestructible, and other players can't gain control of them. This effect doesn't remove Auras already attached to those artifacts.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "guardian beast",
+  "colorIdentity": [
+    "B"
+  ]
+}

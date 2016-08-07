@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Anaba Bodyguard",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Minotaur",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Minotaur"
+  ],
+  "text": "First strike (This creature deals combat damage before creatures without first strike.)",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "anaba bodyguard",
+  "colorIdentity": [
+    "R"
+  ]
+}

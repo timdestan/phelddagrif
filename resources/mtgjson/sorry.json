@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sorry",
+  "manaCost": "{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Before playing any spell, if a copy of that spell card is in any graveyard, the spell's caster may say \"Sorry.\" If he or she does not, any other player may counter the spell by saying \"Sorry\" as it is cast.\nIf any player says \"Sorry\" at any other time, Sorry deals 2 damage to that player.",
+  "imageName": "sorry",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wolverine Pack",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wolverine",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wolverine"
+  ],
+  "text": "Rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "wolverine pack",
+  "colorIdentity": [
+    "G"
+  ]
+}

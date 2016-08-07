@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Soldevi Sentry",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact Creature — Soldier",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Soldier"
+  ],
+  "text": "{1}: Choose target opponent. Regenerate Soldevi Sentry. When it regenerates this way, that player may draw a card.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "soldevi sentry"
+}

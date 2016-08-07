@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Thrummingbird",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Bird Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird",
+    "Horror"
+  ],
+  "text": "Flying\nWhenever Thrummingbird deals combat damage to a player, proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "thrummingbird",
+  "colorIdentity": [
+    "U"
+  ]
+}

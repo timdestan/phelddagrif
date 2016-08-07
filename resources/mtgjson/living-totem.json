@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Living Totem",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Plant Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Plant",
+    "Elemental"
+  ],
+  "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nWhen Living Totem enters the battlefield, you may put a +1/+1 counter on another target creature.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "living totem",
+  "colorIdentity": [
+    "G"
+  ]
+}

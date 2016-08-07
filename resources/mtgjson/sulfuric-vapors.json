@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sulfuric Vapors",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "If a red spell would deal damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead.",
+  "imageName": "sulfuric vapors",
+  "colorIdentity": [
+    "R"
+  ]
+}

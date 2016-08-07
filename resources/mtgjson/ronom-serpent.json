@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Ronom Serpent",
+  "manaCost": "{5}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Snow Creature — Serpent",
+  "supertypes": [
+    "Snow"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Serpent"
+  ],
+  "text": "Ronom Serpent can't attack unless defending player controls a snow land.\nWhen you control no snow lands, sacrifice Ronom Serpent.",
+  "power": "5",
+  "toughness": "6",
+  "imageName": "ronom serpent",
+  "colorIdentity": [
+    "U"
+  ]
+}

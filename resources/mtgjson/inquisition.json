@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Inquisition",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target player reveals his or her hand. Inquisition deals damage to that player equal to the number of white cards in his or her hand.",
+  "imageName": "inquisition",
+  "colorIdentity": [
+    "B"
+  ]
+}

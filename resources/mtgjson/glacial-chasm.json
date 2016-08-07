@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Glacial Chasm",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Cumulative upkeep—Pay 2 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nWhen Glacial Chasm enters the battlefield, sacrifice a land.\nCreatures you control can't attack.\nPrevent all damage that would be dealt to you.",
+  "imageName": "glacial chasm"
+}

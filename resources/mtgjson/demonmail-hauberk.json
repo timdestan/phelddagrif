@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Demonmail Hauberk",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature gets +4/+2.\nEquip—Sacrifice a creature.",
+  "imageName": "demonmail hauberk"
+}

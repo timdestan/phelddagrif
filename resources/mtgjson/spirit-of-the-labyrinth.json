@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Spirit of the Labyrinth",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment Creature — Spirit",
+  "types": [
+    "Enchantment",
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Each player can't draw more than one card each turn.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "spirit of the labyrinth",
+  "colorIdentity": [
+    "W"
+  ]
+}

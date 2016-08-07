@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Odious Trow",
+  "manaCost": "{B/G}",
+  "cmc": 1,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Creature — Troll",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Troll"
+  ],
+  "text": "{1}{B/G}: Regenerate Odious Trow.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "odious trow",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

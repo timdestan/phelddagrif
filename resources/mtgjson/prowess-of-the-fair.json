@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Prowess of the Fair",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Tribal Enchantment — Elf",
+  "types": [
+    "Tribal",
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Elf"
+  ],
+  "text": "Whenever another nontoken Elf is put into your graveyard from the battlefield, you may put a 1/1 green Elf Warrior creature token onto the battlefield.",
+  "imageName": "prowess of the fair",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dash Hopes",
+  "manaCost": "{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "When you cast Dash Hopes, any player may pay 5 life. If a player does, counter Dash Hopes.\nCounter target spell.",
+  "imageName": "dash hopes",
+  "colorIdentity": [
+    "B"
+  ]
+}

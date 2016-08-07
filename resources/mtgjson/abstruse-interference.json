@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Abstruse Interference",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Devoid (This card has no color.)\nCounter target spell unless its controller pays {1}. You put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has \"Sacrifice this creature: Add {C} to your mana pool.\" ({C} represents colorless mana.)",
+  "imageName": "abstruse interference",
+  "colorIdentity": [
+    "U"
+  ]
+}

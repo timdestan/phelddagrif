@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Balduvian Horde",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Barbarian",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Barbarian"
+  ],
+  "text": "When Balduvian Horde enters the battlefield, sacrifice it unless you discard a card at random.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "balduvian horde",
+  "colorIdentity": [
+    "R"
+  ]
+}

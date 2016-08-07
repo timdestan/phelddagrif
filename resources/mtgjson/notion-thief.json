@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Notion Thief",
+  "manaCost": "{2}{U}{B}",
+  "cmc": 4,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Creature — Human Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "Flash\nIf an opponent would draw a card except the first one he or she draws in each of his or her draw steps, instead that player skips that draw and you draw a card.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "notion thief",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

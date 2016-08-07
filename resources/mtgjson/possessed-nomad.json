@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Possessed Nomad",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Nomad Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Nomad",
+    "Horror"
+  ],
+  "text": "Vigilance\nThreshold — As long as seven or more cards are in your graveyard, Possessed Nomad gets +1/+1, is black, and has \"{2}{B}, {T}: Destroy target white creature.\"",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "possessed nomad",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Angelic Protector",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nWhenever Angelic Protector becomes the target of a spell or ability, Angelic Protector gets +0/+3 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "angelic protector",
+  "colorIdentity": [
+    "W"
+  ]
+}

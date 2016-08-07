@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Dragonlord Atarka",
+  "manaCost": "{5}{R}{G}",
+  "cmc": 7,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Legendary Creature — Elder Dragon",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elder",
+    "Dragon"
+  ],
+  "text": "Flying, trample\nWhen Dragonlord Atarka enters the battlefield, it deals 5 damage divided as you choose among any number of target creatures and/or planeswalkers your opponents control.",
+  "power": "8",
+  "toughness": "8",
+  "imageName": "dragonlord atarka",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

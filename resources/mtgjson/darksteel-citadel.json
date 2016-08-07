@@ -1,0 +1,11 @@
+{
+  "layout": "normal",
+  "name": "Darksteel Citadel",
+  "type": "Artifact Land",
+  "types": [
+    "Artifact",
+    "Land"
+  ],
+  "text": "Indestructible (Effects that say \"destroy\" don't destroy this land.)\n{T}: Add {C} to your mana pool.",
+  "imageName": "darksteel citadel"
+}

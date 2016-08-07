@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Angry Mob",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human"
+  ],
+  "text": "Trample\nAs long as it's your turn, Angry Mob's power and toughness are each equal to 2 plus the number of Swamps your opponents control. As long as it's not your turn, Angry Mob's power and toughness are each 2.",
+  "power": "2+*",
+  "toughness": "2+*",
+  "imageName": "angry mob",
+  "colorIdentity": [
+    "W"
+  ]
+}

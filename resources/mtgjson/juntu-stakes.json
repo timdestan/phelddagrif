@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Juntu Stakes",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Creatures with power 1 or less don't untap during their controllers' untap steps.",
+  "imageName": "juntu stakes"
+}

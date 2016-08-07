@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Kederekt Creeper",
+  "manaCost": "{U}{B}{R}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "Menace (This creature can't be blocked except by two or more creatures.)\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "kederekt creeper",
+  "colorIdentity": [
+    "U",
+    "B",
+    "R"
+  ]
+}

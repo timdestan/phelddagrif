@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Goblin Vandal",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Rogue"
+  ],
+  "text": "Whenever Goblin Vandal attacks and isn't blocked, you may pay {R}. If you do, destroy target artifact defending player controls and Goblin Vandal assigns no combat damage this turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "goblin vandal",
+  "colorIdentity": [
+    "R"
+  ]
+}

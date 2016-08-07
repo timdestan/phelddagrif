@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Lava Dart",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Lava Dart deals 1 damage to target creature or player.\nFlashback—Sacrifice a Mountain. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "lava dart",
+  "colorIdentity": [
+    "R"
+  ]
+}

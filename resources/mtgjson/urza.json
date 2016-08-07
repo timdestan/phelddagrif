@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Urza",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "{3}: Urza deals 1 damage to target creature or player.",
+  "imageName": "urza",
+  "hand": -1,
+  "life": 10
+}

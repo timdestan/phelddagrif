@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Trophy Hunter",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Archer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Archer"
+  ],
+  "text": "{1}{G}: Trophy Hunter deals 1 damage to target creature with flying.\nWhenever a creature with flying dealt damage by Trophy Hunter this turn dies, put a +1/+1 counter on Trophy Hunter.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "trophy hunter",
+  "colorIdentity": [
+    "G"
+  ]
+}

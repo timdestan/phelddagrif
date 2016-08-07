@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Henchfiend of Ukor",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Ogre",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ogre"
+  ],
+  "text": "Haste\nEcho {1}{B} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice this permanent unless you pay its echo cost.)\n{B/R}: Henchfiend of Ukor gets +1/+0 until end of turn.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "henchfiend of ukor",
+  "colorIdentity": [
+    "R",
+    "B"
+  ]
+}

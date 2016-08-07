@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Heap Doll",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact Creature — Scarecrow",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Scarecrow"
+  ],
+  "text": "Sacrifice Heap Doll: Exile target card from a graveyard.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "heap doll"
+}

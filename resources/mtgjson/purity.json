@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Purity",
+  "manaCost": "{3}{W}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Elemental Incarnation",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Incarnation"
+  ],
+  "text": "Flying\nIf noncombat damage would be dealt to you, prevent that damage. You gain life equal to the damage prevented this way.\nWhen Purity is put into a graveyard from anywhere, shuffle it into its owner's library.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "purity",
+  "colorIdentity": [
+    "W"
+  ]
+}

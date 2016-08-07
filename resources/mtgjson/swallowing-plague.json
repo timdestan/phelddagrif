@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Swallowing Plague",
+  "manaCost": "{X}{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery — Arcane",
+  "types": [
+    "Sorcery"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "Swallowing Plague deals X damage to target creature and you gain X life.",
+  "imageName": "swallowing plague",
+  "colorIdentity": [
+    "B"
+  ]
+}

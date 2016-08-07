@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Din of the Fireherd",
+  "manaCost": "{5}{B/R}{B/R}{B/R}",
+  "cmc": 8,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put a 5/5 black and red Elemental creature token onto the battlefield. Target opponent sacrifices a creature for each black creature you control, then sacrifices a land for each red creature you control.",
+  "imageName": "din of the fireherd",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

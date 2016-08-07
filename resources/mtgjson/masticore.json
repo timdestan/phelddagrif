@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Masticore",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Masticore",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Masticore"
+  ],
+  "text": "At the beginning of your upkeep, sacrifice Masticore unless you discard a card.\n{2}: Masticore deals 1 damage to target creature.\n{2}: Regenerate Masticore.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "masticore"
+}

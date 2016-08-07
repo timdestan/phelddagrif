@@ -1,0 +1,25 @@
+{
+  "layout": "double-faced",
+  "name": "Tovolar's Magehunter",
+  "names": [
+    "Mondronen Shaman",
+    "Tovolar's Magehunter"
+  ],
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Werewolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Werewolf"
+  ],
+  "text": "Whenever an opponent casts a spell, Tovolar's Magehunter deals 2 damage to that player.\nAt the beginning of each upkeep, if a player cast two or more spells last turn, transform Tovolar's Magehunter.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "tovolar's magehunter",
+  "colorIdentity": [
+    "R"
+  ]
+}

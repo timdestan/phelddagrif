@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Shoe Tree",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Treefolk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Treefolk"
+  ],
+  "text": "Shoe Tree comes into play with up to two shoe counters on it. Use your shoes as counters.\nShoe Tree gets +1/+1 for each shoe counter on it.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "shoe tree",
+  "colorIdentity": [
+    "G"
+  ]
+}

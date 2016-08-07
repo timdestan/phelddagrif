@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Lys Alana Huntmaster",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Warrior"
+  ],
+  "text": "Whenever you cast an Elf spell, you may put a 1/1 green Elf Warrior creature token onto the battlefield.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "lys alana huntmaster",
+  "colorIdentity": [
+    "G"
+  ]
+}

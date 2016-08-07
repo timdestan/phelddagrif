@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Merseine",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nMerseine enters the battlefield with three net counters on it.\nEnchanted creature doesn't untap during its controller's untap step if Merseine has a net counter on it.\nPay enchanted creature's mana cost: Remove a net counter from Merseine. Any player may activate this ability, but only if he or she controls the enchanted creature.",
+  "imageName": "merseine",
+  "colorIdentity": [
+    "U"
+  ]
+}

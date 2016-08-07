@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Seed Spark",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target artifact or enchantment. If {G} was spent to cast Seed Spark, put two 1/1 green Saproling creature tokens onto the battlefield.",
+  "imageName": "seed spark",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Orcish Squatters",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Orc",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Orc"
+  ],
+  "text": "Whenever Orcish Squatters attacks and isn't blocked, you may gain control of target land defending player controls for as long as you control Orcish Squatters. If you do, Orcish Squatters assigns no combat damage this turn.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "orcish squatters",
+  "colorIdentity": [
+    "R"
+  ]
+}

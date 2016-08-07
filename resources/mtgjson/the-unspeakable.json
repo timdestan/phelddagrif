@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "The Unspeakable",
+  "manaCost": "{6}{U}{U}{U}",
+  "cmc": 9,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Legendary Creature — Spirit",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying, trample\nWhenever The Unspeakable deals combat damage to a player, you may return target Arcane card from your graveyard to your hand.",
+  "power": "6",
+  "toughness": "7",
+  "imageName": "the unspeakable",
+  "colorIdentity": [
+    "U"
+  ]
+}

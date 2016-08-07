@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Wall of Denial",
+  "manaCost": "{1}{W}{U}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Creature — Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender, flying\nShroud (This creature can't be the target of spells or abilities.)",
+  "power": "0",
+  "toughness": "8",
+  "imageName": "wall of denial",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

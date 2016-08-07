@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Infernal Tribute",
+  "manaCost": "{B}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{2}, Sacrifice a nontoken permanent: Draw a card.",
+  "imageName": "infernal tribute",
+  "colorIdentity": [
+    "B"
+  ]
+}

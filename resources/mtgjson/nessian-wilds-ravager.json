@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Nessian Wilds Ravager",
+  "manaCost": "{4}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Hydra",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hydra"
+  ],
+  "text": "Tribute 6 (As this creature enters the battlefield, an opponent of your choice may place six +1/+1 counters on it.)\nWhen Nessian Wilds Ravager enters the battlefield, if tribute wasn't paid, you may have Nessian Wilds Ravager fight another target creature. (Each deals damage equal to its power to the other.)",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "nessian wilds ravager",
+  "colorIdentity": [
+    "G"
+  ]
+}

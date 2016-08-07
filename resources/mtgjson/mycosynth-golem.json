@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mycosynth Golem",
+  "manaCost": "{11}",
+  "cmc": 11,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nArtifact creature spells you cast have affinity for artifacts. (They cost {1} less to cast for each artifact you control.)",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "mycosynth golem"
+}

@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Guardian Zendikon",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant land\nEnchanted land is a 2/6 white Wall creature with defender. It's still a land.\nWhen enchanted land dies, return that card to its owner's hand.",
+  "imageName": "guardian zendikon",
+  "colorIdentity": [
+    "W"
+  ]
+}

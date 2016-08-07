@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Scalding Devil",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Devil",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Devil"
+  ],
+  "text": "{2}{R}: Scalding Devil deals 1 damage to target player.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "scalding devil",
+  "colorIdentity": [
+    "R"
+  ]
+}

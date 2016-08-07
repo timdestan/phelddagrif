@@ -1,0 +1,16 @@
+{
+  "layout": "normal",
+  "name": "Bloodletter Quill",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, {T}, Put a blood counter on Bloodletter Quill: Draw a card, then you lose 1 life for each blood counter on Bloodletter Quill.\n{U}{B}: Remove a blood counter from Bloodletter Quill.",
+  "imageName": "bloodletter quill",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

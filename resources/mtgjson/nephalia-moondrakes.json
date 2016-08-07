@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Nephalia Moondrakes",
+  "manaCost": "{5}{U}{U}",
+  "cmc": 7,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flying\nWhen Nephalia Moondrakes enters the battlefield, target creature gains flying until end of turn.\n{4}{U}{U}, Exile Nephalia Moondrakes from your graveyard: Creatures you control gain flying until end of turn.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "nephalia moondrakes",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Kami of the Honored Dead",
+  "manaCost": "{5}{W}{W}",
+  "cmc": 7,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying\nWhenever Kami of the Honored Dead is dealt damage, you gain that much life.\nSoulshift 6 (When this creature dies, you may return target Spirit card with converted mana cost 6 or less from your graveyard to your hand.)",
+  "power": "3",
+  "toughness": "5",
+  "imageName": "kami of the honored dead",
+  "colorIdentity": [
+    "W"
+  ]
+}

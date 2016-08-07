@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Cateran Summons",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Search your library for a Mercenary card, reveal that card, and put it into your hand. Then shuffle your library.",
+  "imageName": "cateran summons",
+  "colorIdentity": [
+    "B"
+  ]
+}

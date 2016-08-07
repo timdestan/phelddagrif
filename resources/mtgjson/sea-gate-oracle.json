@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Sea Gate Oracle",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "When Sea Gate Oracle enters the battlefield, look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "sea gate oracle",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Faith's Reward",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Return to the battlefield all permanent cards in your graveyard that were put there from the battlefield this turn.",
+  "imageName": "faith's reward",
+  "colorIdentity": [
+    "W"
+  ]
+}

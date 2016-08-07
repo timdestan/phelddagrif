@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Elvish Promenade",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Tribal Sorcery — Elf",
+  "types": [
+    "Tribal",
+    "Sorcery"
+  ],
+  "subtypes": [
+    "Elf"
+  ],
+  "text": "Put a 1/1 green Elf Warrior creature token onto the battlefield for each Elf you control.",
+  "imageName": "elvish promenade",
+  "colorIdentity": [
+    "G"
+  ]
+}

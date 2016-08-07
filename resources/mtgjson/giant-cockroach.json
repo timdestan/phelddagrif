@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Giant Cockroach",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "power": "4",
+  "toughness": "2",
+  "imageName": "giant cockroach",
+  "colorIdentity": [
+    "B"
+  ]
+}

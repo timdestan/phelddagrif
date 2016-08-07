@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Concordia Pegasus",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Pegasus",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Pegasus"
+  ],
+  "text": "Flying",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "concordia pegasus",
+  "colorIdentity": [
+    "W"
+  ]
+}

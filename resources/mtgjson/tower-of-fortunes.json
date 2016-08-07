@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Tower of Fortunes",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{8}, {T}: Draw four cards.",
+  "imageName": "tower of fortunes"
+}

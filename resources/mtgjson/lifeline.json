@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Lifeline",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Whenever a creature dies, if another creature is on the battlefield, return the first card to the battlefield under its owner's control at the beginning of the next end step.",
+  "imageName": "lifeline"
+}

@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Gleam of Authority",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets +1/+1 for each +1/+1 counter on other creatures you control.\nEnchanted creature has vigilance and \"{W}, {T}: Bolster 1.\" (To bolster 1, choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)",
+  "imageName": "gleam of authority",
+  "colorIdentity": [
+    "W"
+  ]
+}

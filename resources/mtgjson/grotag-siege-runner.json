@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Grotag Siege-Runner",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Rogue"
+  ],
+  "text": "{R}, Sacrifice Grotag Siege-Runner: Destroy target creature with defender. Grotag Siege-Runner deals 2 damage to that creature's controller.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "grotag siege-runner",
+  "colorIdentity": [
+    "R"
+  ]
+}

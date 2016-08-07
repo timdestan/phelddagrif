@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Undying Beast",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "When Undying Beast dies, put it on top of its owner's library.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "undying beast",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Rootwalla",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Lizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Lizard"
+  ],
+  "text": "{1}{G}: Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "rootwalla",
+  "colorIdentity": [
+    "G"
+  ]
+}

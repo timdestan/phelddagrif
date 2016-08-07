@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Flame Jet",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Flame Jet deals 3 damage to target player.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+  "imageName": "flame jet",
+  "colorIdentity": [
+    "R"
+  ]
+}

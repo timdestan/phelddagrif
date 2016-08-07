@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "War Oracle",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "Lifelink (Damage dealt by this creature also causes you to gain that much life.)\nRenown 1 (When this creature deals combat damage to a player, if it isn't renowned, put a +1/+1 counter on it and it becomes renowned.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "war oracle",
+  "colorIdentity": [
+    "W"
+  ]
+}

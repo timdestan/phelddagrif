@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Drafna's Restoration",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Return any number of target artifact cards from target player's graveyard to the top of his or her library in any order.",
+  "imageName": "drafna's restoration",
+  "colorIdentity": [
+    "U"
+  ]
+}

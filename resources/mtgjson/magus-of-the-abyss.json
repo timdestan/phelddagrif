@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Magus of the Abyss",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "At the beginning of each player's upkeep, destroy target nonartifact creature that player controls of his or her choice. It can't be regenerated.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "magus of the abyss",
+  "colorIdentity": [
+    "B"
+  ]
+}

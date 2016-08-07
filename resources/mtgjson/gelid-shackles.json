@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Gelid Shackles",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Snow Enchantment — Aura",
+  "supertypes": [
+    "Snow"
+  ],
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature can't block, and its activated abilities can't be activated.\n{S}: Enchanted creature gains defender until end of turn. ({S} can be paid with one mana from a snow permanent.)",
+  "imageName": "gelid shackles",
+  "colorIdentity": [
+    "W"
+  ]
+}

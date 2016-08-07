@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Tainted Field",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{T}: Add {W} or {B} to your mana pool. Activate this ability only if you control a Swamp.",
+  "imageName": "tainted field",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

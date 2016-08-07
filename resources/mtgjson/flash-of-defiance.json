@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Flash of Defiance",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Green creatures and white creatures can't block this turn.\nFlashback—{1}{R}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "flash of defiance",
+  "colorIdentity": [
+    "R"
+  ]
+}

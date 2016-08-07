@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Mox Ruby",
+  "manaCost": "{0}",
+  "cmc": 0,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}: Add {R} to your mana pool.",
+  "imageName": "mox ruby",
+  "colorIdentity": [
+    "R"
+  ]
+}

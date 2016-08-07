@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Infuse with the Elements",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Converge — Put X +1/+1 counters on target creature, where X is the number of colors of mana spent to cast Infuse with the Elements. That creature gains trample until end of turn.",
+  "imageName": "infuse with the elements",
+  "colorIdentity": [
+    "G"
+  ]
+}

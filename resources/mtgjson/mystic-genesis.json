@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Mystic Genesis",
+  "manaCost": "{2}{G}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell. Put an X/X green Ooze creature token onto the battlefield, where X is that spell's converted mana cost.",
+  "imageName": "mystic genesis",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

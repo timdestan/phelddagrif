@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Accorder Paladin",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "accorder paladin",
+  "colorIdentity": [
+    "W"
+  ]
+}

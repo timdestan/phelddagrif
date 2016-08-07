@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Veteran Swordsmith",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Other Soldier creatures you control get +1/+0.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "veteran swordsmith",
+  "colorIdentity": [
+    "W"
+  ]
+}

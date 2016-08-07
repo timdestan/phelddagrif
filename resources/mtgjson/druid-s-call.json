@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Druid's Call",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nWhenever enchanted creature is dealt damage, its controller puts that many 1/1 green Squirrel creature tokens onto the battlefield.",
+  "imageName": "druid's call",
+  "colorIdentity": [
+    "G"
+  ]
+}

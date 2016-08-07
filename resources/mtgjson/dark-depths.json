@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Dark Depths",
+  "type": "Legendary Snow Land",
+  "supertypes": [
+    "Legendary",
+    "Snow"
+  ],
+  "types": [
+    "Land"
+  ],
+  "text": "Dark Depths enters the battlefield with ten ice counters on it.\n{3}: Remove an ice counter from Dark Depths.\nWhen Dark Depths has no ice counters on it, sacrifice it. If you do, put a legendary 20/20 black Avatar creature token with flying and indestructible named Marit Lage onto the battlefield.",
+  "imageName": "dark depths"
+}

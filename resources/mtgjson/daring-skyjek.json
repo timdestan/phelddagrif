@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Daring Skyjek",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "Battalion — Whenever Daring Skyjek and at least two other creatures attack, Daring Skyjek gains flying until end of turn.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "daring skyjek",
+  "colorIdentity": [
+    "W"
+  ]
+}

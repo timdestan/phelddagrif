@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Mirror Mirror",
+  "manaCost": "{7}",
+  "cmc": 7,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Mirror Mirror comes into play tapped.\n{7}, {T}, Sacrifice Mirror Mirror: At end of turn, exchange life totals with target player and exchange all cards in play that you control, and all cards in your hand, library, and graveyard, with that player until end of game.",
+  "imageName": "mirror mirror"
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Hunting Cheetah",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Cat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat"
+  ],
+  "text": "Whenever Hunting Cheetah deals damage to an opponent, you may search your library for a Forest card, reveal that card, put it into your hand, then shuffle your library.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "hunting cheetah",
+  "colorIdentity": [
+    "G"
+  ]
+}

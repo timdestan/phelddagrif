@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Touch of Darkness",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Any number of target creatures become black until end of turn.",
+  "imageName": "touch of darkness",
+  "colorIdentity": [
+    "B"
+  ]
+}

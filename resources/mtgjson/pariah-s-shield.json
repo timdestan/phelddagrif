@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Pariah's Shield",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "All damage that would be dealt to you is dealt to equipped creature instead.\nEquip {3}",
+  "imageName": "pariah's shield"
+}

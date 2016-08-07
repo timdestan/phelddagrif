@@ -1,0 +1,10 @@
+{
+  "layout": "scheme",
+  "name": "Evil Comes to Fruition",
+  "type": "Scheme",
+  "types": [
+    "Scheme"
+  ],
+  "text": "When you set this scheme in motion, put seven 0/1 green Plant creature tokens onto the battlefield. If you control ten or more lands, put seven 3/3 green Elemental creature tokens onto the battlefield instead.",
+  "imageName": "evil comes to fruition"
+}

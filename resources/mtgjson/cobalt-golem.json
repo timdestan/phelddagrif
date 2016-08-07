@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Cobalt Golem",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "{1}{U}: Cobalt Golem gains flying until end of turn.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "cobalt golem",
+  "colorIdentity": [
+    "U"
+  ]
+}

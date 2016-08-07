@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Cry of Contrition",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target player discards a card.\nHaunt (When this spell card is put into a graveyard after resolving, exile it haunting target creature.)\nWhen the creature Cry of Contrition haunts dies, target player discards a card.",
+  "imageName": "cry of contrition",
+  "colorIdentity": [
+    "B"
+  ]
+}

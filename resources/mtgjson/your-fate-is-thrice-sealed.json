@@ -1,0 +1,10 @@
+{
+  "layout": "scheme",
+  "name": "Your Fate Is Thrice Sealed",
+  "type": "Scheme",
+  "types": [
+    "Scheme"
+  ],
+  "text": "When you set this scheme in motion, reveal the top three cards of your library. Put all land cards revealed this way onto the battlefield and the rest into your hand.",
+  "imageName": "your fate is thrice sealed"
+}

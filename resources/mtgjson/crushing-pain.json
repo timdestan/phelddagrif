@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Crushing Pain",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant — Arcane",
+  "types": [
+    "Instant"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "Crushing Pain deals 6 damage to target creature that was dealt damage this turn.",
+  "imageName": "crushing pain",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Laccolith Whelp",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Whenever Laccolith Whelp becomes blocked, you may have it deal damage equal to its power to target creature. If you do, Laccolith Whelp assigns no combat damage this turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "laccolith whelp",
+  "colorIdentity": [
+    "R"
+  ]
+}

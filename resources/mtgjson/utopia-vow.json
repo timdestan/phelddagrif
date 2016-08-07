@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Utopia Vow",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature can't attack or block.\nEnchanted creature has \"{T}: Add one mana of any color to your mana pool.\"",
+  "imageName": "utopia vow",
+  "colorIdentity": [
+    "G"
+  ]
+}

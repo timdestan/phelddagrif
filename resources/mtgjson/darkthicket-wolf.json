@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Darkthicket Wolf",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wolf"
+  ],
+  "text": "{2}{G}: Darkthicket Wolf gets +2/+2 until end of turn. Activate this ability only once each turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "darkthicket wolf",
+  "colorIdentity": [
+    "G"
+  ]
+}

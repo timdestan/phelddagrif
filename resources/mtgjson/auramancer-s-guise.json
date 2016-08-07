@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Auramancer's Guise",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets +2/+2 for each Aura attached to it and has vigilance.",
+  "imageName": "auramancer's guise",
+  "colorIdentity": [
+    "U"
+  ]
+}

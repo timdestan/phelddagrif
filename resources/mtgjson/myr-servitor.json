@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Myr Servitor",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact Creature — Myr",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Myr"
+  ],
+  "text": "At the beginning of your upkeep, if Myr Servitor is on the battlefield, each player returns all cards named Myr Servitor from his or her graveyard to the battlefield.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "myr servitor"
+}

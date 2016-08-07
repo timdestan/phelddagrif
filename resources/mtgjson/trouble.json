@@ -1,0 +1,23 @@
+{
+  "layout": "split",
+  "name": "Trouble",
+  "names": [
+    "Toil",
+    "Trouble"
+  ],
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Trouble deals damage to target player equal to the number of cards in that player's hand.\nFuse (You may cast one or both halves of this card from your hand.)",
+  "imageName": "trouble",
+  "colorIdentity": [
+    "R",
+    "B"
+  ]
+}

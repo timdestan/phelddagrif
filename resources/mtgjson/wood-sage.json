@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Wood Sage",
+  "manaCost": "{G}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Creature — Human Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Druid"
+  ],
+  "text": "{T}: Name a creature card. Reveal the top four cards of your library and put all of them with that name into your hand. Put the rest into your graveyard.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "wood sage",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

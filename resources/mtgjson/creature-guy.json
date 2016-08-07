@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Creature Guy",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Gotcha Whenever an opponent says \"Creature\" or \"Guy,\" you may say \"Gotcha\" If you do, return Creature Guy from your graveyard to your hand.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "creature guy",
+  "colorIdentity": [
+    "G"
+  ]
+}

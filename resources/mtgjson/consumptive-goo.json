@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Consumptive Goo",
+  "manaCost": "{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Ooze",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ooze"
+  ],
+  "text": "{2}{B}{B}: Target creature gets -1/-1 until end of turn. Put a +1/+1 counter on Consumptive Goo.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "consumptive goo",
+  "colorIdentity": [
+    "B"
+  ]
+}

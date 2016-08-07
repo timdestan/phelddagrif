@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Inheritance",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a creature dies, you may pay {3}. If you do, draw a card.",
+  "imageName": "inheritance",
+  "colorIdentity": [
+    "W"
+  ]
+}

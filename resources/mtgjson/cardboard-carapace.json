@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Cardboard Carapace",
+  "manaCost": "{5}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchant Creature",
+  "types": [
+    "Enchant",
+    "Creature"
+  ],
+  "text": "For each other Cardboard Carapace card you have with you, enchanted creature gets +1/+1.\nErrata: This does not count any Cardboard Carapace cards in play that you control or in your graveyard, hand, or library.",
+  "imageName": "cardboard carapace",
+  "colorIdentity": [
+    "G"
+  ]
+}

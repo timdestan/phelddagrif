@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Master of Predicaments",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Sphinx",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sphinx"
+  ],
+  "text": "Flying\nWhenever Master of Predicaments deals combat damage to a player, choose a card in your hand. That player guesses whether the card's converted mana cost is greater than 4. If the player guessed wrong, you may cast the card without paying its mana cost.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "master of predicaments",
+  "colorIdentity": [
+    "U"
+  ]
+}

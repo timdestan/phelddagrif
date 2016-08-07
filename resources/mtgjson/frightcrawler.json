@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Frightcrawler",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)\nThreshold — As long as seven or more cards are in your graveyard, Frightcrawler gets +2/+2 and can't block.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "frightcrawler",
+  "colorIdentity": [
+    "B"
+  ]
+}

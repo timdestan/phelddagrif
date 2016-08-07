@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Gather the Pack",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Reveal the top five cards of your library. You may put a creature card from among them into your hand. Put the rest into your graveyard.\nSpell mastery — If there are two or more instant and/or sorcery cards in your graveyard, put up to two creature cards from among the revealed cards into your hand instead of one.",
+  "imageName": "gather the pack",
+  "colorIdentity": [
+    "G"
+  ]
+}

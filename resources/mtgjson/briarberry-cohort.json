@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Briarberry Cohort",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Faerie Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Faerie",
+    "Soldier"
+  ],
+  "text": "Flying\nBriarberry Cohort gets +1/+1 as long as you control another blue creature.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "briarberry cohort",
+  "colorIdentity": [
+    "U"
+  ]
+}

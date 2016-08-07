@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sigil of the New Dawn",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a creature is put into your graveyard from the battlefield, you may pay {1}{W}. If you do, return that card to your hand.",
+  "imageName": "sigil of the new dawn",
+  "colorIdentity": [
+    "W"
+  ]
+}

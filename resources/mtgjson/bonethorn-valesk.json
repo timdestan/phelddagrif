@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Bonethorn Valesk",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Whenever a permanent is turned face up, Bonethorn Valesk deals 1 damage to target creature or player.",
+  "power": "4",
+  "toughness": "2",
+  "imageName": "bonethorn valesk",
+  "colorIdentity": [
+    "R"
+  ]
+}

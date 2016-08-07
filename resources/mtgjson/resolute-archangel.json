@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Resolute Archangel",
+  "manaCost": "{5}{W}{W}",
+  "cmc": 7,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nWhen Resolute Archangel enters the battlefield, if your life total is less than your starting life total, it becomes equal to your starting life total.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "resolute archangel",
+  "colorIdentity": [
+    "W"
+  ]
+}

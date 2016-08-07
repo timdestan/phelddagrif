@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Wretched Gryff",
+  "manaCost": "{7}",
+  "cmc": 7,
+  "type": "Creature — Eldrazi Hippogriff",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Hippogriff"
+  ],
+  "text": "Emerge {5}{U} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)\nWhen you cast Wretched Gryff, draw a card.\nFlying",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "wretched gryff",
+  "colorIdentity": [
+    "U"
+  ]
+}

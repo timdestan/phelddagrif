@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Subterranean Hangar",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Subterranean Hangar enters the battlefield tapped.\n{T}: Put a storage counter on Subterranean Hangar.\n{T}, Remove any number of storage counters from Subterranean Hangar: Add {B} to your mana pool for each storage counter removed this way.",
+  "imageName": "subterranean hangar",
+  "colorIdentity": [
+    "B"
+  ]
+}

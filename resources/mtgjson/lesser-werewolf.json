@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Lesser Werewolf",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Werewolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Werewolf"
+  ],
+  "text": "{B}: If Lesser Werewolf's power is 1 or more, it gets -1/-0 until end of turn and put a -0/-1 counter on target creature blocking or blocked by Lesser Werewolf. Activate this ability only during the declare blockers step.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "lesser werewolf",
+  "colorIdentity": [
+    "B"
+  ]
+}

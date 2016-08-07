@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Rocket-Powered Turbo Slug",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Slug",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Slug"
+  ],
+  "text": "Super haste (This may attack the turn before you play it. (You may put this card into play from your hand, tapped and attacking, during your declare attackers step. If you do, you lose the game at the end of your next turn unless you pay this card's mana cost during that turn.))",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "rocket-powered turbo slug",
+  "colorIdentity": [
+    "R"
+  ]
+}

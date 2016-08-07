@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Nim Shrieker",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Flying\nNim Shrieker gets +1/+0 for each artifact you control.",
+  "power": "0",
+  "toughness": "1",
+  "imageName": "nim shrieker",
+  "colorIdentity": [
+    "B"
+  ]
+}

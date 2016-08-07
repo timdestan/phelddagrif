@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Avaricious Dragon",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying\nAt the beginning of your draw step, draw an additional card.\nAt the beginning of your end step, discard your hand.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "avaricious dragon",
+  "colorIdentity": [
+    "R"
+  ]
+}

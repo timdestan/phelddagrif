@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Scattershot",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Scattershot deals 1 damage to target creature.\nStorm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)",
+  "imageName": "scattershot",
+  "colorIdentity": [
+    "R"
+  ]
+}

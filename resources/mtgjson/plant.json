@@ -1,0 +1,14 @@
+{
+  "layout": "token",
+  "name": "Plant",
+  "type": " Creature — Plant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Plant"
+  ],
+  "power": "0",
+  "toughness": "1",
+  "imageName": "plant"
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Darksteel Relic",
+  "manaCost": "{0}",
+  "cmc": 0,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Indestructible (Effects that say \"destroy\" don't destroy this artifact.)",
+  "imageName": "darksteel relic"
+}

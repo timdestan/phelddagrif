@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Elite Cat Warrior",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Cat Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat",
+    "Warrior"
+  ],
+  "text": "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "elite cat warrior",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Midvast Protector",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "When Midvast Protector enters the battlefield, target creature you control gains protection from the color of your choice until end of turn.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "midvast protector",
+  "colorIdentity": [
+    "W"
+  ]
+}

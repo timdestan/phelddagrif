@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Greater Harvester",
+  "manaCost": "{2}{B}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "At the beginning of your upkeep, sacrifice a permanent.\nWhenever Greater Harvester deals combat damage to a player, that player sacrifices two permanents.",
+  "power": "5",
+  "toughness": "6",
+  "imageName": "greater harvester",
+  "colorIdentity": [
+    "B"
+  ]
+}

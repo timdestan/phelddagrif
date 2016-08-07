@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Thought Eater",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Flying\nYour maximum hand size is reduced by three.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "thought eater",
+  "colorIdentity": [
+    "U"
+  ]
+}

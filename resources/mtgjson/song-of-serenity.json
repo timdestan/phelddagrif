@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Song of Serenity",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Creatures that are enchanted can't attack or block.",
+  "imageName": "song of serenity",
+  "colorIdentity": [
+    "G"
+  ]
+}

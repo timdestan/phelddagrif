@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Crosis's Attendant",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "{1}, Sacrifice Crosis's Attendant: Add {U}{B}{R} to your mana pool.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "crosis's attendant",
+  "colorIdentity": [
+    "U",
+    "B",
+    "R"
+  ]
+}

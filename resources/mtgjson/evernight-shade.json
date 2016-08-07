@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Evernight Shade",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Shade",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Shade"
+  ],
+  "text": "{B}: Evernight Shade gets +1/+1 until end of turn.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "evernight shade",
+  "colorIdentity": [
+    "B"
+  ]
+}

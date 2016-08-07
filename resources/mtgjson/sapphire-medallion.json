@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Sapphire Medallion",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Blue spells you cast cost {1} less to cast.",
+  "imageName": "sapphire medallion"
+}

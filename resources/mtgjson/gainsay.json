@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Gainsay",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target blue spell.",
+  "imageName": "gainsay",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Bomb Squad",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dwarf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dwarf"
+  ],
+  "text": "{T}: Put a fuse counter on target creature.\nAt the beginning of your upkeep, put a fuse counter on each creature with a fuse counter on it.\nWhenever a creature has four or more fuse counters on it, remove all fuse counters from it and destroy it. That creature deals 4 damage to its controller.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "bomb squad",
+  "colorIdentity": [
+    "R"
+  ]
+}

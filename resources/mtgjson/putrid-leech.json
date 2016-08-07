@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Putrid Leech",
+  "manaCost": "{B}{G}",
+  "cmc": 2,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Creature — Zombie Leech",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Leech"
+  ],
+  "text": "Pay 2 life: Putrid Leech gets +2/+2 until end of turn. Activate this ability only once each turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "putrid leech",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

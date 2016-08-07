@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Leonin Iconoclast",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Cat Monk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat",
+    "Monk"
+  ],
+  "text": "Heroic — Whenever you cast a spell that targets Leonin Iconoclast, destroy target enchantment creature an opponent controls.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "leonin iconoclast",
+  "colorIdentity": [
+    "W"
+  ]
+}

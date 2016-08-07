@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Clear",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target enchantment.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+  "imageName": "clear",
+  "colorIdentity": [
+    "W"
+  ]
+}

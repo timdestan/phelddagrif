@@ -1,0 +1,14 @@
+{
+  "layout": "token",
+  "name": "Thrull",
+  "type": "Creature — Thrull",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Thrull"
+  ],
+  "power": "0",
+  "toughness": "1",
+  "imageName": "thrull"
+}

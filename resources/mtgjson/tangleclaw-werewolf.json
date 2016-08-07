@@ -1,0 +1,28 @@
+{
+  "layout": "double-faced",
+  "name": "Tangleclaw Werewolf",
+  "names": [
+    "Tangleclaw Werewolf",
+    "Fibrous Entangler"
+  ],
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Werewolf Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Werewolf",
+    "Horror"
+  ],
+  "text": "Tangleclaw Werewolf can block an additional creature each combat.\n{6}{G}: Transform Tangleclaw Werewolf.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "tangleclaw werewolf",
+  "colorIdentity": [
+    "G"
+  ]
+}

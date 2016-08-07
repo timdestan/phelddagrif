@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Knight Exemplar",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "First strike (This creature deals combat damage before creatures without first strike.)\nOther Knight creatures you control get +1/+1 and have indestructible. (Damage and effects that say \"destroy\" don't destroy them.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "knight exemplar",
+  "colorIdentity": [
+    "W"
+  ]
+}

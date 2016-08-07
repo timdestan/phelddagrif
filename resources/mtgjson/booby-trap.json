@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Booby Trap",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "As Booby Trap enters the battlefield, name a card other than a basic land card and choose an opponent.\nThe chosen player reveals each card he or she draws.\nWhen the chosen player draws the named card, sacrifice Booby Trap. If you do, Booby Trap deals 10 damage to that player.",
+  "imageName": "booby trap"
+}

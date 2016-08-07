@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Gideon's Lawkeeper",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "{W}, {T}: Tap target creature.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "gideon's lawkeeper",
+  "colorIdentity": [
+    "W"
+  ]
+}

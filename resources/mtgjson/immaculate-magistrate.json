@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Immaculate Magistrate",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Shaman"
+  ],
+  "text": "{T}: Put a +1/+1 counter on target creature for each Elf you control.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "immaculate magistrate",
+  "colorIdentity": [
+    "G"
+  ]
+}

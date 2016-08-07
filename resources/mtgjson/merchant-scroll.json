@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Merchant Scroll",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Search your library for a blue instant card, reveal that card, and put it into your hand. Then shuffle your library.",
+  "imageName": "merchant scroll",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Furnace Whelp",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\n{R}: Furnace Whelp gets +1/+0 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "furnace whelp",
+  "colorIdentity": [
+    "R"
+  ]
+}

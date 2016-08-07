@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dark Betrayal",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target black creature.",
+  "imageName": "dark betrayal",
+  "colorIdentity": [
+    "B"
+  ]
+}

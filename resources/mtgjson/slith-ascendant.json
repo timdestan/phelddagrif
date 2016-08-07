@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Slith Ascendant",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Slith",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Slith"
+  ],
+  "text": "Flying\nWhenever Slith Ascendant deals combat damage to a player, put a +1/+1 counter on it.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "slith ascendant",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Vithian Renegades",
+  "manaCost": "{1}{R}{G}",
+  "cmc": 3,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Human Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Shaman"
+  ],
+  "text": "When Vithian Renegades enters the battlefield, destroy target artifact.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "vithian renegades",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

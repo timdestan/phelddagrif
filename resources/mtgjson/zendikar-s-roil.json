@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Zendikar's Roil",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a land enters the battlefield under your control, put a 2/2 green Elemental creature token onto the battlefield.",
+  "imageName": "zendikar's roil",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Price of Glory",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a player taps a land for mana, if it's not that player's turn, destroy that land.",
+  "imageName": "price of glory",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Teeka's Dragon",
+  "manaCost": "{9}",
+  "cmc": 9,
+  "type": "Artifact Creature — Dragon",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying; trample; rampage 4 (Whenever this creature becomes blocked, it gets +4/+4 until end of turn for each creature blocking it beyond the first.)",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "teeka's dragon"
+}

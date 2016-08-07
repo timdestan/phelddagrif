@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Shivan Dragon",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\n{R}: Shivan Dragon gets +1/+0 until end of turn.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "shivan dragon",
+  "colorIdentity": [
+    "R"
+  ]
+}

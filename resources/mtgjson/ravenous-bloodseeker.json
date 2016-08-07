@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ravenous Bloodseeker",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Vampire Berserker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Berserker"
+  ],
+  "text": "Discard a card: Ravenous Bloodseeker gets +2/-2 until end of turn.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "ravenous bloodseeker",
+  "colorIdentity": [
+    "R"
+  ]
+}

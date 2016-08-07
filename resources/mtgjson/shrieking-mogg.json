@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Shrieking Mogg",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "Haste\nWhen Shrieking Mogg enters the battlefield, tap all other creatures.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "shrieking mogg",
+  "colorIdentity": [
+    "R"
+  ]
+}

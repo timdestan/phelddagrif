@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Surge of Strength",
+  "manaCost": "{R}{G}",
+  "cmc": 2,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "As an additional cost to cast Surge of Strength, discard a red or green card.\nTarget creature gains trample and gets +X/+0 until end of turn, where X is that creature's converted mana cost.",
+  "imageName": "surge of strength",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

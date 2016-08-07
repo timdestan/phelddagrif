@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Deny Existence",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target creature spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",
+  "imageName": "deny existence",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Tranquil Garden",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{T}: Add {G} or {W} to your mana pool. Tranquil Garden doesn't untap during your next untap step.",
+  "imageName": "tranquil garden",
+  "colorIdentity": [
+    "G",
+    "W"
+  ]
+}

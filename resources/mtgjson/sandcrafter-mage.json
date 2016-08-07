@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Sandcrafter Mage",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "When Sandcrafter Mage enters the battlefield, bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "sandcrafter mage",
+  "colorIdentity": [
+    "W"
+  ]
+}

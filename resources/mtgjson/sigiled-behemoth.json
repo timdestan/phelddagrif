@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Sigiled Behemoth",
+  "manaCost": "{4}{G}{W}",
+  "cmc": 6,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "sigiled behemoth",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

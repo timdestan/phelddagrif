@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Chronostutter",
+  "manaCost": "{5}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Put target creature into its owner's library second from the top.",
+  "imageName": "chronostutter",
+  "colorIdentity": [
+    "U"
+  ]
+}

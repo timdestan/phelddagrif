@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Stern Marshal",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "{T}: Target creature gets +2/+2 until end of turn. Activate this ability only during your turn, before attackers are declared.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "stern marshal",
+  "colorIdentity": [
+    "W"
+  ]
+}

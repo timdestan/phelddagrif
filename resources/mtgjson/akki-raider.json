@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Akki Raider",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Warrior"
+  ],
+  "text": "Whenever a land is put into a graveyard from the battlefield, Akki Raider gets +1/+0 until end of turn.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "akki raider",
+  "colorIdentity": [
+    "R"
+  ]
+}

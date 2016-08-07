@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Caller of Gales",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Wizard"
+  ],
+  "text": "{1}{U}, {T}: Target creature gains flying until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "caller of gales",
+  "colorIdentity": [
+    "U"
+  ]
+}

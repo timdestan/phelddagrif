@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Dauthi Marauder",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Dauthi Minion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dauthi",
+    "Minion"
+  ],
+  "text": "Shadow (This creature can block or be blocked by only creatures with shadow.)",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "dauthi marauder",
+  "colorIdentity": [
+    "B"
+  ]
+}

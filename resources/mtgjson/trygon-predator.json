@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Trygon Predator",
+  "manaCost": "{1}{G}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Flying\nWhenever Trygon Predator deals combat damage to a player, you may destroy target artifact or enchantment that player controls.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "trygon predator",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

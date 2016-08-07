@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Fire Covenant",
+  "manaCost": "{1}{B}{R}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "As an additional cost to cast Fire Covenant, pay X life.\nFire Covenant deals X damage divided as you choose among any number of target creatures.",
+  "imageName": "fire covenant",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

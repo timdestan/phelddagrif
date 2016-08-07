@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Fyndhorn Brownie",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Ouphe",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ouphe"
+  ],
+  "text": "{2}{G}, {T}: Untap target creature.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "fyndhorn brownie",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "layout": "double-faced",
+  "name": "Mondronen Shaman",
+  "names": [
+    "Mondronen Shaman",
+    "Tovolar's Magehunter"
+  ],
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Werewolf Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Werewolf",
+    "Shaman"
+  ],
+  "text": "At the beginning of each upkeep, if no spells were cast last turn, transform Mondronen Shaman.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "mondronen shaman",
+  "colorIdentity": [
+    "R"
+  ]
+}

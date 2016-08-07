@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Prismatic Circle",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nAs Prismatic Circle enters the battlefield, choose a color.\n{1}: The next time a source of your choice of the chosen color would deal damage to you this turn, prevent that damage.",
+  "imageName": "prismatic circle",
+  "colorIdentity": [
+    "W"
+  ]
+}

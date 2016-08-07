@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Lord Magnus",
+  "manaCost": "{3}{G}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Legendary Creature — Human Druid",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Druid"
+  ],
+  "text": "First strike\nCreatures with plainswalk can be blocked as though they didn't have plainswalk.\nCreatures with forestwalk can be blocked as though they didn't have forestwalk.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "lord magnus",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

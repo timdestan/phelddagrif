@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Odylic Wraith",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Wraith",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wraith"
+  ],
+  "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\nWhenever Odylic Wraith deals damage to a player, that player discards a card.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "odylic wraith",
+  "colorIdentity": [
+    "B"
+  ]
+}

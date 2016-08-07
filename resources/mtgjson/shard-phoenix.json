@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Shard Phoenix",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Phoenix",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Phoenix"
+  ],
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nSacrifice Shard Phoenix: Shard Phoenix deals 2 damage to each creature without flying.\n{R}{R}{R}: Return Shard Phoenix from your graveyard to your hand. Activate this ability only during your upkeep.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "shard phoenix",
+  "colorIdentity": [
+    "R"
+  ]
+}

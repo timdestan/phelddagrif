@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Kemba, Kha Regent",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Creature — Cat Cleric",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat",
+    "Cleric"
+  ],
+  "text": "At the beginning of your upkeep, put a 2/2 white Cat creature token onto the battlefield for each Equipment attached to Kemba, Kha Regent.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "kemba, kha regent",
+  "colorIdentity": [
+    "W"
+  ]
+}

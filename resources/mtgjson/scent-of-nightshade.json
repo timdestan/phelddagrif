@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Scent of Nightshade",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Reveal any number of black cards in your hand. Target creature gets -X/-X until end of turn, where X is the number of cards revealed this way.",
+  "imageName": "scent of nightshade",
+  "colorIdentity": [
+    "B"
+  ]
+}

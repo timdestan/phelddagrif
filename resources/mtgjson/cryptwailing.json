@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Cryptwailing",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{1}, Exile two creature cards from your graveyard: Target player discards a card. Activate this ability only any time you could cast a sorcery.",
+  "imageName": "cryptwailing",
+  "colorIdentity": [
+    "B"
+  ]
+}

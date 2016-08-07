@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Havoc",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever an opponent casts a white spell, he or she loses 2 life.",
+  "imageName": "havoc",
+  "colorIdentity": [
+    "R"
+  ]
+}

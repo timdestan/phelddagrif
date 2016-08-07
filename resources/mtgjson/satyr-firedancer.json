@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Satyr Firedancer",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment Creature — Satyr",
+  "types": [
+    "Enchantment",
+    "Creature"
+  ],
+  "subtypes": [
+    "Satyr"
+  ],
+  "text": "Whenever an instant or sorcery spell you control deals damage to an opponent, Satyr Firedancer deals that much damage to target creature that player controls.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "satyr firedancer",
+  "colorIdentity": [
+    "R"
+  ]
+}

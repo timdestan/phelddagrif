@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Living Inferno",
+  "manaCost": "{6}{R}{R}",
+  "cmc": 8,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "{T}: Living Inferno deals damage equal to its power divided as you choose among any number of target creatures. Each of those creatures deals damage equal to its power to Living Inferno.",
+  "power": "8",
+  "toughness": "5",
+  "imageName": "living inferno",
+  "colorIdentity": [
+    "R"
+  ]
+}

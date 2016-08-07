@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Swords to Plowshares",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Exile target creature. Its controller gains life equal to its power.",
+  "imageName": "swords to plowshares",
+  "colorIdentity": [
+    "W"
+  ]
+}

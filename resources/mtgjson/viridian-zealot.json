@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Viridian Zealot",
+  "manaCost": "{G}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Warrior"
+  ],
+  "text": "{1}{G}, Sacrifice Viridian Zealot: Destroy target artifact or enchantment.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "viridian zealot",
+  "colorIdentity": [
+    "G"
+  ]
+}

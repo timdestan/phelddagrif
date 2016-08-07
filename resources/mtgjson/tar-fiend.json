@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Tar Fiend",
+  "manaCost": "{5}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Devour 2 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.)\nWhen Tar Fiend enters the battlefield, target player discards a card for each creature it devoured.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "tar fiend",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Flow of Maggots",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nFlow of Maggots can't be blocked by non-Wall creatures.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "flow of maggots",
+  "colorIdentity": [
+    "B"
+  ]
+}

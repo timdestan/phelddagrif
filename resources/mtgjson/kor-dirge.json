@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Kor Dirge",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "All damage that would be dealt this turn to target creature you control by a source of your choice is dealt to another target creature instead.",
+  "imageName": "kor dirge",
+  "colorIdentity": [
+    "B"
+  ]
+}

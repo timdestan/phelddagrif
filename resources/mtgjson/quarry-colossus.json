@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Quarry Colossus",
+  "manaCost": "{5}{W}{W}",
+  "cmc": 7,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Giant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant"
+  ],
+  "text": "When Quarry Colossus enters the battlefield, put target creature into its owner's library just beneath the top X cards of that library, where X is the number of Plains you control.",
+  "power": "5",
+  "toughness": "6",
+  "imageName": "quarry colossus",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Dauthi Trapper",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Dauthi Minion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dauthi",
+    "Minion"
+  ],
+  "text": "{T}: Target creature gains shadow until end of turn. (It can block or be blocked by only creatures with shadow.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "dauthi trapper",
+  "colorIdentity": [
+    "B"
+  ]
+}

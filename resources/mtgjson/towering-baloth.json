@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Towering Baloth",
+  "manaCost": "{6}{G}{G}",
+  "cmc": 8,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Morph {6}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+  "power": "7",
+  "toughness": "6",
+  "imageName": "towering baloth",
+  "colorIdentity": [
+    "G"
+  ]
+}

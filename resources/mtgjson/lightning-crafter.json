@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Lightning Crafter",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Shaman"
+  ],
+  "text": "Champion a Goblin or Shaman (When this enters the battlefield, sacrifice it unless you exile another Goblin or Shaman you control. When this leaves the battlefield, that card returns to the battlefield.)\n{T}: Lightning Crafter deals 3 damage to target creature or player.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "lightning crafter",
+  "colorIdentity": [
+    "R"
+  ]
+}

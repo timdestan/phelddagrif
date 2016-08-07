@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Oath of Lim-Dûl",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever you lose life, for each 1 life you lost, sacrifice a permanent other than Oath of Lim-Dûl unless you discard a card. (Damage dealt to you causes you to lose life.)\n{B}{B}: Draw a card.",
+  "imageName": "oath of lim-dûl",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Eon Hub",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Players skip their upkeep steps.",
+  "imageName": "eon hub"
+}

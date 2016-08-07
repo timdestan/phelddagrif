@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kazuul's Toll Collector",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Ogre Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ogre",
+    "Warrior"
+  ],
+  "text": "{0}: Attach target Equipment you control to Kazuul's Toll Collector. Activate this ability only any time you could cast a sorcery.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "kazuul's toll collector",
+  "colorIdentity": [
+    "R"
+  ]
+}

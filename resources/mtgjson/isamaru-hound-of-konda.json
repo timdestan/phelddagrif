@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Isamaru, Hound of Konda",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Creature — Hound",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hound"
+  ],
+  "power": "2",
+  "toughness": "2",
+  "imageName": "isamaru, hound of konda",
+  "colorIdentity": [
+    "W"
+  ]
+}

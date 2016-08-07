@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Restore",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put target land card from a graveyard onto the battlefield under your control.",
+  "imageName": "restore",
+  "colorIdentity": [
+    "G"
+  ]
+}

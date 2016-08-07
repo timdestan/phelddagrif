@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Steamclaw",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{3}, {T}: Exile target card from a graveyard.\n{1}, Sacrifice Steamclaw: Exile target card from a graveyard.",
+  "imageName": "steamclaw"
+}

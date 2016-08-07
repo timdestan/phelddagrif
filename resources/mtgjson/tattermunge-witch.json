@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Tattermunge Witch",
+  "manaCost": "{1}{R/G}",
+  "cmc": 2,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Goblin Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Shaman"
+  ],
+  "text": "{R}{G}: Each blocked creature gets +1/+0 and gains trample until end of turn.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "tattermunge witch",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

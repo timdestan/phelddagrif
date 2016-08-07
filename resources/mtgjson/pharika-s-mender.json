@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Pharika's Mender",
+  "manaCost": "{3}{B}{G}",
+  "cmc": 5,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Creature — Gorgon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Gorgon"
+  ],
+  "text": "When Pharika's Mender enters the battlefield, you may return target creature or enchantment card from your graveyard to your hand.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "pharika's mender",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Invocation of Saint Traft",
+  "manaCost": "{1}{W}{U}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature has \"Whenever this creature attacks, put a 4/4 white Angel creature token with flying onto the battlefield tapped and attacking. Exile that token at end of combat.\"",
+  "imageName": "invocation of saint traft",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

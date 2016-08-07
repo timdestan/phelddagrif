@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Thran Dynamo",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}: Add {C}{C}{C} to your mana pool.",
+  "imageName": "thran dynamo"
+}

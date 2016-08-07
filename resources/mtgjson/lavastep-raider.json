@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Lavastep Raider",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Warrior"
+  ],
+  "text": "{2}{R}: Lavastep Raider gets +2/+0 until end of turn.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "lavastep raider",
+  "colorIdentity": [
+    "R"
+  ]
+}

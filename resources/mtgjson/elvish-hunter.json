@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Elvish Hunter",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Archer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Archer"
+  ],
+  "text": "{1}{G}, {T}: Target creature doesn't untap during its controller's next untap step.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "elvish hunter",
+  "colorIdentity": [
+    "G"
+  ]
+}

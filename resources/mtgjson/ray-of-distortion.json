@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ray of Distortion",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target artifact or enchantment.\nFlashback {4}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "ray of distortion",
+  "colorIdentity": [
+    "W"
+  ]
+}

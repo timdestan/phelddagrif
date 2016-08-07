@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Gluttonous Slime",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Ooze",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ooze"
+  ],
+  "text": "Flash\nDevour 1 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "gluttonous slime",
+  "colorIdentity": [
+    "G"
+  ]
+}

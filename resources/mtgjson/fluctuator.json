@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Fluctuator",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Cycling abilities you activate cost you up to {2} less to activate.",
+  "imageName": "fluctuator"
+}

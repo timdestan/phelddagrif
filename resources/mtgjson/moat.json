@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Moat",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Creatures without flying can't attack.",
+  "imageName": "moat",
+  "colorIdentity": [
+    "W"
+  ]
+}

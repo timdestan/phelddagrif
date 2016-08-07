@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Orcish Cannoneers",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Orc Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Orc",
+    "Warrior"
+  ],
+  "text": "{T}: Orcish Cannoneers deals 2 damage to target creature or player and 3 damage to you.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "orcish cannoneers",
+  "colorIdentity": [
+    "R"
+  ]
+}

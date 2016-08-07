@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Spiritual Focus",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a spell or ability an opponent controls causes you to discard a card, you gain 2 life and you may draw a card.",
+  "imageName": "spiritual focus",
+  "colorIdentity": [
+    "W"
+  ]
+}

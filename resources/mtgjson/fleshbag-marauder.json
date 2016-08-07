@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Fleshbag Marauder",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Warrior"
+  ],
+  "text": "When Fleshbag Marauder enters the battlefield, each player sacrifices a creature.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "fleshbag marauder",
+  "colorIdentity": [
+    "B"
+  ]
+}

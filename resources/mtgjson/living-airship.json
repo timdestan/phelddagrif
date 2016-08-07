@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Living Airship",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Metathran",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Metathran"
+  ],
+  "text": "Flying\n{2}{G}: Regenerate Living Airship.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "living airship",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

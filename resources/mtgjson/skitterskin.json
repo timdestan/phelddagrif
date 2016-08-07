@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Skitterskin",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "type": "Creature — Eldrazi Drone",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Drone"
+  ],
+  "text": "Devoid (This card has no color.)\nSkitterskin can't block.\n{1}{B}: Regenerate Skitterskin. Activate this ability only if you control another colorless creature.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "skitterskin",
+  "colorIdentity": [
+    "B"
+  ]
+}

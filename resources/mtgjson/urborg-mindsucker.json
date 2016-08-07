@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Urborg Mindsucker",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "{B}, Sacrifice Urborg Mindsucker: Target opponent discards a card at random. Activate this ability only any time you could cast a sorcery.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "urborg mindsucker",
+  "colorIdentity": [
+    "B"
+  ]
+}

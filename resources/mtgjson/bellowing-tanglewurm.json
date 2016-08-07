@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Bellowing Tanglewurm",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "text": "Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)\nOther green creatures you control have intimidate.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "bellowing tanglewurm",
+  "colorIdentity": [
+    "G"
+  ]
+}

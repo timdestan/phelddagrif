@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Escaped Null",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Berserker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Berserker"
+  ],
+  "text": "Lifelink\nWhenever Escaped Null blocks or becomes blocked, it gets +5/+0 until end of turn.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "escaped null",
+  "colorIdentity": [
+    "B"
+  ]
+}

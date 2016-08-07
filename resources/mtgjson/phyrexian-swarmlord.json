@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Phyrexian Swarmlord",
+  "manaCost": "{4}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Insect Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect",
+    "Horror"
+  ],
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nAt the beginning of your upkeep, put a 1/1 green Insect creature token with infect onto the battlefield for each poison counter your opponents have.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "phyrexian swarmlord",
+  "colorIdentity": [
+    "G"
+  ]
+}

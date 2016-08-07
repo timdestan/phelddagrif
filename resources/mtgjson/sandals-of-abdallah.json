@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Sandals of Abdallah",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, {T}: Target creature gains islandwalk until end of turn. When that creature dies this turn, destroy Sandals of Abdallah. (A creature with islandwalk can't be blocked as long as defending player controls an Island.)",
+  "imageName": "sandals of abdallah"
+}

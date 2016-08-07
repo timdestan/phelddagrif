@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Skirsdag High Priest",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "Morbid — {T}, Tap two untapped creatures you control: Put a 5/5 black Demon creature token with flying onto the battlefield. Activate this ability only if a creature died this turn.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "skirsdag high priest",
+  "colorIdentity": [
+    "B"
+  ]
+}

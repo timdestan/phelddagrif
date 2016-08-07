@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Glory Seeker",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "power": "2",
+  "toughness": "2",
+  "imageName": "glory seeker",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "River Merfolk",
+  "manaCost": "{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk"
+  ],
+  "text": "{U}: River Merfolk gains mountainwalk until end of turn. (It can't be blocked as long as defending player controls a Mountain.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "river merfolk",
+  "colorIdentity": [
+    "U"
+  ]
+}

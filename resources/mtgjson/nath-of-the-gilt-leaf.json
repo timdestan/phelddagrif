@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Nath of the Gilt-Leaf",
+  "manaCost": "{3}{B}{G}",
+  "cmc": 5,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Legendary Creature — Elf Warrior",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Warrior"
+  ],
+  "text": "At the beginning of your upkeep, you may have target opponent discard a card at random.\nWhenever an opponent discards a card, you may put a 1/1 green Elf Warrior creature token onto the battlefield.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "nath of the gilt-leaf",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

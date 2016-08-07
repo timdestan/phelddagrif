@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Prism Ring",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "As Prism Ring enters the battlefield, choose a color.\nWhenever you cast a spell of the chosen color, you gain 1 life.",
+  "imageName": "prism ring"
+}

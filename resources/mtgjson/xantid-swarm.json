@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Xantid Swarm",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "Flying\nWhenever Xantid Swarm attacks, defending player can't cast spells this turn.",
+  "power": "0",
+  "toughness": "1",
+  "imageName": "xantid swarm",
+  "colorIdentity": [
+    "G"
+  ]
+}

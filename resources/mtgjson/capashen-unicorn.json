@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Capashen Unicorn",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Unicorn",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Unicorn"
+  ],
+  "text": "{1}{W}, {T}, Sacrifice Capashen Unicorn: Destroy target artifact or enchantment.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "capashen unicorn",
+  "colorIdentity": [
+    "W"
+  ]
+}

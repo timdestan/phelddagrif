@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Swordwise Centaur",
+  "manaCost": "{G}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Centaur Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Centaur",
+    "Warrior"
+  ],
+  "power": "3",
+  "toughness": "2",
+  "imageName": "swordwise centaur",
+  "colorIdentity": [
+    "G"
+  ]
+}

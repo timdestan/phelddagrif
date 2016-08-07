@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wall of Opposition",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender (This creature can't attack.)\n{1}: Wall of Opposition gets +1/+0 until end of turn.",
+  "power": "0",
+  "toughness": "6",
+  "imageName": "wall of opposition",
+  "colorIdentity": [
+    "R"
+  ]
+}

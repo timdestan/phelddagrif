@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Kessig Recluse",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Spider",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spider"
+  ],
+  "text": "Reach (This creature can block creatures with flying.)\nDeathtouch (Any amount of damage this deals to a creature is enough to destroy it.)",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "kessig recluse",
+  "colorIdentity": [
+    "G"
+  ]
+}

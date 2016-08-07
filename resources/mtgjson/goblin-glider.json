@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Goblin Glider",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "Flying\nGoblin Glider can't block.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "goblin glider",
+  "colorIdentity": [
+    "R"
+  ]
+}

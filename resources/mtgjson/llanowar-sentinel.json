@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Llanowar Sentinel",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf"
+  ],
+  "text": "When Llanowar Sentinel enters the battlefield, you may pay {1}{G}. If you do, search your library for a card named Llanowar Sentinel and put that card onto the battlefield. Then shuffle your library.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "llanowar sentinel",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Mountain Bandit",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Soldier Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier",
+    "Rogue"
+  ],
+  "text": "Haste",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "mountain bandit",
+  "colorIdentity": [
+    "R"
+  ]
+}

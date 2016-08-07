@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Alabaster Kirin",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kirin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kirin"
+  ],
+  "text": "Flying, vigilance",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "alabaster kirin",
+  "colorIdentity": [
+    "W"
+  ]
+}

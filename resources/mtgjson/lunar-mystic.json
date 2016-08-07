@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Lunar Mystic",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Whenever you cast an instant spell, you may pay {1}. If you do, draw a card.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "lunar mystic",
+  "colorIdentity": [
+    "U"
+  ]
+}

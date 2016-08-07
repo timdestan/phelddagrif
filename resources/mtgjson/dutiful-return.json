@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dutiful Return",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Return up to two target creature cards from your graveyard to your hand.",
+  "imageName": "dutiful return",
+  "colorIdentity": [
+    "B"
+  ]
+}

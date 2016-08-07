@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Triumph of Cruelty",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, target opponent discards a card if you control the creature with the greatest power or tied for the greatest power.",
+  "imageName": "triumph of cruelty",
+  "colorIdentity": [
+    "B"
+  ]
+}

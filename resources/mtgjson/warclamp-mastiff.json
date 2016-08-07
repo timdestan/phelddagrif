@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Warclamp Mastiff",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Hound",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hound"
+  ],
+  "text": "First strike (This creature deals combat damage before creatures without first strike.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "warclamp mastiff",
+  "colorIdentity": [
+    "W"
+  ]
+}

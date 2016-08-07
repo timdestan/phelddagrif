@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ghoul's Feast",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gets +X/+0 until end of turn, where X is the number of creature cards in your graveyard.",
+  "imageName": "ghoul's feast",
+  "colorIdentity": [
+    "B"
+  ]
+}

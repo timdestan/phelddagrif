@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Otarian Juggernaut",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Juggernaut",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Juggernaut"
+  ],
+  "text": "Otarian Juggernaut can't be blocked by Walls.\nThreshold — As long as seven or more cards are in your graveyard, Otarian Juggernaut gets +3/+0 and attacks each turn if able.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "otarian juggernaut"
+}

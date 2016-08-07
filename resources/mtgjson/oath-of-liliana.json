@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Oath of Liliana",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Legendary Enchantment",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Enchantment"
+  ],
+  "text": "When Oath of Liliana enters the battlefield, each opponent sacrifices a creature.\nAt the beginning of each end step, if a planeswalker entered the battlefield under your control this turn, put a 2/2 black Zombie creature token onto the battlefield.",
+  "imageName": "oath of liliana",
+  "colorIdentity": [
+    "B"
+  ]
+}

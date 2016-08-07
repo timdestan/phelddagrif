@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Surestrike Trident",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature has first strike and \"{T}, Unattach Surestrike Trident: This creature deals damage equal to its power to target player.\"\nEquip {4} ({4}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)",
+  "imageName": "surestrike trident"
+}

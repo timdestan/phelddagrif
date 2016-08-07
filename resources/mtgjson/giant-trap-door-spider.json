@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Giant Trap Door Spider",
+  "manaCost": "{1}{R}{G}",
+  "cmc": 3,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Spider",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spider"
+  ],
+  "text": "{1}{R}{G}, {T}: Exile Giant Trap Door Spider and target creature without flying that's attacking you.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "giant trap door spider",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

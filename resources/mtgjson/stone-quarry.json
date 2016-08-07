@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Stone Quarry",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Stone Quarry enters the battlefield tapped.\n{T}: Add {R} or {W} to your mana pool.",
+  "imageName": "stone quarry",
+  "colorIdentity": [
+    "R",
+    "W"
+  ]
+}

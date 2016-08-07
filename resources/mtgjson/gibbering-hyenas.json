@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Gibbering Hyenas",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Hyena",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hyena"
+  ],
+  "text": "Gibbering Hyenas can't block black creatures.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "gibbering hyenas",
+  "colorIdentity": [
+    "G"
+  ]
+}

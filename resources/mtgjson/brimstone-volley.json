@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Brimstone Volley",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Brimstone Volley deals 3 damage to target creature or player.\nMorbid — Brimstone Volley deals 5 damage to that creature or player instead if a creature died this turn.",
+  "imageName": "brimstone volley",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Infectious Horror",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Horror"
+  ],
+  "text": "Whenever Infectious Horror attacks, each opponent loses 2 life.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "infectious horror",
+  "colorIdentity": [
+    "B"
+  ]
+}

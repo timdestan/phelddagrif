@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Yew Spirit",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Spirit Treefolk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit",
+    "Treefolk"
+  ],
+  "text": "{2}{G}{G}: Yew Spirit gets +X/+X until end of turn, where X is its power.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "yew spirit",
+  "colorIdentity": [
+    "G"
+  ]
+}

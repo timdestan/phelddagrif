@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Shredding Winds",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Shredding Winds deals 7 damage to target creature with flying.",
+  "imageName": "shredding winds",
+  "colorIdentity": [
+    "G"
+  ]
+}

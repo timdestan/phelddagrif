@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Dementia Sliver",
+  "manaCost": "{3}{U}{B}",
+  "cmc": 5,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "All Slivers have \"{T}: Name a card. Target opponent reveals a card at random from his or her hand. If it's the named card, that player discards it. Activate this ability only during your turn.\"",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "dementia sliver",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

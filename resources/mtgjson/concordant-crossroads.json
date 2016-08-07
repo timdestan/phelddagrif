@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Concordant Crossroads",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "World Enchantment",
+  "supertypes": [
+    "World"
+  ],
+  "types": [
+    "Enchantment"
+  ],
+  "text": "All creatures have haste.",
+  "imageName": "concordant crossroads",
+  "colorIdentity": [
+    "G"
+  ]
+}

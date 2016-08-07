@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Giant Warthog",
+  "manaCost": "{5}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Boar Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Boar",
+    "Beast"
+  ],
+  "text": "Trample",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "giant warthog",
+  "colorIdentity": [
+    "G"
+  ]
+}

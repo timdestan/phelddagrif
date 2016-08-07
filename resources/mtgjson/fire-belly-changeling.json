@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Fire-Belly Changeling",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Shapeshifter",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Shapeshifter"
+  ],
+  "text": "Changeling (This card is every creature type.)\n{R}: Fire-Belly Changeling gets +1/+0 until end of turn. Activate this ability no more than twice each turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "fire-belly changeling",
+  "colorIdentity": [
+    "R"
+  ]
+}

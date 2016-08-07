@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Rattlechains",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flash\nFlying\nWhen Rattlechains enters the battlefield, target Spirit gains hexproof until end of turn.\nYou may cast Spirit spells as though they had flash.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "rattlechains",
+  "colorIdentity": [
+    "U"
+  ]
+}

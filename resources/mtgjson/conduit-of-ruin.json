@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Conduit of Ruin",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Creature — Eldrazi",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi"
+  ],
+  "text": "When you cast Conduit of Ruin, you may search your library for a colorless creature card with converted mana cost 7 or greater, reveal it, then shuffle your library and put that card on top of it.\nThe first creature spell you cast each turn costs {2} less to cast.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "conduit of ruin"
+}

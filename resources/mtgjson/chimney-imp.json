@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Chimney Imp",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Imp",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Imp"
+  ],
+  "text": "Flying\nWhen Chimney Imp dies, target opponent puts a card from his or her hand on top of his or her library.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "chimney imp",
+  "colorIdentity": [
+    "B"
+  ]
+}

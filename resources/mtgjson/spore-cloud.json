@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Spore Cloud",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Tap all blocking creatures. Prevent all combat damage that would be dealt this turn. Each attacking creature and each blocking creature doesn't untap during its controller's next untap step.",
+  "imageName": "spore cloud",
+  "colorIdentity": [
+    "G"
+  ]
+}

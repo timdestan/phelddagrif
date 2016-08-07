@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Hellkite Igniter",
+  "manaCost": "{5}{R}{R}",
+  "cmc": 7,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying, haste\n{1}{R}: Hellkite Igniter gets +X/+0 until end of turn, where X is the number of artifacts you control.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "hellkite igniter",
+  "colorIdentity": [
+    "R"
+  ]
+}

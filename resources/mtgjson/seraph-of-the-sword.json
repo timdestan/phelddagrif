@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Seraph of the Sword",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nPrevent all combat damage that would be dealt to Seraph of the Sword.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "seraph of the sword",
+  "colorIdentity": [
+    "W"
+  ]
+}

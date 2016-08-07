@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Wormwood Dryad",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Dryad",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dryad"
+  ],
+  "text": "{G}: Wormwood Dryad gains forestwalk until end of turn and deals 1 damage to you. (It can't be blocked as long as defending player controls a Forest.)\n{B}: Wormwood Dryad gains swampwalk until end of turn and deals 1 damage to you. (It can't be blocked as long as defending player controls a Swamp.)",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "wormwood dryad",
+  "colorIdentity": [
+    "G",
+    "B"
+  ]
+}

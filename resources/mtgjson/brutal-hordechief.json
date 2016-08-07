@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Brutal Hordechief",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Orc Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Orc",
+    "Warrior"
+  ],
+  "text": "Whenever a creature you control attacks, defending player loses 1 life and you gain 1 life.\n{3}{R/W}{R/W}: Creatures your opponents control block this turn if able, and you choose how those creatures block.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "brutal hordechief",
+  "colorIdentity": [
+    "B",
+    "R",
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Leyline of Punishment",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "If Leyline of Punishment is in your opening hand, you may begin the game with it on the battlefield.\nPlayers can't gain life.\nDamage can't be prevented.",
+  "imageName": "leyline of punishment",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "layout": "flip",
+  "name": "Sasaya, Orochi Ascendant",
+  "names": [
+    "Sasaya, Orochi Ascendant",
+    "Sasaya's Essence"
+  ],
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Legendary Creature — Snake Monk",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Snake",
+    "Monk"
+  ],
+  "text": "Reveal your hand: If you have seven or more land cards in your hand, flip Sasaya, Orochi Ascendant.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "sasaya, orochi ascendant",
+  "colorIdentity": [
+    "G"
+  ]
+}

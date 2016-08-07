@@ -1,0 +1,30 @@
+{
+  "layout": "normal",
+  "name": "Lord of Tresserhorn",
+  "manaCost": "{1}{U}{B}{R}",
+  "cmc": 4,
+  "colors": [
+    "Blue",
+    "Black",
+    "Red"
+  ],
+  "type": "Legendary Creature — Zombie",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "When Lord of Tresserhorn enters the battlefield, you lose 2 life, you sacrifice two creatures, and target opponent draws two cards.\n{B}: Regenerate Lord of Tresserhorn.",
+  "power": "10",
+  "toughness": "4",
+  "imageName": "lord of tresserhorn",
+  "colorIdentity": [
+    "U",
+    "B",
+    "R"
+  ]
+}

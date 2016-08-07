@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Tainted Peak",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{T}: Add {B} or {R} to your mana pool. Activate this ability only if you control a Swamp.",
+  "imageName": "tainted peak",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

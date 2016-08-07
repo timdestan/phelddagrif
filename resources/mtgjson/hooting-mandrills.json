@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Hooting Mandrills",
+  "manaCost": "{5}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Ape",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ape"
+  ],
+  "text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nTrample",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "hooting mandrills",
+  "colorIdentity": [
+    "G"
+  ]
+}

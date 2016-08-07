@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Safewright Quest",
+  "manaCost": "{G/W}",
+  "cmc": 1,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Search your library for a Forest or Plains card, reveal it, and put it into your hand. Then shuffle your library.",
+  "imageName": "safewright quest",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Urborg Drake",
+  "manaCost": "{1}{U}{B}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flying\nUrborg Drake attacks each turn if able.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "urborg drake",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

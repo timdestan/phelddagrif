@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Kalonian Tusker",
+  "manaCost": "{G}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "power": "3",
+  "toughness": "3",
+  "imageName": "kalonian tusker",
+  "colorIdentity": [
+    "G"
+  ]
+}

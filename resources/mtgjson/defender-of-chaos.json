@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Defender of Chaos",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "Flash\nProtection from white",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "defender of chaos",
+  "colorIdentity": [
+    "R"
+  ]
+}

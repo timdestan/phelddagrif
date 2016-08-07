@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Vhati il-Dal",
+  "manaCost": "{2}{B}{G}",
+  "cmc": 4,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Legendary Creature — Human Warrior",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "{T}: Until end of turn, target creature has base power 1 or base toughness 1.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "vhati il-dal",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

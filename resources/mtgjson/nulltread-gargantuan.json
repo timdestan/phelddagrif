@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Nulltread Gargantuan",
+  "manaCost": "{1}{G}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "When Nulltread Gargantuan enters the battlefield, put a creature you control on top of its owner's library.",
+  "power": "5",
+  "toughness": "6",
+  "imageName": "nulltread gargantuan",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

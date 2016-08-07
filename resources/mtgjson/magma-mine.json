@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Magma Mine",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{4}: Put a pressure counter on Magma Mine.\n{T}, Sacrifice Magma Mine: Magma Mine deals damage equal to the number of pressure counters on it to target creature or player.",
+  "imageName": "magma mine"
+}

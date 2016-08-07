@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "War Cadence",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{X}{R}: This turn, creatures can't block unless their controller pays {X} for each blocking creature he or she controls.",
+  "imageName": "war cadence",
+  "colorIdentity": [
+    "R"
+  ]
+}

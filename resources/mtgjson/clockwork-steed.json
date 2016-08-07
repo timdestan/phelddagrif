@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Clockwork Steed",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Horse",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Horse"
+  ],
+  "text": "Clockwork Steed enters the battlefield with four +1/+0 counters on it.\nClockwork Steed can't be blocked by artifact creatures.\nAt end of combat, if Clockwork Steed attacked or blocked this combat, remove a +1/+0 counter from it.\n{X}, {T}: Put up to X +1/+0 counters on Clockwork Steed. This ability can't cause the total number of +1/+0 counters on Clockwork Steed to be greater than four. Activate this ability only during your upkeep.",
+  "power": "0",
+  "toughness": "3",
+  "imageName": "clockwork steed"
+}

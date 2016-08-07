@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Momentum",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nAt the beginning of your upkeep, you may put a growth counter on Momentum.\nEnchanted creature gets +1/+1 for each growth counter on Momentum.",
+  "imageName": "momentum",
+  "colorIdentity": [
+    "G"
+  ]
+}

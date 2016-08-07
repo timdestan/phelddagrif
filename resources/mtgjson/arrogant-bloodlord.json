@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Arrogant Bloodlord",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Knight"
+  ],
+  "text": "Whenever Arrogant Bloodlord blocks or becomes blocked by a creature with power 1 or less, destroy Arrogant Bloodlord at end of combat.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "arrogant bloodlord",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Rip-Clan Crasher",
+  "manaCost": "{R}{G}",
+  "cmc": 2,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "Haste",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "rip-clan crasher",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Dream Fighter",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Whenever Dream Fighter blocks or becomes blocked by a creature, Dream Fighter and that creature phase out. (While they're phased out, they're treated as though they don't exist. Each one phases in before its controller untaps during his or her next untap step.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "dream fighter",
+  "colorIdentity": [
+    "U"
+  ]
+}

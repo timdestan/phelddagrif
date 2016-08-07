@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Entomb",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Search your library for a card and put that card into your graveyard. Then shuffle your library.",
+  "imageName": "entomb",
+  "colorIdentity": [
+    "B"
+  ]
+}

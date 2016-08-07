@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Satyr Hoplite",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Satyr Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Satyr",
+    "Soldier"
+  ],
+  "text": "Heroic — Whenever you cast a spell that targets Satyr Hoplite, put a +1/+1 counter on Satyr Hoplite.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "satyr hoplite",
+  "colorIdentity": [
+    "R"
+  ]
+}

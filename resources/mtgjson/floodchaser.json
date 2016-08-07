@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Floodchaser",
+  "manaCost": "{5}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Floodchaser enters the battlefield with six +1/+1 counters on it.\nFloodchaser can't attack unless defending player controls an Island.\n{U}, Remove a +1/+1 counter from Floodchaser: Target land becomes an Island until end of turn.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "floodchaser",
+  "colorIdentity": [
+    "U"
+  ]
+}

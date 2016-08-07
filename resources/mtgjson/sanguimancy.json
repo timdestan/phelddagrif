@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sanguimancy",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "You draw X cards and you lose X life, where X is your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)",
+  "imageName": "sanguimancy",
+  "colorIdentity": [
+    "B"
+  ]
+}

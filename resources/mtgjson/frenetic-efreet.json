@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Frenetic Efreet",
+  "manaCost": "{1}{U}{R}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Creature — Efreet",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Efreet"
+  ],
+  "text": "Flying\n{0}: Flip a coin. If you win the flip, Frenetic Efreet phases out. If you lose the flip, sacrifice Frenetic Efreet. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "frenetic efreet",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

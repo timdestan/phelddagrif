@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Nantuko Calmer",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Insect Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect",
+    "Druid"
+  ],
+  "text": "{G}, {T}, Sacrifice Nantuko Calmer: Destroy target enchantment.\nThreshold — Nantuko Calmer gets +1/+1 as long as seven or more cards are in your graveyard.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "nantuko calmer",
+  "colorIdentity": [
+    "G"
+  ]
+}

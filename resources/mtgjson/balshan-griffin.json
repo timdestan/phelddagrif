@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Balshan Griffin",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Griffin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Griffin"
+  ],
+  "text": "Flying\n{1}{U}, Discard a card: Return Balshan Griffin to its owner's hand.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "balshan griffin",
+  "colorIdentity": [
+    "U"
+  ]
+}

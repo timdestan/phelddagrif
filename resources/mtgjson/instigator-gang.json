@@ -1,0 +1,28 @@
+{
+  "layout": "double-faced",
+  "name": "Instigator Gang",
+  "names": [
+    "Instigator Gang",
+    "Wildblood Pack"
+  ],
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Werewolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Werewolf"
+  ],
+  "text": "Attacking creatures you control get +1/+0.\nAt the beginning of each upkeep, if no spells were cast last turn, transform Instigator Gang.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "instigator gang",
+  "colorIdentity": [
+    "R"
+  ]
+}

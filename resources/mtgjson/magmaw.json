@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Magmaw",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "{1}, Sacrifice a nonland permanent: Magmaw deals 1 damage to target creature or player.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "magmaw",
+  "colorIdentity": [
+    "R"
+  ]
+}

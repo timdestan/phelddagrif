@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ichor Rats",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Rat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rat"
+  ],
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nWhen Ichor Rats enters the battlefield, each player gets a poison counter.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "ichor rats",
+  "colorIdentity": [
+    "B"
+  ]
+}

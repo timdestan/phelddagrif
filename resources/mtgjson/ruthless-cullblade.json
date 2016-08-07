@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ruthless Cullblade",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Warrior"
+  ],
+  "text": "Ruthless Cullblade gets +2/+1 as long as an opponent has 10 or less life.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "ruthless cullblade",
+  "colorIdentity": [
+    "B"
+  ]
+}

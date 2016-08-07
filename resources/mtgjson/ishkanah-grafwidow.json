@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Ishkanah, Grafwidow",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Legendary Creature — Spider",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spider"
+  ],
+  "text": "Reach\nDelirium — When Ishkanah, Grafwidow enters the battlefield, if there are four or more card types among cards in your graveyard, put three 1/2 green Spider creature tokens with reach onto the battlefield.\n{6}{B}: Target opponent loses 1 life for each Spider you control.",
+  "power": "3",
+  "toughness": "5",
+  "imageName": "ishkanah, grafwidow",
+  "colorIdentity": [
+    "G",
+    "B"
+  ]
+}

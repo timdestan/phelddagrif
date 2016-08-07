@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mnemonic Nexus",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Each player shuffles his or her graveyard into his or her library.",
+  "imageName": "mnemonic nexus",
+  "colorIdentity": [
+    "U"
+  ]
+}

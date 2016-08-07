@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Winds of Qal Sisma",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Prevent all combat damage that would be dealt this turn.\nFerocious — If you control a creature with power 4 or greater, instead prevent all combat damage that would be dealt this turn by creatures your opponents control.",
+  "imageName": "winds of qal sisma",
+  "colorIdentity": [
+    "G"
+  ]
+}

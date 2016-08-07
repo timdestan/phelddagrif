@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Enemy of the Guildpact",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Protection from multicolored",
+  "power": "4",
+  "toughness": "2",
+  "imageName": "enemy of the guildpact",
+  "colorIdentity": [
+    "B"
+  ]
+}

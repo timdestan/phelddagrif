@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Marauding Knight",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Knight"
+  ],
+  "text": "Protection from white\nMarauding Knight gets +1/+1 for each Plains your opponents control.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "marauding knight",
+  "colorIdentity": [
+    "B"
+  ]
+}

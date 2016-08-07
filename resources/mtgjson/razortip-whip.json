@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Razortip Whip",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{1}, {T}: Razortip Whip deals 1 damage to target opponent.",
+  "imageName": "razortip whip"
+}

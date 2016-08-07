@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Goblin Electromancer",
+  "manaCost": "{U}{R}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Creature — Goblin Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Wizard"
+  ],
+  "text": "Instant and sorcery spells you cast cost {1} less to cast.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "goblin electromancer",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

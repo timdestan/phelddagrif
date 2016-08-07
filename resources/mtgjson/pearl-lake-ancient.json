@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Pearl Lake Ancient",
+  "manaCost": "{5}{U}{U}",
+  "cmc": 7,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Leviathan",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Leviathan"
+  ],
+  "text": "Flash\nPearl Lake Ancient can't be countered.\nProwess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nReturn three lands you control to their owner's hand: Return Pearl Lake Ancient to its owner's hand.",
+  "power": "6",
+  "toughness": "7",
+  "imageName": "pearl lake ancient",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Silvergill Adept",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Wizard"
+  ],
+  "text": "As an additional cost to cast Silvergill Adept, reveal a Merfolk card from your hand or pay {3}.\nWhen Silvergill Adept enters the battlefield, draw a card.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "silvergill adept",
+  "colorIdentity": [
+    "U"
+  ]
+}

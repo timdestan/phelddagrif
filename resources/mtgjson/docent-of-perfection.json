@@ -1,0 +1,28 @@
+{
+  "layout": "double-faced",
+  "name": "Docent of Perfection",
+  "names": [
+    "Docent of Perfection",
+    "Final Iteration"
+  ],
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Insect Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect",
+    "Horror"
+  ],
+  "text": "Flying\nWhenever you cast an instant or sorcery spell, put a 1/1 blue Human Wizard creature token onto the battlefield. Then if you control three or more Wizards, transform Docent of Perfection.",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "docent of perfection",
+  "colorIdentity": [
+    "U"
+  ]
+}

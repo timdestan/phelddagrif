@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Brindle Shoat",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Boar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Boar"
+  ],
+  "text": "When Brindle Shoat dies, put a 3/3 green Boar creature token onto the battlefield.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "brindle shoat",
+  "colorIdentity": [
+    "G"
+  ]
+}

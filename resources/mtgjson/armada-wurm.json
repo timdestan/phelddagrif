@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Armada Wurm",
+  "manaCost": "{2}{G}{G}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "text": "Trample\nWhen Armada Wurm enters the battlefield, put a 5/5 green Wurm creature token with trample onto the battlefield.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "armada wurm",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Mox Sapphire",
+  "manaCost": "{0}",
+  "cmc": 0,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}: Add {U} to your mana pool.",
+  "imageName": "mox sapphire",
+  "colorIdentity": [
+    "U"
+  ]
+}

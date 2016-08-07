@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Tangle Angler",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\n{G}: Target creature blocks Tangle Angler this turn if able.",
+  "power": "1",
+  "toughness": "5",
+  "imageName": "tangle angler",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Nykthos, Shrine to Nyx",
+  "type": "Legendary Land",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{2}, {T}: Choose a color. Add to your mana pool an amount of mana of that color equal to your devotion to that color. (Your devotion to a color is the number of mana symbols of that color in the mana costs of permanents you control.)",
+  "imageName": "nykthos, shrine to nyx"
+}

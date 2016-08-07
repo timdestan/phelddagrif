@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Mirri, Cat Warrior",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Legendary Creature — Cat Warrior",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat",
+    "Warrior"
+  ],
+  "text": "First strike, forestwalk, vigilance (This creature deals combat damage before creatures without first strike, it can't be blocked as long as defending player controls a Forest, and attacking doesn't cause this creature to tap.)",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "mirri, cat warrior",
+  "colorIdentity": [
+    "G"
+  ]
+}

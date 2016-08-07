@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ætherflame Wall",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender\nÆtherflame Wall can block creatures with shadow as though they didn't have shadow.\n{R}: Ætherflame Wall gets +1/+0 until end of turn.",
+  "power": "0",
+  "toughness": "4",
+  "imageName": "ætherflame wall",
+  "colorIdentity": [
+    "R"
+  ]
+}

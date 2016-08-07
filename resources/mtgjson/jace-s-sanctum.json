@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Jace's Sanctum",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Instant and sorcery spells you cast cost {1} less to cast.\nWhenever you cast an instant or sorcery spell, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "imageName": "jace's sanctum",
+  "colorIdentity": [
+    "U"
+  ]
+}

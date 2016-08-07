@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Tormented Soul",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Tormented Soul can't block and can't be blocked.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "tormented soul",
+  "colorIdentity": [
+    "B"
+  ]
+}

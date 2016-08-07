@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Bog Wraith",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Wraith",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wraith"
+  ],
+  "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "bog wraith",
+  "colorIdentity": [
+    "B"
+  ]
+}

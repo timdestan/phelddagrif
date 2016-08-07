@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Venser's Diffusion",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Return target nonland permanent or suspended card to its owner's hand.",
+  "imageName": "venser's diffusion",
+  "colorIdentity": [
+    "U"
+  ]
+}

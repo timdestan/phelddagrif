@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Twins of Maurer Estate",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire"
+  ],
+  "text": "Madness {2}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)",
+  "power": "3",
+  "toughness": "5",
+  "imageName": "twins of maurer estate",
+  "colorIdentity": [
+    "B"
+  ]
+}

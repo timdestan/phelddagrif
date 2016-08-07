@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Magmasaur",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental Lizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Lizard"
+  ],
+  "text": "Magmasaur enters the battlefield with five +1/+1 counters on it.\nAt the beginning of your upkeep, you may remove a +1/+1 counter from Magmasaur. If you don't, sacrifice Magmasaur and it deals damage equal to the number of +1/+1 counters on it to each creature without flying and each player.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "magmasaur",
+  "colorIdentity": [
+    "R"
+  ]
+}

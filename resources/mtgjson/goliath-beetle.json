@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Goliath Beetle",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "Trample",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "goliath beetle",
+  "colorIdentity": [
+    "G"
+  ]
+}

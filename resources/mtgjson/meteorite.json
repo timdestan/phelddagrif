@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Meteorite",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "When Meteorite enters the battlefield, it deals 2 damage to target creature or player.\n{T}: Add one mana of any color to your mana pool.",
+  "imageName": "meteorite"
+}

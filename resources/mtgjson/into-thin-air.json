@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Into Thin Air",
+  "manaCost": "{5}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)\nReturn target artifact to its owner's hand.",
+  "imageName": "into thin air",
+  "colorIdentity": [
+    "U"
+  ]
+}

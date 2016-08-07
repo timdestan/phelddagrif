@@ -1,0 +1,25 @@
+{
+  "layout": "split",
+  "name": "Determined",
+  "names": [
+    "Bound",
+    "Determined"
+  ],
+  "manaCost": "{G}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Other spells you control can't be countered by spells or abilities this turn.\nDraw a card.",
+  "imageName": "determined",
+  "colorIdentity": [
+    "U",
+    "G",
+    "B"
+  ]
+}

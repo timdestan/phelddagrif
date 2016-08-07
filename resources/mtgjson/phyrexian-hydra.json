@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Phyrexian Hydra",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Hydra",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hydra"
+  ],
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nIf damage would be dealt to Phyrexian Hydra, prevent that damage. Put a -1/-1 counter on Phyrexian Hydra for each 1 damage prevented this way.",
+  "power": "7",
+  "toughness": "7",
+  "imageName": "phyrexian hydra",
+  "colorIdentity": [
+    "G"
+  ]
+}

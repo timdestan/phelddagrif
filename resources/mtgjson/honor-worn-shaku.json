@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Honor-Worn Shaku",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\nTap an untapped legendary permanent you control: Untap Honor-Worn Shaku.",
+  "imageName": "honor-worn shaku"
+}

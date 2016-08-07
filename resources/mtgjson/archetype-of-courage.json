@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Archetype of Courage",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment Creature — Human Soldier",
+  "types": [
+    "Enchantment",
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Creatures you control have first strike.\nCreatures your opponents control lose first strike and can't have or gain first strike.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "archetype of courage",
+  "colorIdentity": [
+    "W"
+  ]
+}

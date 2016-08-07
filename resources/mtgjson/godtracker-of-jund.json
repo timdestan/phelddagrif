@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Godtracker of Jund",
+  "manaCost": "{1}{R}{G}",
+  "cmc": 3,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Elf Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Shaman"
+  ],
+  "text": "Whenever a creature with power 5 or greater enters the battlefield under your control, you may put a +1/+1 counter on Godtracker of Jund.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "godtracker of jund",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

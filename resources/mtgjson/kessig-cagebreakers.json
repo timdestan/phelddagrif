@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kessig Cagebreakers",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "Whenever Kessig Cagebreakers attacks, put a 2/2 green Wolf creature token onto the battlefield tapped and attacking for each creature card in your graveyard.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "kessig cagebreakers",
+  "colorIdentity": [
+    "G"
+  ]
+}

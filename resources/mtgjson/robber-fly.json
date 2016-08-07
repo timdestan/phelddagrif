@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Robber Fly",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "Flying\nWhenever Robber Fly becomes blocked, defending player discards all the cards in his or her hand, then draws that many cards.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "robber fly",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Taunting Elf",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf"
+  ],
+  "text": "All creatures able to block Taunting Elf do so.",
+  "power": "0",
+  "toughness": "1",
+  "imageName": "taunting elf",
+  "colorIdentity": [
+    "G"
+  ]
+}

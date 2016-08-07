@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Onslaught",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever you cast a creature spell, tap target creature.",
+  "imageName": "onslaught",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Vexing Arcanix",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{3}, {T}: Target player names a card, then reveals the top card of his or her library. If it's the named card, the player puts it into his or her hand. Otherwise, the player puts it into his or her graveyard and Vexing Arcanix deals 2 damage to him or her.",
+  "imageName": "vexing arcanix"
+}

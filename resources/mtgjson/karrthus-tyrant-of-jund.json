@@ -1,0 +1,30 @@
+{
+  "layout": "normal",
+  "name": "Karrthus, Tyrant of Jund",
+  "manaCost": "{4}{B}{R}{G}",
+  "cmc": 7,
+  "colors": [
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "type": "Legendary Creature — Dragon",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying, haste\nWhen Karrthus, Tyrant of Jund enters the battlefield, gain control of all Dragons, then untap all Dragons.\nOther Dragon creatures you control have haste.",
+  "power": "7",
+  "toughness": "7",
+  "imageName": "karrthus, tyrant of jund",
+  "colorIdentity": [
+    "B",
+    "R",
+    "G"
+  ]
+}

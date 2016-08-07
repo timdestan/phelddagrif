@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Plated Geopede",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "First strike\nLandfall — Whenever a land enters the battlefield under your control, Plated Geopede gets +2/+2 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "plated geopede",
+  "colorIdentity": [
+    "R"
+  ]
+}

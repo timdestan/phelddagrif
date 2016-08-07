@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Iona's Blessing",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets +2/+2, has vigilance, and can block an additional creature.",
+  "imageName": "iona's blessing",
+  "colorIdentity": [
+    "W"
+  ]
+}

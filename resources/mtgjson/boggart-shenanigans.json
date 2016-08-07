@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Boggart Shenanigans",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Tribal Enchantment — Goblin",
+  "types": [
+    "Tribal",
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "Whenever another Goblin you control is put into a graveyard from the battlefield, you may have Boggart Shenanigans deal 1 damage to target player.",
+  "imageName": "boggart shenanigans",
+  "colorIdentity": [
+    "R"
+  ]
+}

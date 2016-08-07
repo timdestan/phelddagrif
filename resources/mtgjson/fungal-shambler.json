@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Fungal Shambler",
+  "manaCost": "{4}{G}{U}{B}",
+  "cmc": 7,
+  "colors": [
+    "Blue",
+    "Black",
+    "Green"
+  ],
+  "type": "Creature — Fungus Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Fungus",
+    "Beast"
+  ],
+  "text": "Trample\nWhenever Fungal Shambler deals damage to an opponent, you draw a card and that opponent discards a card.",
+  "power": "6",
+  "toughness": "4",
+  "imageName": "fungal shambler",
+  "colorIdentity": [
+    "U",
+    "B",
+    "G"
+  ]
+}

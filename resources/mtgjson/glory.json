@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Glory",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Incarnation",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Incarnation"
+  ],
+  "text": "Flying\n{2}{W}: Choose a color. Creatures you control gain protection from the chosen color until end of turn. Activate this ability only if Glory is in your graveyard.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "glory",
+  "colorIdentity": [
+    "W"
+  ]
+}

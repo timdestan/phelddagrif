@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Martyr of Frost",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{2}, Reveal X blue cards from your hand, Sacrifice Martyr of Frost: Counter target spell unless its controller pays {X}.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "martyr of frost",
+  "colorIdentity": [
+    "U"
+  ]
+}

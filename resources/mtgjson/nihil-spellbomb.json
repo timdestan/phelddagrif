@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Nihil Spellbomb",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}, Sacrifice Nihil Spellbomb: Exile all cards from target player's graveyard.\nWhen Nihil Spellbomb is put into a graveyard from the battlefield, you may pay {B}. If you do, draw a card.",
+  "imageName": "nihil spellbomb",
+  "colorIdentity": [
+    "B"
+  ]
+}

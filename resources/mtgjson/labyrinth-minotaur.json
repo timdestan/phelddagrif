@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Labyrinth Minotaur",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Minotaur",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Minotaur"
+  ],
+  "text": "Whenever Labyrinth Minotaur blocks a creature, that creature doesn't untap during its controller's next untap step.",
+  "power": "1",
+  "toughness": "4",
+  "imageName": "labyrinth minotaur",
+  "colorIdentity": [
+    "U"
+  ]
+}

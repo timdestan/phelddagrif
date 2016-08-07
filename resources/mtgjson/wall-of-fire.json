@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wall of Fire",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender (This creature can't attack.)\n{R}: Wall of Fire gets +1/+0 until end of turn.",
+  "power": "0",
+  "toughness": "5",
+  "imageName": "wall of fire",
+  "colorIdentity": [
+    "R"
+  ]
+}

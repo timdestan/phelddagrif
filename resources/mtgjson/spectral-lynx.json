@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Spectral Lynx",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Cat Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat",
+    "Spirit"
+  ],
+  "text": "Protection from green\n{B}: Regenerate Spectral Lynx.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "spectral lynx",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

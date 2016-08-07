@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Boon of Erebos",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gets +2/+0 until end of turn. Regenerate it. You lose 2 life.",
+  "imageName": "boon of erebos",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Stop That",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target player discards a card.\nGotcha Whenever an opponent audibly flicks the cards in his or her hand, you may say \"Gotcha\" If you do, return Stop That from your graveyard to your hand.",
+  "imageName": "stop that",
+  "colorIdentity": [
+    "B"
+  ]
+}

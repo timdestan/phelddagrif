@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Delif's Cube",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, {T}: This turn, when target creature you control attacks and isn't blocked, it assigns no combat damage this turn and you put a cube counter on Delif's Cube.\n{2}, Remove a cube counter from Delif's Cube: Regenerate target creature.",
+  "imageName": "delif's cube"
+}

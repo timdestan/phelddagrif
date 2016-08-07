@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Nature's Will",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever one or more creatures you control deal combat damage to a player, tap all lands that player controls and untap all lands you control.",
+  "imageName": "nature's will",
+  "colorIdentity": [
+    "G"
+  ]
+}

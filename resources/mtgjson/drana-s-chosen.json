@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Drana's Chosen",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire Shaman Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Shaman",
+    "Ally"
+  ],
+  "text": "Cohort — {T}, Tap an untapped Ally you control: Put a 2/2 black Zombie creature token onto the battlefield tapped.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "drana's chosen",
+  "colorIdentity": [
+    "B"
+  ]
+}

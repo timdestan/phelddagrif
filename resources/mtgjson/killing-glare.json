@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Killing Glare",
+  "manaCost": "{X}{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target creature with power X or less.",
+  "imageName": "killing glare",
+  "colorIdentity": [
+    "B"
+  ]
+}

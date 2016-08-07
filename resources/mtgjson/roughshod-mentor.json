@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Roughshod Mentor",
+  "manaCost": "{5}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Giant Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant",
+    "Warrior"
+  ],
+  "text": "Green creatures you control have trample.",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "roughshod mentor",
+  "colorIdentity": [
+    "G"
+  ]
+}

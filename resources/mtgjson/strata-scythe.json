@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Strata Scythe",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Imprint — When Strata Scythe enters the battlefield, search your library for a land card, exile it, then shuffle your library.\nEquipped creature gets +1/+1 for each land on the battlefield with the same name as the exiled card.\nEquip {3}",
+  "imageName": "strata scythe"
+}

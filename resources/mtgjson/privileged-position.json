@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Privileged Position",
+  "manaCost": "{2}{G/W}{G/W}{G/W}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "({G/W} can be paid with either {G} or {W}.)\nOther permanents you control have hexproof. (They can't be the targets of spells or abilities your opponents control.)",
+  "imageName": "privileged position",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

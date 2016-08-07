@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Scavenger Drake",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flying\nWhenever another creature dies, you may put a +1/+1 counter on Scavenger Drake.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "scavenger drake",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Goblin Chieftain",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "Haste (This creature can attack and {T} as soon as it comes under your control.)\nOther Goblin creatures you control get +1/+1 and have haste.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "goblin chieftain",
+  "colorIdentity": [
+    "R"
+  ]
+}

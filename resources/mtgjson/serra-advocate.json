@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Serra Advocate",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\n{T}: Target attacking or blocking creature gets +2/+2 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "serra advocate",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Lord of Atlantis",
+  "manaCost": "{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk"
+  ],
+  "text": "Other Merfolk creatures get +1/+1 and have islandwalk. (They can't be blocked as long as defending player controls an Island.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "lord of atlantis",
+  "colorIdentity": [
+    "U"
+  ]
+}

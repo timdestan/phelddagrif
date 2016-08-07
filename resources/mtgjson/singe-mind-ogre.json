@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Singe-Mind Ogre",
+  "manaCost": "{2}{B}{R}",
+  "cmc": 4,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Ogre Mutant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ogre",
+    "Mutant"
+  ],
+  "text": "When Singe-Mind Ogre enters the battlefield, target player reveals a card at random from his or her hand, then loses life equal to that card's converted mana cost.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "singe-mind ogre",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

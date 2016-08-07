@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Mammoth Harness",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature loses flying.\nWhenever enchanted creature blocks or becomes blocked by a creature, the other creature gains first strike until end of turn.",
+  "imageName": "mammoth harness",
+  "colorIdentity": [
+    "G"
+  ]
+}

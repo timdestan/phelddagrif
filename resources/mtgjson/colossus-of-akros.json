@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Colossus of Akros",
+  "manaCost": "{8}",
+  "cmc": 8,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "Defender, indestructible\n{10}: Monstrosity 10. (If this creature isn't monstrous, put ten +1/+1 counters on it and it becomes monstrous.)\nAs long as Colossus of Akros is monstrous, it has trample and can attack as though it didn't have defender.",
+  "power": "10",
+  "toughness": "10",
+  "imageName": "colossus of akros"
+}

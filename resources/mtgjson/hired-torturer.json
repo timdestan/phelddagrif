@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Hired Torturer",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "Defender\n{3}{B}, {T}: Target opponent loses 2 life, then reveals a card at random from his or her hand.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "hired torturer",
+  "colorIdentity": [
+    "B"
+  ]
+}

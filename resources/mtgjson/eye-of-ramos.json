@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Eye of Ramos",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}: Add {U} to your mana pool.\nSacrifice Eye of Ramos: Add {U} to your mana pool.",
+  "imageName": "eye of ramos",
+  "colorIdentity": [
+    "U"
+  ]
+}

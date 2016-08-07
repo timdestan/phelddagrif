@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Tidal Warrior",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Warrior"
+  ],
+  "text": "{T}: Target land becomes an Island until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "tidal warrior",
+  "colorIdentity": [
+    "U"
+  ]
+}

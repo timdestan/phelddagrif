@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Flamewake Phoenix",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Phoenix",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Phoenix"
+  ],
+  "text": "Flying, haste\nFlamewake Phoenix attacks each turn if able.\nFerocious — At the beginning of combat on your turn, if you control a creature with power 4 or greater, you may pay {R}. If you do, return Flamewake Phoenix from your graveyard to the battlefield.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "flamewake phoenix",
+  "colorIdentity": [
+    "R"
+  ]
+}

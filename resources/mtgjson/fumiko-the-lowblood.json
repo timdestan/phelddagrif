@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Fumiko the Lowblood",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Creature — Human Samurai",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Samurai"
+  ],
+  "text": "Fumiko the Lowblood has bushido X, where X is the number of attacking creatures. (Whenever this creature blocks or becomes blocked, it gets +X/+X until end of turn.)\nCreatures your opponents control attack each turn if able.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "fumiko the lowblood",
+  "colorIdentity": [
+    "R"
+  ]
+}

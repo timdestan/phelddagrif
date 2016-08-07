@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Katabatic Winds",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)\nCreatures with flying can't attack or block, and their activated abilities with {T} in their costs can't be activated.",
+  "imageName": "katabatic winds",
+  "colorIdentity": [
+    "G"
+  ]
+}

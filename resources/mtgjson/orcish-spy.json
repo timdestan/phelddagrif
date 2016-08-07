@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Orcish Spy",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Orc Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Orc",
+    "Rogue"
+  ],
+  "text": "{T}: Look at the top three cards of target player's library.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "orcish spy",
+  "colorIdentity": [
+    "R"
+  ]
+}

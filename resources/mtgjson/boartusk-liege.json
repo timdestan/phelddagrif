@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Boartusk Liege",
+  "manaCost": "{1}{R/G}{R/G}{R/G}",
+  "cmc": 4,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Goblin Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Knight"
+  ],
+  "text": "Trample\nOther red creatures you control get +1/+1.\nOther green creatures you control get +1/+1.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "boartusk liege",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

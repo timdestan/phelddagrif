@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Number Crunch",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Return target permanent to its owner's hand.\nGotcha Whenever an opponent says a number, you may say \"Gotcha\" If you do, return Number Crunch from your graveyard to your hand.",
+  "imageName": "number crunch",
+  "colorIdentity": [
+    "U"
+  ]
+}

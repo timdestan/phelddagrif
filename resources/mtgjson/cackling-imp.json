@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Cackling Imp",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Imp",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Imp"
+  ],
+  "text": "Flying\n{T}: Target player loses 1 life.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "cackling imp",
+  "colorIdentity": [
+    "B"
+  ]
+}

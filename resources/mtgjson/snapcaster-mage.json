@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Snapcaster Mage",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Flash\nWhen Snapcaster Mage enters the battlefield, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "snapcaster mage",
+  "colorIdentity": [
+    "U"
+  ]
+}

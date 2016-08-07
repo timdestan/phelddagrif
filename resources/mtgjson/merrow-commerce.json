@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Merrow Commerce",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Tribal Enchantment — Merfolk",
+  "types": [
+    "Tribal",
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Merfolk"
+  ],
+  "text": "At the beginning of your end step, untap all Merfolk you control.",
+  "imageName": "merrow commerce",
+  "colorIdentity": [
+    "U"
+  ]
+}

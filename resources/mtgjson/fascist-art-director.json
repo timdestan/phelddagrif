@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Fascist Art Director",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Horror"
+  ],
+  "text": "{W}{W}: Fascist Art Director gains protection from the artist of your choice until end of turn..",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "fascist art director",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Necrogen Censer",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Necrogen Censer enters the battlefield with two charge counters on it.\n{T}, Remove a charge counter from Necrogen Censer: Target player loses 2 life.",
+  "imageName": "necrogen censer"
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Kurgadon",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Whenever you cast a creature spell with converted mana cost 6 or greater, put three +1/+1 counters on Kurgadon.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "kurgadon",
+  "colorIdentity": [
+    "G"
+  ]
+}

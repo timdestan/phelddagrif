@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Island",
+  "type": "Basic Land — Island",
+  "supertypes": [
+    "Basic"
+  ],
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Island"
+  ],
+  "imageName": "island",
+  "colorIdentity": [
+    "U"
+  ]
+}

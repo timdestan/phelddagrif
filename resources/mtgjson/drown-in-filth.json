@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Drown in Filth",
+  "manaCost": "{B}{G}",
+  "cmc": 2,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Choose target creature. Put the top four cards of your library into your graveyard, then that creature gets -1/-1 until end of turn for each land card in your graveyard.",
+  "imageName": "drown in filth",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

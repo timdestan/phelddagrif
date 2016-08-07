@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Hammerhead Shark",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Fish",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Fish"
+  ],
+  "text": "Hammerhead Shark can't attack unless defending player controls an Island.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "hammerhead shark",
+  "colorIdentity": [
+    "U"
+  ]
+}

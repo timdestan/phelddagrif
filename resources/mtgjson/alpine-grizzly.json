@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Alpine Grizzly",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Bear",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bear"
+  ],
+  "power": "4",
+  "toughness": "2",
+  "imageName": "alpine grizzly",
+  "colorIdentity": [
+    "G"
+  ]
+}

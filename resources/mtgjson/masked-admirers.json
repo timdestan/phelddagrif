@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Masked Admirers",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Shaman"
+  ],
+  "text": "When Masked Admirers enters the battlefield, draw a card.\nWhenever you cast a creature spell, you may pay {G}{G}. If you do, return Masked Admirers from your graveyard to your hand.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "masked admirers",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Blistergrub",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\nWhen Blistergrub dies, each opponent loses 2 life.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "blistergrub",
+  "colorIdentity": [
+    "B"
+  ]
+}

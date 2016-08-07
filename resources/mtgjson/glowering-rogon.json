@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Glowering Rogon",
+  "manaCost": "{5}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Amplify 1 (As this creature enters the battlefield, put a +1/+1 counter on it for each Beast card you reveal in your hand.)",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "glowering rogon",
+  "colorIdentity": [
+    "G"
+  ]
+}

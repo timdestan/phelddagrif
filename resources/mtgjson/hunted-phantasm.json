@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Hunted Phantasm",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Hunted Phantasm can't be blocked.\nWhen Hunted Phantasm enters the battlefield, target opponent puts five 1/1 red Goblin creature tokens onto the battlefield.",
+  "power": "4",
+  "toughness": "6",
+  "imageName": "hunted phantasm",
+  "colorIdentity": [
+    "U"
+  ]
+}

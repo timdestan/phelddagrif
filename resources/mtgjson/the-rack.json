@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "The Rack",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "As The Rack enters the battlefield, choose an opponent.\nAt the beginning of the chosen player's upkeep, The Rack deals X damage to that player, where X is 3 minus the number of cards in his or her hand.",
+  "imageName": "the rack"
+}

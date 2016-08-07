@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Shahrazad",
+  "manaCost": "{W}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Players play a MAGIC subgame, using their libraries as their decks. Each player who doesn't win the subgame loses half his or her life, rounded up.",
+  "imageName": "shahrazad",
+  "colorIdentity": [
+    "W"
+  ]
+}

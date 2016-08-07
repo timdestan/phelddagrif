@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Wingcrafter",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)\nAs long as Wingcrafter is paired with another creature, both creatures have flying.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "wingcrafter",
+  "colorIdentity": [
+    "U"
+  ]
+}

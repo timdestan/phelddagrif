@@ -1,0 +1,24 @@
+{
+  "layout": "double-faced",
+  "name": "Fibrous Entangler",
+  "names": [
+    "Tangleclaw Werewolf",
+    "Fibrous Entangler"
+  ],
+  "cmc": 4,
+  "type": "Creature — Eldrazi Werewolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Werewolf"
+  ],
+  "text": "Vigilance\nFibrous Entangler must be blocked if able.\nFibrous Entangler can block an additional creature each combat.",
+  "power": "4",
+  "toughness": "6",
+  "imageName": "fibrous entangler",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Cumber Stone",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Creatures your opponents control get -1/-0.",
+  "imageName": "cumber stone",
+  "colorIdentity": [
+    "U"
+  ]
+}

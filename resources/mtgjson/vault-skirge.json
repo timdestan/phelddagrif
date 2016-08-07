@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Vault Skirge",
+  "manaCost": "{1}{B/P}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Artifact Creature — Imp",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Imp"
+  ],
+  "text": "({B/P} can be paid with either {B} or 2 life.)\nFlying\nLifelink (Damage dealt by this creature also causes you to gain that much life.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "vault skirge",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Cyclone Sire",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Flying\nWhen Cyclone Sire dies, you may put three +1/+1 counters on target land you control. If you do, that land becomes a 0/0 Elemental creature with haste that's still a land.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "cyclone sire",
+  "colorIdentity": [
+    "U"
+  ]
+}

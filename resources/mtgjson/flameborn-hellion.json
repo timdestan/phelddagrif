@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Flameborn Hellion",
+  "manaCost": "{5}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Hellion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hellion"
+  ],
+  "text": "Haste\nFlameborn Hellion attacks each turn if able.",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "flameborn hellion",
+  "colorIdentity": [
+    "R"
+  ]
+}

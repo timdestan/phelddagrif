@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Unerring Sling",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{3}, {T}, Tap an untapped creature you control: Unerring Sling deals damage equal to the tapped creature's power to target attacking or blocking creature with flying.",
+  "imageName": "unerring sling"
+}

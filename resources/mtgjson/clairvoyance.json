@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Clairvoyance",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Look at target player's hand.\nDraw a card at the beginning of the next turn's upkeep.",
+  "imageName": "clairvoyance",
+  "colorIdentity": [
+    "U"
+  ]
+}

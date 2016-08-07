@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Mwonvuli Beast Tracker",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Scout",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Scout"
+  ],
+  "text": "When Mwonvuli Beast Tracker enters the battlefield, search your library for a creature card with deathtouch, hexproof, reach, or trample and reveal it. Shuffle your library and put that card on top of it.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "mwonvuli beast tracker",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Raven Guild Initiate",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Morph—Return a Bird you control to its owner's hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+  "power": "1",
+  "toughness": "4",
+  "imageName": "raven guild initiate",
+  "colorIdentity": [
+    "U"
+  ]
+}

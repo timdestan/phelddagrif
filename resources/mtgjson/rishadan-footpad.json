@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Rishadan Footpad",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Pirate",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Pirate"
+  ],
+  "text": "When Rishadan Footpad enters the battlefield, each opponent sacrifices a permanent unless he or she pays {2}.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "rishadan footpad",
+  "colorIdentity": [
+    "U"
+  ]
+}

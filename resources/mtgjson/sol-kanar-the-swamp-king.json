@@ -1,0 +1,30 @@
+{
+  "layout": "normal",
+  "name": "Sol'kanar the Swamp King",
+  "manaCost": "{2}{U}{B}{R}",
+  "cmc": 5,
+  "colors": [
+    "Blue",
+    "Black",
+    "Red"
+  ],
+  "type": "Legendary Creature — Demon",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon"
+  ],
+  "text": "Swampwalk (This creature can't be blocked as long as defending player controls a Swamp.)\nWhenever a player casts a black spell, you gain 1 life.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "sol'kanar the swamp king",
+  "colorIdentity": [
+    "U",
+    "B",
+    "R"
+  ]
+}

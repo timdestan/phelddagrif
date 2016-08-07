@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Protective Bubble",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature can't be blocked and has shroud. (It can't be the target of spells or abilities.)",
+  "imageName": "protective bubble",
+  "colorIdentity": [
+    "U"
+  ]
+}

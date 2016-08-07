@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Pouncing Jaguar",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Cat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat"
+  ],
+  "text": "Echo {G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "pouncing jaguar",
+  "colorIdentity": [
+    "G"
+  ]
+}

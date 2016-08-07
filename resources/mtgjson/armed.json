@@ -1,0 +1,23 @@
+{
+  "layout": "split",
+  "name": "Armed",
+  "names": [
+    "Armed",
+    "Dangerous"
+  ],
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target creature gets +1/+1 and gains double strike until end of turn.\nFuse (You may cast one or both halves of this card from your hand.)",
+  "imageName": "armed",
+  "colorIdentity": [
+    "G",
+    "R"
+  ]
+}

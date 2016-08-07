@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Electryte",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Whenever Electryte deals combat damage to defending player, it deals damage equal to its power to each blocking creature.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "electryte",
+  "colorIdentity": [
+    "R"
+  ]
+}

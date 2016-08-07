@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Rusted Relic",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Metalcraft — Rusted Relic is a 5/5 Golem artifact creature as long as you control three or more artifacts.",
+  "imageName": "rusted relic"
+}

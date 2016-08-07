@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Needlebite Trap",
+  "manaCost": "{5}{B}{B}",
+  "cmc": 7,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant — Trap",
+  "types": [
+    "Instant"
+  ],
+  "subtypes": [
+    "Trap"
+  ],
+  "text": "If an opponent gained life this turn, you may pay {B} rather than pay Needlebite Trap's mana cost.\nTarget player loses 5 life and you gain 5 life.",
+  "imageName": "needlebite trap",
+  "colorIdentity": [
+    "B"
+  ]
+}

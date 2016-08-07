@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Veldt",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Veldt doesn't untap during your untap step if it has a depletion counter on it.\nAt the beginning of your upkeep, remove a depletion counter from Veldt.\n{T}: Add {G} or {W} to your mana pool. Put a depletion counter on Veldt.",
+  "imageName": "veldt",
+  "colorIdentity": [
+    "G",
+    "W"
+  ]
+}

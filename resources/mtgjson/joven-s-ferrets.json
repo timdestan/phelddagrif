@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Joven's Ferrets",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Ferret",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ferret"
+  ],
+  "text": "Whenever Joven's Ferrets attacks, it gets +0/+2 until end of turn.\nAt end of combat, tap all creatures that blocked Joven's Ferrets this turn. They don't untap during their controller's next untap step.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "joven's ferrets",
+  "colorIdentity": [
+    "G"
+  ]
+}

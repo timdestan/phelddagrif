@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Seal of Cleansing",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Sacrifice Seal of Cleansing: Destroy target artifact or enchantment.",
+  "imageName": "seal of cleansing",
+  "colorIdentity": [
+    "W"
+  ]
+}

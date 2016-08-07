@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Carnophage",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "At the beginning of your upkeep, tap Carnophage unless you pay 1 life.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "carnophage",
+  "colorIdentity": [
+    "B"
+  ]
+}

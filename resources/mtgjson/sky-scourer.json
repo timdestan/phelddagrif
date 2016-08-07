@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Sky Scourer",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "type": "Creature — Eldrazi Drone",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Drone"
+  ],
+  "text": "Devoid (This card has no color.)\nFlying\nWhenever you cast a colorless spell, Sky Scourer gets +1/+0 until end of turn.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "sky scourer",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Lavaborn Muse",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Lavaborn Muse deals 3 damage to him or her.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "lavaborn muse",
+  "colorIdentity": [
+    "R"
+  ]
+}

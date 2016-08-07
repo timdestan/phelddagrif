@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Scion Summoner",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "type": "Creature — Eldrazi Drone",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Drone"
+  ],
+  "text": "Devoid (This card has no color.)\nWhen Scion Summoner enters the battlefield, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has \"Sacrifice this creature: Add {C} to your mana pool.\" ({C} represents colorless mana.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "scion summoner",
+  "colorIdentity": [
+    "G"
+  ]
+}

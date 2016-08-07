@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Armored Guardian",
+  "manaCost": "{3}{W}{U}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Creature — Cat Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat",
+    "Soldier"
+  ],
+  "text": "{1}{W}{W}: Target creature you control gains protection from the color of your choice until end of turn.\n{1}{U}{U}: Armored Guardian gains shroud until end of turn. (It can't be the target of spells or abilities.)",
+  "power": "2",
+  "toughness": "5",
+  "imageName": "armored guardian",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

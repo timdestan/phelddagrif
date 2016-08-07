@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Rumbling Slum Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "At the beginning of your upkeep, Rumbling Slum Avatar deals 1 damage to each opponent.",
+  "imageName": "rumbling slum avatar",
+  "hand": 1,
+  "life": 1
+}

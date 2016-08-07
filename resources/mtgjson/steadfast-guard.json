@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Steadfast Guard",
+  "manaCost": "{W}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Rebel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rebel"
+  ],
+  "text": "Vigilance (Attacking doesn't cause this creature to tap.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "steadfast guard",
+  "colorIdentity": [
+    "W"
+  ]
+}

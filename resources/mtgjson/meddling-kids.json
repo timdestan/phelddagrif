@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Meddling Kids",
+  "manaCost": "{2}{W}{U}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Creature — Human Child",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Child"
+  ],
+  "text": "As Meddling Kids comes into play, choose a word with four or more letters.\nNonland cards with the chosen word in their text box can't be played.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "meddling kids",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

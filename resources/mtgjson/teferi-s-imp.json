@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Teferi's Imp",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Imp",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Imp"
+  ],
+  "text": "Flying\nPhasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)\nWhenever Teferi's Imp phases out, discard a card.\nWhenever Teferi's Imp phases in, draw a card.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "teferi's imp",
+  "colorIdentity": [
+    "U"
+  ]
+}

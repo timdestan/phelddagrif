@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Heart Warden",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Druid"
+  ],
+  "text": "{T}: Add {G} to your mana pool.\n{2}, Sacrifice Heart Warden: Draw a card.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "heart warden",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Armored Wolf-Rider",
+  "manaCost": "{3}{G}{W}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Elf Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Knight"
+  ],
+  "power": "4",
+  "toughness": "6",
+  "imageName": "armored wolf-rider",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Waveskimmer Aven",
+  "manaCost": "{2}{G}{W}{U}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Blue",
+    "Green"
+  ],
+  "type": "Creature — Bird Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird",
+    "Soldier"
+  ],
+  "text": "Flying\nExalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "waveskimmer aven",
+  "colorIdentity": [
+    "W",
+    "U",
+    "G"
+  ]
+}

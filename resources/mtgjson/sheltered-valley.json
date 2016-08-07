@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Sheltered Valley",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "If Sheltered Valley would enter the battlefield, instead sacrifice each other permanent named Sheltered Valley you control, then put Sheltered Valley onto the battlefield.\nAt the beginning of your upkeep, if you control three or fewer lands, you gain 1 life.\n{T}: Add {C} to your mana pool.",
+  "imageName": "sheltered valley"
+}

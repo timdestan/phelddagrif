@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Peace of Mind",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{W}, Discard a card: You gain 3 life.",
+  "imageName": "peace of mind",
+  "colorIdentity": [
+    "W"
+  ]
+}

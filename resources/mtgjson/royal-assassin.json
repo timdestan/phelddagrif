@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Royal Assassin",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Assassin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Assassin"
+  ],
+  "text": "{T}: Destroy target tapped creature.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "royal assassin",
+  "colorIdentity": [
+    "B"
+  ]
+}

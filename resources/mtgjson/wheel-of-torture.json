@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Wheel of Torture",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "At the beginning of each opponent's upkeep, Wheel of Torture deals X damage to that player, where X is 3 minus the number of cards in his or her hand.",
+  "imageName": "wheel of torture"
+}

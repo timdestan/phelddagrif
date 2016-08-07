@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Darting Merfolk",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk"
+  ],
+  "text": "{U}: Return Darting Merfolk to its owner's hand.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "darting merfolk",
+  "colorIdentity": [
+    "U"
+  ]
+}

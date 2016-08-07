@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Childhood Horror",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "Flying\nThreshold — As long as seven or more cards are in your graveyard, Childhood Horror gets +2/+2 and can't block.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "childhood horror",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Curse of Inertia",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura Curse",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura",
+    "Curse"
+  ],
+  "text": "Enchant player\nWhenever a player attacks enchanted player with one or more creatures, that attacking player may tap or untap target permanent of his or her choice.",
+  "imageName": "curse of inertia",
+  "colorIdentity": [
+    "U"
+  ]
+}

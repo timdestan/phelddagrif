@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Lay Waste",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target land.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+  "imageName": "lay waste",
+  "colorIdentity": [
+    "R"
+  ]
+}

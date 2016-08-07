@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Elite Inquisitor",
+  "manaCost": "{W}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "First strike, vigilance\nProtection from Vampires, from Werewolves, and from Zombies",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "elite inquisitor",
+  "colorIdentity": [
+    "W"
+  ]
+}

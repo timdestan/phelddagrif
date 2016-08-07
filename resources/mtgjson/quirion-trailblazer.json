@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Quirion Trailblazer",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Scout",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Scout"
+  ],
+  "text": "When Quirion Trailblazer enters the battlefield, you may search your library for a basic land card and put that card onto the battlefield tapped. If you do, shuffle your library.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "quirion trailblazer",
+  "colorIdentity": [
+    "G"
+  ]
+}

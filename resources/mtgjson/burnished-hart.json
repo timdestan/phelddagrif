@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Burnished Hart",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Elk",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Elk"
+  ],
+  "text": "{3}, Sacrifice Burnished Hart: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "burnished hart"
+}

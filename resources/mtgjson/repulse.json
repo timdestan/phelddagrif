@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Repulse",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Return target creature to its owner's hand.\nDraw a card.",
+  "imageName": "repulse",
+  "colorIdentity": [
+    "U"
+  ]
+}

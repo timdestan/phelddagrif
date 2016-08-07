@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Satyr Wayfinder",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Satyr",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Satyr"
+  ],
+  "text": "When Satyr Wayfinder enters the battlefield, reveal the top four cards of your library. You may put a land card from among them into your hand. Put the rest into your graveyard.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "satyr wayfinder",
+  "colorIdentity": [
+    "G"
+  ]
+}

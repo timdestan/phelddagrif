@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Elkin Bottle",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{3}, {T}: Exile the top card of your library. Until the beginning of your next upkeep, you may play that card.",
+  "imageName": "elkin bottle"
+}

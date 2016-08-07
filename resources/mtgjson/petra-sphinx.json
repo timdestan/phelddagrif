@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Petra Sphinx",
+  "manaCost": "{2}{W}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Sphinx",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sphinx"
+  ],
+  "text": "{T}: Target player names a card, then reveals the top card of his or her library. If that card is the named card, that player puts it into his or her hand. If it isn't, the player puts it into his or her graveyard.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "petra sphinx",
+  "colorIdentity": [
+    "W"
+  ]
+}

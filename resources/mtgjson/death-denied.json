@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Death Denied",
+  "manaCost": "{X}{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant — Arcane",
+  "types": [
+    "Instant"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "Return X target creature cards from your graveyard to your hand.",
+  "imageName": "death denied",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Faerie Macabre",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Faerie Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Faerie",
+    "Rogue"
+  ],
+  "text": "Flying\nDiscard Faerie Macabre: Exile up to two target cards from graveyards.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "faerie macabre",
+  "colorIdentity": [
+    "B"
+  ]
+}

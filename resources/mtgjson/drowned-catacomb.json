@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Drowned Catacomb",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.\n{T}: Add {U} or {B} to your mana pool.",
+  "imageName": "drowned catacomb",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

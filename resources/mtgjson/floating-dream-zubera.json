@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Floating-Dream Zubera",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Zubera Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zubera",
+    "Spirit"
+  ],
+  "text": "When Floating-Dream Zubera dies, draw a card for each Zubera that died this turn.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "floating-dream zubera",
+  "colorIdentity": [
+    "U"
+  ]
+}

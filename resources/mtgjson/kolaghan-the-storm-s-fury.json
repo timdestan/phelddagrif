@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Kolaghan, the Storm's Fury",
+  "manaCost": "{3}{B}{R}",
+  "cmc": 5,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Legendary Creature — Dragon",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying\nWhenever a Dragon you control attacks, creatures you control get +1/+0 until end of turn.\nDash {3}{B}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it's returned from the battlefield to its owner's hand at the beginning of the next end step.)",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "kolaghan, the storm's fury",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

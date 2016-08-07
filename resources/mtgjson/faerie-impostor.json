@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Faerie Impostor",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Faerie Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Faerie",
+    "Rogue"
+  ],
+  "text": "Flying\nWhen Faerie Impostor enters the battlefield, sacrifice it unless you return another creature you control to its owner's hand.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "faerie impostor",
+  "colorIdentity": [
+    "U"
+  ]
+}

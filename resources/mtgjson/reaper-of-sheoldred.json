@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Reaper of Sheoldred",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)\nWhenever a source deals damage to Reaper of Sheoldred, that source's controller gets a poison counter.",
+  "power": "2",
+  "toughness": "5",
+  "imageName": "reaper of sheoldred",
+  "colorIdentity": [
+    "B"
+  ]
+}

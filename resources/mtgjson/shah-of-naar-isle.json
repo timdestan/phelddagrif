@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Shah of Naar Isle",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Efreet",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Efreet"
+  ],
+  "text": "Trample\nEcho {0} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)\nWhen Shah of Naar Isle's echo cost is paid, each opponent may draw up to three cards.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "shah of naar isle",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Putrefy",
+  "manaCost": "{1}{B}{G}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target artifact or creature. It can't be regenerated.",
+  "imageName": "putrefy",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

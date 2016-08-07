@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Talrand, Sky Summoner",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Legendary Creature — Merfolk Wizard",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Wizard"
+  ],
+  "text": "Whenever you cast an instant or sorcery spell, put a 2/2 blue Drake creature token with flying onto the battlefield.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "talrand, sky summoner",
+  "colorIdentity": [
+    "U"
+  ]
+}

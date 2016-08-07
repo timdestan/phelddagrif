@@ -1,0 +1,16 @@
+{
+  "layout": "normal",
+  "name": "Sungrass Egg",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, {T}, Sacrifice Sungrass Egg: Add {G}{W} to your mana pool. Draw a card.",
+  "imageName": "sungrass egg",
+  "colorIdentity": [
+    "G",
+    "W"
+  ]
+}

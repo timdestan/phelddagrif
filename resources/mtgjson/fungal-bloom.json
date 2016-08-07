@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Fungal Bloom",
+  "manaCost": "{G}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{G}{G}: Put a spore counter on target Fungus.",
+  "imageName": "fungal bloom",
+  "colorIdentity": [
+    "G"
+  ]
+}

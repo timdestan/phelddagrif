@@ -1,0 +1,10 @@
+{
+  "layout": "scheme",
+  "name": "Ignite the Cloneforge!",
+  "type": "Scheme",
+  "types": [
+    "Scheme"
+  ],
+  "text": "When you set this scheme in motion, put a token onto the battlefield that's a copy of target permanent an opponent controls.",
+  "imageName": "ignite the cloneforge!"
+}

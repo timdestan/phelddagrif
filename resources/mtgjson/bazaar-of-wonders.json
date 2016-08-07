@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Bazaar of Wonders",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "World Enchantment",
+  "supertypes": [
+    "World"
+  ],
+  "types": [
+    "Enchantment"
+  ],
+  "text": "When Bazaar of Wonders enters the battlefield, exile all cards from all graveyards.\nWhenever a player casts a spell, counter it if a card with the same name is in a graveyard or a nontoken permanent with the same name is on the battlefield.",
+  "imageName": "bazaar of wonders",
+  "colorIdentity": [
+    "U"
+  ]
+}

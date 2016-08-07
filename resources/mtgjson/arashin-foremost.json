@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Arashin Foremost",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "Double strike\nWhenever Arashin Foremost enters the battlefield or attacks, another target Warrior creature you control gains double strike until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "arashin foremost",
+  "colorIdentity": [
+    "W"
+  ]
+}

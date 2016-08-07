@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Uba Mask",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "If a player would draw a card, that player exiles that card face up instead.\nEach player may play cards he or she exiled with Uba Mask this turn.",
+  "imageName": "uba mask"
+}

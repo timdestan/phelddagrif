@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Vexing Beetle",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "Vexing Beetle can't be countered.\nVexing Beetle gets +3/+3 as long as no opponent controls a creature.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "vexing beetle",
+  "colorIdentity": [
+    "G"
+  ]
+}

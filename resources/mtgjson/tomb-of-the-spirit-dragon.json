@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Tomb of the Spirit Dragon",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{2}, {T}: You gain 1 life for each colorless creature you control.",
+  "imageName": "tomb of the spirit dragon"
+}

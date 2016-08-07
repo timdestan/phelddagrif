@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Fire Elemental",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "power": "5",
+  "toughness": "4",
+  "imageName": "fire elemental",
+  "colorIdentity": [
+    "R"
+  ]
+}

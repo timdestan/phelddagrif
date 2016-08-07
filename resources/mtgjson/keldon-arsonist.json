@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Keldon Arsonist",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "{1}, Sacrifice two lands: Destroy target land.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "keldon arsonist",
+  "colorIdentity": [
+    "R"
+  ]
+}

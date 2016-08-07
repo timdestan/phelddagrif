@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Soltari Visionary",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Soltari Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Soltari",
+    "Cleric"
+  ],
+  "text": "Shadow (This creature can block or be blocked by only creatures with shadow.)\nWhenever Soltari Visionary deals damage to a player, destroy target enchantment that player controls.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "soltari visionary",
+  "colorIdentity": [
+    "W"
+  ]
+}

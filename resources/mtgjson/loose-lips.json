@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Loose Lips",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchant Creature",
+  "types": [
+    "Enchant",
+    "Creature"
+  ],
+  "text": "As Loose Lips comes into play, choose a sentence with eight or fewer words.\nEnchanted creature has flying.\nWhenever enchanted creature deals damage to an opponent, you draw two cards unless that player says the chosen sentence.",
+  "imageName": "loose lips",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Flash Conscription",
+  "manaCost": "{5}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Untap target creature and gain control of it until end of turn.  That creature gains haste until end of turn. If {W} was spent to cast Flash Conscription, the creature gains \"Whenever this creature deals combat damage, you gain that much life\" until end of turn.",
+  "imageName": "flash conscription",
+  "colorIdentity": [
+    "R",
+    "W"
+  ]
+}

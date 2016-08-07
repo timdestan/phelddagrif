@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Spectral Force",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elemental Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Spirit"
+  ],
+  "text": "Trample\nWhenever Spectral Force attacks, if defending player controls no black permanents, it doesn't untap during your next untap step.",
+  "power": "8",
+  "toughness": "8",
+  "imageName": "spectral force",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dromosaur",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Lizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Lizard"
+  ],
+  "text": "Whenever Dromosaur blocks or becomes blocked, it gets +2/-2 until end of turn.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "dromosaur",
+  "colorIdentity": [
+    "R"
+  ]
+}

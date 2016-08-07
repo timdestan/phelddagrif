@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Voracious Wurm",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "text": "Voracious Wurm enters the battlefield with X +1/+1 counters on it, where X is the amount of life you've gained this turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "voracious wurm",
+  "colorIdentity": [
+    "G"
+  ]
+}

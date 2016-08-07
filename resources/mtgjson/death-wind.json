@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Death Wind",
+  "manaCost": "{X}{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gets -X/-X until end of turn.",
+  "imageName": "death wind",
+  "colorIdentity": [
+    "B"
+  ]
+}

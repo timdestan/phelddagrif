@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Aura Finesse",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Attach target Aura you control to target creature.\nDraw a card.",
+  "imageName": "aura finesse",
+  "colorIdentity": [
+    "U"
+  ]
+}

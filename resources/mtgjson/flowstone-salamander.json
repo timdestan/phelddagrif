@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Flowstone Salamander",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Salamander",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Salamander"
+  ],
+  "text": "{R}: Flowstone Salamander deals 1 damage to target creature blocking it.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "flowstone salamander",
+  "colorIdentity": [
+    "R"
+  ]
+}

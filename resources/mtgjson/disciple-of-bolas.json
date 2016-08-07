@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Disciple of Bolas",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "When Disciple of Bolas enters the battlefield, sacrifice another creature. You gain X life and draw X cards, where X is that creature's power.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "disciple of bolas",
+  "colorIdentity": [
+    "B"
+  ]
+}

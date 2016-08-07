@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Bathe in Light",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Radiance — Choose a color. Target creature and each other creature that shares a color with it gain protection from the chosen color until end of turn.",
+  "imageName": "bathe in light",
+  "colorIdentity": [
+    "W"
+  ]
+}

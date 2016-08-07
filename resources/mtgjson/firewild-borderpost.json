@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Firewild Borderpost",
+  "manaCost": "{1}{R}{G}",
+  "cmc": 3,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "You may pay {1} and return a basic land you control to its owner's hand rather than pay Firewild Borderpost's mana cost.\nFirewild Borderpost enters the battlefield tapped.\n{T}: Add {R} or {G} to your mana pool.",
+  "imageName": "firewild borderpost",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

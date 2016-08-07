@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Dualcaster Mage",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Flash\nWhen Dualcaster Mage enters the battlefield, copy target instant or sorcery spell. You may choose new targets for the copy.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "dualcaster mage",
+  "colorIdentity": [
+    "R"
+  ]
+}

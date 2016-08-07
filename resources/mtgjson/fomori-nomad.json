@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Fomori Nomad",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Nomad Giant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Nomad",
+    "Giant"
+  ],
+  "power": "4",
+  "toughness": "4",
+  "imageName": "fomori nomad",
+  "colorIdentity": [
+    "R"
+  ]
+}

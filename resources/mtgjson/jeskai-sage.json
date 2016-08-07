@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Jeskai Sage",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Monk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Monk"
+  ],
+  "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhen Jeskai Sage dies, draw a card.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "jeskai sage",
+  "colorIdentity": [
+    "U"
+  ]
+}

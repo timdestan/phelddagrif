@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Tasigur's Cruelty",
+  "manaCost": "{5}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nEach opponent discards two cards.",
+  "imageName": "tasigur's cruelty",
+  "colorIdentity": [
+    "B"
+  ]
+}

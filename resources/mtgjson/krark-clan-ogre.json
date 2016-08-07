@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Krark-Clan Ogre",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Ogre",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ogre"
+  ],
+  "text": "{R}, Sacrifice an artifact: Target creature can't block this turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "krark-clan ogre",
+  "colorIdentity": [
+    "R"
+  ]
+}

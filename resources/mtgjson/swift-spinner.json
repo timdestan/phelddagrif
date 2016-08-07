@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Swift Spinner",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Spider",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spider"
+  ],
+  "text": "Flash (You may cast this spell any time you could cast an instant.)\nReach (This creature can block creatures with flying.)",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "swift spinner",
+  "colorIdentity": [
+    "G"
+  ]
+}

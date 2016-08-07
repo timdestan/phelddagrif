@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Crypt Incursion",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Exile all creature cards from target player's graveyard. You gain 3 life for each card exiled this way.",
+  "imageName": "crypt incursion",
+  "colorIdentity": [
+    "B"
+  ]
+}

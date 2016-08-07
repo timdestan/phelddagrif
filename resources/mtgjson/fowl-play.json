@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Fowl Play",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchant Creature",
+  "types": [
+    "Enchant",
+    "Creature"
+  ],
+  "text": "Enchanted creature loses all abilities and is a 1/1 creature that counts as a Chicken.",
+  "imageName": "fowl play",
+  "colorIdentity": [
+    "U"
+  ]
+}

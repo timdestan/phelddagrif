@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Syphon Flesh",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Each other player sacrifices a creature. You put a 2/2 black Zombie creature token onto the battlefield for each creature sacrificed this way.",
+  "imageName": "syphon flesh",
+  "colorIdentity": [
+    "B"
+  ]
+}

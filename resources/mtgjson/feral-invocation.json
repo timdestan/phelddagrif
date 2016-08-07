@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Feral Invocation",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Flash (You may cast this spell any time you could cast an instant.)\nEnchant creature\nEnchanted creature gets +2/+2.",
+  "imageName": "feral invocation",
+  "colorIdentity": [
+    "G"
+  ]
+}

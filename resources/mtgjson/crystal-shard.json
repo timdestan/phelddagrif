@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Crystal Shard",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{3}, {T} or {U}, {T}: Return target creature to its owner's hand unless its controller pays {1}.",
+  "imageName": "crystal shard",
+  "colorIdentity": [
+    "U"
+  ]
+}

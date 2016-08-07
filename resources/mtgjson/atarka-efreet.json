@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Atarka Efreet",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Efreet Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Efreet",
+    "Shaman"
+  ],
+  "text": "Megamorph {2}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)\nWhen Atarka Efreet is turned face up, it deals 1 damage to target creature or player.",
+  "power": "5",
+  "toughness": "1",
+  "imageName": "atarka efreet",
+  "colorIdentity": [
+    "R"
+  ]
+}

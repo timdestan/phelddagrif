@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Johnny, Combo Player",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Legendary Creature — Human Gamer",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Gamer"
+  ],
+  "text": "{4}: Search your library for a card and put that card into your hand. Then shuffle your library.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "johnny, combo player",
+  "colorIdentity": [
+    "U"
+  ]
+}

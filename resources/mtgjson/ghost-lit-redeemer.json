@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ghost-Lit Redeemer",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "{W}, {T}: You gain 2 life.\nChannel — {1}{W}, Discard Ghost-Lit Redeemer: You gain 4 life.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "ghost-lit redeemer",
+  "colorIdentity": [
+    "W"
+  ]
+}

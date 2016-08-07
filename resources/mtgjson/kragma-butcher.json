@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kragma Butcher",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Minotaur Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Minotaur",
+    "Warrior"
+  ],
+  "text": "Inspired — Whenever Kragma Butcher becomes untapped, it gets +2/+0 until end of turn.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "kragma butcher",
+  "colorIdentity": [
+    "R"
+  ]
+}

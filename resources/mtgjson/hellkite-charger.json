@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Hellkite Charger",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying, haste\nWhenever Hellkite Charger attacks, you may pay {5}{R}{R}. If you do, untap all attacking creatures and after this phase, there is an additional combat phase.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "hellkite charger",
+  "colorIdentity": [
+    "R"
+  ]
+}

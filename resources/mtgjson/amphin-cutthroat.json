@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Amphin Cutthroat",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Salamander Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Salamander",
+    "Rogue"
+  ],
+  "power": "2",
+  "toughness": "4",
+  "imageName": "amphin cutthroat",
+  "colorIdentity": [
+    "U"
+  ]
+}

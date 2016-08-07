@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Serpent Generator",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{4}, {T}: Put a 1/1 colorless Snake artifact creature token onto the battlefield. It has \"Whenever this creature deals damage to a player, that player gets a poison counter.\" (A player with ten or more poison counters loses the game.)",
+  "imageName": "serpent generator"
+}

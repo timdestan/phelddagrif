@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Gorehorn Minotaurs",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Minotaur Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Minotaur",
+    "Warrior"
+  ],
+  "text": "Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "gorehorn minotaurs",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Crossway Vampire",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Vampire",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire"
+  ],
+  "text": "When Crossway Vampire enters the battlefield, target creature can't block this turn.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "crossway vampire",
+  "colorIdentity": [
+    "R"
+  ]
+}

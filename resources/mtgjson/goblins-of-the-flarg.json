@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Goblins of the Flarg",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Warrior"
+  ],
+  "text": "Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)\nWhen you control a Dwarf, sacrifice Goblins of the Flarg.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "goblins of the flarg",
+  "colorIdentity": [
+    "R"
+  ]
+}

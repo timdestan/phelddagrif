@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dust to Dust",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Exile two target artifacts.",
+  "imageName": "dust to dust",
+  "colorIdentity": [
+    "W"
+  ]
+}

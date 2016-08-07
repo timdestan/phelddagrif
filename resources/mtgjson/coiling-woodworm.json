@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Coiling Woodworm",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Insect Worm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect",
+    "Worm"
+  ],
+  "text": "Coiling Woodworm's power is equal to the number of Forests on the battlefield.",
+  "power": "*",
+  "toughness": "1",
+  "imageName": "coiling woodworm",
+  "colorIdentity": [
+    "G"
+  ]
+}

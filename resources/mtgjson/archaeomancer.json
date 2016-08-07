@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Archaeomancer",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "When Archaeomancer enters the battlefield, return target instant or sorcery card from your graveyard to your hand.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "archaeomancer",
+  "colorIdentity": [
+    "U"
+  ]
+}

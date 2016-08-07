@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Obsianus Golem",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "power": "4",
+  "toughness": "6",
+  "imageName": "obsianus golem"
+}

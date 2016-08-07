@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Rashida Scalebane",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Creature — Human Soldier",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "{T}: Destroy target attacking or blocking Dragon. It can't be regenerated. You gain life equal to its power.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "rashida scalebane",
+  "colorIdentity": [
+    "W"
+  ]
+}

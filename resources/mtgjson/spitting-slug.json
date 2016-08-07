@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Spitting Slug",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Slug",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Slug"
+  ],
+  "text": "Whenever Spitting Slug blocks or becomes blocked, you may pay {1}{G}. If you do, Spitting Slug gains first strike until end of turn. Otherwise, each creature blocking or blocked by Spitting Slug gains first strike until end of turn.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "spitting slug",
+  "colorIdentity": [
+    "G"
+  ]
+}

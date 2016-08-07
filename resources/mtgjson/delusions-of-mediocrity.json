@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Delusions of Mediocrity",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "When Delusions of Mediocrity enters the battlefield, you gain 10 life.\nWhen Delusions of Mediocrity leaves the battlefield, you lose 10 life.",
+  "imageName": "delusions of mediocrity",
+  "colorIdentity": [
+    "U"
+  ]
+}

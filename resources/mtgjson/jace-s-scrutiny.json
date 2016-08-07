@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Jace's Scrutiny",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gets -4/-0 until end of turn.\nInvestigate. (Put a colorless Clue artifact token onto the battlefield with \"{2}, Sacrifice this artifact: Draw a card.\")",
+  "imageName": "jace's scrutiny",
+  "colorIdentity": [
+    "U"
+  ]
+}

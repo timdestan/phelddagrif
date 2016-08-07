@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Runechanter's Pike",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature has first strike and gets +X/+0, where X is the number of instant and sorcery cards in your graveyard.\nEquip {2}",
+  "imageName": "runechanter's pike"
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Presence of the Master",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a player casts an enchantment spell, counter it.",
+  "imageName": "presence of the master",
+  "colorIdentity": [
+    "W"
+  ]
+}

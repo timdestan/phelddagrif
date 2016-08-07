@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Goblin Warchief",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Warrior"
+  ],
+  "text": "Goblin spells you cast cost {1} less to cast.\nGoblin creatures you control have haste.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "goblin warchief",
+  "colorIdentity": [
+    "R"
+  ]
+}

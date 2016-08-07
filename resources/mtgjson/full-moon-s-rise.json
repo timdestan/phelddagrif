@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Full Moon's Rise",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Werewolf creatures you control get +1/+0 and have trample.\nSacrifice Full Moon's Rise: Regenerate all Werewolf creatures you control.",
+  "imageName": "full moon's rise",
+  "colorIdentity": [
+    "G"
+  ]
+}

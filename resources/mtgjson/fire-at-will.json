@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Fire at Will",
+  "manaCost": "{R/W}{R/W}{R/W}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Fire at Will deals 3 damage divided as you choose among one, two, or three target attacking or blocking creatures.",
+  "imageName": "fire at will",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

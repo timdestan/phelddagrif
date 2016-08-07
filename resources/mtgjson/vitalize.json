@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Vitalize",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Untap all creatures you control.",
+  "imageName": "vitalize",
+  "colorIdentity": [
+    "G"
+  ]
+}

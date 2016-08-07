@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Makeshift Mannequin",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Return target creature card from your graveyard to the battlefield with a mannequin counter on it. For as long as that creature has a mannequin counter on it, it has \"When this creature becomes the target of a spell or ability, sacrifice it.\"",
+  "imageName": "makeshift mannequin",
+  "colorIdentity": [
+    "B"
+  ]
+}

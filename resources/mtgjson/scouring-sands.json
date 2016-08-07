@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Scouring Sands",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Scouring Sands deals 1 damage to each creature your opponents control. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "imageName": "scouring sands",
+  "colorIdentity": [
+    "R"
+  ]
+}

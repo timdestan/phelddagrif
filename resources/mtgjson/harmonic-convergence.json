@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Harmonic Convergence",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Put all enchantments on top of their owners' libraries.",
+  "imageName": "harmonic convergence",
+  "colorIdentity": [
+    "G"
+  ]
+}

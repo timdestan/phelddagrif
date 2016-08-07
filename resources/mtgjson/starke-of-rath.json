@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Starke of Rath",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Creature — Human Rogue",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "{T}: Destroy target artifact or creature. That permanent's controller gains control of Starke of Rath. (This effect lasts indefinitely.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "starke of rath",
+  "colorIdentity": [
+    "R"
+  ]
+}

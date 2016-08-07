@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Urza's Hot Tub",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, Discard a card: Search your library for a card that shares a complete word in its name with the discarded card, reveal it, and put it into your hand. Then shuffle your library.",
+  "imageName": "urza's hot tub"
+}

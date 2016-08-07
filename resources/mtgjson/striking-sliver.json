@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Striking Sliver",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "Sliver creatures you control have first strike. (They deal combat damage before creatures without first strike.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "striking sliver",
+  "colorIdentity": [
+    "R"
+  ]
+}

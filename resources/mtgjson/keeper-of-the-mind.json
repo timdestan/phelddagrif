@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Keeper of the Mind",
+  "manaCost": "{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{U}, {T}: Choose target opponent who had at least two more cards in hand than you did as you activated this ability. Draw a card.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "keeper of the mind",
+  "colorIdentity": [
+    "U"
+  ]
+}

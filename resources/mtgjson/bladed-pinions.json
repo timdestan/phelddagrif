@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Bladed Pinions",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature has flying and first strike.\nEquip {2}",
+  "imageName": "bladed pinions"
+}

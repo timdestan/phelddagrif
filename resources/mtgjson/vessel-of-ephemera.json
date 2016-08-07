@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Vessel of Ephemera",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{2}{W}, Sacrifice Vessel of Ephemera: Put two 1/1 white Spirit creature tokens with flying onto the battlefield.",
+  "imageName": "vessel of ephemera",
+  "colorIdentity": [
+    "W"
+  ]
+}

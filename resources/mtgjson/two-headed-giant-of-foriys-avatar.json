@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Two-Headed Giant of Foriys Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "Creatures you control have menace. (They can't be blocked except by two or more creatures.)\nEach creature you control can block an additional creature each combat.",
+  "imageName": "two-headed giant of foriys avatar",
+  "hand": 1,
+  "life": -4
+}

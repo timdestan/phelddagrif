@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Mogg Bombers",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "When another creature enters the battlefield, sacrifice Mogg Bombers and it deals 3 damage to target player.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "mogg bombers",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Cartel Aristocrat",
+  "manaCost": "{W}{B}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Creature — Human Advisor",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Advisor"
+  ],
+  "text": "Sacrifice another creature: Cartel Aristocrat gains protection from the color of your choice until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "cartel aristocrat",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

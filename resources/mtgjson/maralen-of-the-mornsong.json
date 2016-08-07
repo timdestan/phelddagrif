@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Maralen of the Mornsong",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Legendary Creature — Elf Wizard",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Wizard"
+  ],
+  "text": "Players can't draw cards.\nAt the beginning of each player's draw step, that player loses 3 life, searches his or her library for a card, puts it into his or her hand, then shuffles his or her library.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "maralen of the mornsong",
+  "colorIdentity": [
+    "B"
+  ]
+}

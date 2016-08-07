@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Mausoleum Turnkey",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Ogre Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ogre",
+    "Rogue"
+  ],
+  "text": "When Mausoleum Turnkey enters the battlefield, return target creature card of an opponent's choice from your graveyard to your hand.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "mausoleum turnkey",
+  "colorIdentity": [
+    "B"
+  ]
+}

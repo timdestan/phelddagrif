@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Wild Beastmaster",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Shaman"
+  ],
+  "text": "Whenever Wild Beastmaster attacks, each other creature you control gets +X/+X until end of turn, where X is Wild Beastmaster's power.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "wild beastmaster",
+  "colorIdentity": [
+    "G"
+  ]
+}

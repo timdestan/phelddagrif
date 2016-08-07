@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ephemeral Shields",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nTarget creature gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
+  "imageName": "ephemeral shields",
+  "colorIdentity": [
+    "W"
+  ]
+}

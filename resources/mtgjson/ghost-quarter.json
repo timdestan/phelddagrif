@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Ghost Quarter",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{T}, Sacrifice Ghost Quarter: Destroy target land. Its controller may search his or her library for a basic land card, put it onto the battlefield, then shuffle his or her library.",
+  "imageName": "ghost quarter"
+}

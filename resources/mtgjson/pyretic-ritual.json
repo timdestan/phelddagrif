@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Pyretic Ritual",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Add {R}{R}{R} to your mana pool.",
+  "imageName": "pyretic ritual",
+  "colorIdentity": [
+    "R"
+  ]
+}

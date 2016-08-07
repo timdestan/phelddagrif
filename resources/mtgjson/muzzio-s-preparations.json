@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Muzzio's Preparations",
+  "type": "Conspiracy",
+  "types": [
+    "Conspiracy"
+  ],
+  "text": "Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)\nEach creature you control with the chosen name enters the battlefield with an additional +1/+1 counter on it.",
+  "imageName": "muzzio's preparations"
+}

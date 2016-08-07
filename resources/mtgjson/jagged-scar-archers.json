@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Jagged-Scar Archers",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Archer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Archer"
+  ],
+  "text": "Jagged-Scar Archers's power and toughness are each equal to the number of Elves you control.\n{T}: Jagged-Scar Archers deals damage equal to its power to target creature with flying.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "jagged-scar archers",
+  "colorIdentity": [
+    "G"
+  ]
+}

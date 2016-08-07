@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Spurnmage Advocate",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Nomad",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Nomad"
+  ],
+  "text": "{T}: Return two target cards from an opponent's graveyard to his or her hand. Destroy target attacking creature.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "spurnmage advocate",
+  "colorIdentity": [
+    "W"
+  ]
+}

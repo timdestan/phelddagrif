@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sunweb",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender (This creature can't attack.)\nFlying\nSunweb can't block creatures with power 2 or less.",
+  "power": "5",
+  "toughness": "6",
+  "imageName": "sunweb",
+  "colorIdentity": [
+    "W"
+  ]
+}

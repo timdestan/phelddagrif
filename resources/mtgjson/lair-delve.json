@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Lair Delve",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Reveal the top two cards of your library. Put all creature and land cards revealed this way into your hand and the rest on the bottom of your library in any order.",
+  "imageName": "lair delve",
+  "colorIdentity": [
+    "G"
+  ]
+}

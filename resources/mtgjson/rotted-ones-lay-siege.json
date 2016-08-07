@@ -1,0 +1,10 @@
+{
+  "layout": "scheme",
+  "name": "Rotted Ones, Lay Siege",
+  "type": "Scheme",
+  "types": [
+    "Scheme"
+  ],
+  "text": "When you set this scheme in motion, for each opponent, put a 2/2 black Zombie creature token onto the battlefield that attacks that player each combat if able.",
+  "imageName": "rotted ones, lay siege"
+}

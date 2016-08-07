@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Spinal Villain",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "{T}: Destroy target blue creature.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "spinal villain",
+  "colorIdentity": [
+    "R"
+  ]
+}

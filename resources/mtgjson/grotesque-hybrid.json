@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Grotesque Hybrid",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Whenever Grotesque Hybrid deals combat damage to a creature, destroy that creature. It can't be regenerated.\nDiscard a card: Grotesque Hybrid gains flying and protection from green and from white until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "grotesque hybrid",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Guttural Response",
+  "manaCost": "{R/G}",
+  "cmc": 1,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target blue instant spell.",
+  "imageName": "guttural response",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

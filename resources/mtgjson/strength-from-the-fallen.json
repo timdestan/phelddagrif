@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Strength from the Fallen",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Constellation — Whenever Strength from the Fallen or another enchantment enters the battlefield under your control, target creature gets +X/+X until end of turn, where X is the number of creature cards in your graveyard.",
+  "imageName": "strength from the fallen",
+  "colorIdentity": [
+    "G"
+  ]
+}

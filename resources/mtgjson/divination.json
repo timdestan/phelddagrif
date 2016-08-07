@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Divination",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Draw two cards.",
+  "imageName": "divination",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Zarichi Tiger",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Cat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat"
+  ],
+  "text": "{1}{W}, {T}: You gain 2 life.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "zarichi tiger",
+  "colorIdentity": [
+    "W"
+  ]
+}

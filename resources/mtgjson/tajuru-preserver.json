@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Tajuru Preserver",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Shaman"
+  ],
+  "text": "Spells and abilities your opponents control can't cause you to sacrifice permanents.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "tajuru preserver",
+  "colorIdentity": [
+    "G"
+  ]
+}

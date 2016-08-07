@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Dawnstrider",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Dryad Spellshaper",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dryad",
+    "Spellshaper"
+  ],
+  "text": "{G}, {T}, Discard a card: Prevent all combat damage that would be dealt this turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "dawnstrider",
+  "colorIdentity": [
+    "G"
+  ]
+}

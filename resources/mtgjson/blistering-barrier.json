@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Blistering Barrier",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender (This creature can't attack.)",
+  "power": "5",
+  "toughness": "2",
+  "imageName": "blistering barrier",
+  "colorIdentity": [
+    "R"
+  ]
+}

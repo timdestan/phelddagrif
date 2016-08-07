@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Nemesis Mask",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "All creatures able to block equipped creature do so.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)",
+  "imageName": "nemesis mask"
+}

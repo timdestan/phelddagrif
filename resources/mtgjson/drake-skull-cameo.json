@@ -1,0 +1,16 @@
+{
+  "layout": "normal",
+  "name": "Drake-Skull Cameo",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}: Add {U} or {B} to your mana pool.",
+  "imageName": "drake-skull cameo",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

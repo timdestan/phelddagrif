@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Pristine Talisman",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}: Add {C} to your mana pool. You gain 1 life.",
+  "imageName": "pristine talisman"
+}

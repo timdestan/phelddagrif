@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Break Through the Line",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{R}: Target creature with power 2 or less gains haste until end of turn and can't be blocked this turn.",
+  "imageName": "break through the line",
+  "colorIdentity": [
+    "R"
+  ]
+}

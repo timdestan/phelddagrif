@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Shattering Blow",
+  "manaCost": "{1}{R/W}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Exile target artifact.",
+  "imageName": "shattering blow",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

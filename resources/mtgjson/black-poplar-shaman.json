@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Black Poplar Shaman",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Treefolk Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Treefolk",
+    "Shaman"
+  ],
+  "text": "{2}{B}: Regenerate target Treefolk.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "black poplar shaman",
+  "colorIdentity": [
+    "B"
+  ]
+}

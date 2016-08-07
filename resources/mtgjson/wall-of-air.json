@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wall of Air",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender, flying (This creature can't attack, and it can block creatures with flying.)",
+  "power": "1",
+  "toughness": "5",
+  "imageName": "wall of air",
+  "colorIdentity": [
+    "U"
+  ]
+}

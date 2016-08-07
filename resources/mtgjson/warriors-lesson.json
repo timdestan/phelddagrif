@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Warriors' Lesson",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Until end of turn, up to two target creatures you control each gain \"Whenever this creature deals combat damage to a player, draw a card.\"",
+  "imageName": "warriors' lesson",
+  "colorIdentity": [
+    "G"
+  ]
+}

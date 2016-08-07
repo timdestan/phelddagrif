@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Execute",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target white creature. It can't be regenerated.\nDraw a card.",
+  "imageName": "execute",
+  "colorIdentity": [
+    "B"
+  ]
+}

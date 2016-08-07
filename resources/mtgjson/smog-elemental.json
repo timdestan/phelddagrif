@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Smog Elemental",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Flying\nCreatures with flying your opponents control get -1/-1.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "smog elemental",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Voltaic Key",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{1}, {T}: Untap target artifact.",
+  "imageName": "voltaic key"
+}

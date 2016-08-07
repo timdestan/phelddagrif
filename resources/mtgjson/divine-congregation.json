@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Divine Congregation",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "You gain 2 life for each creature target player controls.\nSuspend 5—{1}{W} (Rather than cast this card from your hand, you may pay {1}{W} and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)",
+  "imageName": "divine congregation",
+  "colorIdentity": [
+    "W"
+  ]
+}

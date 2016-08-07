@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Ethereal Haze",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant — Arcane",
+  "types": [
+    "Instant"
+  ],
+  "subtypes": [
+    "Arcane"
+  ],
+  "text": "Prevent all damage that would be dealt by creatures this turn.",
+  "imageName": "ethereal haze",
+  "colorIdentity": [
+    "W"
+  ]
+}

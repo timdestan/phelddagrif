@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Breaker of Armies",
+  "manaCost": "{8}",
+  "cmc": 8,
+  "type": "Creature — Eldrazi",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi"
+  ],
+  "text": "All creatures able to block Breaker of Armies do so.",
+  "power": "10",
+  "toughness": "8",
+  "imageName": "breaker of armies"
+}

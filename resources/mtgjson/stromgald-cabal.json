@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Stromgald Cabal",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "{T}, Pay 1 life: Counter target white spell.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "stromgald cabal",
+  "colorIdentity": [
+    "B"
+  ]
+}

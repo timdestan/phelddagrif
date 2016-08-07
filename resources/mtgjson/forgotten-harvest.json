@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Forgotten Harvest",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, you may exile a land card from your graveyard. If you do, put a +1/+1 counter on target creature.",
+  "imageName": "forgotten harvest",
+  "colorIdentity": [
+    "G"
+  ]
+}

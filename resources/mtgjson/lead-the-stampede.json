@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Lead the Stampede",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Look at the top five cards of your library. You may reveal any number of creature cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.",
+  "imageName": "lead the stampede",
+  "colorIdentity": [
+    "G"
+  ]
+}

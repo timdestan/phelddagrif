@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Isperia's Skywatch",
+  "manaCost": "{5}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Vedalken Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vedalken",
+    "Knight"
+  ],
+  "text": "Flying\nWhen Isperia's Skywatch enters the battlefield, detain target creature an opponent controls. (Until your next turn, that creature can't attack or block and its activated abilities can't be activated.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "isperia's skywatch",
+  "colorIdentity": [
+    "U"
+  ]
+}

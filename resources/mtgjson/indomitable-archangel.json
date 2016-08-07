@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Indomitable Archangel",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nMetalcraft — Artifacts you control have shroud as long as you control three or more artifacts. (An artifact with shroud can't be the target of spells or abilities.)",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "indomitable archangel",
+  "colorIdentity": [
+    "W"
+  ]
+}

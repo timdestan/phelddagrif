@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Brine Shaman",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Cleric Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric",
+    "Shaman"
+  ],
+  "text": "{T}, Sacrifice a creature: Target creature gets +2/+2 until end of turn.\n{1}{U}{U}, Sacrifice a creature: Counter target creature spell.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "brine shaman",
+  "colorIdentity": [
+    "B",
+    "U"
+  ]
+}

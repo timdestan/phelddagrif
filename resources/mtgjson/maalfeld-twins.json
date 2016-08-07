@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Maalfeld Twins",
+  "manaCost": "{5}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "When Maalfeld Twins dies, put two 2/2 black Zombie creature tokens onto the battlefield.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "maalfeld twins",
+  "colorIdentity": [
+    "B"
+  ]
+}

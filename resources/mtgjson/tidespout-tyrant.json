@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Tidespout Tyrant",
+  "manaCost": "{5}{U}{U}{U}",
+  "cmc": 8,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Djinn",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Djinn"
+  ],
+  "text": "Flying\nWhenever you cast a spell, return target permanent to its owner's hand.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "tidespout tyrant",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Frostwind Invoker",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Wizard"
+  ],
+  "text": "Flying\n{8}: Creatures you control gain flying until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "frostwind invoker",
+  "colorIdentity": [
+    "U"
+  ]
+}

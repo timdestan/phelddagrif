@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Wilt-Leaf Cavaliers",
+  "manaCost": "{G/W}{G/W}{G/W}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Elf Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Knight"
+  ],
+  "text": "Vigilance",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "wilt-leaf cavaliers",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

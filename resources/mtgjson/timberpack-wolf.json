@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Timberpack Wolf",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wolf"
+  ],
+  "text": "Timberpack Wolf gets +1/+1 for each other creature you control named Timberpack Wolf.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "timberpack wolf",
+  "colorIdentity": [
+    "G"
+  ]
+}

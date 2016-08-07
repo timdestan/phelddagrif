@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Ancient Crab",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Crab",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Crab"
+  ],
+  "power": "1",
+  "toughness": "5",
+  "imageName": "ancient crab",
+  "colorIdentity": [
+    "U"
+  ]
+}

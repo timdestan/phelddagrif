@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Crumble to Dust",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Devoid (This card has no color.)\nExile target nonbasic land. Search its controller's graveyard, hand, and library for any number of cards with the same name as that land and exile them. Then that player shuffles his or her library.",
+  "imageName": "crumble to dust",
+  "colorIdentity": [
+    "R"
+  ]
+}

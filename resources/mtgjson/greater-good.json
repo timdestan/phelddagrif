@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Greater Good",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Sacrifice a creature: Draw cards equal to the sacrificed creature's power, then discard three cards.",
+  "imageName": "greater good",
+  "colorIdentity": [
+    "G"
+  ]
+}

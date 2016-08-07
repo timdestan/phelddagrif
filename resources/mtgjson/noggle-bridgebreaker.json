@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Noggle Bridgebreaker",
+  "manaCost": "{2}{U/R}{U/R}",
+  "cmc": 4,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Creature — Noggle Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Noggle",
+    "Rogue"
+  ],
+  "text": "When Noggle Bridgebreaker enters the battlefield, return a land you control to its owner's hand.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "noggle bridgebreaker",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

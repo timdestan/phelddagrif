@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Corpse Lunge",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "As an additional cost to cast Corpse Lunge, exile a creature card from your graveyard.\nCorpse Lunge deals damage equal to the exiled card's power to target creature.",
+  "imageName": "corpse lunge",
+  "colorIdentity": [
+    "B"
+  ]
+}

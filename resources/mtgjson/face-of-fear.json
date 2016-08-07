@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Face of Fear",
+  "manaCost": "{5}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "{2}{B}, Discard a card: Face of Fear gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "face of fear",
+  "colorIdentity": [
+    "B"
+  ]
+}

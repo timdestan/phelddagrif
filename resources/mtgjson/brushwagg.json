@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Brushwagg",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Brushwagg",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Brushwagg"
+  ],
+  "text": "Whenever Brushwagg blocks or becomes blocked, it gets -2/+2 until end of turn.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "brushwagg",
+  "colorIdentity": [
+    "G"
+  ]
+}

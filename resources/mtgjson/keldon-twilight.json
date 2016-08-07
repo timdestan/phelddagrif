@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Keldon Twilight",
+  "manaCost": "{1}{B}{R}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of each player's end step, if no creatures attacked this turn, that player sacrifices a creature he or she controlled since the beginning of the turn.",
+  "imageName": "keldon twilight",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

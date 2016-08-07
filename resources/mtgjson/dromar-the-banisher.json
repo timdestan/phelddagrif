@@ -1,0 +1,30 @@
+{
+  "layout": "normal",
+  "name": "Dromar, the Banisher",
+  "manaCost": "{3}{W}{U}{B}",
+  "cmc": 6,
+  "colors": [
+    "White",
+    "Blue",
+    "Black"
+  ],
+  "type": "Legendary Creature — Dragon",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying\nWhenever Dromar, the Banisher deals combat damage to a player, you may pay {2}{U}. If you do, choose a color, then return all creatures of that color to their owners' hands.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "dromar, the banisher",
+  "colorIdentity": [
+    "W",
+    "U",
+    "B"
+  ]
+}

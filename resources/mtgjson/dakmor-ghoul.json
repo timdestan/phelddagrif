@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dakmor Ghoul",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "When Dakmor Ghoul enters the battlefield, target opponent loses 2 life and you gain 2 life.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "dakmor ghoul",
+  "colorIdentity": [
+    "B"
+  ]
+}

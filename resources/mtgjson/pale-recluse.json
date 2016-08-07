@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Pale Recluse",
+  "manaCost": "{4}{G}{W}",
+  "cmc": 6,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Spider",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spider"
+  ],
+  "text": "Reach (This creature can block creatures with flying.)\nForestcycling {2}, plainscycling {2} ({2}, Discard this card: Search your library for a Forest or Plains card, reveal it, and put it into your hand. Then shuffle your library.)",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "pale recluse",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

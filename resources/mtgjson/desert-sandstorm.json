@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Desert Sandstorm",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Desert Sandstorm deals 1 damage to each creature.",
+  "imageName": "desert sandstorm",
+  "colorIdentity": [
+    "R"
+  ]
+}

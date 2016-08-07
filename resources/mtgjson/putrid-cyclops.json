@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Putrid Cyclops",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Cyclops",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Cyclops"
+  ],
+  "text": "When Putrid Cyclops enters the battlefield, scry 1, then reveal the top card of your library. Putrid Cyclops gets -X/-X until end of turn, where X is that card's converted mana cost. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "putrid cyclops",
+  "colorIdentity": [
+    "B"
+  ]
+}

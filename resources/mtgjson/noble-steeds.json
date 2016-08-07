@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Noble Steeds",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{1}{W}: Target creature gains first strike until end of turn.",
+  "imageName": "noble steeds",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Devout Monk",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Monk Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Monk",
+    "Cleric"
+  ],
+  "text": "When Devout Monk enters the battlefield, you gain 1 life.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "devout monk",
+  "colorIdentity": [
+    "W"
+  ]
+}

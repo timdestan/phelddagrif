@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Hearthcage Giant",
+  "manaCost": "{6}{R}{R}",
+  "cmc": 8,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Giant Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant",
+    "Warrior"
+  ],
+  "text": "When Hearthcage Giant enters the battlefield, put two 3/1 red Elemental Shaman creature tokens onto the battlefield.\nSacrifice an Elemental: Target Giant creature gets +3/+1 until end of turn.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "hearthcage giant",
+  "colorIdentity": [
+    "R"
+  ]
+}

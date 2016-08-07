@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Charm Peddler",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Spellshaper",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Spellshaper"
+  ],
+  "text": "{W}, {T}, Discard a card: The next time a source of your choice would deal damage to target creature this turn, prevent that damage.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "charm peddler",
+  "colorIdentity": [
+    "W"
+  ]
+}

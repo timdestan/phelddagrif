@@ -1,0 +1,31 @@
+{
+  "layout": "normal",
+  "name": "Gwendlyn Di Corci",
+  "manaCost": "{U}{B}{B}{R}",
+  "cmc": 4,
+  "colors": [
+    "Blue",
+    "Black",
+    "Red"
+  ],
+  "type": "Legendary Creature — Human Rogue",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "{T}: Target player discards a card at random. Activate this ability only during your turn.",
+  "power": "3",
+  "toughness": "5",
+  "imageName": "gwendlyn di corci",
+  "colorIdentity": [
+    "U",
+    "B",
+    "R"
+  ]
+}

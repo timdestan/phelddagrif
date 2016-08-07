@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rewind",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell. Untap up to four lands.",
+  "imageName": "rewind",
+  "colorIdentity": [
+    "U"
+  ]
+}

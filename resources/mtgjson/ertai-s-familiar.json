@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ertai's Familiar",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Illusion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Illusion"
+  ],
+  "text": "Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)\nWhen Ertai's Familiar phases out or leaves the battlefield, put the top three cards of your library into your graveyard.\n{U}: Until your next upkeep, Ertai's Familiar can't phase out.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "ertai's familiar",
+  "colorIdentity": [
+    "U"
+  ]
+}

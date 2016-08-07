@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Jor Kadeen, the Prevailer",
+  "manaCost": "{3}{R}{W}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Legendary Creature — Human Warrior",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "First strike\nMetalcraft — Creatures you control get +3/+0 as long as you control three or more artifacts.",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "jor kadeen, the prevailer",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

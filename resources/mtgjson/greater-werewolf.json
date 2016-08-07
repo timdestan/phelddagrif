@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Greater Werewolf",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Werewolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Werewolf"
+  ],
+  "text": "At end of combat, put a -0/-2 counter on each creature blocking or blocked by Greater Werewolf.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "greater werewolf",
+  "colorIdentity": [
+    "B"
+  ]
+}

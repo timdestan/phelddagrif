@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Hill Giant",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Giant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant"
+  ],
+  "power": "3",
+  "toughness": "3",
+  "imageName": "hill giant",
+  "colorIdentity": [
+    "R"
+  ]
+}

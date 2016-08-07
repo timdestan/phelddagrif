@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Morbid Plunder",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Return up to two target creature cards from your graveyard to your hand.",
+  "imageName": "morbid plunder",
+  "colorIdentity": [
+    "B"
+  ]
+}

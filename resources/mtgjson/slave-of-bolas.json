@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Slave of Bolas",
+  "manaCost": "{3}{U/R}{B}",
+  "cmc": 5,
+  "colors": [
+    "Blue",
+    "Black",
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Gain control of target creature. Untap that creature. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.",
+  "imageName": "slave of bolas",
+  "colorIdentity": [
+    "U",
+    "B",
+    "R"
+  ]
+}

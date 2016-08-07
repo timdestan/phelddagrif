@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Acidic Sliver",
+  "manaCost": "{B}{R}",
+  "cmc": 2,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "All Slivers have \"{2}, Sacrifice this permanent: This permanent deals 2 damage to target creature or player.\"",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "acidic sliver",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

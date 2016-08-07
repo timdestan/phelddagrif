@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Legerdemain",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Exchange control of target artifact or creature and another target permanent that shares one of those types with it. (This effect lasts indefinitely.)",
+  "imageName": "legerdemain",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Durkwood Tracker",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Giant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant"
+  ],
+  "text": "{1}{G}, {T}: If Durkwood Tracker is on the battlefield, it deals damage equal to its power to target attacking creature. That creature deals damage equal to its power to Durkwood Tracker.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "durkwood tracker",
+  "colorIdentity": [
+    "G"
+  ]
+}

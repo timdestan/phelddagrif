@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Manabond",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your end step, you may reveal your hand and put all land cards from it onto the battlefield. If you do, discard your hand.",
+  "imageName": "manabond",
+  "colorIdentity": [
+    "G"
+  ]
+}

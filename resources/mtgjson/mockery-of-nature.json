@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Mockery of Nature",
+  "manaCost": "{9}",
+  "cmc": 9,
+  "type": "Creature — Eldrazi Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Beast"
+  ],
+  "text": "Emerge {7}{G} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's converted mana cost.)\nWhen you cast Mockery of Nature, you may destroy target artifact or enchantment.",
+  "power": "6",
+  "toughness": "5",
+  "imageName": "mockery of nature",
+  "colorIdentity": [
+    "G"
+  ]
+}

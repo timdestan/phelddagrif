@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Azorius Guildgate",
+  "type": "Land — Gate",
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Gate"
+  ],
+  "text": "Azorius Guildgate enters the battlefield tapped.\n{T}: Add {W} or {U} to your mana pool.",
+  "imageName": "azorius guildgate",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

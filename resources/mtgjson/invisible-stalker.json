@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Invisible Stalker",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "Hexproof (This creature can't be the target of spells or abilities your opponents control.)\nInvisible Stalker can't be blocked.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "invisible stalker",
+  "colorIdentity": [
+    "U"
+  ]
+}

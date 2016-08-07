@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Dakmor Scorpion",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Scorpion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Scorpion"
+  ],
+  "power": "2",
+  "toughness": "1",
+  "imageName": "dakmor scorpion",
+  "colorIdentity": [
+    "B"
+  ]
+}

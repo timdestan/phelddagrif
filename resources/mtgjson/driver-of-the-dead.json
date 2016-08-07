@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Driver of the Dead",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire"
+  ],
+  "text": "When Driver of the Dead dies, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "driver of the dead",
+  "colorIdentity": [
+    "B"
+  ]
+}

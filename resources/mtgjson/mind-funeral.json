@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Mind Funeral",
+  "manaCost": "{1}{U}{B}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target opponent reveals cards from the top of his or her library until four land cards are revealed. That player puts all cards revealed this way into his or her graveyard.",
+  "imageName": "mind funeral",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

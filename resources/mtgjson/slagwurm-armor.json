@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Slagwurm Armor",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature gets +0/+6.\nEquip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)",
+  "imageName": "slagwurm armor"
+}

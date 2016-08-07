@@ -1,0 +1,13 @@
+{
+  "layout": "plane",
+  "name": "Takenuma",
+  "type": "Plane — Kamigawa",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Kamigawa"
+  ],
+  "text": "Whenever a creature leaves the battlefield, its controller draws a card.\nWhenever you roll CHAOS, return target creature you control to its owner's hand.",
+  "imageName": "takenuma"
+}

@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Ruthless Deathfang",
+  "manaCost": "{4}{U}{B}",
+  "cmc": 6,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying\nWhenever you sacrifice a creature, target opponent sacrifices a creature.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "ruthless deathfang",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

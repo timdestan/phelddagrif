@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Telekinesis",
+  "manaCost": "{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Tap target creature. Prevent all combat damage that would be dealt by that creature this turn. It doesn't untap during its controller's next two untap steps.",
+  "imageName": "telekinesis",
+  "colorIdentity": [
+    "U"
+  ]
+}

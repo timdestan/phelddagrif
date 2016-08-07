@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Pretender's Claim",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nWhenever enchanted creature becomes blocked, tap all lands defending player controls.",
+  "imageName": "pretender's claim",
+  "colorIdentity": [
+    "B"
+  ]
+}

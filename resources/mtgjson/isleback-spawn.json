@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Isleback Spawn",
+  "manaCost": "{5}{U}{U}",
+  "cmc": 7,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Kraken",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kraken"
+  ],
+  "text": "Shroud (This creature can't be the target of spells or abilities.)\nIsleback Spawn gets +4/+8 as long as a library has twenty or fewer cards in it.",
+  "power": "4",
+  "toughness": "8",
+  "imageName": "isleback spawn",
+  "colorIdentity": [
+    "U"
+  ]
+}

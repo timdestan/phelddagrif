@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Pardic Lancer",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Barbarian",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Barbarian"
+  ],
+  "text": "Discard a card at random: Pardic Lancer gets +1/+0 and gains first strike until end of turn.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "pardic lancer",
+  "colorIdentity": [
+    "R"
+  ]
+}

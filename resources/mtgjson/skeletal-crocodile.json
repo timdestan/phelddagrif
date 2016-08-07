@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Skeletal Crocodile",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Crocodile Skeleton",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Crocodile",
+    "Skeleton"
+  ],
+  "power": "5",
+  "toughness": "1",
+  "imageName": "skeletal crocodile",
+  "colorIdentity": [
+    "B"
+  ]
+}

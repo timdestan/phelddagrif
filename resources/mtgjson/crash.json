@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Crash",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "You may sacrifice a Mountain rather than pay Crash's mana cost.\nDestroy target artifact.",
+  "imageName": "crash",
+  "colorIdentity": [
+    "R"
+  ]
+}

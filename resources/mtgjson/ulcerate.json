@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ulcerate",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gets -3/-3 until end of turn. You lose 3 life.",
+  "imageName": "ulcerate",
+  "colorIdentity": [
+    "B"
+  ]
+}

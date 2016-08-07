@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Brass Gnat",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact Creature — Insect",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "Flying\nBrass Gnat doesn't untap during your untap step.\nAt the beginning of your upkeep, you may pay {1}. If you do, untap Brass Gnat.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "brass gnat"
+}

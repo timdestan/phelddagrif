@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Skeletal Snake",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Snake Skeleton",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Snake",
+    "Skeleton"
+  ],
+  "power": "2",
+  "toughness": "1",
+  "imageName": "skeletal snake",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Nullify",
+  "manaCost": "{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target creature or Aura spell.",
+  "imageName": "nullify",
+  "colorIdentity": [
+    "U"
+  ]
+}

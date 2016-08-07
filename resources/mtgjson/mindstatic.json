@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mindstatic",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell unless its controller pays {6}.",
+  "imageName": "mindstatic",
+  "colorIdentity": [
+    "U"
+  ]
+}

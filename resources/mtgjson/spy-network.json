@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Spy Network",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Look at target player's hand, the top card of that player's library, and any face-down creatures he or she controls. Look at the top four cards of your library, then put them back in any order.",
+  "imageName": "spy network",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Rhox Meditant",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Rhino Monk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rhino",
+    "Monk"
+  ],
+  "text": "When Rhox Meditant enters the battlefield, if you control a green permanent, draw a card.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "rhox meditant",
+  "colorIdentity": [
+    "W"
+  ]
+}

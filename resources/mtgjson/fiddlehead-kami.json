@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Fiddlehead Kami",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Whenever you cast a Spirit or Arcane spell, regenerate Fiddlehead Kami.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "fiddlehead kami",
+  "colorIdentity": [
+    "G"
+  ]
+}

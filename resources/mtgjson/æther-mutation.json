@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Æther Mutation",
+  "manaCost": "{3}{G}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Return target creature to its owner's hand. Put X 1/1 green Saproling creature tokens onto the battlefield, where X is that creature's converted mana cost.",
+  "imageName": "æther mutation",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

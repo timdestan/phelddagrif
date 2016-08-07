@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Magus of the Bazaar",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{T}: Draw two cards, then discard three cards.",
+  "power": "0",
+  "toughness": "1",
+  "imageName": "magus of the bazaar",
+  "colorIdentity": [
+    "U"
+  ]
+}

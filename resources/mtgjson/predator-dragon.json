@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Predator Dragon",
+  "manaCost": "{3}{R}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying, haste\nDevour 2 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.)",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "predator dragon",
+  "colorIdentity": [
+    "R"
+  ]
+}

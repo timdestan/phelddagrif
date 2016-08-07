@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Halimar Excavator",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard Ally",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard",
+    "Ally"
+  ],
+  "text": "Whenever Halimar Excavator or another Ally enters the battlefield under your control, target player puts the top X cards of his or her library into his or her graveyard, where X is the number of Allies you control.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "halimar excavator",
+  "colorIdentity": [
+    "U"
+  ]
+}

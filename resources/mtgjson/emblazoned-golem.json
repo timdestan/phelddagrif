@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Emblazoned Golem",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "Kicker {X} (You may pay an additional {X} as you cast this spell.)\nSpend only colored mana on X. No more than one mana of each color may be spent this way.\nIf Emblazoned Golem was kicked, it enters the battlefield with X +1/+1 counters on it.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "emblazoned golem"
+}

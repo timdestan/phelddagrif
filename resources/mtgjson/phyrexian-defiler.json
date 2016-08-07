@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Phyrexian Defiler",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Carrier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Carrier"
+  ],
+  "text": "{T}, Sacrifice Phyrexian Defiler: Target creature gets -3/-3 until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "phyrexian defiler",
+  "colorIdentity": [
+    "B"
+  ]
+}

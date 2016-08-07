@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Diamond Faerie Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "{S}: Target creature you control gets +1/+1 until end of turn.",
+  "imageName": "diamond faerie avatar",
+  "hand": 0,
+  "life": 5
+}

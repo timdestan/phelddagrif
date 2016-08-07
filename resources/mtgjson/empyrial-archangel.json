@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Empyrial Archangel",
+  "manaCost": "{4}{G}{W}{W}{U}",
+  "cmc": 8,
+  "colors": [
+    "White",
+    "Blue",
+    "Green"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nShroud (This creature can't be the target of spells or abilities.)\nAll damage that would be dealt to you is dealt to Empyrial Archangel instead.",
+  "power": "5",
+  "toughness": "8",
+  "imageName": "empyrial archangel",
+  "colorIdentity": [
+    "W",
+    "U",
+    "G"
+  ]
+}

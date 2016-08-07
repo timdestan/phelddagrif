@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Dive Bomber",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Bird Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird",
+    "Soldier"
+  ],
+  "text": "Flying\n{T}, Sacrifice Dive Bomber: Dive Bomber deals 2 damage to target attacking or blocking creature.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "dive bomber",
+  "colorIdentity": [
+    "W"
+  ]
+}

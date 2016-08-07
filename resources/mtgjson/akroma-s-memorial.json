@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Akroma's Memorial",
+  "manaCost": "{7}",
+  "cmc": 7,
+  "type": "Legendary Artifact",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Artifact"
+  ],
+  "text": "Creatures you control have flying, first strike, vigilance, trample, haste, and protection from black and from red.",
+  "imageName": "akroma's memorial"
+}

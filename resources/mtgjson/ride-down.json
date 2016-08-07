@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Ride Down",
+  "manaCost": "{R}{W}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target blocking creature. Creatures that were blocked by that creature this combat gain trample until end of turn.",
+  "imageName": "ride down",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

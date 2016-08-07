@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Vulshok Berserker",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Berserker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Berserker"
+  ],
+  "text": "Haste (This creature can attack and {T} as soon as it comes under your control.)",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "vulshok berserker",
+  "colorIdentity": [
+    "R"
+  ]
+}

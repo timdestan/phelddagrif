@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Deal Damage",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Deal Damage deals 4 damage to target creature or player.\nGotcha Whenever an opponent says \"Deal\" or \"Damage,\" you may say \"Gotcha\" If you do, return Deal Damage from your graveyard to your hand.",
+  "imageName": "deal damage",
+  "colorIdentity": [
+    "R"
+  ]
+}

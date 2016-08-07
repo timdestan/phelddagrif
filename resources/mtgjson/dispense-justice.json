@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dispense Justice",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target player sacrifices an attacking creature.\nMetalcraft — That player sacrifices two attacking creatures instead if you control three or more artifacts.",
+  "imageName": "dispense justice",
+  "colorIdentity": [
+    "W"
+  ]
+}

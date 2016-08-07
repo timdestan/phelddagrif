@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Sunstrike Legionnaire",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Sunstrike Legionnaire doesn't untap during your untap step.\nWhenever another creature enters the battlefield, untap Sunstrike Legionnaire.\n{T}: Tap target creature with converted mana cost 3 or less.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "sunstrike legionnaire",
+  "colorIdentity": [
+    "W"
+  ]
+}

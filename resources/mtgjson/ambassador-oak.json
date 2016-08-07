@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ambassador Oak",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Treefolk Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Treefolk",
+    "Warrior"
+  ],
+  "text": "When Ambassador Oak enters the battlefield, put a 1/1 green Elf Warrior creature token onto the battlefield.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "ambassador oak",
+  "colorIdentity": [
+    "G"
+  ]
+}

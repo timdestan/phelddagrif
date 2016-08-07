@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Skyhunter Cub",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Cat Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat",
+    "Knight"
+  ],
+  "text": "As long as Skyhunter Cub is equipped, it gets +1/+1 and has flying.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "skyhunter cub",
+  "colorIdentity": [
+    "W"
+  ]
+}

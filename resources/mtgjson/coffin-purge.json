@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Coffin Purge",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Exile target card from a graveyard.\nFlashback {B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "coffin purge",
+  "colorIdentity": [
+    "B"
+  ]
+}

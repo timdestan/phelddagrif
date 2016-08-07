@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Thornwatch Scarecrow",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Artifact Creature — Scarecrow",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Scarecrow"
+  ],
+  "text": "Thornwatch Scarecrow has wither as long as you control a green creature. (It deals damage to creatures in the form of -1/-1 counters.)\nThornwatch Scarecrow has vigilance as long as you control a white creature.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "thornwatch scarecrow"
+}

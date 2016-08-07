@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Irradiate",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature gets -1/-1 until end of turn for each artifact you control.",
+  "imageName": "irradiate",
+  "colorIdentity": [
+    "B"
+  ]
+}

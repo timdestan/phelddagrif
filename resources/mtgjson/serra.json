@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Serra",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "Creatures you control get +0/+2.",
+  "imageName": "serra",
+  "hand": 1,
+  "life": 1
+}

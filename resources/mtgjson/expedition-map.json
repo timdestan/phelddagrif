@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Expedition Map",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, {T}, Sacrifice Expedition Map: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.",
+  "imageName": "expedition map"
+}

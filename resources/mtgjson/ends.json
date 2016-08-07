@@ -1,0 +1,25 @@
+{
+  "layout": "split",
+  "name": "Ends",
+  "names": [
+    "Odds",
+    "Ends"
+  ],
+  "manaCost": "{3}{R}{W}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target player sacrifices two attacking creatures.",
+  "imageName": "ends",
+  "colorIdentity": [
+    "W",
+    "R",
+    "U"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Impaler Shrike",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\nWhenever Impaler Shrike deals combat damage to a player, you may sacrifice it. If you do, draw three cards.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "impaler shrike",
+  "colorIdentity": [
+    "U"
+  ]
+}

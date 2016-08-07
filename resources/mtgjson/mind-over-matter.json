@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mind Over Matter",
+  "manaCost": "{2}{U}{U}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Discard a card: You may tap or untap target artifact, creature, or land.",
+  "imageName": "mind over matter",
+  "colorIdentity": [
+    "U"
+  ]
+}

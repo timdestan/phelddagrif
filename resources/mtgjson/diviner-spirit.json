@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Diviner Spirit",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Whenever Diviner Spirit deals combat damage to a player, you and that player each draw that many cards.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "diviner spirit",
+  "colorIdentity": [
+    "U"
+  ]
+}

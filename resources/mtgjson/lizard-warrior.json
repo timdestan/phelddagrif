@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Lizard Warrior",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Lizard Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Lizard",
+    "Warrior"
+  ],
+  "power": "4",
+  "toughness": "2",
+  "imageName": "lizard warrior",
+  "colorIdentity": [
+    "R"
+  ]
+}

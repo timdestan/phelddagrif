@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kozilek's Predator",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Eldrazi Drone",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Drone"
+  ],
+  "text": "When Kozilek's Predator enters the battlefield, put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have \"Sacrifice this creature: Add {C} to your mana pool.\"",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "kozilek's predator",
+  "colorIdentity": [
+    "G"
+  ]
+}

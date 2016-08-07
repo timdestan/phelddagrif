@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Whitewater Naiads",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment Creature — Nymph",
+  "types": [
+    "Enchantment",
+    "Creature"
+  ],
+  "subtypes": [
+    "Nymph"
+  ],
+  "text": "Constellation — Whenever Whitewater Naiads or another enchantment enters the battlefield under your control, target creature can't be blocked this turn.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "whitewater naiads",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Shrike Harpy",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Harpy",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Harpy"
+  ],
+  "text": "Flying\nTribute 2 (As this creature enters the battlefield, an opponent of your choice may place two +1/+1 counters on it.)\nWhen Shrike Harpy enters the battlefield, if tribute wasn't paid, target opponent sacrifices a creature.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "shrike harpy",
+  "colorIdentity": [
+    "B"
+  ]
+}

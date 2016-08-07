@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Incurable Ogre",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Ogre Mutant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ogre",
+    "Mutant"
+  ],
+  "power": "5",
+  "toughness": "1",
+  "imageName": "incurable ogre",
+  "colorIdentity": [
+    "R"
+  ]
+}

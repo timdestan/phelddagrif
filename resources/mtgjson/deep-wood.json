@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Deep Wood",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Cast Deep Wood only during the declare attackers step and only if you've been attacked this step.\nPrevent all damage that would be dealt to you this turn by attacking creatures.",
+  "imageName": "deep wood",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Nature's Revolt",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "All lands are 2/2 creatures that are still lands.",
+  "imageName": "nature's revolt",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Invert the Skies",
+  "manaCost": "{3}{G/U}",
+  "cmc": 4,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Creatures your opponents control lose flying until end of turn if {G} was spent to cast Invert the Skies, and creatures you control gain flying until end of turn if {U} was spent to cast it. (Do both if {G}{U} was spent.)",
+  "imageName": "invert the skies",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

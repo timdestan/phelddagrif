@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Saprazzan Heir",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Merfolk",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk"
+  ],
+  "text": "Whenever Saprazzan Heir becomes blocked, you may draw three cards.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "saprazzan heir",
+  "colorIdentity": [
+    "U"
+  ]
+}

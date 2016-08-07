@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Leonin Sun Standard",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{1}{W}: Creatures you control get +1/+1 until end of turn.",
+  "imageName": "leonin sun standard",
+  "colorIdentity": [
+    "W"
+  ]
+}

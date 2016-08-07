@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Desperate Stand",
+  "manaCost": "{R}{W}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Strive — Desperate Stand costs {R}{W} more to cast for each target beyond the first.\nAny number of target creatures each get +2/+0 and gain first strike and vigilance until end of turn.",
+  "imageName": "desperate stand",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Conclave Naturalists",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Dryad",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dryad"
+  ],
+  "text": "When Conclave Naturalists enters the battlefield, you may destroy target artifact or enchantment.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "conclave naturalists",
+  "colorIdentity": [
+    "G"
+  ]
+}

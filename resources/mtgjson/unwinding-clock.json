@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Unwinding Clock",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Untap all artifacts you control during each other player's untap step.",
+  "imageName": "unwinding clock"
+}

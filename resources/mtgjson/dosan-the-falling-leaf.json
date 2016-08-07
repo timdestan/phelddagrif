@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Dosan the Falling Leaf",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Legendary Creature — Human Monk",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Monk"
+  ],
+  "text": "Players can cast spells only during their own turns.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "dosan the falling leaf",
+  "colorIdentity": [
+    "G"
+  ]
+}

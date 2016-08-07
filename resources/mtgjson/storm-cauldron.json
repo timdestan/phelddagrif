@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Storm Cauldron",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Each player may play an additional land during each of his or her turns.\nWhenever a land is tapped for mana, return it to its owner's hand.",
+  "imageName": "storm cauldron"
+}

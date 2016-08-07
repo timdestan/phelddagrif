@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Devils' Playground",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put four 1/1 red Devil creature tokens onto the battlefield. They have \"When this creature dies, it deals 1 damage to target creature or player.\"",
+  "imageName": "devils' playground",
+  "colorIdentity": [
+    "R"
+  ]
+}

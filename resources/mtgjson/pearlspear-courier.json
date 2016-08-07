@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Pearlspear Courier",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "You may choose not to untap Pearlspear Courier during your untap step.\n{2}{W}, {T}: Target Soldier creature gets +2/+2 and has vigilance for as long as Pearlspear Courier remains tapped.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "pearlspear courier",
+  "colorIdentity": [
+    "W"
+  ]
+}

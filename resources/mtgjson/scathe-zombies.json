@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Scathe Zombies",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "power": "2",
+  "toughness": "2",
+  "imageName": "scathe zombies",
+  "colorIdentity": [
+    "B"
+  ]
+}

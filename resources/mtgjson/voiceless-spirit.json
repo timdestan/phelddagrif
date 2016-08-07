@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Voiceless Spirit",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying, first strike",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "voiceless spirit",
+  "colorIdentity": [
+    "W"
+  ]
+}

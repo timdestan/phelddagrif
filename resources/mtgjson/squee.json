@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Squee",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "Your opponents play with their hands revealed.",
+  "imageName": "squee",
+  "hand": 3,
+  "life": -4
+}

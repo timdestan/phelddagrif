@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ezuri's Brigade",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Warrior"
+  ],
+  "text": "Metalcraft — As long as you control three or more artifacts, Ezuri's Brigade gets +4/+4 and has trample.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "ezuri's brigade",
+  "colorIdentity": [
+    "G"
+  ]
+}

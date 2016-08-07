@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Armory of Iroas",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Whenever equipped creature attacks, put a +1/+1 counter on it.\nEquip {2}",
+  "imageName": "armory of iroas"
+}

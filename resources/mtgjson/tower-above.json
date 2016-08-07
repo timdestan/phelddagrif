@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Tower Above",
+  "manaCost": "{2/G}{2/G}{2/G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "({2/G} can be paid with any two mana or with {G}. This card's converted mana cost is 6.)\nUntil end of turn, target creature gets +4/+4 and gains trample, wither, and \"When this creature attacks, target creature blocks it this turn if able.\" (It deals damage to creatures in the form of -1/-1 counters.)",
+  "imageName": "tower above",
+  "colorIdentity": [
+    "G"
+  ]
+}

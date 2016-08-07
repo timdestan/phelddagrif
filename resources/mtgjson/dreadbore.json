@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Dreadbore",
+  "manaCost": "{B}{R}",
+  "cmc": 2,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target creature or planeswalker.",
+  "imageName": "dreadbore",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

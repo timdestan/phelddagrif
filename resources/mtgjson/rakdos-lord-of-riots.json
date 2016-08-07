@@ -1,0 +1,28 @@
+{
+  "layout": "normal",
+  "name": "Rakdos, Lord of Riots",
+  "manaCost": "{B}{B}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Legendary Creature — Demon",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon"
+  ],
+  "text": "You can't cast Rakdos, Lord of Riots unless an opponent lost life this turn.\nFlying, trample\nCreature spells you cast cost {1} less to cast for each 1 life your opponents have lost this turn.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "rakdos, lord of riots",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

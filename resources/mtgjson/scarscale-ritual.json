@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Scarscale Ritual",
+  "manaCost": "{1}{U/B}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "As an additional cost to cast Scarscale Ritual, put a -1/-1 counter on a creature you control.\nDraw two cards.",
+  "imageName": "scarscale ritual",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

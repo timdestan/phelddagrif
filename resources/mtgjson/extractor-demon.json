@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Extractor Demon",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Demon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon"
+  ],
+  "text": "Flying\nWhenever another creature leaves the battlefield, you may have target player put the top two cards of his or her library into his or her graveyard.\nUnearth {2}{B} ({2}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "extractor demon",
+  "colorIdentity": [
+    "B"
+  ]
+}

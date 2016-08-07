@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Requiem Angel",
+  "manaCost": "{5}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nWhenever another non-Spirit creature you control dies, put a 1/1 white Spirit creature token with flying onto the battlefield.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "requiem angel",
+  "colorIdentity": [
+    "W"
+  ]
+}

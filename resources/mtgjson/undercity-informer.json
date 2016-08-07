@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Undercity Informer",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "{1}, Sacrifice a creature: Target player reveals cards from the top of his or her library until he or she reveals a land card, then puts those cards into his or her graveyard.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "undercity informer",
+  "colorIdentity": [
+    "B"
+  ]
+}

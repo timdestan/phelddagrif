@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Goblin Sappers",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "{R}{R}, {T}: Target creature you control can't be blocked this turn. Destroy it and Goblin Sappers at end of combat.\n{R}{R}{R}{R}, {T}: Target creature you control can't be blocked this turn. Destroy it at end of combat.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "goblin sappers",
+  "colorIdentity": [
+    "R"
+  ]
+}

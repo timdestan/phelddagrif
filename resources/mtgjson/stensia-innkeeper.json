@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Stensia Innkeeper",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Vampire",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire"
+  ],
+  "text": "When Stensia Innkeeper enters the battlefield, tap target land an opponent controls. That land doesn't untap during its controller's next untap step.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "stensia innkeeper",
+  "colorIdentity": [
+    "R"
+  ]
+}

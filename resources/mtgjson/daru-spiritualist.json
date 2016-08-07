@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Daru Spiritualist",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "Whenever a Cleric creature you control becomes the target of a spell or ability, it gets +0/+2 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "daru spiritualist",
+  "colorIdentity": [
+    "W"
+  ]
+}

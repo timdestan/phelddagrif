@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Winter's Chill",
+  "manaCost": "{X}{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Cast Winter's Chill only during combat before blockers are declared.\nX can't be greater than the number of snow lands you control.\nChoose X target attacking creatures. For each of those creatures, its controller may pay {1} or {2}. If that player doesn't, destroy that creature at end of combat. If that player pays only {1}, prevent all combat damage that would be dealt to and dealt by that creature this combat.",
+  "imageName": "winter's chill",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Tormod's Crypt",
+  "manaCost": "{0}",
+  "cmc": 0,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}, Sacrifice Tormod's Crypt: Exile all cards from target player's graveyard.",
+  "imageName": "tormod's crypt"
+}

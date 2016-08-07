@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Anaba Spirit Crafter",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Minotaur Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Minotaur",
+    "Shaman"
+  ],
+  "text": "Minotaur creatures get +1/+0.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "anaba spirit crafter",
+  "colorIdentity": [
+    "R"
+  ]
+}

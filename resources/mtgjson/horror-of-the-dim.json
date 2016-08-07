@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Horror of the Dim",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "{U}: Horror of the Dim gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "horror of the dim",
+  "colorIdentity": [
+    "B",
+    "U"
+  ]
+}

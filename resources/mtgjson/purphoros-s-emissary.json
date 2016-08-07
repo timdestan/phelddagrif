@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Purphoros's Emissary",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment Creature — Ox",
+  "types": [
+    "Enchantment",
+    "Creature"
+  ],
+  "subtypes": [
+    "Ox"
+  ],
+  "text": "Bestow {6}{R} (If you cast this card for its bestow cost, it's an Aura spell with enchant creature. It becomes a creature again if it's not attached to a creature.)\nMenace (This creature can't be blocked except by two or more creatures.)\nEnchanted creature gets +3/+3 and has menace.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "purphoros's emissary",
+  "colorIdentity": [
+    "R"
+  ]
+}

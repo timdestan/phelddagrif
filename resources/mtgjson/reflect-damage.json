@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Reflect Damage",
+  "manaCost": "{3}{R}{W}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "The next time a source of your choice would deal damage this turn, that damage is dealt to that source's controller instead.",
+  "imageName": "reflect damage",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

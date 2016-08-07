@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Phyrexian Devourer",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Artifact Creature — Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "text": "When Phyrexian Devourer's power is 7 or greater, sacrifice it.\nExile the top card of your library: Put X +1/+1 counters on Phyrexian Devourer, where X is the exiled card's converted mana cost.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "phyrexian devourer"
+}

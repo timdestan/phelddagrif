@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Goblin Fireslinger",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Warrior"
+  ],
+  "text": "{T}: Goblin Fireslinger deals 1 damage to target player.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "goblin fireslinger",
+  "colorIdentity": [
+    "R"
+  ]
+}

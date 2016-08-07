@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Gateway Shade",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Shade",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Shade"
+  ],
+  "text": "{B}: Gateway Shade gets +1/+1 until end of turn.\nTap an untapped Gate you control: Gateway Shade gets +2/+2 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "gateway shade",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Marble Titan",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Giant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant"
+  ],
+  "text": "Creatures with power 3 or greater don't untap during their controllers' untap steps.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "marble titan",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Essence Scatter",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target creature spell.",
+  "imageName": "essence scatter",
+  "colorIdentity": [
+    "U"
+  ]
+}

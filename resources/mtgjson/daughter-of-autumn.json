@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Daughter of Autumn",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Legendary Creature — Avatar",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Avatar"
+  ],
+  "text": "{W}: The next 1 damage that would be dealt to target white creature this turn is dealt to Daughter of Autumn instead.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "daughter of autumn",
+  "colorIdentity": [
+    "G",
+    "W"
+  ]
+}

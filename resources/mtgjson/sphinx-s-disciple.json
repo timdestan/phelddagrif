@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Sphinx's Disciple",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Flying\nInspired — Whenever Sphinx's Disciple becomes untapped, draw a card.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "sphinx's disciple",
+  "colorIdentity": [
+    "U"
+  ]
+}

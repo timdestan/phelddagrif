@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Kalemne, Disciple of Iroas",
+  "manaCost": "{2}{R}{W}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Legendary Creature — Giant Soldier",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant",
+    "Soldier"
+  ],
+  "text": "Double strike, vigilance\nWhenever you cast a creature spell with converted mana cost 5 or greater, you get an experience counter.\nKalemne, Disciple of Iroas gets +1/+1 for each experience counter you have.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "kalemne, disciple of iroas",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

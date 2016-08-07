@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Heckling Fiends",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Devil",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Devil"
+  ],
+  "text": "{2}{R}: Target creature attacks this turn if able.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "heckling fiends",
+  "colorIdentity": [
+    "R"
+  ]
+}

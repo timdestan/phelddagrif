@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Wildheart Invoker",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Shaman"
+  ],
+  "text": "{8}: Target creature gets +5/+5 and gains trample until end of turn.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "wildheart invoker",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Soul Strings",
+  "manaCost": "{X}{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Return two target creature cards from your graveyard to your hand unless any player pays {X}.",
+  "imageName": "soul strings",
+  "colorIdentity": [
+    "B"
+  ]
+}

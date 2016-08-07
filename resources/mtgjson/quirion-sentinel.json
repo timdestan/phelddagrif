@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Quirion Sentinel",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Druid"
+  ],
+  "text": "When Quirion Sentinel enters the battlefield, add one mana of any color to your mana pool.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "quirion sentinel",
+  "colorIdentity": [
+    "G"
+  ]
+}

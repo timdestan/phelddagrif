@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Errant Doomsayers",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Rebel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rebel"
+  ],
+  "text": "{T}: Tap target creature with toughness 2 or less.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "errant doomsayers",
+  "colorIdentity": [
+    "W"
+  ]
+}

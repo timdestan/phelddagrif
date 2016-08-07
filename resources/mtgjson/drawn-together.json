@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Drawn Together",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "As Drawn Together comes into play, choose an artist.\nCreatures by the chosen artist get +2/+2.",
+  "imageName": "drawn together",
+  "colorIdentity": [
+    "W"
+  ]
+}

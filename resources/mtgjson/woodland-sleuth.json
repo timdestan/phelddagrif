@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Woodland Sleuth",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Scout",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Scout"
+  ],
+  "text": "Morbid — When Woodland Sleuth enters the battlefield, if a creature died this turn, return a creature card at random from your graveyard to your hand.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "woodland sleuth",
+  "colorIdentity": [
+    "G"
+  ]
+}

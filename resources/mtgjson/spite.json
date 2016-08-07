@@ -1,0 +1,23 @@
+{
+  "layout": "split",
+  "name": "Spite",
+  "names": [
+    "Spite",
+    "Malice"
+  ],
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target noncreature spell.",
+  "imageName": "spite",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

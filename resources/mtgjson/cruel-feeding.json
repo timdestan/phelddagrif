@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Cruel Feeding",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Strive — Cruel Feeding costs {2}{B} more to cast for each target beyond the first.\nAny number of target creatures each get +1/+0 and gain lifelink until end of turn. (Damage dealt by a creature with lifelink also causes its controller to gain that much life.)",
+  "imageName": "cruel feeding",
+  "colorIdentity": [
+    "B"
+  ]
+}

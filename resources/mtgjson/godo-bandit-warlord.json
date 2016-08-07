@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Godo, Bandit Warlord",
+  "manaCost": "{5}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Creature — Human Barbarian",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Barbarian"
+  ],
+  "text": "When Godo, Bandit Warlord enters the battlefield, you may search your library for an Equipment card and put it onto the battlefield. If you do, shuffle your library.\nWhenever Godo attacks for the first time each turn, untap it and all Samurai you control. After this phase, there is an additional combat phase.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "godo, bandit warlord",
+  "colorIdentity": [
+    "R"
+  ]
+}

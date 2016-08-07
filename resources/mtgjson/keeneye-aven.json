@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Keeneye Aven",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Bird Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird",
+    "Soldier"
+  ],
+  "text": "Flying\nCycling {2} ({2}, Discard this card: Draw a card.)",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "keeneye aven",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Frenetic Ogre",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Ogre",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ogre"
+  ],
+  "text": "{R}, Discard a card at random: Frenetic Ogre gets +3/+0 until end of turn.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "frenetic ogre",
+  "colorIdentity": [
+    "R"
+  ]
+}

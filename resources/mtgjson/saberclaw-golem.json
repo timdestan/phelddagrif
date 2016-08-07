@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Saberclaw Golem",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact Creature — Golem",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Golem"
+  ],
+  "text": "{R}: Saberclaw Golem gains first strike until end of turn.",
+  "power": "4",
+  "toughness": "2",
+  "imageName": "saberclaw golem",
+  "colorIdentity": [
+    "R"
+  ]
+}

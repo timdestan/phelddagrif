@@ -1,0 +1,10 @@
+{
+  "layout": "scheme",
+  "name": "My Crushing Masterstroke",
+  "type": "Scheme",
+  "types": [
+    "Scheme"
+  ],
+  "text": "When you set this scheme in motion, gain control of all nonland permanents your opponents control until end of turn. Untap those permanents. They gain haste until end of turn. Each of them attacks its owner this turn if able.",
+  "imageName": "my crushing masterstroke"
+}

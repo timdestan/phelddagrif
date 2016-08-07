@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Heavy Fog",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Cast Heavy Fog only during the declare attackers step and only if you've been attacked this step.\nPrevent all damage that would be dealt to you this turn by attacking creatures.",
+  "imageName": "heavy fog",
+  "colorIdentity": [
+    "G"
+  ]
+}

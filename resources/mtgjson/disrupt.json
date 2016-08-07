@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Disrupt",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target instant or sorcery spell unless its controller pays {1}.\nDraw a card.",
+  "imageName": "disrupt",
+  "colorIdentity": [
+    "U"
+  ]
+}

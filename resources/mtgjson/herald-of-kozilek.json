@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Herald of Kozilek",
+  "manaCost": "{1}{U}{R}",
+  "cmc": 3,
+  "type": "Creature — Eldrazi Drone",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi",
+    "Drone"
+  ],
+  "text": "Devoid (This card has no color.)\nColorless spells you cast cost {1} less to cast.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "herald of kozilek",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

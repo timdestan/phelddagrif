@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Qasali Pridemage",
+  "manaCost": "{G}{W}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Cat Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat",
+    "Wizard"
+  ],
+  "text": "Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)\n{1}, Sacrifice Qasali Pridemage: Destroy target artifact or enchantment.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "qasali pridemage",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

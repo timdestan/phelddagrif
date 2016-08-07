@@ -1,0 +1,28 @@
+{
+  "layout": "double-faced",
+  "name": "Wayward Disciple",
+  "names": [
+    "Pious Evangel",
+    "Wayward Disciple"
+  ],
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "Whenever Wayward Disciple or another creature you control dies, target opponent loses 1 life and you gain 1 life.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "wayward disciple",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

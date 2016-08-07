@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Viridian Betrayers",
+  "manaCost": "{1}{G}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Warrior"
+  ],
+  "text": "Viridian Betrayers has infect as long as an opponent is poisoned. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "viridian betrayers",
+  "colorIdentity": [
+    "G"
+  ]
+}

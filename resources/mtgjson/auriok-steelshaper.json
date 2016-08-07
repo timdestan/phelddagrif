@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Auriok Steelshaper",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Equip costs you pay cost {1} less.\nAs long as Auriok Steelshaper is equipped, each creature you control that's a Soldier or a Knight gets +1/+1.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "auriok steelshaper",
+  "colorIdentity": [
+    "W"
+  ]
+}

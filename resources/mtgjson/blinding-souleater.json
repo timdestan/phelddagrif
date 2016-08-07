@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Blinding Souleater",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Cleric",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Cleric"
+  ],
+  "text": "{W/P}, {T}: Tap target creature. ({W/P} can be paid with either {W} or 2 life.)",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "blinding souleater",
+  "colorIdentity": [
+    "W"
+  ]
+}

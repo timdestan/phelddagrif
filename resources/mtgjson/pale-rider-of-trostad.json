@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Pale Rider of Trostad",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Skulk (This creature can't be blocked by creatures with greater power.)\nWhen Pale Rider of Trostad enters the battlefield, discard a card.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "pale rider of trostad",
+  "colorIdentity": [
+    "B"
+  ]
+}

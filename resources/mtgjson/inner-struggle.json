@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Inner Struggle",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature deals damage to itself equal to its power.",
+  "imageName": "inner struggle",
+  "colorIdentity": [
+    "R"
+  ]
+}

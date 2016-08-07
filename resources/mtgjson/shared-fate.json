@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Shared Fate",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "If a player would draw a card, that player exiles the top card of one of his or her opponents' libraries face down instead.\nEach player may look at and play cards he or she exiled with Shared Fate.",
+  "imageName": "shared fate",
+  "colorIdentity": [
+    "U"
+  ]
+}

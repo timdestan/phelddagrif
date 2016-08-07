@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Godhunter Octopus",
+  "manaCost": "{5}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Octopus",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Octopus"
+  ],
+  "text": "Godhunter Octopus can't attack unless defending player controls an enchantment or an enchanted permanent.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "godhunter octopus",
+  "colorIdentity": [
+    "U"
+  ]
+}

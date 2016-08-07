@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Angelfire Crusader",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier",
+    "Knight"
+  ],
+  "text": "{R}: Angelfire Crusader gets +1/+0 until end of turn.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "angelfire crusader",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

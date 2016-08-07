@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Elderscale Wurm",
+  "manaCost": "{4}{G}{G}{G}",
+  "cmc": 7,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "text": "Trample\nWhen Elderscale Wurm enters the battlefield, if your life total is less than 7, your life total becomes 7.\nAs long as you have 7 or more life, damage that would reduce your life total to less than 7 reduces it to 7 instead.",
+  "power": "7",
+  "toughness": "7",
+  "imageName": "elderscale wurm",
+  "colorIdentity": [
+    "G"
+  ]
+}

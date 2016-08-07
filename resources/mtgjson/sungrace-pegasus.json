@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Sungrace Pegasus",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Pegasus",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Pegasus"
+  ],
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nLifelink (Damage dealt by this creature also causes you to gain that much life.)",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "sungrace pegasus",
+  "colorIdentity": [
+    "W"
+  ]
+}

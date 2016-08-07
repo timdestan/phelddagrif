@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Winnower Patrol",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Warrior"
+  ],
+  "text": "Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Winnower Patrol, you may reveal it. If you do, put a +1/+1 counter on Winnower Patrol.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "winnower patrol",
+  "colorIdentity": [
+    "G"
+  ]
+}

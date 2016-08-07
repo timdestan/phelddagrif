@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Staff of Nin",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "At the beginning of your upkeep, draw a card.\n{T}: Staff of Nin deals 1 damage to target creature or player.",
+  "imageName": "staff of nin"
+}

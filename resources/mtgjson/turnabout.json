@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Turnabout",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose artifact, creature, or land. Tap all untapped permanents of the chosen type target player controls, or untap all tapped permanents of that type that player controls.",
+  "imageName": "turnabout",
+  "colorIdentity": [
+    "U"
+  ]
+}

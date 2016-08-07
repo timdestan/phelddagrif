@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sliversmith",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact Creature — Spellshaper",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Spellshaper"
+  ],
+  "text": "{1}, {T}, Discard a card: Put a 1/1 colorless Sliver artifact creature token named Metallic Sliver onto the battlefield.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "sliversmith"
+}

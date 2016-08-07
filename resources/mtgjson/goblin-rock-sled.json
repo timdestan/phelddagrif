@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Goblin Rock Sled",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "Trample\nGoblin Rock Sled doesn't untap during your untap step if it attacked during your last turn.\nGoblin Rock Sled can't attack unless defending player controls a Mountain.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "goblin rock sled",
+  "colorIdentity": [
+    "R"
+  ]
+}

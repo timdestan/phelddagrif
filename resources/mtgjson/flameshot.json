@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Flameshot",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "You may discard a Mountain card rather than pay Flameshot's mana cost.\nFlameshot deals 3 damage divided as you choose among one, two, or three target creatures.",
+  "imageName": "flameshot",
+  "colorIdentity": [
+    "R"
+  ]
+}

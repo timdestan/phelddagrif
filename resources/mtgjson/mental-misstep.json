@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mental Misstep",
+  "manaCost": "{U/P}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "({U/P} can be paid with either {U} or 2 life.)\nCounter target spell with converted mana cost 1.",
+  "imageName": "mental misstep",
+  "colorIdentity": [
+    "U"
+  ]
+}

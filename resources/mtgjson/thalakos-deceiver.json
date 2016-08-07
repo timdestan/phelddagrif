@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Thalakos Deceiver",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Thalakos Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Thalakos",
+    "Wizard"
+  ],
+  "text": "Shadow (This creature can block or be blocked by only creatures with shadow.)\nWhenever Thalakos Deceiver attacks and isn't blocked, you may sacrifice it. If you do, gain control of target creature. (This effect lasts indefinitely.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "thalakos deceiver",
+  "colorIdentity": [
+    "U"
+  ]
+}

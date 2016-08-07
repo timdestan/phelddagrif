@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Descendant of Kiyomaro",
+  "manaCost": "{1}{W}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "As long as you have more cards in hand than each opponent, Descendant of Kiyomaro gets +1/+2 and has \"Whenever this creature deals combat damage, you gain 3 life.\"",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "descendant of kiyomaro",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Repentant Blacksmith",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human"
+  ],
+  "text": "Protection from red",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "repentant blacksmith",
+  "colorIdentity": [
+    "W"
+  ]
+}

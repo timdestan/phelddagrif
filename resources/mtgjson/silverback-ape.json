@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Silverback Ape",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Ape",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ape"
+  ],
+  "power": "5",
+  "toughness": "5",
+  "imageName": "silverback ape",
+  "starter": true,
+  "colorIdentity": [
+    "G"
+  ]
+}

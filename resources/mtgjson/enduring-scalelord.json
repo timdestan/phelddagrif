@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Enduring Scalelord",
+  "manaCost": "{4}{G}{W}",
+  "cmc": 6,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying\nWhenever one or more +1/+1 counters are placed on another creature you control, you may put a +1/+1 counter on Enduring Scalelord.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "enduring scalelord",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

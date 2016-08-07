@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Cascade Bluffs",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{U/R}, {T}: Add {U}{U}, {U}{R}, or {R}{R} to your mana pool.",
+  "imageName": "cascade bluffs",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

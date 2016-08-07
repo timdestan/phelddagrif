@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Gate to the Æther",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "At the beginning of each player's upkeep, that player reveals the top card of his or her library. If it's an artifact, creature, enchantment, or land card, the player may put it onto the battlefield.",
+  "imageName": "gate to the æther"
+}

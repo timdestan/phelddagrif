@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kessig Malcontents",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "When Kessig Malcontents enters the battlefield, it deals damage to target player equal to the number of Humans you control.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "kessig malcontents",
+  "colorIdentity": [
+    "R"
+  ]
+}

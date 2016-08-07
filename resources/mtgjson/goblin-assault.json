@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Goblin Assault",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, put a 1/1 red Goblin creature token with haste onto the battlefield.\nGoblin creatures attack each turn if able.",
+  "imageName": "goblin assault",
+  "colorIdentity": [
+    "R"
+  ]
+}

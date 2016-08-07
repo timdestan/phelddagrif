@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Giant Albatross",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\nWhen Giant Albatross dies, you may pay {1}{U}. If you do, for each creature that dealt damage to Giant Albatross this turn, destroy that creature unless its controller pays 2 life. A creature destroyed this way can't be regenerated.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "giant albatross",
+  "colorIdentity": [
+    "U"
+  ]
+}

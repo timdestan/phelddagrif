@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Kraken Hatchling",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Kraken",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kraken"
+  ],
+  "power": "0",
+  "toughness": "4",
+  "imageName": "kraken hatchling",
+  "colorIdentity": [
+    "U"
+  ]
+}

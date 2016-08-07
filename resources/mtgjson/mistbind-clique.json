@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Mistbind Clique",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Faerie Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Faerie",
+    "Wizard"
+  ],
+  "text": "Flash\nFlying\nChampion a Faerie (When this enters the battlefield, sacrifice it unless you exile another Faerie you control. When this leaves the battlefield, that card returns to the battlefield.)\nWhen a Faerie is championed with Mistbind Clique, tap all lands target player controls.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "mistbind clique",
+  "colorIdentity": [
+    "U"
+  ]
+}

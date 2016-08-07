@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Shared Triumph",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "As Shared Triumph enters the battlefield, choose a creature type.\nCreatures of the chosen type get +1/+1.",
+  "imageName": "shared triumph",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Raksha Golden Cub Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "Creatures you control get +0/+1.\nEquipped creatures you control get +1/+0 and have first strike.",
+  "imageName": "raksha golden cub avatar",
+  "hand": 1,
+  "life": 9
+}

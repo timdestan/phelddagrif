@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Izzet Guildmage",
+  "manaCost": "{U/R}{U/R}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "({U/R} can be paid with either {U} or {R}.)\n{2}{U}: Copy target instant spell you control with converted mana cost 2 or less. You may choose new targets for the copy.\n{2}{R}: Copy target sorcery spell you control with converted mana cost 2 or less. You may choose new targets for the copy.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "izzet guildmage",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Spellstutter Sprite",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Faerie Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Faerie",
+    "Wizard"
+  ],
+  "text": "Flash\nFlying\nWhen Spellstutter Sprite enters the battlefield, counter target spell with converted mana cost X or less, where X is the number of Faeries you control.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "spellstutter sprite",
+  "colorIdentity": [
+    "U"
+  ]
+}

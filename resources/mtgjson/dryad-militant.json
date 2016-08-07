@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Dryad Militant",
+  "manaCost": "{G/W}",
+  "cmc": 1,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Dryad Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dryad",
+    "Soldier"
+  ],
+  "text": "If an instant or sorcery card would be put into a graveyard from anywhere, exile it instead.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "dryad militant",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

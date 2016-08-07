@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Riptide Laboratory",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{1}{U}, {T}: Return target Wizard you control to its owner's hand.",
+  "imageName": "riptide laboratory",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Yuan Shao's Infantry",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Whenever Yuan Shao's Infantry attacks alone, Yuan Shao's Infantry can't be blocked this combat.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "yuan shao's infantry",
+  "colorIdentity": [
+    "R"
+  ]
+}

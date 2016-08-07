@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Phyrexian Monitor",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Skeleton",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Skeleton"
+  ],
+  "text": "{B}: Regenerate Phyrexian Monitor.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "phyrexian monitor",
+  "colorIdentity": [
+    "B"
+  ]
+}

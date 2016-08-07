@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Ghor-Clan Rampager",
+  "manaCost": "{2}{R}{G}",
+  "cmc": 4,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Trample\nBloodrush — {R}{G}, Discard Ghor-Clan Rampager: Target attacking creature gets +4/+4 and gains trample until end of turn.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "ghor-clan rampager",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

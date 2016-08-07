@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Shattered Dreams",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target opponent reveals his or her hand. You choose an artifact card from it. That player discards that card.",
+  "imageName": "shattered dreams",
+  "colorIdentity": [
+    "B"
+  ]
+}

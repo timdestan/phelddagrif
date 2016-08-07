@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Creakwood Ghoul",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Plant Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Plant",
+    "Zombie"
+  ],
+  "text": "{B/G}{B/G}: Exile target card from a graveyard. You gain 1 life.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "creakwood ghoul",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

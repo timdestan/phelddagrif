@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Gruul Nodorog",
+  "manaCost": "{4}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "{R}: Gruul Nodorog gains menace until end of turn. (It can't be blocked except by two or more creatures.)",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "gruul nodorog",
+  "colorIdentity": [
+    "G",
+    "R"
+  ]
+}

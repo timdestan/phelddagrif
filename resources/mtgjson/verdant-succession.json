@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Verdant Succession",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a green nontoken creature dies, that creature's controller may search his or her library for a card with the same name as that creature and put it onto the battlefield. If that player does, he or she shuffles his or her library.",
+  "imageName": "verdant succession",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ogre Arsonist",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Ogre",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ogre"
+  ],
+  "text": "When Ogre Arsonist enters the battlefield, destroy target land.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "ogre arsonist",
+  "colorIdentity": [
+    "R"
+  ]
+}

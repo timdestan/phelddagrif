@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Bereavement",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a green creature dies, its controller discards a card.",
+  "imageName": "bereavement",
+  "colorIdentity": [
+    "B"
+  ]
+}

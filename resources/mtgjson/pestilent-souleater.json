@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Pestilent Souleater",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact Creature — Insect",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "{B/P}: Pestilent Souleater gains infect until end of turn. ({B/P} can be paid with either {B} or 2 life. A creature with infect deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "pestilent souleater",
+  "colorIdentity": [
+    "B"
+  ]
+}

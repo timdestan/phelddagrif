@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Murk Dwellers",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Whenever Murk Dwellers attacks and isn't blocked, it gets +2/+0 until end of combat.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "murk dwellers",
+  "colorIdentity": [
+    "B"
+  ]
+}

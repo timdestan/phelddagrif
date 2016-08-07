@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Boldwyr Heavyweights",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Giant Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant",
+    "Warrior"
+  ],
+  "text": "Trample\nWhen Boldwyr Heavyweights enters the battlefield, each opponent may search his or her library for a creature card and put it onto the battlefield. Then each player who searched his or her library this way shuffles it.",
+  "power": "8",
+  "toughness": "8",
+  "imageName": "boldwyr heavyweights",
+  "colorIdentity": [
+    "R"
+  ]
+}

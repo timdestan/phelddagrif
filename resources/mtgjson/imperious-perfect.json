@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Imperious Perfect",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Warrior"
+  ],
+  "text": "Other Elf creatures you control get +1/+1.\n{G}, {T}: Put a 1/1 green Elf Warrior creature token onto the battlefield.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "imperious perfect",
+  "colorIdentity": [
+    "G"
+  ]
+}

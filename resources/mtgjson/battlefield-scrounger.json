@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Battlefield Scrounger",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Centaur",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Centaur"
+  ],
+  "text": "Threshold — Put three cards from your graveyard on the bottom of your library: Battlefield Scrounger gets +3/+3 until end of turn. Activate this ability only once each turn, and only if seven or more cards are in your graveyard.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "battlefield scrounger",
+  "colorIdentity": [
+    "G"
+  ]
+}

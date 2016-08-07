@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Draconian Cylix",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, {T}, Discard a card at random: Regenerate target creature.",
+  "imageName": "draconian cylix"
+}

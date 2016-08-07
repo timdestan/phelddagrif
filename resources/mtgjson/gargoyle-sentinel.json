@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Gargoyle Sentinel",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Gargoyle",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Gargoyle"
+  ],
+  "text": "Defender (This creature can't attack.)\n{3}: Until end of turn, Gargoyle Sentinel loses defender and gains flying.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "gargoyle sentinel"
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Rotting Legion",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Rotting Legion enters the battlefield tapped.",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "rotting legion",
+  "colorIdentity": [
+    "B"
+  ]
+}

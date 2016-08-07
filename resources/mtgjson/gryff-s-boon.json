@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Gryff's Boon",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets +1/+0 and has flying.\n{3}{W}: Return Gryff's Boon from your graveyard to the battlefield attached to target creature. Activate this ability only any time you could cast a sorcery.",
+  "imageName": "gryff's boon",
+  "colorIdentity": [
+    "W"
+  ]
+}

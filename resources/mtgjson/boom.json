@@ -1,0 +1,22 @@
+{
+  "layout": "split",
+  "name": "Boom",
+  "names": [
+    "Boom",
+    "Bust"
+  ],
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target land you control and target land you don't control.",
+  "imageName": "boom",
+  "colorIdentity": [
+    "R"
+  ]
+}

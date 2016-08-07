@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Barbarian Lunatic",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Barbarian",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Barbarian"
+  ],
+  "text": "{2}{R}, Sacrifice Barbarian Lunatic: Barbarian Lunatic deals 2 damage to target creature.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "barbarian lunatic",
+  "colorIdentity": [
+    "R"
+  ]
+}

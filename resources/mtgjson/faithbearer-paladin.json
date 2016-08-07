@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Faithbearer Paladin",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "Lifelink (Damage dealt by this creature also causes you to gain that much life.)",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "faithbearer paladin",
+  "colorIdentity": [
+    "W"
+  ]
+}

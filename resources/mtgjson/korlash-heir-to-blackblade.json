@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Korlash, Heir to Blackblade",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Legendary Creature — Zombie Warrior",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Warrior"
+  ],
+  "text": "Korlash, Heir to Blackblade's power and toughness are each equal to the number of Swamps you control.\n{1}{B}: Regenerate Korlash.\nGrandeur — Discard another card named Korlash, Heir to Blackblade: Search your library for up to two Swamp cards, put them onto the battlefield tapped, then shuffle your library.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "korlash, heir to blackblade",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Unified Will",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell if you control more creatures than that spell's controller.",
+  "imageName": "unified will",
+  "colorIdentity": [
+    "U"
+  ]
+}

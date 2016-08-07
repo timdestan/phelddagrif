@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Weaver of Lightning",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Shaman"
+  ],
+  "text": "Reach\nWhenever you cast an instant or sorcery spell, Weaver of Lightning deals 1 damage to target creature an opponent controls.",
+  "power": "1",
+  "toughness": "4",
+  "imageName": "weaver of lightning",
+  "colorIdentity": [
+    "R"
+  ]
+}

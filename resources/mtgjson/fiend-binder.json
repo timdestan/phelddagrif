@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Fiend Binder",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Whenever Fiend Binder attacks, tap target creature defending player controls.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "fiend binder",
+  "colorIdentity": [
+    "W"
+  ]
+}

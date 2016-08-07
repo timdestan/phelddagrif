@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Essence of the Wild",
+  "manaCost": "{3}{G}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Avatar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Avatar"
+  ],
+  "text": "Creatures you control enter the battlefield as a copy of Essence of the Wild.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "essence of the wild",
+  "colorIdentity": [
+    "G"
+  ]
+}

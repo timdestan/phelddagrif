@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Shivan Wumpus",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Trample\nWhen Shivan Wumpus enters the battlefield, any player may sacrifice a land. If a player does, put Shivan Wumpus on top of its owner's library.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "shivan wumpus",
+  "colorIdentity": [
+    "R"
+  ]
+}

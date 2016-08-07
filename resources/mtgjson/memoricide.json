@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Memoricide",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Name a nonland card. Search target player's graveyard, hand, and library for any number of cards with that name and exile them. Then that player shuffles his or her library.",
+  "imageName": "memoricide",
+  "colorIdentity": [
+    "B"
+  ]
+}

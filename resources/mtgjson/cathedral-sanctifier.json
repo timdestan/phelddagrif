@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Cathedral Sanctifier",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "When Cathedral Sanctifier enters the battlefield, you gain 3 life.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "cathedral sanctifier",
+  "colorIdentity": [
+    "W"
+  ]
+}

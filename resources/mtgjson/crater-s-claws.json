@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Crater's Claws",
+  "manaCost": "{X}{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Crater's Claws deals X damage to target creature or player.\nFerocious — Crater's Claws deals X plus 2 damage to that creature or player instead if you control a creature with power 4 or greater.",
+  "imageName": "crater's claws",
+  "colorIdentity": [
+    "R"
+  ]
+}

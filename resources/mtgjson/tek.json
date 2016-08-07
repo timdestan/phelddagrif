@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Tek",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact Creature — Dragon",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Tek gets +0/+2 as long as you control a Plains, has flying as long as you control an Island, gets +2/+0 as long as you control a Swamp, has first strike as long as you control a Mountain, and has trample as long as you control a Forest.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "tek"
+}

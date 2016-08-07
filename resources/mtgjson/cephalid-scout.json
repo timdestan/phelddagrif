@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Cephalid Scout",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Cephalid Wizard Scout",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cephalid",
+    "Wizard",
+    "Scout"
+  ],
+  "text": "Flying\n{2}{U}, Sacrifice a land: Draw a card.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "cephalid scout",
+  "colorIdentity": [
+    "U"
+  ]
+}

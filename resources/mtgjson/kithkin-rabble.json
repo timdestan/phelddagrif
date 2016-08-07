@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Kithkin Rabble",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kithkin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kithkin"
+  ],
+  "text": "Vigilance\nKithkin Rabble's power and toughness are each equal to the number of white permanents you control.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "kithkin rabble",
+  "colorIdentity": [
+    "W"
+  ]
+}

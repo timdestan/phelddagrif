@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Noggle Bandit",
+  "manaCost": "{1}{U/R}{U/R}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Creature — Noggle Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Noggle",
+    "Rogue"
+  ],
+  "text": "Noggle Bandit can't be blocked except by creatures with defender.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "noggle bandit",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

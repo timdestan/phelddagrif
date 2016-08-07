@@ -1,0 +1,25 @@
+{
+  "layout": "flip",
+  "name": "Rune-Tail's Essence",
+  "names": [
+    "Rune-Tail, Kitsune Ascendant",
+    "Rune-Tail's Essence"
+  ],
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Enchantment",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Prevent all damage that would be dealt to creatures you control.",
+  "imageName": "rune-tail's essence",
+  "colorIdentity": [
+    "W"
+  ]
+}

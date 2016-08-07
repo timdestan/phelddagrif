@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Grimgrin, Corpse-Born",
+  "manaCost": "{3}{U}{B}",
+  "cmc": 5,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Legendary Creature — Zombie Warrior",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Warrior"
+  ],
+  "text": "Grimgrin, Corpse-Born enters the battlefield tapped and doesn't untap during your untap step.\nSacrifice another creature: Untap Grimgrin and put a +1/+1 counter on it.\nWhenever Grimgrin attacks, destroy target creature defending player controls, then put a +1/+1 counter on Grimgrin.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "grimgrin, corpse-born",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

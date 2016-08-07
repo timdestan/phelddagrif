@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Darkwatch Elves",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf"
+  ],
+  "text": "Protection from black\nCycling {2} ({2}, Discard this card: Draw a card.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "darkwatch elves",
+  "colorIdentity": [
+    "G"
+  ]
+}

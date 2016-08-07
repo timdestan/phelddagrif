@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Stun",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target creature can't block this turn.\nDraw a card.",
+  "imageName": "stun",
+  "colorIdentity": [
+    "R"
+  ]
+}

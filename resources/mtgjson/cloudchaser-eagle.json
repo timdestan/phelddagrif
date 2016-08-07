@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Cloudchaser Eagle",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\nWhen Cloudchaser Eagle enters the battlefield, destroy target enchantment.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "cloudchaser eagle",
+  "colorIdentity": [
+    "W"
+  ]
+}

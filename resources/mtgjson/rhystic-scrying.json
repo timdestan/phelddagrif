@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rhystic Scrying",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Draw three cards. Then, if any player pays {2}, discard three cards.",
+  "imageName": "rhystic scrying",
+  "colorIdentity": [
+    "U"
+  ]
+}

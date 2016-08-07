@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Murderous Redcap Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "Whenever a creature enters the battlefield under your control with a counter on it, you may have it deal damage equal to its power to target creature or player.",
+  "imageName": "murderous redcap avatar",
+  "hand": 0,
+  "life": -2
+}

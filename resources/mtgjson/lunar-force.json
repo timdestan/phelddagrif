@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Lunar Force",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "When an opponent casts a spell, sacrifice Lunar Force and counter that spell.",
+  "imageName": "lunar force",
+  "colorIdentity": [
+    "U"
+  ]
+}

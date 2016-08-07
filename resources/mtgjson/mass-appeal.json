@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mass Appeal",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Draw a card for each Human you control.",
+  "imageName": "mass appeal",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Gleancrawler",
+  "manaCost": "{3}{B/G}{B/G}{B/G}",
+  "cmc": 6,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Creature — Insect Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect",
+    "Horror"
+  ],
+  "text": "({B/G} can be paid with either {B} or {G}.)\nTrample\nAt the beginning of your end step, return to your hand all creature cards in your graveyard that were put there from the battlefield this turn.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "gleancrawler",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

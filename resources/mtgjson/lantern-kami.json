@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Lantern Kami",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Flying",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "lantern kami",
+  "colorIdentity": [
+    "W"
+  ]
+}

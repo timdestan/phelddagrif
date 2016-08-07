@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rooftop Storm",
+  "manaCost": "{5}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "You may pay {0} rather than pay the mana cost for Zombie creature spells you cast.",
+  "imageName": "rooftop storm",
+  "colorIdentity": [
+    "U"
+  ]
+}

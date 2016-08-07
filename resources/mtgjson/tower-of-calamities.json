@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Tower of Calamities",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{8}, {T}: Tower of Calamities deals 12 damage to target creature.",
+  "imageName": "tower of calamities"
+}

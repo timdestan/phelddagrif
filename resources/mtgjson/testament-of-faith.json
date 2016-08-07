@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Testament of Faith",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{X}: Testament of Faith becomes an X/X Wall creature with defender in addition to its other types until end of turn.",
+  "imageName": "testament of faith",
+  "colorIdentity": [
+    "W"
+  ]
+}

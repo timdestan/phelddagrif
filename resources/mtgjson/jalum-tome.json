@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Jalum Tome",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, {T}: Draw a card, then discard a card.",
+  "imageName": "jalum tome"
+}

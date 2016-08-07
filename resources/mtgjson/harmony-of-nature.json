@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Harmony of Nature",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Tap any number of untapped creatures you control. You gain 4 life for each creature tapped this way.",
+  "imageName": "harmony of nature",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Ayumi, the Last Visitor",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Legendary Creature — Spirit",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Legendary landwalk (This creature can't be blocked as long as defending player controls a legendary land.)",
+  "power": "7",
+  "toughness": "3",
+  "imageName": "ayumi, the last visitor",
+  "colorIdentity": [
+    "G"
+  ]
+}

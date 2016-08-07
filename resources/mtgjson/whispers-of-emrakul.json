@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Whispers of Emrakul",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target opponent discards a card at random.\nDelirium — If there are four or more card types among cards in your graveyard, that player discards two cards at random instead.",
+  "imageName": "whispers of emrakul",
+  "colorIdentity": [
+    "B"
+  ]
+}

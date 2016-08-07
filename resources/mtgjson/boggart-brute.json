@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Boggart Brute",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Warrior"
+  ],
+  "text": "Menace (This creature can't be blocked except by two or more creatures.)",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "boggart brute",
+  "colorIdentity": [
+    "R"
+  ]
+}

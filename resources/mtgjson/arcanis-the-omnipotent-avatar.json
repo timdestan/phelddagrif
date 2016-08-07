@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Arcanis, the Omnipotent Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "{X}, Return a creature you control with converted mana cost X to its owner's hand: Draw a number of cards chosen at random between 0 and X. X can't be 0.",
+  "imageName": "arcanis, the omnipotent avatar",
+  "hand": 1,
+  "life": -3
+}

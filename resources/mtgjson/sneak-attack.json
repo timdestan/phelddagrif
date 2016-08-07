@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sneak Attack",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{R}: You may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice the creature at the beginning of the next end step.",
+  "imageName": "sneak attack",
+  "colorIdentity": [
+    "R"
+  ]
+}

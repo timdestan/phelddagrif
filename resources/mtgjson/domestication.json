@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Domestication",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nYou control enchanted creature.\nAt the beginning of your end step, if enchanted creature's power is 4 or greater, sacrifice Domestication.",
+  "imageName": "domestication",
+  "colorIdentity": [
+    "U"
+  ]
+}

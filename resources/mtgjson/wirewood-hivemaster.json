@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wirewood Hivemaster",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf"
+  ],
+  "text": "Whenever another nontoken Elf enters the battlefield, you may put a 1/1 green Insect creature token onto the battlefield.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "wirewood hivemaster",
+  "colorIdentity": [
+    "G"
+  ]
+}

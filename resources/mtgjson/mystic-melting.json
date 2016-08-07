@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mystic Melting",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target artifact or enchantment.\nDraw a card at the beginning of the next turn's upkeep.",
+  "imageName": "mystic melting",
+  "colorIdentity": [
+    "G"
+  ]
+}

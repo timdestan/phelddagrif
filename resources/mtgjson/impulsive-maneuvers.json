@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Impulsive Maneuvers",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a creature attacks, flip a coin. If you win the flip, the next time that creature would deal combat damage this turn, it deals double that damage instead. If you lose the flip, the next time that creature would deal combat damage this turn, prevent that damage.",
+  "imageName": "impulsive maneuvers",
+  "colorIdentity": [
+    "R"
+  ]
+}

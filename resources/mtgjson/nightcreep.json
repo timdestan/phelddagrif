@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Nightcreep",
+  "manaCost": "{B}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Until end of turn, all creatures become black and all lands become Swamps.",
+  "imageName": "nightcreep",
+  "colorIdentity": [
+    "B"
+  ]
+}

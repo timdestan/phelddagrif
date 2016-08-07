@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Abyssal Persecutor",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Demon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon"
+  ],
+  "text": "Flying, trample\nYou can't win the game and your opponents can't lose the game.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "abyssal persecutor",
+  "colorIdentity": [
+    "B"
+  ]
+}

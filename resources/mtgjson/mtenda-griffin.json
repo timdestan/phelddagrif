@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Mtenda Griffin",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Griffin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Griffin"
+  ],
+  "text": "Flying\n{W}, {T}: Return Mtenda Griffin to its owner's hand and return target Griffin card from your graveyard to your hand. Activate this ability only during your upkeep.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "mtenda griffin",
+  "colorIdentity": [
+    "W"
+  ]
+}

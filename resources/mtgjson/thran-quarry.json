@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Thran Quarry",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "At the beginning of the end step, if you control no creatures, sacrifice Thran Quarry.\n{T}: Add one mana of any color to your mana pool.",
+  "imageName": "thran quarry"
+}

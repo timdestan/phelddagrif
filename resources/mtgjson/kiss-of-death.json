@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Kiss of Death",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Kiss of Death deals 4 damage to target opponent. You gain 4 life.",
+  "imageName": "kiss of death",
+  "colorIdentity": [
+    "B"
+  ]
+}

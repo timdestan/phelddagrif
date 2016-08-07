@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Mahamoti Djinn",
+  "manaCost": "{4}{U}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Djinn",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Djinn"
+  ],
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)",
+  "power": "5",
+  "toughness": "6",
+  "imageName": "mahamoti djinn",
+  "starter": true,
+  "colorIdentity": [
+    "U"
+  ]
+}

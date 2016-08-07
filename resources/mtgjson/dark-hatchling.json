@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dark Hatchling",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "Flying\nWhen Dark Hatchling enters the battlefield, destroy target nonblack creature. It can't be regenerated.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "dark hatchling",
+  "colorIdentity": [
+    "B"
+  ]
+}

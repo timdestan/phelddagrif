@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Wand of the Elements",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}, Sacrifice an Island: Put a 2/2 blue Elemental creature token with flying onto the battlefield.\n{T}, Sacrifice a Mountain: Put a 3/3 red Elemental creature token onto the battlefield.",
+  "imageName": "wand of the elements"
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Ruby Medallion",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Red spells you cast cost {1} less to cast.",
+  "imageName": "ruby medallion"
+}

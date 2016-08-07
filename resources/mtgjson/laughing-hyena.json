@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Laughing Hyena",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Hyena",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hyena"
+  ],
+  "text": "Gotcha Whenever an opponent laughs, you may say \"Gotcha\" If you do, return Laughing Hyena from your graveyard to your hand.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "laughing hyena",
+  "colorIdentity": [
+    "G"
+  ]
+}

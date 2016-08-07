@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Spellbane Centaur",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Centaur",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Centaur"
+  ],
+  "text": "Creatures you control can't be the targets of blue spells or abilities from blue sources.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "spellbane centaur",
+  "colorIdentity": [
+    "G"
+  ]
+}

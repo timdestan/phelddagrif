@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Fulminator Mage",
+  "manaCost": "{1}{B/R}{B/R}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Elemental Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental",
+    "Shaman"
+  ],
+  "text": "Sacrifice Fulminator Mage: Destroy target nonbasic land.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "fulminator mage",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

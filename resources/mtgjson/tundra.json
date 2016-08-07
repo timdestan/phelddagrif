@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Tundra",
+  "type": "Land — Plains Island",
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Plains",
+    "Island"
+  ],
+  "text": "({T}: Add {W} or {U} to your mana pool.)",
+  "imageName": "tundra",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

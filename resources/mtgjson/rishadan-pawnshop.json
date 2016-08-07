@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Rishadan Pawnshop",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, {T}: Shuffle target nontoken permanent you control into its owner's library.",
+  "imageName": "rishadan pawnshop"
+}

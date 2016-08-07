@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Warped Devotion",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a permanent is returned to a player's hand, that player discards a card.",
+  "imageName": "warped devotion",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Riddlesmith",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Artificer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Artificer"
+  ],
+  "text": "Whenever you cast an artifact spell, you may draw a card. If you do, discard a card.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "riddlesmith",
+  "colorIdentity": [
+    "U"
+  ]
+}

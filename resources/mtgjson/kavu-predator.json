@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Kavu Predator",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Kavu",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kavu"
+  ],
+  "text": "Trample\nWhenever an opponent gains life, put that many +1/+1 counters on Kavu Predator.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "kavu predator",
+  "colorIdentity": [
+    "G"
+  ]
+}

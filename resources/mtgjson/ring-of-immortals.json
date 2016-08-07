@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Ring of Immortals",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{3}, {T}: Counter target instant or Aura spell that targets a permanent you control.",
+  "imageName": "ring of immortals"
+}

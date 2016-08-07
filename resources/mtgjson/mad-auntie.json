@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Mad Auntie",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Goblin Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Shaman"
+  ],
+  "text": "Other Goblin creatures you control get +1/+1.\n{T}: Regenerate another target Goblin.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "mad auntie",
+  "colorIdentity": [
+    "B"
+  ]
+}

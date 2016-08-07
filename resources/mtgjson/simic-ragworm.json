@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Simic Ragworm",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Worm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Worm"
+  ],
+  "text": "{U}: Untap Simic Ragworm.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "simic ragworm",
+  "colorIdentity": [
+    "G",
+    "U"
+  ]
+}

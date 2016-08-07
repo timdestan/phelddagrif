@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Dark Petition",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Search your library for a card and put that card into your hand. Then shuffle your library.\nSpell mastery — If there are two or more instant and/or sorcery cards in your graveyard, add {B}{B}{B} to your mana pool.",
+  "imageName": "dark petition",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Shifting Sliver",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "Slivers can't be blocked except by Slivers.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "shifting sliver",
+  "colorIdentity": [
+    "U"
+  ]
+}

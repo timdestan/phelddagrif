@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Oran-Rief Invoker",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Shaman"
+  ],
+  "text": "{8}: Oran-Rief Invoker gets +5/+5 and gains trample until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "oran-rief invoker",
+  "colorIdentity": [
+    "G"
+  ]
+}

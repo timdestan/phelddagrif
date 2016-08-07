@@ -1,0 +1,19 @@
+{
+  "layout": "normal",
+  "name": "Feeling of Dread",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Tap up to two target creatures.\nFlashback {1}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "imageName": "feeling of dread",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

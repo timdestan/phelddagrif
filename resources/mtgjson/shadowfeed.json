@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Shadowfeed",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Exile target card from a graveyard. You gain 3 life.",
+  "imageName": "shadowfeed",
+  "colorIdentity": [
+    "B"
+  ]
+}

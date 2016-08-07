@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Chance Encounter",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever you win a coin flip, put a luck counter on Chance Encounter.\nAt the beginning of your upkeep, if Chance Encounter has ten or more luck counters on it, you win the game.",
+  "imageName": "chance encounter",
+  "colorIdentity": [
+    "R"
+  ]
+}

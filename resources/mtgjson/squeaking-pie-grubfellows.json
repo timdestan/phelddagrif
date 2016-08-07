@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Squeaking Pie Grubfellows",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Goblin Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Shaman"
+  ],
+  "text": "Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Squeaking Pie Grubfellows, you may reveal it. If you do, each opponent discards a card.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "squeaking pie grubfellows",
+  "colorIdentity": [
+    "B"
+  ]
+}

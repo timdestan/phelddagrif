@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Patchwork Gnomes",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Gnome",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Gnome"
+  ],
+  "text": "Discard a card: Regenerate Patchwork Gnomes.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "patchwork gnomes"
+}

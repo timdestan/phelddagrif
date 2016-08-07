@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Harmonic Sliver",
+  "manaCost": "{1}{G}{W}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Sliver",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Sliver"
+  ],
+  "text": "All Slivers have \"When this permanent enters the battlefield, destroy target artifact or enchantment.\"",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "harmonic sliver",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

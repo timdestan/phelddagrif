@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Dune-Brood Nephilim",
+  "manaCost": "{B}{R}{G}{W}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Nephilim",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Nephilim"
+  ],
+  "text": "Whenever Dune-Brood Nephilim deals combat damage to a player, put a 1/1 colorless Sand creature token onto the battlefield for each land you control.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "dune-brood nephilim",
+  "colorIdentity": [
+    "W",
+    "B",
+    "R",
+    "G"
+  ]
+}

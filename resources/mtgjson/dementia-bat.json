@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Dementia Bat",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Bat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bat"
+  ],
+  "text": "Flying\n{4}{B}, Sacrifice Dementia Bat: Target player discards two cards.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "dementia bat",
+  "colorIdentity": [
+    "B"
+  ]
+}

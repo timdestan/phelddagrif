@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Igneous Pouncer",
+  "manaCost": "{4}{B}{R}",
+  "cmc": 6,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Haste\nSwampcycling {2}, mountaincycling {2} ({2}, Discard this card: Search your library for a Swamp or Mountain card, reveal it, and put it into your hand. Then shuffle your library.)",
+  "power": "5",
+  "toughness": "1",
+  "imageName": "igneous pouncer",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

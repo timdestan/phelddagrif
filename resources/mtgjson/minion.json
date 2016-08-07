@@ -1,0 +1,14 @@
+{
+  "layout": "token",
+  "name": "Minion",
+  "type": "Creature — Minion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Minion"
+  ],
+  "power": "*",
+  "toughness": "*",
+  "imageName": "minion"
+}

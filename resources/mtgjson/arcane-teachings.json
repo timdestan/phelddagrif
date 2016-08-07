@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Arcane Teachings",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nEnchanted creature gets +2/+2 and has \"{T}: This creature deals 1 damage to target creature or player.\"",
+  "imageName": "arcane teachings",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Eternal Flame",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Eternal Flame deals X damage to target opponent, where X is the number of Mountains you control. It deals half X damage, rounded up, to you.",
+  "imageName": "eternal flame",
+  "colorIdentity": [
+    "R"
+  ]
+}

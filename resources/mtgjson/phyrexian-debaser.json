@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Phyrexian Debaser",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Carrier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Carrier"
+  ],
+  "text": "Flying\n{T}, Sacrifice Phyrexian Debaser: Target creature gets -2/-2 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "phyrexian debaser",
+  "colorIdentity": [
+    "B"
+  ]
+}

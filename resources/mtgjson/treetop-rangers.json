@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Treetop Rangers",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf"
+  ],
+  "text": "Treetop Rangers can't be blocked except by creatures with flying.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "treetop rangers",
+  "colorIdentity": [
+    "G"
+  ]
+}

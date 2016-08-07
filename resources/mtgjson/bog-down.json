@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Bog Down",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Kicker—Sacrifice two lands. (You may sacrifice two lands in addition to any other costs as you cast this spell.)\nTarget player discards two cards. If Bog Down was kicked, that player discards three cards instead.",
+  "imageName": "bog down",
+  "colorIdentity": [
+    "B"
+  ]
+}

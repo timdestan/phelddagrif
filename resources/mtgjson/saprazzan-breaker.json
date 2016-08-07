@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Saprazzan Breaker",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "{U}: Put the top card of your library into your graveyard. If that card is a land card, Saprazzan Breaker can't be blocked this turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "saprazzan breaker",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Worldfire",
+  "manaCost": "{6}{R}{R}{R}",
+  "cmc": 9,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Exile all permanents. Exile all cards from all hands and graveyards. Each player's life total becomes 1.",
+  "imageName": "worldfire",
+  "colorIdentity": [
+    "R"
+  ]
+}

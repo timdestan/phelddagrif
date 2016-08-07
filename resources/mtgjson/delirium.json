@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Delirium",
+  "manaCost": "{1}{B}{R}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Cast Delirium only during an opponent's turn.\nTap target creature that player controls. That creature deals damage equal to its power to the player. Prevent all combat damage that would be dealt to and dealt by the creature this turn.",
+  "imageName": "delirium",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

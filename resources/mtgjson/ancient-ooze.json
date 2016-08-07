@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ancient Ooze",
+  "manaCost": "{5}{G}{G}",
+  "cmc": 7,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Ooze",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ooze"
+  ],
+  "text": "Ancient Ooze's power and toughness are each equal to the total converted mana cost of other creatures you control.",
+  "power": "*",
+  "toughness": "*",
+  "imageName": "ancient ooze",
+  "colorIdentity": [
+    "G"
+  ]
+}

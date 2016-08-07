@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Illumination",
+  "manaCost": "{W}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target artifact or enchantment spell. Its controller gains life equal to its converted mana cost.",
+  "imageName": "illumination",
+  "colorIdentity": [
+    "W"
+  ]
+}

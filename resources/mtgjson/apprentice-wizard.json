@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Apprentice Wizard",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{U}, {T}: Add {C}{C}{C} to your mana pool.",
+  "power": "0",
+  "toughness": "1",
+  "imageName": "apprentice wizard",
+  "colorIdentity": [
+    "U"
+  ]
+}

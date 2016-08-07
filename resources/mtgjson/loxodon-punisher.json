@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Loxodon Punisher",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Elephant Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elephant",
+    "Soldier"
+  ],
+  "text": "Loxodon Punisher gets +2/+2 for each Equipment attached to it.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "loxodon punisher",
+  "colorIdentity": [
+    "W"
+  ]
+}

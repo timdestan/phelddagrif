@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Blind Fury",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "All creatures lose trample until end of turn. If a creature would deal combat damage to a creature this turn, it deals double that damage to that creature instead.",
+  "imageName": "blind fury",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Æther Flash",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a creature enters the battlefield, Æther Flash deals 2 damage to it.",
+  "imageName": "æther flash",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Volrath's Laboratory",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "As Volrath's Laboratory enters the battlefield, choose a color and a creature type.\n{5}, {T}: Put a 2/2 creature token of the chosen color and type onto the battlefield.",
+  "imageName": "volrath's laboratory"
+}

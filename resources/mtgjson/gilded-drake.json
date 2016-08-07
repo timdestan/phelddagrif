@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Gilded Drake",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Drake",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Drake"
+  ],
+  "text": "Flying\nWhen Gilded Drake enters the battlefield, exchange control of Gilded Drake and up to one target creature an opponent controls. If you don't make an exchange, sacrifice Gilded Drake. This ability can't be countered except by spells and abilities. (This effect lasts indefinitely.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "gilded drake",
+  "colorIdentity": [
+    "U"
+  ]
+}

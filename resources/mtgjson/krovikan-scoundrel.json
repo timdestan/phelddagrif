@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Krovikan Scoundrel",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "power": "2",
+  "toughness": "1",
+  "imageName": "krovikan scoundrel",
+  "colorIdentity": [
+    "B"
+  ]
+}

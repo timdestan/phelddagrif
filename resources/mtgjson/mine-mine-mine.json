@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mine, Mine, Mine!",
+  "manaCost": "{4}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "When Mine, Mine, Mine comes into play, each player puts his or her library into his or her hand.\nEach player skips his or her discard phase and does not lose as a result of being unable to draw a card.\nEach player cannot play more than one spell each turn.\nIf Mine, Mine, Mine leaves play, each player shuffles his or her hand and graveyard into his or her library.",
+  "imageName": "mine, mine, mine!",
+  "colorIdentity": [
+    "G"
+  ]
+}

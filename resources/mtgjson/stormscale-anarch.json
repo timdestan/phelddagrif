@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Stormscale Anarch",
+  "manaCost": "{2}{R}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Viashino Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Viashino",
+    "Shaman"
+  ],
+  "text": "{2}{R}, Discard a card at random: Stormscale Anarch deals 2 damage to target creature or player. If the discarded card was multicolored, Stormscale Anarch deals 4 damage to that creature or player instead.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "stormscale anarch",
+  "colorIdentity": [
+    "R"
+  ]
+}

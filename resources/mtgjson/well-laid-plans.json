@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Well-Laid Plans",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Prevent all damage that would be dealt to a creature by another creature if they share a color.",
+  "imageName": "well-laid plans",
+  "colorIdentity": [
+    "U"
+  ]
+}

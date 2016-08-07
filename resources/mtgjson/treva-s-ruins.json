@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Treva's Ruins",
+  "type": "Land — Lair",
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Lair"
+  ],
+  "text": "When Treva's Ruins enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.\n{T}: Add {G}, {W}, or {U} to your mana pool.",
+  "imageName": "treva's ruins",
+  "colorIdentity": [
+    "G",
+    "W",
+    "U"
+  ]
+}

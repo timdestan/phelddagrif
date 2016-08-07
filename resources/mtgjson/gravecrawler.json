@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Gravecrawler",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "Gravecrawler can't block.\nYou may cast Gravecrawler from your graveyard as long as you control a Zombie.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "gravecrawler",
+  "colorIdentity": [
+    "B"
+  ]
+}

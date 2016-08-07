@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mana Breach",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever a player casts a spell, that player returns a land he or she controls to its owner's hand.",
+  "imageName": "mana breach",
+  "colorIdentity": [
+    "U"
+  ]
+}

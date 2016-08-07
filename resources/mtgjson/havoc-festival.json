@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Havoc Festival",
+  "manaCost": "{4}{B}{R}",
+  "cmc": 6,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Players can't gain life.\nAt the beginning of each player's upkeep, that player loses half his or her life, rounded up.",
+  "imageName": "havoc festival",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

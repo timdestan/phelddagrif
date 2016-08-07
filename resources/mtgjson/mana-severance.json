@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Mana Severance",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Search your library for any number of land cards and exile them. Then shuffle your library.",
+  "imageName": "mana severance",
+  "colorIdentity": [
+    "U"
+  ]
+}

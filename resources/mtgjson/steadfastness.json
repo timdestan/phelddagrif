@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Steadfastness",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Creatures you control get +0/+3 until end of turn.",
+  "imageName": "steadfastness",
+  "colorIdentity": [
+    "W"
+  ]
+}

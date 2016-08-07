@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Jace's Erasure",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Whenever you draw a card, you may have target player put the top card of his or her library into his or her graveyard.",
+  "imageName": "jace's erasure",
+  "colorIdentity": [
+    "U"
+  ]
+}

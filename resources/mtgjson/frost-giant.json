@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Frost Giant",
+  "manaCost": "{3}{R}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Giant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant"
+  ],
+  "text": "Rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "frost giant",
+  "colorIdentity": [
+    "R"
+  ]
+}

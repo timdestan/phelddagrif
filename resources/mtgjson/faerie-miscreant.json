@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Faerie Miscreant",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Faerie Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Faerie",
+    "Rogue"
+  ],
+  "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhen Faerie Miscreant enters the battlefield, if you control another creature named Faerie Miscreant, draw a card.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "faerie miscreant",
+  "colorIdentity": [
+    "U"
+  ]
+}

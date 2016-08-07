@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Assault Strobe",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target creature gains double strike until end of turn. (It deals both first-strike and regular combat damage.)",
+  "imageName": "assault strobe",
+  "colorIdentity": [
+    "R"
+  ]
+}

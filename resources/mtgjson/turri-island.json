@@ -1,0 +1,13 @@
+{
+  "layout": "plane",
+  "name": "Turri Island",
+  "type": "Plane — Ir",
+  "types": [
+    "Plane"
+  ],
+  "subtypes": [
+    "Ir"
+  ],
+  "text": "Creature spells cost {2} less to cast.\nWhenever you roll CHAOS, reveal the top three cards of your library. Put all creature cards revealed this way into your hand and the rest into your graveyard.",
+  "imageName": "turri island"
+}

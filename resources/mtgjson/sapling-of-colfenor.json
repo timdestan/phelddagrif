@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Sapling of Colfenor",
+  "manaCost": "{3}{B/G}{B/G}",
+  "cmc": 5,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Legendary Creature — Treefolk Shaman",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Treefolk",
+    "Shaman"
+  ],
+  "text": "Indestructible\nWhenever Sapling of Colfenor attacks, reveal the top card of your library. If it's a creature card, you gain life equal to that card's toughness, lose life equal to its power, then put it into your hand.",
+  "power": "2",
+  "toughness": "5",
+  "imageName": "sapling of colfenor",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

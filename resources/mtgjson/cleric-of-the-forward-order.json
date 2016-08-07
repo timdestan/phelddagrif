@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Cleric of the Forward Order",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "When Cleric of the Forward Order enters the battlefield, you gain 2 life for each creature you control named Cleric of the Forward Order.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "cleric of the forward order",
+  "colorIdentity": [
+    "W"
+  ]
+}

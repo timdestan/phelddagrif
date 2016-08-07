@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Embodiment of Insight",
+  "manaCost": "{4}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Vigilance\nLand creatures you control have vigilance.\nLandfall — Whenever a land enters the battlefield under your control, you may have target land you control become a 3/3 Elemental creature with haste until end of turn. It's still a land.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "embodiment of insight",
+  "colorIdentity": [
+    "G"
+  ]
+}

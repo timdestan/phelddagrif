@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Icatian Scout",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier Scout",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier",
+    "Scout"
+  ],
+  "text": "{1}, {T}: Target creature gains first strike until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "icatian scout",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Heat Wave",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Cumulative upkeep {R} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nBlue creatures can't block creatures you control.\nNonblue creatures can't block creatures you control unless their controller pays 1 life for each blocking creature he or she controls.",
+  "imageName": "heat wave",
+  "colorIdentity": [
+    "R"
+  ]
+}

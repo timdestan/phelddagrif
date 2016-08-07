@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Academy Researchers",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "When Academy Researchers enters the battlefield, you may put an Aura card from your hand onto the battlefield attached to Academy Researchers.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "academy researchers",
+  "colorIdentity": [
+    "U"
+  ]
+}

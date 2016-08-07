@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wall of Mulch",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wall"
+  ],
+  "text": "Defender (This creature can't attack.)\n{G}, Sacrifice a Wall: Draw a card.",
+  "power": "0",
+  "toughness": "4",
+  "imageName": "wall of mulch",
+  "colorIdentity": [
+    "G"
+  ]
+}

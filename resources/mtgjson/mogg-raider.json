@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Mogg Raider",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin"
+  ],
+  "text": "Sacrifice a Goblin: Target creature gets +1/+1 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "mogg raider",
+  "colorIdentity": [
+    "R"
+  ]
+}

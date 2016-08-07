@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Arbiter of Knollridge",
+  "manaCost": "{6}{W}",
+  "cmc": 7,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Giant Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Giant",
+    "Wizard"
+  ],
+  "text": "Vigilance\nWhen Arbiter of Knollridge enters the battlefield, each player's life total becomes the highest life total among all players.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "arbiter of knollridge",
+  "colorIdentity": [
+    "W"
+  ]
+}

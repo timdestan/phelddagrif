@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Eyes of the Wisent",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Tribal Enchantment — Elemental",
+  "types": [
+    "Tribal",
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Whenever an opponent casts a blue spell during your turn, you may put a 4/4 green Elemental creature token onto the battlefield.",
+  "imageName": "eyes of the wisent",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Evacuation",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Return all creatures to their owners' hands.",
+  "imageName": "evacuation",
+  "colorIdentity": [
+    "U"
+  ]
+}

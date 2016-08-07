@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kobold Drill Sergeant",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Kobold Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kobold",
+    "Soldier"
+  ],
+  "text": "Other Kobold creatures you control get +0/+1 and have trample.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "kobold drill sergeant",
+  "colorIdentity": [
+    "R"
+  ]
+}

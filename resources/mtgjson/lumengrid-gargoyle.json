@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Lumengrid Gargoyle",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Artifact Creature — Gargoyle",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Gargoyle"
+  ],
+  "text": "Flying",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "lumengrid gargoyle"
+}

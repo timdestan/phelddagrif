@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Patron of the Valiant",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nWhen Patron of the Valiant enters the battlefield, put a +1/+1 counter on each creature you control with a +1/+1 counter on it.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "patron of the valiant",
+  "colorIdentity": [
+    "W"
+  ]
+}

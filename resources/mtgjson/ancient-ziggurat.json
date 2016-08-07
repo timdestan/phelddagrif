@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Ancient Ziggurat",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add one mana of any color to your mana pool. Spend this mana only to cast a creature spell.",
+  "imageName": "ancient ziggurat"
+}

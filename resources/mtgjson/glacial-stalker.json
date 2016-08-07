@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Glacial Stalker",
+  "manaCost": "{5}{U}",
+  "cmc": 6,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Morph {4}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "glacial stalker",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Shadow Alley Denizen",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Vampire Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vampire",
+    "Rogue"
+  ],
+  "text": "Whenever another black creature enters the battlefield under your control, target creature gains intimidate until end of turn. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "shadow alley denizen",
+  "colorIdentity": [
+    "B"
+  ]
+}

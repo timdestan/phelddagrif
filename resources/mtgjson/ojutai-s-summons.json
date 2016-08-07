@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ojutai's Summons",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put a 2/2 blue Djinn Monk creature token with flying onto the battlefield.\nRebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)",
+  "imageName": "ojutai's summons",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Scent of Cinder",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Reveal any number of red cards in your hand. Scent of Cinder deals X damage to target creature or player, where X is the number of cards revealed this way.",
+  "imageName": "scent of cinder",
+  "colorIdentity": [
+    "R"
+  ]
+}

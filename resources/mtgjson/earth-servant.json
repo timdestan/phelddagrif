@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Earth Servant",
+  "manaCost": "{5}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Earth Servant gets +0/+1 for each Mountain you control.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "earth servant",
+  "colorIdentity": [
+    "R"
+  ]
+}

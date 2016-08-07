@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Tallowisp",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "Whenever you cast a Spirit or Arcane spell, you may search your library for an Aura card with enchant creature, reveal it, and put it into your hand. If you do, shuffle your library.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "tallowisp",
+  "colorIdentity": [
+    "W"
+  ]
+}

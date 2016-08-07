@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Crevasse",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Creatures with mountainwalk can be blocked as though they didn't have mountainwalk.",
+  "imageName": "crevasse",
+  "colorIdentity": [
+    "R"
+  ]
+}

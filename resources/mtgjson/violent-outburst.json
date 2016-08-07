@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Violent Outburst",
+  "manaCost": "{1}{R}{G}",
+  "cmc": 3,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)\nCreatures you control get +1/+0 until end of turn.",
+  "imageName": "violent outburst",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

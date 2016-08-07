@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Demonlord of Ashmouth",
+  "manaCost": "{2}{B}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Demon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Demon"
+  ],
+  "text": "Flying\nWhen Demonlord of Ashmouth enters the battlefield, exile it unless you sacrifice another creature.\nUndying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "demonlord of ashmouth",
+  "colorIdentity": [
+    "B"
+  ]
+}

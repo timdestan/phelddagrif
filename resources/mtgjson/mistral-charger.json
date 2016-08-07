@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Mistral Charger",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Pegasus",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Pegasus"
+  ],
+  "text": "Flying",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "mistral charger",
+  "colorIdentity": [
+    "W"
+  ]
+}

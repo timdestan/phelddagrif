@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Zombie Assassin",
+  "manaCost": "{4}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Assassin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Assassin"
+  ],
+  "text": "{T}, Exile two cards from your graveyard and Zombie Assassin: Destroy target nonblack creature. It can't be regenerated.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "zombie assassin",
+  "colorIdentity": [
+    "B"
+  ]
+}

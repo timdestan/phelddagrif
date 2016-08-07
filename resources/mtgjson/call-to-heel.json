@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Call to Heel",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Return target creature to its owner's hand. Its controller draws a card.",
+  "imageName": "call to heel",
+  "colorIdentity": [
+    "U"
+  ]
+}

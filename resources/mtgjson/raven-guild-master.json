@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Raven Guild Master",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard Mutant",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard",
+    "Mutant"
+  ],
+  "text": "Whenever Raven Guild Master deals combat damage to a player, that player exiles the top ten cards of his or her library.\nMorph {2}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "raven guild master",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Gerrard Capashen",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Creature — Human Soldier",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "At the beginning of your upkeep, you gain 1 life for each card in target opponent's hand.\n{3}{W}: Tap target creature. Activate this ability only if Gerrard Capashen is attacking.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "gerrard capashen",
+  "colorIdentity": [
+    "W"
+  ]
+}

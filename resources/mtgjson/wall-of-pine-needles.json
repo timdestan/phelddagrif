@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Wall of Pine Needles",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Plant Wall",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Plant",
+    "Wall"
+  ],
+  "text": "Defender (This creature can't attack.)\n{G}: Regenerate Wall of Pine Needles.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "wall of pine needles",
+  "colorIdentity": [
+    "G"
+  ]
+}

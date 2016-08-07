@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Undead Servant",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie"
+  ],
+  "text": "When Undead Servant enters the battlefield, put a 2/2 black Zombie creature token onto the battlefield for each card named Undead Servant in your graveyard.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "undead servant",
+  "colorIdentity": [
+    "B"
+  ]
+}

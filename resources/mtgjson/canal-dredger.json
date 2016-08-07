@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Canal Dredger",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "text": "Draft Canal Dredger face up.\nEach player passes the last card from each booster pack to a player who drafted a card named Canal Dredger.\n{T}: Put target card from your graveyard on the bottom of your library.",
+  "power": "1",
+  "toughness": "5",
+  "imageName": "canal dredger"
+}

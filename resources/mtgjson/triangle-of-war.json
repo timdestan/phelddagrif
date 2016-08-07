@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Triangle of War",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, Sacrifice Triangle of War: Target creature you control fights target creature an opponent controls. (Each deals damage equal to its power to the other.)",
+  "imageName": "triangle of war"
+}

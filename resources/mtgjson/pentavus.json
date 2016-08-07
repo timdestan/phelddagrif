@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Pentavus",
+  "manaCost": "{7}",
+  "cmc": 7,
+  "type": "Artifact Creature — Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "text": "Pentavus enters the battlefield with five +1/+1 counters on it.\n{1}, Remove a +1/+1 counter from Pentavus: Put a 1/1 colorless Pentavite artifact creature token with flying onto the battlefield.\n{1}, Sacrifice a Pentavite: Put a +1/+1 counter on Pentavus.",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "pentavus"
+}

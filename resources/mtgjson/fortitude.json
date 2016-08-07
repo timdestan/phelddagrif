@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Fortitude",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nSacrifice a Forest: Regenerate enchanted creature.\nWhen Fortitude is put into a graveyard from the battlefield, return Fortitude to its owner's hand.",
+  "imageName": "fortitude",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Votary of the Conclave",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "{2}{G}: Regenerate Votary of the Conclave.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "votary of the conclave",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

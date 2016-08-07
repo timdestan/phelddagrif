@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Solemn Offering",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target artifact or enchantment. You gain 4 life.",
+  "imageName": "solemn offering",
+  "colorIdentity": [
+    "W"
+  ]
+}

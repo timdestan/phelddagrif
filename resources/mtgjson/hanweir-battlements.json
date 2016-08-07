@@ -1,0 +1,18 @@
+{
+  "layout": "meld",
+  "name": "Hanweir Battlements",
+  "names": [
+    "Hanweir Battlements",
+    "Hanweir Garrison",
+    "Hanweir, the Writhing Township"
+  ],
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{R}, {T}: Target creature gains haste until end of turn.\n{3}{R}{R}, {T}: If you both own and control Hanweir Battlements and a creature named Hanweir Garrison, exile them, then meld them into Hanweir, the Writhing Township.",
+  "imageName": "hanweir battlements",
+  "colorIdentity": [
+    "R"
+  ]
+}

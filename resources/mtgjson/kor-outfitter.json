@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kor Outfitter",
+  "manaCost": "{W}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Kor Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kor",
+    "Soldier"
+  ],
+  "text": "When Kor Outfitter enters the battlefield, you may attach target Equipment you control to target creature you control.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "kor outfitter",
+  "colorIdentity": [
+    "W"
+  ]
+}

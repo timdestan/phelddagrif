@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Fledgling Osprey",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Fledgling Osprey has flying as long as it's enchanted.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "fledgling osprey",
+  "colorIdentity": [
+    "U"
+  ]
+}

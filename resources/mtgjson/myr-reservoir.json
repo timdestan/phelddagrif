@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Myr Reservoir",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{T}: Add {C}{C} to your mana pool. Spend this mana only to cast Myr spells or activate abilities of Myr.\n{3}, {T}: Return target Myr card from your graveyard to your hand.",
+  "imageName": "myr reservoir"
+}

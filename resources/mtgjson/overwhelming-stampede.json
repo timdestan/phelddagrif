@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Overwhelming Stampede",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Until end of turn, creatures you control gain trample and get +X/+X, where X is the greatest power among creatures you control.",
+  "imageName": "overwhelming stampede",
+  "colorIdentity": [
+    "G"
+  ]
+}

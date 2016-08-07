@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Agrus Kos, Wojek Veteran",
+  "manaCost": "{3}{R}{W}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Legendary Creature — Human Soldier",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Whenever Agrus Kos, Wojek Veteran attacks, attacking red creatures get +2/+0 and attacking white creatures get +0/+2 until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "agrus kos, wojek veteran",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

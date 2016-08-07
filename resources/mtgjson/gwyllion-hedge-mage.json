@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Gwyllion Hedge-Mage",
+  "manaCost": "{2}{W/B}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Creature — Hag Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hag",
+    "Wizard"
+  ],
+  "text": "When Gwyllion Hedge-Mage enters the battlefield, if you control two or more Plains, you may put a 1/1 white Kithkin Soldier creature token onto the battlefield.\nWhen Gwyllion Hedge-Mage enters the battlefield, if you control two or more Swamps, you may put a -1/-1 counter on target creature.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "gwyllion hedge-mage",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

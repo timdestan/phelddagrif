@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Masako the Humorless",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Creature — Human Advisor",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Advisor"
+  ],
+  "text": "Flash\nTapped creatures you control can block as though they were untapped.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "masako the humorless",
+  "colorIdentity": [
+    "W"
+  ]
+}

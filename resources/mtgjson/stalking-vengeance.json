@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Stalking Vengeance",
+  "manaCost": "{5}{R}{R}",
+  "cmc": 7,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Avatar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Avatar"
+  ],
+  "text": "Haste\nWhenever another creature you control dies, it deals damage equal to its power to target player.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "stalking vengeance",
+  "colorIdentity": [
+    "R"
+  ]
+}

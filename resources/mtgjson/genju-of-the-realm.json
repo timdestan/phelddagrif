@@ -1,0 +1,32 @@
+{
+  "layout": "normal",
+  "name": "Genju of the Realm",
+  "manaCost": "{W}{U}{B}{R}{G}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "type": "Legendary Enchantment — Aura",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant land\n{2}: Enchanted land becomes a legendary 8/12 Spirit creature with trample until end of turn. It's still a land.\nWhen enchanted land is put into a graveyard, you may return Genju of the Realm from your graveyard to your hand.",
+  "imageName": "genju of the realm",
+  "colorIdentity": [
+    "W",
+    "U",
+    "B",
+    "R",
+    "G"
+  ]
+}

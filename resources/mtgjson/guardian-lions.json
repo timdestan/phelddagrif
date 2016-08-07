@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Guardian Lions",
+  "manaCost": "{4}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Cat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat"
+  ],
+  "text": "Vigilance (Attacking doesn't cause this creature to tap.)",
+  "power": "1",
+  "toughness": "6",
+  "imageName": "guardian lions",
+  "colorIdentity": [
+    "W"
+  ]
+}

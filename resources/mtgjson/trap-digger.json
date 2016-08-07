@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Trap Digger",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "{2}{W}, {T}: Put a trap counter on target land you control.\nSacrifice a land with a trap counter on it: Trap Digger deals 3 damage to target attacking creature without flying.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "trap digger",
+  "colorIdentity": [
+    "W"
+  ]
+}

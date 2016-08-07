@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Vodalian Zombie",
+  "manaCost": "{U}{B}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Creature — Merfolk Zombie",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Merfolk",
+    "Zombie"
+  ],
+  "text": "Protection from green",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "vodalian zombie",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

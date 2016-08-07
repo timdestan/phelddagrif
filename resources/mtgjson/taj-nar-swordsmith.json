@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Taj-Nar Swordsmith",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Cat Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat",
+    "Soldier"
+  ],
+  "text": "When Taj-Nar Swordsmith enters the battlefield, you may pay {X}. If you do, search your library for an Equipment card with converted mana cost X or less and put that card onto the battlefield. Then shuffle your library.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "taj-nar swordsmith",
+  "colorIdentity": [
+    "W"
+  ]
+}

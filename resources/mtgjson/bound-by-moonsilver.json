@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Bound by Moonsilver",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature can't attack, block, or transform.\nSacrifice another permanent: Attach Bound by Moonsilver to target creature. Activate this ability only any time you could cast a sorcery and only once each turn.",
+  "imageName": "bound by moonsilver",
+  "colorIdentity": [
+    "W"
+  ]
+}

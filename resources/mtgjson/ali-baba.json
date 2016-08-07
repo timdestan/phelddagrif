@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ali Baba",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "{R}: Tap target Wall.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "ali baba",
+  "colorIdentity": [
+    "R"
+  ]
+}

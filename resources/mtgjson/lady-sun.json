@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Lady Sun",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Legendary Creature — Human Advisor",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Advisor"
+  ],
+  "text": "{T}: Return Lady Sun and another target creature to their owners' hands. Activate this ability only during your turn, before attackers are declared.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "lady sun",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "layout": "vanguard",
+  "name": "Sliver Queen Avatar",
+  "type": "Vanguard",
+  "types": [
+    "Vanguard"
+  ],
+  "text": "Whenever you cast a non-Sliver creature spell, exile that spell. If you do, put a token onto the battlefield that's a copy of a random non-Shapeshifter Sliver creature card with the same converted mana cost as that spell.",
+  "imageName": "sliver queen avatar",
+  "hand": 0,
+  "life": 7
+}

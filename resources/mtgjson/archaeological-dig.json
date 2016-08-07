@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Archaeological Dig",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{T}, Sacrifice Archaeological Dig: Add one mana of any color to your mana pool.",
+  "imageName": "archaeological dig"
+}

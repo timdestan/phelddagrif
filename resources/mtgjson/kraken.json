@@ -1,0 +1,14 @@
+{
+  "layout": "token",
+  "name": "Kraken",
+  "type": " Creature — Kraken",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kraken"
+  ],
+  "power": "9",
+  "toughness": "9",
+  "imageName": "kraken"
+}

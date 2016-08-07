@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Crimson Hellkite",
+  "manaCost": "{6}{R}{R}{R}",
+  "cmc": 9,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying\n{X}, {T}: Crimson Hellkite deals X damage to target creature. Spend only red mana on X.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "crimson hellkite",
+  "colorIdentity": [
+    "R"
+  ]
+}

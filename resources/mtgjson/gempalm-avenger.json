@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Gempalm Avenger",
+  "manaCost": "{5}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)\nWhen you cycle Gempalm Avenger, Soldier creatures get +1/+1 and gain first strike until end of turn.",
+  "power": "3",
+  "toughness": "5",
+  "imageName": "gempalm avenger",
+  "colorIdentity": [
+    "W"
+  ]
+}

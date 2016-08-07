@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ruin Ghost",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Spirit",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Spirit"
+  ],
+  "text": "{W}, {T}: Exile target land you control, then return it to the battlefield under your control.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "ruin ghost",
+  "colorIdentity": [
+    "W"
+  ]
+}

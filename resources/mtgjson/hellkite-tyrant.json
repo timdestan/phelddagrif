@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Hellkite Tyrant",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying, trample\nWhenever Hellkite Tyrant deals combat damage to a player, gain control of all artifacts that player controls.\nAt the beginning of your upkeep, if you control twenty or more artifacts, you win the game.",
+  "power": "6",
+  "toughness": "5",
+  "imageName": "hellkite tyrant",
+  "colorIdentity": [
+    "R"
+  ]
+}

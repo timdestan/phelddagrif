@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Patron Wizard",
+  "manaCost": "{U}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "Tap an untapped Wizard you control: Counter target spell unless its controller pays {1}.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "patron wizard",
+  "colorIdentity": [
+    "U"
+  ]
+}

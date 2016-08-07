@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Lay of the Land",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.",
+  "imageName": "lay of the land",
+  "colorIdentity": [
+    "G"
+  ]
+}

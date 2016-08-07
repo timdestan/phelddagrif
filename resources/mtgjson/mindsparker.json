@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Mindsparker",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "First strike (This creature deals combat damage before creatures without first strike.)\nWhenever an opponent casts a white or blue instant or sorcery spell, Mindsparker deals 2 damage to that player.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "mindsparker",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Pygmy Razorback",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Boar",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Boar"
+  ],
+  "text": "Trample",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "pygmy razorback",
+  "colorIdentity": [
+    "G"
+  ]
+}

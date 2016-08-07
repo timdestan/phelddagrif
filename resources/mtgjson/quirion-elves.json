@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Quirion Elves",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Druid"
+  ],
+  "text": "As Quirion Elves enters the battlefield, choose a color.\n{T}: Add {G} to your mana pool.\n{T}: Add one mana of the chosen color to your mana pool.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "quirion elves",
+  "colorIdentity": [
+    "G"
+  ]
+}

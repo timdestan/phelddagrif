@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Cateran Overlord",
+  "manaCost": "{4}{B}{B}{B}",
+  "cmc": 7,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror Mercenary",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror",
+    "Mercenary"
+  ],
+  "text": "Sacrifice a creature: Regenerate Cateran Overlord.\n{6}, {T}: Search your library for a Mercenary permanent card with converted mana cost 6 or less and put it onto the battlefield. Then shuffle your library.",
+  "power": "7",
+  "toughness": "5",
+  "imageName": "cateran overlord",
+  "colorIdentity": [
+    "B"
+  ]
+}

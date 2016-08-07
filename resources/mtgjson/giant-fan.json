@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Giant Fan",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, {T}: Move target counter from one card to another. If the second card's rules text refers to any type of counters, the moved counter becomes one of those counters. Otherwise, it becomes a +1/+1 counter.",
+  "imageName": "giant fan"
+}

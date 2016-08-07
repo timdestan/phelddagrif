@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Clip Wings",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Each opponent sacrifices a creature with flying.",
+  "imageName": "clip wings",
+  "colorIdentity": [
+    "G"
+  ]
+}

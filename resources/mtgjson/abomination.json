@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Abomination",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Horror",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Horror"
+  ],
+  "text": "Whenever Abomination blocks or becomes blocked by a green or white creature, destroy that creature at end of combat.",
+  "power": "2",
+  "toughness": "6",
+  "imageName": "abomination",
+  "colorIdentity": [
+    "B"
+  ]
+}

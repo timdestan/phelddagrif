@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Sunseed Nurturer",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Druid Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Druid",
+    "Wizard"
+  ],
+  "text": "At the beginning of your end step, if you control a creature with power 5 or greater, you may gain 2 life.\n{T}: Add {C} to your mana pool.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "sunseed nurturer",
+  "colorIdentity": [
+    "W"
+  ]
+}

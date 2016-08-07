@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Corrupt",
+  "manaCost": "{5}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Corrupt deals damage equal to the number of Swamps you control to target creature or player. You gain life equal to the damage dealt this way.",
+  "imageName": "corrupt",
+  "colorIdentity": [
+    "B"
+  ]
+}

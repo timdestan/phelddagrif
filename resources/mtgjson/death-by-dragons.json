@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Death by Dragons",
+  "manaCost": "{4}{R}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Each player other than target player puts a 5/5 red Dragon creature token with flying onto the battlefield.",
+  "imageName": "death by dragons",
+  "colorIdentity": [
+    "R"
+  ]
+}

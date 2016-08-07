@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Jangling Automaton",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "text": "Whenever Jangling Automaton attacks, untap all creatures defending player controls.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "jangling automaton"
+}

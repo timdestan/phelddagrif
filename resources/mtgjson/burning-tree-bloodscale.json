@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Burning-Tree Bloodscale",
+  "manaCost": "{2}{R}{G}",
+  "cmc": 4,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Creature — Viashino Berserker",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Viashino",
+    "Berserker"
+  ],
+  "text": "Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)\n{2}{R}: Target creature can't block Burning-Tree Bloodscale this turn.\n{2}{G}: Target creature blocks Burning-Tree Bloodscale this turn if able.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "burning-tree bloodscale",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

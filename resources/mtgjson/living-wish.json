@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Living Wish",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "You may choose a creature or land card you own from outside the game, reveal that card, and put it into your hand. Exile Living Wish.",
+  "imageName": "living wish",
+  "colorIdentity": [
+    "G"
+  ]
+}

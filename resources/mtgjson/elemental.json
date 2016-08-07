@@ -1,0 +1,15 @@
+{
+  "layout": "token",
+  "name": "Elemental",
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Trample",
+  "power": "7",
+  "toughness": "7",
+  "imageName": "elemental"
+}

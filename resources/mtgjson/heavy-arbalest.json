@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Heavy Arbalest",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact — Equipment",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Equipment"
+  ],
+  "text": "Equipped creature doesn't untap during its controller's untap step.\nEquipped creature has \"{T}: This creature deals 2 damage to target creature or player.\"\nEquip {4}",
+  "imageName": "heavy arbalest"
+}

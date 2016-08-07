@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Reito Lantern",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{3}: Put target card from a graveyard on the bottom of its owner's library.",
+  "imageName": "reito lantern"
+}

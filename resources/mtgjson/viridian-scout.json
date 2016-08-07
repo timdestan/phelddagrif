@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Viridian Scout",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Warrior Scout",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Warrior",
+    "Scout"
+  ],
+  "text": "{2}{G}, Sacrifice Viridian Scout: Viridian Scout deals 2 damage to target creature with flying.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "viridian scout",
+  "colorIdentity": [
+    "G"
+  ]
+}

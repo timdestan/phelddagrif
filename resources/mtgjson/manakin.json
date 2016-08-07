@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Manakin",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact Creature — Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "text": "{T}: Add {C} to your mana pool.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "manakin"
+}

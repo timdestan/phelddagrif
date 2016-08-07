@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Selesnya Sanctuary",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Selesnya Sanctuary enters the battlefield tapped.\nWhen Selesnya Sanctuary enters the battlefield, return a land you control to its owner's hand.\n{T}: Add {G}{W} to your mana pool.",
+  "imageName": "selesnya sanctuary",
+  "colorIdentity": [
+    "G",
+    "W"
+  ]
+}

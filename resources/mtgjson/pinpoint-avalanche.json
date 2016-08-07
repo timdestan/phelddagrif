@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Pinpoint Avalanche",
+  "manaCost": "{3}{R}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Pinpoint Avalanche deals 4 damage to target creature. The damage can't be prevented.",
+  "imageName": "pinpoint avalanche",
+  "colorIdentity": [
+    "R"
+  ]
+}

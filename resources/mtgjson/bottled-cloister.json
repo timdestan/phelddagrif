@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Bottled Cloister",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "At the beginning of each opponent's upkeep, exile all cards from your hand face down.\nAt the beginning of your upkeep, return all cards you own exiled with Bottled Cloister to your hand, then draw a card.",
+  "imageName": "bottled cloister"
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Sway of the Stars",
+  "manaCost": "{8}{U}{U}",
+  "cmc": 10,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Each player shuffles his or her hand, graveyard, and permanents he or she owns into his or her library, then draws seven cards. Each player's life total becomes 7.",
+  "imageName": "sway of the stars",
+  "colorIdentity": [
+    "U"
+  ]
+}

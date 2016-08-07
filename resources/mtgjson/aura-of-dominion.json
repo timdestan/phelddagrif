@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Aura of Dominion",
+  "manaCost": "{U}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\n{1}, Tap an untapped creature you control: Untap enchanted creature.",
+  "imageName": "aura of dominion",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Bog Wreckage",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Bog Wreckage enters the battlefield tapped.\n{T}: Add {B} to your mana pool.\n{T}, Sacrifice Bog Wreckage: Add one mana of any color to your mana pool.",
+  "imageName": "bog wreckage",
+  "colorIdentity": [
+    "B"
+  ]
+}

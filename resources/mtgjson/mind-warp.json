@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Mind Warp",
+  "manaCost": "{X}{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Look at target player's hand and choose X cards from it. That player discards those cards.",
+  "imageName": "mind warp"
+}

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Sea Eagle",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "sea eagle",
+  "starter": true,
+  "colorIdentity": [
+    "U"
+  ]
+}

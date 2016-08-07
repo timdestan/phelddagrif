@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Crystallization",
+  "manaCost": "{G/U}{W}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Blue",
+    "Green"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature can't attack or block.\nWhen enchanted creature becomes the target of a spell or ability, exile that creature.",
+  "imageName": "crystallization",
+  "colorIdentity": [
+    "W",
+    "U",
+    "G"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "layout": "normal",
+  "name": "Mossfire Egg",
+  "manaCost": "{1}",
+  "cmc": 1,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "{2}, {T}, Sacrifice Mossfire Egg: Add {R}{G} to your mana pool. Draw a card.",
+  "imageName": "mossfire egg",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

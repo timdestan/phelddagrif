@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Laccolith Titan",
+  "manaCost": "{5}{R}{R}",
+  "cmc": 7,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Whenever Laccolith Titan becomes blocked, you may have it deal damage equal to its power to target creature. If you do, Laccolith Titan assigns no combat damage this turn.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "laccolith titan",
+  "colorIdentity": [
+    "R"
+  ]
+}

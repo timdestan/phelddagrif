@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Forest",
+  "type": "Basic Land — Forest",
+  "supertypes": [
+    "Basic"
+  ],
+  "types": [
+    "Land"
+  ],
+  "subtypes": [
+    "Forest"
+  ],
+  "imageName": "forest",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Deathlace",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target spell or permanent becomes black. (Mana symbols on that permanent remain unchanged.)",
+  "imageName": "deathlace",
+  "colorIdentity": [
+    "B"
+  ]
+}

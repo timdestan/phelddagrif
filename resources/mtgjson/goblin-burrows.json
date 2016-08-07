@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Goblin Burrows",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{1}{R}, {T}: Target Goblin creature gets +2/+0 until end of turn.",
+  "imageName": "goblin burrows",
+  "colorIdentity": [
+    "R"
+  ]
+}

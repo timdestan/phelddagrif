@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Angel of Deliverance",
+  "manaCost": "{6}{W}{W}",
+  "cmc": 8,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nDelirium — Whenever Angel of Deliverance deals damage, if there are four or more card types among cards in your graveyard, exile target creature an opponent controls.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "angel of deliverance",
+  "colorIdentity": [
+    "W"
+  ]
+}

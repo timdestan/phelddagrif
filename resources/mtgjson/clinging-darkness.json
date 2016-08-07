@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Clinging Darkness",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature\nEnchanted creature gets -4/-1.",
+  "imageName": "clinging darkness",
+  "colorIdentity": [
+    "B"
+  ]
+}

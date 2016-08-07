@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Hindering Light",
+  "manaCost": "{W}{U}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell that targets you or a permanent you control.\nDraw a card.",
+  "imageName": "hindering light",
+  "colorIdentity": [
+    "W",
+    "U"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Fuel for the Cause",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell, then proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)",
+  "imageName": "fuel for the cause",
+  "colorIdentity": [
+    "U"
+  ]
+}

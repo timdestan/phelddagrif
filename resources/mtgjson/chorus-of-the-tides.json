@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Chorus of the Tides",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Siren",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Siren"
+  ],
+  "text": "Flying\nHeroic — Whenever you cast a spell that targets Chorus of the Tides, scry 1. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "chorus of the tides",
+  "colorIdentity": [
+    "U"
+  ]
+}

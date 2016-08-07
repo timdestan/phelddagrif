@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Endemic Plague",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "As an additional cost to cast Endemic Plague, sacrifice a creature.\nDestroy all creatures that share a creature type with the sacrificed creature. They can't be regenerated.",
+  "imageName": "endemic plague",
+  "colorIdentity": [
+    "B"
+  ]
+}

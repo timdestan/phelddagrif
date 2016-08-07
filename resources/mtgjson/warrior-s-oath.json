@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Warrior's Oath",
+  "manaCost": "{R}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Take an extra turn after this one. At the beginning of that turn's end step, you lose the game.",
+  "imageName": "warrior's oath",
+  "colorIdentity": [
+    "R"
+  ]
+}

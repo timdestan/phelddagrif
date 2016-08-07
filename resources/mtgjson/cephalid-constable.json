@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Cephalid Constable",
+  "manaCost": "{1}{U}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Cephalid Wizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cephalid",
+    "Wizard"
+  ],
+  "text": "Whenever Cephalid Constable deals combat damage to a player, return up to that many target permanents that player controls to their owners' hands.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "cephalid constable",
+  "colorIdentity": [
+    "U"
+  ]
+}

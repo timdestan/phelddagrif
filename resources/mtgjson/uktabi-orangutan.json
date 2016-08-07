@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Uktabi Orangutan",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Ape",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ape"
+  ],
+  "text": "When Uktabi Orangutan enters the battlefield, destroy target artifact.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "uktabi orangutan",
+  "colorIdentity": [
+    "G"
+  ]
+}

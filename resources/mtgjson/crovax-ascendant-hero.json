@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Crovax, Ascendant Hero",
+  "manaCost": "{4}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Legendary Creature — Human",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human"
+  ],
+  "text": "Other white creatures get +1/+1.\nNonwhite creatures get -1/-1.\nPay 2 life: Return Crovax, Ascendant Hero to its owner's hand.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "crovax, ascendant hero",
+  "colorIdentity": [
+    "W"
+  ]
+}

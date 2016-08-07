@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Revelation",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "World Enchantment",
+  "supertypes": [
+    "World"
+  ],
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Players play with their hands revealed.",
+  "imageName": "revelation",
+  "colorIdentity": [
+    "G"
+  ]
+}

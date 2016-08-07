@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Sacred Guide",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "{1}{W}, Sacrifice Sacred Guide: Reveal cards from the top of your library until you reveal a white card. Put that card into your hand and exile all other cards revealed this way.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "sacred guide",
+  "colorIdentity": [
+    "W"
+  ]
+}

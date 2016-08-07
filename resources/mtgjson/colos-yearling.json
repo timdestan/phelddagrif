@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Colos Yearling",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goat Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goat",
+    "Beast"
+  ],
+  "text": "Mountainwalk (This creature can't be blocked as long as defending player controls a Mountain.)\n{R}: Colos Yearling gets +1/+0 until end of turn.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "colos yearling",
+  "colorIdentity": [
+    "R"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Zodiac Rooster",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Plainswalk (This creature can't be blocked as long as defending player controls a Plains.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "zodiac rooster",
+  "colorIdentity": [
+    "G"
+  ]
+}

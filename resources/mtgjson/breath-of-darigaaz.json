@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Breath of Darigaaz",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Kicker {2} (You may pay an additional {2} as you cast this spell.)\nBreath of Darigaaz deals 1 damage to each creature without flying and each player. If Breath of Darigaaz was kicked, it deals 4 damage to each creature without flying and each player instead.",
+  "imageName": "breath of darigaaz",
+  "colorIdentity": [
+    "R"
+  ]
+}
