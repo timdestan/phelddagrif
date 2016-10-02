@@ -16,3 +16,5 @@ libraryDependencies ++= Seq(
 )
 
 scalafmtConfig in ThisBuild := Some(file(".scalafmt"))
+
+mainClass in (Compile, run) := Some("phelddagrif.importer.MtgJsonImporter")

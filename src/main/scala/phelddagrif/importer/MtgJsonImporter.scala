@@ -2,8 +2,10 @@ package phelddagrif
 package importer
 
 import cats.data.Xor
+import java.io.File
 import io.circe.generic.auto._
 import io.circe.jawn.JawnParser
+import scala.io.Source
 
 // Representation of the parts of the MtgJson data that we currently care about.
 case class MtgJsonCard(
@@ -41,6 +43,28 @@ object MtgJsonImporter {
           manaCost,
           rulesText.keywordAbilities
       )
+    }
+  }
+
+  def main(args: Array[String]): Unit = {
+    val (errors, successes) = new File("resources/mtgjson").listFiles.map {
+      Source.fromFile(_).getLines.mkString
+    }.map { text =>
+      (text, importCard(text))
+    }.partition { case (text, parsed) => parsed.isLeft }
+
+    println(s"Finished parsing ${errors.length + successes.length} files.")
+    println(s"  Successfully parsed: ${successes.length} files.")
+    if (!errors.isEmpty) {
+      println(s"  Failed: ${errors.length} files.")
+      println("Example failures:")
+      errors.take(5)
+            .foreach {
+              case (text, Xor.Left(error)) => {
+                println(s"Text:\n\n$text")
+                println(s"Error:\n\n$error.reason\n")
+              }
+            }
     }
   }
 }
