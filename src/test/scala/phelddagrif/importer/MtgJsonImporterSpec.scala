@@ -106,5 +106,38 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
         ))
       )
     }
+
+    "should be able to parse variable generic mana cost" in {
+      MtgJsonImporter.importCard("""
+{
+  "layout": "normal",
+  "name": "Abandon Hope",
+  "manaCost": "{X}{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "As an additional cost to cast Abandon Hope, discard X cards.\nLook at target opponent's hand and choose X cards from it. That player discards those cards.",
+  "imageName": "abandon hope",
+  "colorIdentity": [
+    "B"
+  ]
+}
+""") should be(
+        Xor.Right(Card(
+          "Abandon Hope",
+          Vector(CardType.Sorcery),
+          Vector(),
+          ManaCost(ManaCost.VariableGeneric,
+                   ManaCost.FixedGeneric(1),
+                   ManaCost.Black),
+          Vector()
+        ))
+      )
+    }
   }
 }

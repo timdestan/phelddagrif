@@ -27,7 +27,9 @@ object ManaCost {
             Error.catchNonFatal(FixedGeneric(str.toInt))
         },
         // Parse colored mana costs.
-        Color.parser.map(Colored(_))
+        Color.parser.map(Colored(_)),
+        // Parse generic mana costs.
+        KeywordParser(VariableGeneric, "X")
         // TODO: Handle the other types of symbols.
     )
 
