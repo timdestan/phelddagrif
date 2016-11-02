@@ -2,6 +2,7 @@ package phelddagrif
 package importer
 
 import cats.data.Xor
+import fastparse.all._
 import java.io.File
 import io.circe.generic.auto._
 import io.circe.jawn.JawnParser
@@ -35,7 +36,7 @@ object MtgJsonImporter {
     val rulesText =
       json.text.map(RulesTextParser.parse(_)).getOrElse(ParsedRulesText.empty)
 
-    ManaCost.parse(json.manaCost.getOrElse("")).map { manaCost =>
+    val parser = ManaCost.parser.map { manaCost =>
       Card(
           json.name,
           types,
@@ -43,6 +44,11 @@ object MtgJsonImporter {
           manaCost,
           rulesText.keywordAbilities
       )
+    }
+    
+    P(parser ~ End).parse(json.manaCost.getOrElse("")) match {
+      case Parsed.Success(v, _) => Xor.Right(v)
+      case failure => Xor.Left(Error(failure.toString))
     }
   }
 

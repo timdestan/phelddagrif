@@ -9,6 +9,8 @@ scalacOptions += "-feature"
 val circeVersion = "0.5.1"
 
 libraryDependencies ++= Seq(
+  "com.lihaoyi" %% "fastparse" % "0.4.1",
+
   "io.circe" %% "circe-core" % circeVersion,
   "io.circe" %% "circe-generic" % circeVersion,
   "io.circe" %% "circe-parser" % circeVersion,

@@ -72,7 +72,8 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
   ]
 }
 """) should be(
-        Xor.Left(Error("Expected mana symbol. Found Q"))
+        Xor.Left(Error("Failure(End:1:7 ...\"{Q}\")"))
+        // TODO : Error message is crap.
       )
     }
 

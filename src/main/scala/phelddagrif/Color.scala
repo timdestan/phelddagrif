@@ -1,6 +1,6 @@
 package phelddagrif
 
-import phelddagrif.parse._
+import fastparse.all._
 
 sealed class Color(val symbol: String)
 
@@ -11,10 +11,8 @@ object Color {
   case object Red extends Color("R")
   case object Green extends Color("G")
 
-  val parser = new UnionParser[Color](
-      List(White, Blue, Black, Red, Green).map(color =>
-            new KeywordParser(color, color.symbol))
-  )
-
-  def parse(text: String): Option[Color] = parser.parseOption(text)
+  val parser:P[Color] =
+      List(White, Blue, Black, Red, Green)
+        .map(color => P(color.symbol).map(_ => color))
+        .reduce(_ | _)
 }

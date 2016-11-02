@@ -1,7 +1,7 @@
 package phelddagrif
 
 import cats.data.{NonEmptyList, Xor}
-import phelddagrif.parse._
+import fastparse.all._
 
 sealed trait ManaCost {
   def colors: Set[Color]
@@ -20,25 +20,17 @@ object ManaCost {
   }
 
   object ManaSymbol {
-    val parsers = List[Parser[ManaSymbol]](
-        // Parse fixed generic mana costs.
-        new Parser[ManaSymbol] {
-          def parse(str: String): Error Xor ManaSymbol =
-            Error.catchNonFatal(FixedGeneric(str.toInt))
-        },
-        // Parse colored mana costs.
-        Color.parser.map(Colored(_)),
-        // Parse generic mana costs.
-        KeywordParser(VariableGeneric, "X")
-        // TODO: Handle the other types of symbols.
-    )
+    val fixedGenericParser =
+      P(CharIn('0' to '9').!).map(num => FixedGeneric(num.toInt))
+    val coloredParser = Color.parser.map(Colored(_))
+    val variableGenericParser = P("X").map(_ => VariableGeneric)
 
-    val parser = new UnionParser[ManaSymbol](parsers) {
-      override def error(found: String): Error =
-        Error(s"Expected mana symbol. Found $found")
-    }
+    val parser:Parser[ManaSymbol] =
+      P(coloredParser |
+        fixedGenericParser |
+        variableGenericParser).opaque("Mana symbol")
 
-    def parse(str: String): Error Xor ManaSymbol = parser.parse(str)
+    // TODO: Handle the other types of symbols.
   }
 
   case class FixedGeneric(amount: Int) extends ManaSymbol
@@ -72,24 +64,7 @@ object ManaCost {
   // The zero mana cost.
   val Zero: ManaCost = ManaCost()
 
-  // Try to parse a mana cost from a string.
-  def parse(str: String): Error Xor ManaCost = {
-    val parsedSymbols = str
-      .replace("[{}]", "")
-      .filter { x =>
-        x != '{' && x != '}'
-      }
-      .map { _.toString }
-      .map(str => ManaSymbol.parse(str))
-
-    // Fail on the first symbol that failed to parse.
-    parsedSymbols
-      .foldLeft[Error Xor List[ManaSymbol]](Xor.Right(Nil)) {
-        case (e @ Xor.Left(_), _) => e
-        case (_, e @ Xor.Left(_)) => e
-        case (Xor.Right(symbolList), Xor.Right(symbol)) =>
-          Xor.Right(symbol :: symbolList)
-      }
-      .map(symbols => ManaCost(symbols.reverse))
-  }
+  val parser:Parser[ManaCost] =
+    P( "{" ~ ManaSymbol.parser ~ "}")
+      .rep.map(seq => ManaCost(seq.toList))
 }
