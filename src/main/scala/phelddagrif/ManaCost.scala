@@ -24,11 +24,15 @@ object ManaCost {
       P(CharIn('0' to '9').!).map(num => FixedGeneric(num.toInt))
     val coloredParser = Color.parser.map(Colored(_))
     val variableGenericParser = P("X").map(_ => VariableGeneric)
+    val hybridParser =
+      P(coloredParser ~ "/" ~ coloredParser)
+        .map({ case (c1:ManaSymbol,c2:ManaSymbol) => Hybrid(c1, c2) })
 
     val parser:Parser[ManaSymbol] =
-      P(coloredParser |
+      P(hybridParser |
+        coloredParser |
         fixedGenericParser |
-        variableGenericParser).opaque("Mana symbol")
+        variableGenericParser)
 
     // TODO: Handle the other types of symbols.
   }

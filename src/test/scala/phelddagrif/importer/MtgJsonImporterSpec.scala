@@ -140,5 +140,39 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
         ))
       )
     }
+
+    "should be able to parse hybrid mana costs" in {
+      MtgJsonImporter.importCard("""
+{
+  "layout": "normal",
+  "name": "Arrows of Justice",
+  "manaCost": "{2}{R/W}",
+  "cmc": 3,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Arrows of Justice deals 4 damage to target attacking or blocking creature.",
+  "imageName": "arrows of justice",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}
+      """) should be(
+        Xor.Right(Card(
+          "Arrows of Justice",
+          Vector(CardType.Instant),
+          Vector(),
+          ManaCost(ManaCost.FixedGeneric(2),
+                   ManaCost.Hybrid(ManaCost.Red, ManaCost.White)),
+          Vector()
+        ))
+      )
+    }
   }
 }
