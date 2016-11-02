@@ -174,5 +174,48 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
         ))
       )
     }
+
+    "should be able to parse double digit mana costs" in {
+      MtgJsonImporter.importCard("""
+{
+  "layout": "normal",
+  "name": "Autochthon Wurm",
+  "manaCost": "{10}{G}{G}{G}{W}{W}",
+  "cmc": 15,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nTrample",
+  "power": "9",
+  "toughness": "14",
+  "imageName": "autochthon wurm",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}
+      """) should be(
+        Xor.Right(Card(
+          "Autochthon Wurm",
+          Vector(CardType.Creature),
+          Vector(CreatureType.Wurm),
+          ManaCost(ManaCost.FixedGeneric(10),
+                   ManaCost.Green,
+                   ManaCost.Green,
+                   ManaCost.Green,
+                   ManaCost.White,
+                   ManaCost.White),
+          Vector(Convoke)
+        ))
+      )
+    }
   }
 }

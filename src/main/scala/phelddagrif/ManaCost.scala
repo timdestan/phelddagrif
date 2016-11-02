@@ -21,7 +21,7 @@ object ManaCost {
 
   object ManaSymbol {
     val fixedGenericParser =
-      P(CharIn('0' to '9').!).map(num => FixedGeneric(num.toInt))
+      P(CharIn('0' to '9').rep(1).!).map(num => FixedGeneric(num.toInt))
     val coloredParser = Color.parser.map(Colored(_))
     val variableGenericParser = P("X").map(_ => VariableGeneric)
     val hybridParser =
