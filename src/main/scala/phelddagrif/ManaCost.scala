@@ -1,6 +1,6 @@
 package phelddagrif
 
-import cats.data.Xor
+import cats.data.{NonEmptyList, Xor}
 import phelddagrif.parse._
 
 sealed trait ManaCost {
@@ -56,16 +56,18 @@ object ManaCost {
   val Red = Colored(Color.Red)
   val Black = Colored(Color.Black)
 
-  // Invariant (enforced by apply): symbols is always non-empty. The zero mana
-  // cost is represented with a single symbol: FixedGeneric(0).
-  private case class ManaCostImpl(symbols: List[ManaCost.ManaSymbol])
+  // As with the symbols printed on cards, here the zero mana cost is
+  // represented as a {0} mana symbol, not an empty list of symbols.
+  private case class ManaCostImpl(symbols: NonEmptyList[ManaCost.ManaSymbol])
       extends ManaCost {
-    def colors: Set[Color] = symbols.flatMap { _.colors }.toSet
+    def colors: Set[Color] = symbols.map { _.colors }.reduceLeft(_ ++ _)
   }
 
   def apply(symbols: ManaSymbol*): ManaCost = apply(symbols.toList)
   def apply(symbols: List[ManaSymbol]): ManaCost =
-    ManaCostImpl(if (symbols.isEmpty) List(FixedGeneric(0)) else symbols)
+    ManaCostImpl(NonEmptyList
+      .fromList(symbols)
+      .getOrElse(NonEmptyList.of(FixedGeneric(0))))
 
   // The zero mana cost.
   val Zero: ManaCost = ManaCost()

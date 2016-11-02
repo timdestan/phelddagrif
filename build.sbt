@@ -6,11 +6,13 @@ scalaVersion := "2.11.8"
 
 scalacOptions += "-feature"
 
+val circeVersion = "0.5.1"
+
 libraryDependencies ++= Seq(
-  "io.circe" %% "circe-core" % "0.3.0",
-  "io.circe" %% "circe-generic" % "0.3.0",
-  "io.circe" %% "circe-parser" % "0.3.0",
-  "org.typelevel" %% "cats" % "0.4.1",
+  "io.circe" %% "circe-core" % circeVersion,
+  "io.circe" %% "circe-generic" % circeVersion,
+  "io.circe" %% "circe-parser" % circeVersion,
+  "org.typelevel" %% "cats" % "0.7.0",
 
   "org.scalatest" %% "scalatest" % "2.2.4" % "test"
 )
