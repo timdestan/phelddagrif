@@ -2,21 +2,21 @@ name := """Phelddagrif"""
 
 version := "0.1"
 
-scalaVersion := "2.11.8"
+scalaVersion := "2.12.0"
 
 scalacOptions += "-feature"
 
-val circeVersion = "0.5.1"
+val circeVersion = "0.6.0"
 
 libraryDependencies ++= Seq(
-  "com.lihaoyi" %% "fastparse" % "0.4.1",
+  "com.lihaoyi" %% "fastparse" % "0.4.2",
 
   "io.circe" %% "circe-core" % circeVersion,
   "io.circe" %% "circe-generic" % circeVersion,
   "io.circe" %% "circe-parser" % circeVersion,
-  "org.typelevel" %% "cats" % "0.7.0",
+  "org.typelevel" %% "cats" % "0.8.1",
 
-  "org.scalatest" %% "scalatest" % "2.2.4" % "test"
+  "org.scalatest" %% "scalatest" % "3.0.0" % "test"
 )
 
 scalafmtConfig in ThisBuild := Some(file(".scalafmt"))

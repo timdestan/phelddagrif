@@ -1,6 +1,6 @@
 package phelddagrif
 
-import cats.data.{NonEmptyList, Xor}
+import cats.data.NonEmptyList
 import fastparse.all._
 
 sealed trait ManaCost {

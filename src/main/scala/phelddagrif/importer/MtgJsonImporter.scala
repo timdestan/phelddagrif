@@ -1,7 +1,6 @@
 package phelddagrif
 package importer
 
-import cats.data.Xor
 import fastparse.all._
 import java.io.File
 import io.circe.generic.auto._
@@ -22,13 +21,13 @@ case class MtgJsonCard(
 object MtgJsonImporter {
   lazy val parser = new JawnParser()
 
-  def importCard(text: String): Error Xor Card =
+  def importCard(text: String): Either[Error, Card] =
     parser
       .decode[MtgJsonCard](text)
-      .leftMap(Error.fromThrowable)
+      .left.map(Error.fromThrowable)
       .flatMap(json => parseCardParts(json))
 
-  def parseCardParts(json: MtgJsonCard): Error Xor Card = {
+  def parseCardParts(json: MtgJsonCard): Either[Error, Card] = {
     val types = json.types.map { CardTypeParser.tryParse(_) }.flatten.toVector
     val subtypeStrings = json.subtypes.getOrElse(Vector())
     val subtypes =
@@ -47,8 +46,8 @@ object MtgJsonImporter {
     }
     
     P(parser ~ End).parse(json.manaCost.getOrElse("")) match {
-      case Parsed.Success(v, _) => Xor.Right(v)
-      case failure => Xor.Left(Error(failure.toString))
+      case Parsed.Success(v, _) => Right(v)
+      case failure => Left(Error(failure.toString))
     }
   }
 
@@ -69,7 +68,7 @@ object MtgJsonImporter {
       println(s"  Failed: ${errors.length} files.")
       println("Example failures:")
       errors.take(5).foreach {
-        case (text, Xor.Left(error)) => {
+        case (text, Left(error)) => {
           println(s"Text:\n\n$text")
           println(s"Error:\n\n$error.reason\n")
         }

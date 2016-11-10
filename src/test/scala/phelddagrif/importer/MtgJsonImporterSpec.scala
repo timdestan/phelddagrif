@@ -1,4 +1,3 @@
-import cats.data.Xor
 import org.scalatest._
 import phelddagrif._
 import phelddagrif.Color.{ White, Blue, Black, Red, Green }
@@ -32,7 +31,7 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
   ]
 }
 """) should be(
-        Xor.Right(Card(
+        Right(Card(
           "Air Elemental",
           Vector(CardType.Creature),
           Vector(CreatureType.Elemental),
@@ -72,7 +71,7 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
   ]
 }
 """) should be(
-        Xor.Left(Error("Failure(End:1:7 ...\"{Q}\")"))
+        Left(Error("Failure(End:1:7 ...\"{Q}\")"))
         // TODO : Error message is crap.
       )
     }
@@ -98,7 +97,7 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
   ]
 }
 """) should be(
-        Xor.Right(Card(
+        Right(Card(
           "Plateau",
           Vector(CardType.Land),
           Vector(LandType.Mountain, LandType.Plains),
@@ -129,7 +128,7 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
   ]
 }
 """) should be(
-        Xor.Right(Card(
+        Right(Card(
           "Abandon Hope",
           Vector(CardType.Sorcery),
           Vector(),
@@ -164,7 +163,7 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
   ]
 }
       """) should be(
-        Xor.Right(Card(
+        Right(Card(
           "Arrows of Justice",
           Vector(CardType.Instant),
           Vector(),
@@ -203,7 +202,7 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
   ]
 }
       """) should be(
-        Xor.Right(Card(
+        Right(Card(
           "Autochthon Wurm",
           Vector(CardType.Creature),
           Vector(CreatureType.Wurm),
