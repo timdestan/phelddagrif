@@ -1,6 +1,6 @@
 import org.scalatest._
 import phelddagrif._
-import phelddagrif.Color.{ White, Blue, Black, Red, Green }
+import phelddagrif.ManaCost._
 import phelddagrif.importer._
 
 class MtgJsonImporterSpec extends FreeSpec with Matchers {
@@ -35,11 +35,7 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
           "Air Elemental",
           Vector(CardType.Creature),
           Vector(CreatureType.Elemental),
-          ManaCost(
-            ManaCost.FixedGeneric(3),
-            ManaCost.Blue,
-            ManaCost.Blue
-          ),
+          ManaCost(FixedGeneric(3), U, U),
           Vector(Flying)
         ))
       )
@@ -132,9 +128,9 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
           "Abandon Hope",
           Vector(CardType.Sorcery),
           Vector(),
-          ManaCost(ManaCost.VariableGeneric,
-                   ManaCost.FixedGeneric(1),
-                   ManaCost.Black),
+          ManaCost(VariableGeneric,
+                   FixedGeneric(1),
+                   B),
           Vector()
         ))
       )
@@ -167,8 +163,7 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
           "Arrows of Justice",
           Vector(CardType.Instant),
           Vector(),
-          ManaCost(ManaCost.FixedGeneric(2),
-                   ManaCost.Hybrid(ManaCost.Red, ManaCost.White)),
+          ManaCost(FixedGeneric(2), R / W),
           Vector()
         ))
       )
@@ -206,12 +201,7 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
           "Autochthon Wurm",
           Vector(CardType.Creature),
           Vector(CreatureType.Wurm),
-          ManaCost(ManaCost.FixedGeneric(10),
-                   ManaCost.Green,
-                   ManaCost.Green,
-                   ManaCost.Green,
-                   ManaCost.White,
-                   ManaCost.White),
+          ManaCost(FixedGeneric(10), G, G, G, W, W),
           Vector(Convoke)
         ))
       )
@@ -242,9 +232,7 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
           "Act of Aggression",
           Vector(CardType.Instant),
           Vector.empty,
-          ManaCost(ManaCost.FixedGeneric(3),
-                   ManaCost.Hybrid(ManaCost.Red, ManaCost.Phyrexian),
-                   ManaCost.Hybrid(ManaCost.Red, ManaCost.Phyrexian)),
+          ManaCost(FixedGeneric(3), R / P, R / P),
           Vector.empty
         ))
       )
@@ -274,8 +262,7 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
           "Deceiver of Form",
           Vector(CardType.Creature),
           Vector(CreatureType.Eldrazi),
-          ManaCost(ManaCost.FixedGeneric(6),
-                   ManaCost.Colorless),
+          ManaCost(FixedGeneric(6), C),
           Vector.empty
         ))
       )

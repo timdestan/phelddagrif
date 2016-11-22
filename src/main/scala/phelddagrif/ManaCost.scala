@@ -2,6 +2,7 @@ package phelddagrif
 
 import cats.data.NonEmptyList
 import fastparse.all._
+import fastparse.all.{P => mkParser}
 
 sealed trait ManaCost {
   def colors: Set[Color]
@@ -9,7 +10,7 @@ sealed trait ManaCost {
 
 object ManaCost {
   // A single component of a mana cost
-  sealed trait ManaSymbol {
+  sealed trait ManaSymbol { self =>
     def colors: Set[Color] = this match {
       case FixedGeneric(_) => Set.empty
       case VariableGeneric => Set.empty
@@ -18,29 +19,31 @@ object ManaCost {
       case Phyrexian => Set.empty
       case Colorless => Set.empty
     }
+
+    def /(other: ManaSymbol): ManaSymbol = Hybrid(self, other)
   }
 
   object ManaSymbol {
     val fixedGenericParser =
-      P(CharIn('0' to '9').rep(1).!).map(num => FixedGeneric(num.toInt))
+      mkParser(CharIn('0' to '9').rep(1).!).map(num => FixedGeneric(num.toInt))
     val coloredParser = Color.parser.map(Colored(_))
-    val variableGenericParser = P("X").map(_ => VariableGeneric)
-    val phyrexianParser = P("P").map(_ => Phyrexian)
-    val colorlessParser = P("C").map(_ => Colorless)
+    val variableGenericParser = mkParser("X").map(_ => VariableGeneric)
+    val phyrexianParser = mkParser("P").map(_ => Phyrexian)
+    val colorlessParser = mkParser("C").map(_ => Colorless)
 
     val singleSymbolParser =
-       P(coloredParser |
-         fixedGenericParser |
-         variableGenericParser |
-         phyrexianParser |
-         colorlessParser)
+       mkParser(coloredParser |
+                fixedGenericParser |
+                variableGenericParser |
+                phyrexianParser |
+                colorlessParser)
 
     val hybridParser =
-      P(singleSymbolParser ~ "/" ~ singleSymbolParser)
-        .map({ case (c1:ManaSymbol,c2:ManaSymbol) => Hybrid(c1, c2) })
+      mkParser(singleSymbolParser ~ "/" ~ singleSymbolParser)
+          .map({ case (c1, c2) => c1 / c2 })
 
     val parser:Parser[ManaSymbol] =
-      P(hybridParser | singleSymbolParser)
+      mkParser(hybridParser | singleSymbolParser)
 
     // TODO: Handle the other types of symbols.
   }
@@ -62,6 +65,14 @@ object ManaCost {
   val Red = Colored(Color.Red)
   val Black = Colored(Color.Black)
 
+  val W = White
+  val U = Blue
+  val G = Green
+  val R = Red
+  val B = Black
+  val P = Phyrexian
+  val C = Colorless
+
   // As with the symbols printed on cards, here the zero mana cost is
   // represented as a {0} mana symbol, not an empty list of symbols.
   private case class ManaCostImpl(symbols: NonEmptyList[ManaCost.ManaSymbol])
@@ -79,6 +90,6 @@ object ManaCost {
   val Zero: ManaCost = ManaCost()
 
   val parser:Parser[ManaCost] =
-    P( "{" ~ ManaSymbol.parser ~ "}")
-      .rep.map(seq => ManaCost(seq.toList))
+    mkParser( "{" ~ ManaSymbol.parser ~ "}").rep
+        .map(seq => ManaCost(seq.toList))
 }
