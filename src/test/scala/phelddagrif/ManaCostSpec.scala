@@ -39,10 +39,8 @@ class ManaCostSpec extends FreeSpec with Matchers {
           )
         ).colors should be(Set(Red))
       }
-      "Phyrexian costs should be their color" in {
-        ManaCost(
-          ManaCost.Phyrexian(Red)
-        ).colors should be(Set(Red))
+      "Phyrexian costs should be colorless" in {
+        ManaCost(ManaCost.Phyrexian).colors should be(Set.empty)
       }
     }
     "Zero" - {

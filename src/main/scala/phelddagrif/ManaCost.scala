@@ -15,7 +15,8 @@ object ManaCost {
       case VariableGeneric => Set.empty
       case Colored(c) => Set(c)
       case Hybrid(l, r) => l.colors union r.colors
-      case Phyrexian(c) => Set(c)
+      case Phyrexian => Set.empty
+      case Colorless => Set.empty
     }
   }
 
@@ -24,24 +25,33 @@ object ManaCost {
       P(CharIn('0' to '9').rep(1).!).map(num => FixedGeneric(num.toInt))
     val coloredParser = Color.parser.map(Colored(_))
     val variableGenericParser = P("X").map(_ => VariableGeneric)
+    val phyrexianParser = P("P").map(_ => Phyrexian)
+    val colorlessParser = P("C").map(_ => Colorless)
+
+    val singleSymbolParser =
+       P(coloredParser |
+         fixedGenericParser |
+         variableGenericParser |
+         phyrexianParser |
+         colorlessParser)
+
     val hybridParser =
-      P(coloredParser ~ "/" ~ coloredParser)
+      P(singleSymbolParser ~ "/" ~ singleSymbolParser)
         .map({ case (c1:ManaSymbol,c2:ManaSymbol) => Hybrid(c1, c2) })
 
     val parser:Parser[ManaSymbol] =
-      P(hybridParser |
-        coloredParser |
-        fixedGenericParser |
-        variableGenericParser)
+      P(hybridParser | singleSymbolParser)
 
     // TODO: Handle the other types of symbols.
   }
 
-  case class FixedGeneric(amount: Int) extends ManaSymbol
-  case object VariableGeneric extends ManaSymbol
-  case class Colored(color: Color) extends ManaSymbol
-  case class Hybrid(left: ManaSymbol, right: ManaSymbol) extends ManaSymbol
-  case class Phyrexian(color: Color) extends ManaSymbol
+  final case class FixedGeneric(amount: Int) extends ManaSymbol
+  final case object VariableGeneric extends ManaSymbol
+  final case class Colored(color: Color) extends ManaSymbol
+  final case class Hybrid(left: ManaSymbol, right: ManaSymbol)
+      extends ManaSymbol
+  final case object Phyrexian extends ManaSymbol
+  final case object Colorless extends ManaSymbol
 
   // TODO: Support for snow mana costs
 

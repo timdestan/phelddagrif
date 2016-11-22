@@ -216,5 +216,69 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
         ))
       )
     }
+
+   "should be able to parse Phyrexian mana costs" in {
+      MtgJsonImporter.importCard("""
+{
+  "layout": "normal",
+  "name": "Act of Aggression",
+  "manaCost": "{3}{R/P}{R/P}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "({R/P} can be paid with either {R} or 2 life.)\nGain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn.",
+  "imageName": "act of aggression",
+  "colorIdentity": [
+    "R"
+  ]
+}
+      """) should be(
+        Right(Card(
+          "Act of Aggression",
+          Vector(CardType.Instant),
+          Vector.empty,
+          ManaCost(ManaCost.FixedGeneric(3),
+                   ManaCost.Hybrid(ManaCost.Red, ManaCost.Phyrexian),
+                   ManaCost.Hybrid(ManaCost.Red, ManaCost.Phyrexian)),
+          Vector.empty
+        ))
+      )
+    }
+
+       "should be able to parse colorless mana costs" in {
+      MtgJsonImporter.importCard("""
+{
+  "layout": "normal",
+  "name": "Deceiver of Form",
+  "manaCost": "{6}{C}",
+  "cmc": 7,
+  "type": "Creature — Eldrazi",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Eldrazi"
+  ],
+  "text": "({C} represents colorless mana.)\nAt the beginning of combat on your turn, reveal the top card of your library. If a creature card is revealed this way, you may have creatures you control other than Deceiver of Form become copies of that card until end of turn. You may put that card on the bottom of your library.",
+  "power": "8",
+  "toughness": "8",
+  "imageName": "deceiver of form"
+}
+      """) should be(
+        Right(Card(
+          "Deceiver of Form",
+          Vector(CardType.Creature),
+          Vector(CreatureType.Eldrazi),
+          ManaCost(ManaCost.FixedGeneric(6),
+                   ManaCost.Colorless),
+          Vector.empty
+        ))
+      )
+    }
   }
 }
