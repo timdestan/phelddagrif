@@ -44,7 +44,7 @@ object MtgJsonImporter {
           rulesText.keywordAbilities
       )
     }
-    
+
     P(parser ~ End).parse(json.manaCost.getOrElse("")) match {
       case Parsed.Success(v, _) => Right(v)
       case failure => Left(Error(failure.toString))
@@ -55,22 +55,20 @@ object MtgJsonImporter {
     val (errors, successes) = new File("resources/mtgjson").listFiles.map {
       path =>
         val source = Source.fromFile(path)
-        val fileContents = source.getLines.mkString
+        val text = source.getLines.mkString
         source.close()
-        fileContents
-    }.map { text =>
-      (text, importCard(text))
-    }.partition { case (text, parsed) => parsed.isLeft }
+        (path, text, importCard(text))
+    }.partition { case (path, text, parsed) => parsed.isLeft }
 
     println(s"Finished parsing ${errors.length + successes.length} files.")
     println(s"  Successfully parsed: ${successes.length} files.")
     if (!errors.isEmpty) {
       println(s"  Failed: ${errors.length} files.")
       println("Example failures:")
-      errors.take(5).foreach {
-        case (text, Left(error)) => {
-          println(s"Text:\n\n$text")
-          println(s"Error:\n\n$error.reason\n")
+      errors.take(20).foreach {
+        case (path, text, Left(error)) => {
+          println(s"$path:\n$text")
+          println(s"Error:\n${error.reason}\n")
         }
       }
     }
