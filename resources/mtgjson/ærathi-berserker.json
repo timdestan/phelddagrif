@@ -15,6 +15,7 @@
     "Berserker"
   ],
   "text": "Rampage 3 (Whenever this creature becomes blocked, it gets +3/+3 until end of turn for each creature blocking it beyond the first.)",
+  "mciNumber": "131",
   "power": "2",
   "toughness": "4",
   "imageName": "ærathi berserker",

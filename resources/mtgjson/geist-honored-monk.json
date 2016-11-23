@@ -14,7 +14,7 @@
     "Human",
     "Monk"
   ],
-  "text": "Vigilance\nGeist-Honored Monk's power and toughness are each equal to the number of creatures you control.\nWhen Geist-Honored Monk enters the battlefield, put two 1/1 white Spirit creature tokens with flying onto the battlefield.",
+  "text": "Vigilance\nGeist-Honored Monk's power and toughness are each equal to the number of creatures you control.\nWhen Geist-Honored Monk enters the battlefield, create two 1/1 white Spirit creature tokens with flying.",
   "power": "*",
   "toughness": "*",
   "imageName": "geist-honored monk",

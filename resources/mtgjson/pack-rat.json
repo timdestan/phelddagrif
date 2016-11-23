@@ -13,7 +13,7 @@
   "subtypes": [
     "Rat"
   ],
-  "text": "Pack Rat's power and toughness are each equal to the number of Rats you control.\n{2}{B}, Discard a card: Put a token onto the battlefield that's a copy of Pack Rat.",
+  "text": "Pack Rat's power and toughness are each equal to the number of Rats you control.\n{2}{B}, Discard a card: Create a token that's a copy of Pack Rat.",
   "power": "*",
   "toughness": "*",
   "imageName": "pack rat",

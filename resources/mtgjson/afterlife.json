@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Destroy target creature. It can't be regenerated. Its controller puts a 1/1 white Spirit creature token with flying onto the battlefield.",
+  "text": "Destroy target creature. It can't be regenerated. Its controller creates a 1/1 white Spirit creature token with flying.",
   "imageName": "afterlife",
   "colorIdentity": [
     "W"

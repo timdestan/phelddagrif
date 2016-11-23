@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Put two 1/1 white Kithkin Soldier creature tokens onto the battlefield.\nRetrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)",
+  "text": "Create two 1/1 white Kithkin Soldier creature tokens.\nRetrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)",
   "imageName": "cenn's enlistment",
   "colorIdentity": [
     "W"

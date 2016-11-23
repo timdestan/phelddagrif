@@ -14,7 +14,7 @@
     "Human",
     "Scout"
   ],
-  "text": "When Mausoleum Guard dies, put two 1/1 white Spirit creature tokens with flying onto the battlefield.",
+  "text": "When Mausoleum Guard dies, create two 1/1 white Spirit creature tokens with flying.",
   "power": "2",
   "toughness": "2",
   "imageName": "mausoleum guard",

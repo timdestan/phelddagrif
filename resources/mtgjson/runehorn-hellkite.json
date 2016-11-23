@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Runehorn Hellkite",
+  "manaCost": "{5}{R}",
+  "cmc": 6,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Dragon",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dragon"
+  ],
+  "text": "Flying\n{5}{R}, Exile Runehorn Hellkite from your graveyard: Each player discards his or her hand, then draws seven cards.",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "runehorn hellkite",
+  "colorIdentity": [
+    "R"
+  ]
+}

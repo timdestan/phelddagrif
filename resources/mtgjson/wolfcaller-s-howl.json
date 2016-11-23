@@ -10,7 +10,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "At the beginning of your upkeep, put X 2/2 green Wolf creature tokens onto the battlefield, where X is the number of your opponents with four or more cards in hand.",
+  "text": "At the beginning of your upkeep, create X 2/2 green Wolf creature tokens, where X is the number of your opponents with four or more cards in hand.",
   "imageName": "wolfcaller's howl",
   "colorIdentity": [
     "G"

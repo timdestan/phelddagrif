@@ -13,7 +13,7 @@
   "subtypes": [
     "Vampire"
   ],
-  "text": "When Carrier Thrall dies, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has \"Sacrifice this creature: Add {C} to your mana pool.\"",
+  "text": "When Carrier Thrall dies, create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this creature: Add {C} to your mana pool.\"",
   "power": "2",
   "toughness": "1",
   "imageName": "carrier thrall",

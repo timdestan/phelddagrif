@@ -18,7 +18,7 @@
     "Snake",
     "Shaman"
   ],
-  "text": "{2}{G}, {T}: Put a 1/1 green Snake creature token onto the battlefield. If you control ten or more creatures, flip Orochi Eggwatcher.",
+  "text": "{2}{G}, {T}: Create a 1/1 green Snake creature token. If you control ten or more creatures, flip Orochi Eggwatcher.",
   "power": "1",
   "toughness": "1",
   "imageName": "orochi eggwatcher",

@@ -13,7 +13,7 @@
   "subtypes": [
     "Aura"
   ],
-  "text": "Enchant creature\nWhen Raised by Wolves enters the battlefield, put two 2/2 green Wolf creature tokens onto the battlefield.\nEnchanted creature gets +1/+1 for each Wolf you control.",
+  "text": "Enchant creature\nWhen Raised by Wolves enters the battlefield, create two 2/2 green Wolf creature tokens.\nEnchanted creature gets +1/+1 for each Wolf you control.",
   "imageName": "raised by wolves",
   "colorIdentity": [
     "G"

@@ -10,7 +10,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "Whenever a nontoken creature you control dies, put a slime counter on Gutter Grime, then put a green Ooze creature token onto the battlefield with \"This creature's power and toughness are each equal to the number of slime counters on Gutter Grime.\"",
+  "text": "Whenever a nontoken creature you control dies, put a slime counter on Gutter Grime, then create a green Ooze creature token with \"This creature's power and toughness are each equal to the number of slime counters on Gutter Grime.\"",
   "imageName": "gutter grime",
   "colorIdentity": [
     "G"

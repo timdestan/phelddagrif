@@ -14,7 +14,7 @@
   "subtypes": [
     "Elf"
   ],
-  "text": "Put a 1/1 green Elf Warrior creature token onto the battlefield for each Elf you control.",
+  "text": "Create a 1/1 green Elf Warrior creature token for each Elf you control.",
   "imageName": "elvish promenade",
   "colorIdentity": [
     "G"

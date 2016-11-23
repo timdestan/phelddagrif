@@ -14,7 +14,7 @@
     "Human",
     "Rogue"
   ],
-  "text": "Whenever Kessig Cagebreakers attacks, put a 2/2 green Wolf creature token onto the battlefield tapped and attacking for each creature card in your graveyard.",
+  "text": "Whenever Kessig Cagebreakers attacks, create a 2/2 green Wolf creature token that's tapped and attacking for each creature card in your graveyard.",
   "power": "3",
   "toughness": "4",
   "imageName": "kessig cagebreakers",

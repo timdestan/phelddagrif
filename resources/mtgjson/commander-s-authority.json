@@ -13,7 +13,7 @@
   "subtypes": [
     "Aura"
   ],
-  "text": "Enchant creature\nEnchanted creature has \"At the beginning of your upkeep, put a 1/1 white Human creature token onto the battlefield.\"",
+  "text": "Enchant creature\nEnchanted creature has \"At the beginning of your upkeep, create a 1/1 white Human creature token.\"",
   "imageName": "commander's authority",
   "colorIdentity": [
     "W"

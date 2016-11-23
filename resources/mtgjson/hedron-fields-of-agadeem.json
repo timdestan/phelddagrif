@@ -8,6 +8,6 @@
   "subtypes": [
     "Zendikar"
   ],
-  "text": "Creatures with power 7 or greater can't attack or block.\nWhenever you roll CHAOS, put a 7/7 colorless Eldrazi creature token with annihilator 1 onto the battlefield. (Whenever it attacks, defending player sacrifices a permanent.)",
+  "text": "Creatures with power 7 or greater can't attack or block.\nWhenever you roll CHAOS, create a 7/7 colorless Eldrazi creature token with annihilator 1. (Whenever it attacks, defending player sacrifices a permanent.)",
   "imageName": "hedron fields of agadeem"
 }

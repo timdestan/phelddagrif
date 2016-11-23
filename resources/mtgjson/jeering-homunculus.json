@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Jeering Homunculus",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Homunculus",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Homunculus"
+  ],
+  "text": "When Jeering Homunculus enters the battlefield, you may goad target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)",
+  "power": "0",
+  "toughness": "4",
+  "imageName": "jeering homunculus",
+  "colorIdentity": [
+    "U"
+  ]
+}

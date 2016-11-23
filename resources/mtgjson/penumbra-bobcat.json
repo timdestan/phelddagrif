@@ -13,7 +13,7 @@
   "subtypes": [
     "Cat"
   ],
-  "text": "When Penumbra Bobcat dies, put a 2/1 black Cat creature token onto the battlefield.",
+  "text": "When Penumbra Bobcat dies, create a 2/1 black Cat creature token.",
   "power": "2",
   "toughness": "1",
   "imageName": "penumbra bobcat",

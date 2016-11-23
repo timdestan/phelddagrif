@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Sacrifice all creatures you control, then put that many 4/4 red Hellion creature tokens onto the battlefield.",
+  "text": "Sacrifice all creatures you control, then create that many 4/4 red Hellion creature tokens.",
   "imageName": "hellion eruption",
   "colorIdentity": [
     "R"

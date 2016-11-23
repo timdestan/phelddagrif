@@ -14,7 +14,7 @@
   "subtypes": [
     "Aura"
   ],
-  "text": "Enchant land\nEnchanted land has \"{G}{U}, {T}: Put a 2/2 green and blue Drake creature token with flying onto the battlefield.\"",
+  "text": "Enchant land\nEnchanted land has \"{G}{U}, {T}: Create a 2/2 green and blue Drake creature token with flying.\"",
   "imageName": "leafdrake roost",
   "colorIdentity": [
     "U",

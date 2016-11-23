@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Workshop Assistant",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "text": "When Workshop Assistant dies, return another target artifact card from your graveyard to your hand.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "workshop assistant"
+}

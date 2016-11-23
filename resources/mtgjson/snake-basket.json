@@ -7,6 +7,6 @@
   "types": [
     "Artifact"
   ],
-  "text": "{X}, Sacrifice Snake Basket: Put X 1/1 green Snake creature tokens onto the battlefield. Activate this ability only any time you could cast a sorcery.",
+  "text": "{X}, Sacrifice Snake Basket: Create X 1/1 green Snake creature tokens. Activate this ability only any time you could cast a sorcery.",
   "imageName": "snake basket"
 }

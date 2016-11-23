@@ -14,7 +14,7 @@
   "subtypes": [
     "Faerie"
   ],
-  "text": "At the beginning of your upkeep, you lose 1 life and put a 1/1 black Faerie Rogue creature token with flying onto the battlefield.",
+  "text": "At the beginning of your upkeep, you lose 1 life and create a 1/1 black Faerie Rogue creature token with flying.",
   "imageName": "bitterblossom",
   "colorIdentity": [
     "B"

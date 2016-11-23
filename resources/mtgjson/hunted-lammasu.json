@@ -13,7 +13,7 @@
   "subtypes": [
     "Lammasu"
   ],
-  "text": "Flying\nWhen Hunted Lammasu enters the battlefield, target opponent puts a 4/4 black Horror creature token onto the battlefield.",
+  "text": "Flying\nWhen Hunted Lammasu enters the battlefield, target opponent creates a 4/4 black Horror creature token.",
   "power": "5",
   "toughness": "5",
   "imageName": "hunted lammasu",

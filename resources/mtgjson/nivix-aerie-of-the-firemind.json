@@ -5,7 +5,7 @@
   "types": [
     "Land"
   ],
-  "text": "{T}: Add {C} to your mana pool.\n{2}{U}{R}, {T}: Exile the top card of your library. Until your next turn, you may cast that card if it's an instant or sorcery.",
+  "text": "{T}: Add {C} to your mana pool.\n{2}{U}{R}, {T}: Exile the top card of your library. Until your next turn, you may cast that card if it's an instant or sorcery card.",
   "imageName": "nivix, aerie of the firemind",
   "colorIdentity": [
     "U",

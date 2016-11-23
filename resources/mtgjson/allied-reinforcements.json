@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Put two 2/2 white Knight Ally creature tokens onto the battlefield.",
+  "text": "Create two 2/2 white Knight Ally creature tokens.",
   "imageName": "allied reinforcements",
   "colorIdentity": [
     "W"

@@ -13,7 +13,7 @@
   "subtypes": [
     "Aura"
   ],
-  "text": "Enchant creature\nEnchanted creature gets +2/+2, has vigilance, and can block an additional creature.",
+  "text": "Enchant creature\nEnchanted creature gets +2/+2, has vigilance, and can block an additional creature each combat.",
   "imageName": "iona's blessing",
   "colorIdentity": [
     "W"

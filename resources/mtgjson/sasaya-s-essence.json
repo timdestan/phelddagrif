@@ -1,10 +1,6 @@
 {
-  "layout": "flip",
+  "layout": "normal",
   "name": "Sasaya's Essence",
-  "names": [
-    "Sasaya, Orochi Ascendant",
-    "Sasaya's Essence"
-  ],
   "manaCost": "{1}{G}{G}",
   "cmc": 3,
   "colors": [

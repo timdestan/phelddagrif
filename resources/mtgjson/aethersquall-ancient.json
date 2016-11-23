@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Aethersquall Ancient",
+  "manaCost": "{5}{U}{U}",
+  "cmc": 7,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Leviathan",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Leviathan"
+  ],
+  "text": "Flying\nAt the beginning of your upkeep, you get {E}{E}{E} (three energy counters).\nPay {E}{E}{E}{E}{E}{E}{E}{E}: Return all other creatures to their owners' hands. Activate this ability only any time you could cast a sorcery.",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "aethersquall ancient",
+  "colorIdentity": [
+    "U"
+  ]
+}

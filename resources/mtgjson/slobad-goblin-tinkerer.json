@@ -17,7 +17,7 @@
     "Goblin",
     "Artificer"
   ],
-  "text": "Sacrifice an artifact: Target artifact gains indestructible until end of turn. (Effects that say \"destroy\" don't destroy it. A creature with indestructible can't be destroyed by damage.)",
+  "text": "Sacrifice an artifact: Target artifact gains indestructible until end of turn.",
   "power": "1",
   "toughness": "2",
   "imageName": "slobad, goblin tinkerer",

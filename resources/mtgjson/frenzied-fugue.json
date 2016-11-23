@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Frenzied Fugue",
+  "manaCost": "{3}{R}",
+  "cmc": 4,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant permanent\nWhen Frenzied Fugue enters the battlefield or at the beginning of your upkeep, gain control of enchanted permanent until end of turn. Untap that permanent. It gains haste until end of turn.",
+  "imageName": "frenzied fugue",
+  "colorIdentity": [
+    "R"
+  ]
+}

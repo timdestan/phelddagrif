@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Hightide Hermit",
+  "manaCost": "{4}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Crab",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Crab"
+  ],
+  "text": "Defender\nWhen Hightide Hermit enters the battlefield, you get {E}{E}{E}{E} (four energy counters).\nPay {E}{E}: Hightide Hermit can attack this turn as though it didn't have defender.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "hightide hermit",
+  "colorIdentity": [
+    "U"
+  ]
+}

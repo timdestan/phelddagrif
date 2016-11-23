@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Exile target creature card from your graveyard. Put a black Zombie creature token onto the battlefield. Its power is equal to that card's power and its toughness is equal to that card's toughness.",
+  "text": "Exile target creature card from your graveyard. Create a black Zombie creature token. Its power is equal to that card's power and its toughness is equal to that card's toughness.",
   "imageName": "ritual of the returned",
   "colorIdentity": [
     "B"

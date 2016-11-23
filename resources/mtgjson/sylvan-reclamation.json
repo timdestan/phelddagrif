@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Sylvan Reclamation",
+  "manaCost": "{3}{G}{W}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Exile up to two target artifacts and/or enchantments.\nBasic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)",
+  "imageName": "sylvan reclamation",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

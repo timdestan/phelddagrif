@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Put a 1/1 green Squirrel creature token onto the battlefield.\nFlashback {1}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "text": "Create a 1/1 green Squirrel creature token.\nFlashback {1}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
   "imageName": "chatter of the squirrel",
   "colorIdentity": [
     "G"

@@ -14,7 +14,7 @@
   "subtypes": [
     "Elemental"
   ],
-  "text": "Whenever an opponent casts a blue spell during your turn, you may put a 4/4 green Elemental creature token onto the battlefield.",
+  "text": "Whenever an opponent casts a blue spell during your turn, you may create a 4/4 green Elemental creature token.",
   "imageName": "eyes of the wisent",
   "colorIdentity": [
     "G"

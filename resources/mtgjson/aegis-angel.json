@@ -17,6 +17,7 @@
   "power": "5",
   "toughness": "5",
   "imageName": "aegis angel",
+  "starter": true,
   "colorIdentity": [
     "W"
   ]

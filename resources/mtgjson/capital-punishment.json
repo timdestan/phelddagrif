@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Capital Punishment",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Council's dilemma — Starting with you, each player votes for death or taxes. Each opponent sacrifices a creature for each death vote and discards a card for each taxes vote.",
+  "imageName": "capital punishment",
+  "colorIdentity": [
+    "B"
+  ]
+}

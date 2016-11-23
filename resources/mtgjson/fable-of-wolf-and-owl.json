@@ -11,7 +11,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "Whenever you cast a green spell, you may put a 2/2 green Wolf creature token onto the battlefield.\nWhenever you cast a blue spell, you may put a 1/1 blue Bird creature token with flying onto the battlefield.",
+  "text": "Whenever you cast a green spell, you may create a 2/2 green Wolf creature token.\nWhenever you cast a blue spell, you may create a 1/1 blue Bird creature token with flying.",
   "imageName": "fable of wolf and owl",
   "colorIdentity": [
     "U",

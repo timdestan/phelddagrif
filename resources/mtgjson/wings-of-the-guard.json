@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wings of the Guard",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\nMelee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "wings of the guard",
+  "colorIdentity": [
+    "W"
+  ]
+}

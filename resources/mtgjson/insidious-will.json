@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Insidious Will",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose one —\n• Counter target spell.\n• You may choose new targets for target spell.\n• Copy target instant or sorcery spell. You may choose new targets for the copy.",
+  "imageName": "insidious will",
+  "colorIdentity": [
+    "U"
+  ]
+}

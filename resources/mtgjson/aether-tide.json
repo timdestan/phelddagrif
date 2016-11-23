@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Aether Tide",
+  "manaCost": "{X}{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "As an additional cost to cast Aether Tide, discard X creature cards.\nReturn X target creatures to their owners' hands.",
+  "imageName": "aether tide",
+  "colorIdentity": [
+    "U"
+  ]
+}

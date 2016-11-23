@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Sage of Shaila's Claim",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Druid"
+  ],
+  "text": "When Sage of Shaila's Claim enters the battlefield, you get {E}{E}{E} (three energy counters).",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "sage of shaila's claim",
+  "colorIdentity": [
+    "G"
+  ]
+}

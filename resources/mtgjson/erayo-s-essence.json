@@ -1,10 +1,6 @@
 {
-  "layout": "flip",
+  "layout": "normal",
   "name": "Erayo's Essence",
-  "names": [
-    "Erayo, Soratami Ascendant",
-    "Erayo's Essence"
-  ],
   "manaCost": "{1}{U}",
   "cmc": 2,
   "colors": [
@@ -17,7 +13,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "Whenever an opponent casts a spell for the first time in a turn, counter that spell.",
+  "text": "Whenever an opponent casts his or her first spell each turn, counter that spell.",
   "imageName": "erayo's essence",
   "colorIdentity": [
     "U"

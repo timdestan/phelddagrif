@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Wild Wanderer",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Druid"
+  ],
+  "text": "When Wild Wanderer enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "wild wanderer",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Multiform Wonder",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact Creature — Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "text": "When Multiform Wonder enters the battlefield, you get {E}{E}{E} (three energy counters).\nPay {E}: Multiform Wonder gains your choice of flying, vigilance, or lifelink until end of turn.\nPay {E}: Multiform Wonder gets +2/-2 or -2/+2 until end of turn.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "multiform wonder"
+}

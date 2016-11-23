@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ghirapur Aether Grid",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Tap two untapped artifacts you control: Ghirapur Aether Grid deals 1 damage to target creature or player.",
+  "imageName": "ghirapur aether grid",
+  "colorIdentity": [
+    "R"
+  ]
+}

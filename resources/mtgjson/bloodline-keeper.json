@@ -17,7 +17,7 @@
   "subtypes": [
     "Vampire"
   ],
-  "text": "Flying\n{T}: Put a 2/2 black Vampire creature token with flying onto the battlefield.\n{B}: Transform Bloodline Keeper. Activate this ability only if you control five or more Vampires.",
+  "text": "Flying\n{T}: Create a 2/2 black Vampire creature token with flying.\n{B}: Transform Bloodline Keeper. Activate this ability only if you control five or more Vampires.",
   "power": "3",
   "toughness": "3",
   "imageName": "bloodline keeper",

@@ -13,7 +13,7 @@
   "subtypes": [
     "Aura"
   ],
-  "text": "Enchant creature\nWhenever enchanted creature is dealt damage, its controller puts that many 1/1 green Squirrel creature tokens onto the battlefield.",
+  "text": "Enchant creature\nWhenever enchanted creature is dealt damage, its controller creates that many 1/1 green Squirrel creature tokens.",
   "imageName": "druid's call",
   "colorIdentity": [
     "G"

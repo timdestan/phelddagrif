@@ -14,7 +14,7 @@
     "Human",
     "Artificer"
   ],
-  "text": "When Master Splicer enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield.\nGolem creatures you control get +1/+1.",
+  "text": "When Master Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.\nGolem creatures you control get +1/+1.",
   "power": "1",
   "toughness": "1",
   "imageName": "master splicer",

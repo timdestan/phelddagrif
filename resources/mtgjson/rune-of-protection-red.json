@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Rune of Protection: Red",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{W}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+  "imageName": "rune of protection red",
+  "colorIdentity": [
+    "W"
+  ]
+}

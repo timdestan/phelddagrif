@@ -11,7 +11,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "{2}, Sacrifice a land: Put two 1/1 red and white Goblin Soldier creature tokens onto the battlefield.",
+  "text": "{2}, Sacrifice a land: Create two 1/1 red and white Goblin Soldier creature tokens.",
   "imageName": "goblin trenches",
   "colorIdentity": [
     "W",

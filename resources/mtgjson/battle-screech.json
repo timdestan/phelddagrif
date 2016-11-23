@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Put two 1/1 white Bird creature tokens with flying onto the battlefield.\nFlashback—Tap three untapped white creatures you control. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "text": "Create two 1/1 white Bird creature tokens with flying.\nFlashback—Tap three untapped white creatures you control. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
   "imageName": "battle screech",
   "colorIdentity": [
     "W"

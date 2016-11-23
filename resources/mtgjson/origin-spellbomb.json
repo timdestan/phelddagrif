@@ -7,7 +7,7 @@
   "types": [
     "Artifact"
   ],
-  "text": "{1}, {T}, Sacrifice Origin Spellbomb: Put a 1/1 colorless Myr artifact creature token onto the battlefield.\nWhen Origin Spellbomb is put into a graveyard from the battlefield, you may pay {W}. If you do, draw a card.",
+  "text": "{1}, {T}, Sacrifice Origin Spellbomb: Create a 1/1 colorless Myr artifact creature token.\nWhen Origin Spellbomb is put into a graveyard from the battlefield, you may pay {W}. If you do, draw a card.",
   "imageName": "origin spellbomb",
   "colorIdentity": [
     "W"

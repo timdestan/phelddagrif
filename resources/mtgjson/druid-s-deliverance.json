@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Prevent all combat damage that would be dealt to you this turn. Populate. (Put a token onto the battlefield that's a copy of a creature token you control.)",
+  "text": "Prevent all combat damage that would be dealt to you this turn. Populate. (Create a token that's a copy of a creature token you control.)",
   "imageName": "druid's deliverance",
   "colorIdentity": [
     "G"

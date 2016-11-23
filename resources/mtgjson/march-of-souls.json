@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Destroy all creatures. They can't be regenerated. For each creature destroyed this way, its controller puts a 1/1 white Spirit creature token with flying onto the battlefield.",
+  "text": "Destroy all creatures. They can't be regenerated. For each creature destroyed this way, its controller creates a 1/1 white Spirit creature token with flying.",
   "imageName": "march of souls",
   "colorIdentity": [
     "W"

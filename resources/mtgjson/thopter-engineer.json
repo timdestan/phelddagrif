@@ -14,7 +14,7 @@
     "Human",
     "Artificer"
   ],
-  "text": "When Thopter Engineer enters the battlefield, put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield.\nArtifact creatures you control have haste. (They can attack and {T} as soon as they come under your control.)",
+  "text": "When Thopter Engineer enters the battlefield, create a 1/1 colorless Thopter artifact creature token with flying.\nArtifact creatures you control have haste. (They can attack and {T} as soon as they come under your control.)",
   "power": "1",
   "toughness": "3",
   "imageName": "thopter engineer",

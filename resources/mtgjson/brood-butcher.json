@@ -11,7 +11,7 @@
     "Eldrazi",
     "Drone"
   ],
-  "text": "Devoid (This card has no color.)\nWhen Brood Butcher enters the battlefield, put a 1/1 colorless Eldrazi Scion creature token onto the battlefield. It has \"Sacrifice this creature: Add {C} to your mana pool.\"\n{B}{G}, Sacrifice a creature: Target creature gets -2/-2 until end of turn.",
+  "text": "Devoid (This card has no color.)\nWhen Brood Butcher enters the battlefield, create a 1/1 colorless Eldrazi Scion creature token. It has \"Sacrifice this creature: Add {C} to your mana pool.\"\n{B}{G}, Sacrifice a creature: Target creature gets -2/-2 until end of turn.",
   "power": "3",
   "toughness": "3",
   "imageName": "brood butcher",

@@ -14,7 +14,7 @@
   "subtypes": [
     "Chimera"
   ],
-  "text": "Flash (You may cast this spell any time you could cast an instant.)\nFlying, trample\nWhenever you draw a card, you gain 1 life.",
+  "text": "Flash\nFlying, trample\nWhenever you draw a card, you gain 1 life.",
   "power": "3",
   "toughness": "2",
   "imageName": "horizon chimera",

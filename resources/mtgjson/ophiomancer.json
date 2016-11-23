@@ -14,7 +14,7 @@
     "Human",
     "Shaman"
   ],
-  "text": "At the beginning of each upkeep, if you control no Snakes, put a 1/1 black Snake creature token with deathtouch onto the battlefield.",
+  "text": "At the beginning of each upkeep, if you control no Snakes, create a 1/1 black Snake creature token with deathtouch.",
   "power": "2",
   "toughness": "2",
   "imageName": "ophiomancer",

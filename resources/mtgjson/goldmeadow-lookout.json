@@ -14,7 +14,7 @@
     "Kithkin",
     "Spellshaper"
   ],
-  "text": "{W}, {T}, Discard a card: Put a 1/1 white Kithkin Soldier creature token named Goldmeadow Harrier onto the battlefield. It has \"{W}, {T}: Tap target creature.\"",
+  "text": "{W}, {T}, Discard a card: Create a 1/1 white Kithkin Soldier creature token named Goldmeadow Harrier. It has \"{W}, {T}: Tap target creature.\"",
   "power": "2",
   "toughness": "2",
   "imageName": "goldmeadow lookout",

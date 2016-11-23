@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Fang of the Pack",
+  "manaCost": "{5}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wolf",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wolf"
+  ],
+  "text": "Melee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)\nAt the beginning of combat on your turn, another target creature you control gains melee until end of turn. (If a creature has multiple instances of melee, each triggers separately.)",
+  "power": "5",
+  "toughness": "3",
+  "imageName": "fang of the pack",
+  "colorIdentity": [
+    "G"
+  ]
+}

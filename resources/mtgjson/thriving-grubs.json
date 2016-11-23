@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Thriving Grubs",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Gremlin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Gremlin"
+  ],
+  "text": "When Thriving Grubs enters the battlefield, you get {E}{E} (two energy counters).\nWhenever Thriving Grubs attacks, you may pay {E}{E}. If you do, put a +1/+1 counter on it.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "thriving grubs",
+  "colorIdentity": [
+    "R"
+  ]
+}

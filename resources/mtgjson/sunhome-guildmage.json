@@ -15,7 +15,7 @@
     "Human",
     "Wizard"
   ],
-  "text": "{1}{R}{W}: Creatures you control get +1/+0 until end of turn.\n{2}{R}{W}: Put a 1/1 red and white Soldier creature token with haste onto the battlefield.",
+  "text": "{1}{R}{W}: Creatures you control get +1/+0 until end of turn.\n{2}{R}{W}: Create a 1/1 red and white Soldier creature token with haste.",
   "power": "2",
   "toughness": "2",
   "imageName": "sunhome guildmage",

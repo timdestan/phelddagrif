@@ -13,6 +13,6 @@
   "subtypes": [
     "Equipment"
   ],
-  "text": "Equipped creature gets +5/+5.\n{6}, Exile Tatsumasa, the Dragon's Fang: Put a 5/5 blue Dragon Spirit creature token with flying onto the battlefield. Return Tatsumasa to the battlefield under its owner's control when that token dies.\nEquip {3}",
+  "text": "Equipped creature gets +5/+5.\n{6}, Exile Tatsumasa, the Dragon's Fang: Create a 5/5 blue Dragon Spirit creature token with flying. Return Tatsumasa to the battlefield under its owner's control when that token dies.\nEquip {3}",
   "imageName": "tatsumasa, the dragon's fang"
 }

@@ -10,6 +10,6 @@
   "subtypes": [
     "Equipment"
   ],
-  "text": "Equipped creature gets +1/+0.\nWhenever equipped creature attacks, put a 1/1 white Kor Ally creature token onto the battlefield tapped and attacking.\nEquip {1}",
+  "text": "Equipped creature gets +1/+0.\nWhenever equipped creature attacks, create a 1/1 white Kor Ally creature token that's tapped and attacking.\nEquip {1}",
   "imageName": "captain's claws"
 }

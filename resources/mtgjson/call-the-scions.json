@@ -7,7 +7,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Devoid (This card has no color.)\nPut two 1/1 colorless Eldrazi Scion creature tokens onto the battlefield. They have \"Sacrifice this creature: Add {C} to your mana pool.\"",
+  "text": "Devoid (This card has no color.)\nCreate two 1/1 colorless Eldrazi Scion creature tokens. They have \"Sacrifice this creature: Add {C} to your mana pool.\"",
   "imageName": "call the scions",
   "colorIdentity": [
     "G"

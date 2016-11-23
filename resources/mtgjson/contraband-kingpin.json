@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Contraband Kingpin",
+  "manaCost": "{U}{B}",
+  "cmc": 2,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Creature — Aetherborn Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Aetherborn",
+    "Rogue"
+  ],
+  "text": "Lifelink\nWhenever an artifact enters the battlefield under your control, scry 1.",
+  "power": "1",
+  "toughness": "4",
+  "imageName": "contraband kingpin",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

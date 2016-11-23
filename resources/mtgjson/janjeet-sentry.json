@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Janjeet Sentry",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Vedalken Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vedalken",
+    "Soldier"
+  ],
+  "text": "When Janjeet Sentry enters the battlefield, you get {E}{E} (two energy counters).\n{T}, Pay {E}{E}: You may tap or untap target artifact or creature.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "janjeet sentry",
+  "colorIdentity": [
+    "U"
+  ]
+}

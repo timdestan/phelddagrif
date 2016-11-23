@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Selfless Squire",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Flash\nWhen Selfless Squire enters the battlefield, prevent all damage that would be dealt to you this turn.\nWhenever damage that would be dealt to you is prevented, put that many +1/+1 counters on Selfless Squire.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "selfless squire",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -17,7 +17,7 @@
     "Human",
     "Soldier"
   ],
-  "text": "Whenever you're dealt damage, you may put that many 1/1 white Soldier creature tokens onto the battlefield.",
+  "text": "Whenever you're dealt damage, you may create that many 1/1 white Soldier creature tokens.",
   "power": "3",
   "toughness": "3",
   "imageName": "darien, king of kjeldor",

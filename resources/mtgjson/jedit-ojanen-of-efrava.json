@@ -17,7 +17,7 @@
     "Cat",
     "Warrior"
   ],
-  "text": "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)\nWhenever Jedit Ojanen of Efrava attacks or blocks, put a 2/2 green Cat Warrior creature token with forestwalk onto the battlefield.",
+  "text": "Forestwalk (This creature can't be blocked as long as defending player controls a Forest.)\nWhenever Jedit Ojanen of Efrava attacks or blocks, create a 2/2 green Cat Warrior creature token with forestwalk.",
   "power": "5",
   "toughness": "5",
   "imageName": "jedit ojanen of efrava",

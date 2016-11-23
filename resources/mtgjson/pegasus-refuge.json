@@ -10,7 +10,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "{2}, Discard a card: Put a 1/1 white Pegasus creature token with flying onto the battlefield.",
+  "text": "{2}, Discard a card: Create a 1/1 white Pegasus creature token with flying.",
   "imageName": "pegasus refuge",
   "colorIdentity": [
     "W"

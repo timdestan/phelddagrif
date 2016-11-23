@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Throne of the High City",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{4}, {T}, Sacrifice Throne of the High City: You become the monarch.",
+  "imageName": "throne of the high city"
+}

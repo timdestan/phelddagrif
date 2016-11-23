@@ -14,7 +14,7 @@
   "subtypes": [
     "Wurm"
   ],
-  "text": "Trample\nWhen Armada Wurm enters the battlefield, put a 5/5 green Wurm creature token with trample onto the battlefield.",
+  "text": "Trample\nWhen Armada Wurm enters the battlefield, create a 5/5 green Wurm creature token with trample.",
   "power": "5",
   "toughness": "5",
   "imageName": "armada wurm",

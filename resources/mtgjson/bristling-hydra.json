@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Bristling Hydra",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Hydra",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Hydra"
+  ],
+  "text": "When Bristling Hydra enters the battlefield, you get {E}{E}{E} (three energy counters).\nPay {E}{E}{E}: Put a +1/+1 counter on Bristling Hydra. It gains hexproof until end of turn.",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "bristling hydra",
+  "colorIdentity": [
+    "G"
+  ]
+}

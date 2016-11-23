@@ -14,7 +14,7 @@
     "Zubera",
     "Spirit"
   ],
-  "text": "When Dripping-Tongue Zubera dies, put a 1/1 colorless Spirit creature token onto the battlefield for each Zubera that died this turn.",
+  "text": "When Dripping-Tongue Zubera dies, create a 1/1 colorless Spirit creature token for each Zubera that died this turn.",
   "power": "1",
   "toughness": "2",
   "imageName": "dripping-tongue zubera",

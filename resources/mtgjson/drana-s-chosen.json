@@ -15,7 +15,7 @@
     "Shaman",
     "Ally"
   ],
-  "text": "Cohort — {T}, Tap an untapped Ally you control: Put a 2/2 black Zombie creature token onto the battlefield tapped.",
+  "text": "Cohort — {T}, Tap an untapped Ally you control: Create a tapped 2/2 black Zombie creature token.",
   "power": "2",
   "toughness": "2",
   "imageName": "drana's chosen",

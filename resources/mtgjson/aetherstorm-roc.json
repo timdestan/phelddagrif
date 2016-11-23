@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Aetherstorm Roc",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\nWhenever Aetherstorm Roc or another creature enters the battlefield under your control, you get {E} (an energy counter).\nWhenever Aetherstorm Roc attacks, you may pay {E}{E}. If you do, put a +1/+1 counter on it and tap up to one target creature defending player controls.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "aetherstorm roc",
+  "colorIdentity": [
+    "W"
+  ]
+}

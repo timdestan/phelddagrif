@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Grave Upheaval",
+  "manaCost": "{4}{B}{R}",
+  "cmc": 6,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put target creature card from a graveyard onto the battlefield under your control. It gains haste.\nBasic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)",
+  "imageName": "grave upheaval",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

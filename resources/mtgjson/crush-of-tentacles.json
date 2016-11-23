@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Surge {3}{U}{U} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)\nReturn all nonland permanents to their owners' hands. If Crush of Tentacles's surge cost was paid, put an 8/8 blue Octopus creature token onto the battlefield.",
+  "text": "Surge {3}{U}{U} (You may cast this spell for its surge cost if you or a teammate has cast another spell this turn.)\nReturn all nonland permanents to their owners' hands. If Crush of Tentacles's surge cost was paid, create an 8/8 blue Octopus creature token.",
   "imageName": "crush of tentacles",
   "colorIdentity": [
     "U"

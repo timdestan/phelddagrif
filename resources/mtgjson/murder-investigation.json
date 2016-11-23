@@ -13,7 +13,7 @@
   "subtypes": [
     "Aura"
   ],
-  "text": "Enchant creature you control\nWhen enchanted creature dies, put X 1/1 white Soldier creature tokens onto the battlefield, where X is its power.",
+  "text": "Enchant creature you control\nWhen enchanted creature dies, create X 1/1 white Soldier creature tokens, where X is its power.",
   "imageName": "murder investigation",
   "colorIdentity": [
     "W"

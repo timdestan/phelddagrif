@@ -18,7 +18,7 @@
     "Human",
     "Merfolk"
   ],
-  "text": "{G}{U}, {T}: For each counter on target artifact, creature, or land, put another of those counters on that permanent.",
+  "text": "{G}{U}, {T}: Double the number of each kind of counter on target artifact, creature, or land.",
   "power": "1",
   "toughness": "4",
   "imageName": "vorel of the hull clade",

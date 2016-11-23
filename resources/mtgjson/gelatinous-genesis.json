@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Put X X/X green Ooze creature tokens onto the battlefield.",
+  "text": "Create X X/X green Ooze creature tokens.",
   "imageName": "gelatinous genesis",
   "colorIdentity": [
     "G"

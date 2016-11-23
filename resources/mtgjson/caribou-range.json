@@ -13,7 +13,7 @@
   "subtypes": [
     "Aura"
   ],
-  "text": "Enchant land you control\nEnchanted land has \"{W}{W}, {T}: Put a 0/1 white Caribou creature token onto the battlefield.\"\nSacrifice a Caribou token: You gain 1 life.",
+  "text": "Enchant land you control\nEnchanted land has \"{W}{W}, {T}: Create a 0/1 white Caribou creature token.\"\nSacrifice a Caribou token: You gain 1 life.",
   "imageName": "caribou range",
   "colorIdentity": [
     "W"

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Dhund Operative",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "As long as you control an artifact, Dhund Operative gets +1/+0 and has deathtouch. (Any amount of damage it deals to a creature is enough to destroy it.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "dhund operative",
+  "colorIdentity": [
+    "B"
+  ]
+}

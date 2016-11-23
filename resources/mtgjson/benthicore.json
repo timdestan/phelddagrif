@@ -13,7 +13,7 @@
   "subtypes": [
     "Elemental"
   ],
-  "text": "When Benthicore enters the battlefield, put two 1/1 blue Merfolk Wizard creature tokens onto the battlefield.\nTap two untapped Merfolk you control: Untap Benthicore. It gains shroud until end of turn. (It can't be the target of spells or abilities.)",
+  "text": "When Benthicore enters the battlefield, create two 1/1 blue Merfolk Wizard creature tokens.\nTap two untapped Merfolk you control: Untap Benthicore. It gains shroud until end of turn. (It can't be the target of spells or abilities.)",
   "power": "5",
   "toughness": "5",
   "imageName": "benthicore",

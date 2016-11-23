@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Noble Banneret",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "Draft Noble Banneret face up.\nAs you draft a creature card, you may reveal it, note its name, then turn Noble Banneret face down.\nAs long as you control one or more creatures with a name you noted for cards named Noble Banneret, Noble Banneret and those creatures get +1/+1 and have lifelink.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "noble banneret",
+  "colorIdentity": [
+    "W"
+  ]
+}

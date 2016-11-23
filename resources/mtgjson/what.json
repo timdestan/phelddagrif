@@ -20,7 +20,10 @@
   "text": "Destroy target artifact.",
   "imageName": "what",
   "colorIdentity": [
+    "W",
     "R",
-    "W"
+    "U",
+    "B",
+    "G"
   ]
 }

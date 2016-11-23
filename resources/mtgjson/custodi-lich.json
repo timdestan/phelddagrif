@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Custodi Lich",
+  "manaCost": "{3}{B}{B}",
+  "cmc": 5,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Zombie Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Zombie",
+    "Cleric"
+  ],
+  "text": "When Custodi Lich enters the battlefield, you become the monarch.\nWhenever you become the monarch, target player sacrifices a creature.",
+  "power": "4",
+  "toughness": "2",
+  "imageName": "custodi lich",
+  "colorIdentity": [
+    "B"
+  ]
+}

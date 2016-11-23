@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Populate. Creatures you control gain indestructible until end of turn. (To populate, put a token onto the battlefield that's a copy of a creature token you control. Damage and effects that say \"destroy\" don't destroy creatures with indestructible.)",
+  "text": "Populate. Creatures you control gain indestructible until end of turn. (To populate, create a token that's a copy of a creature token you control. Damage and effects that say \"destroy\" don't destroy creatures with indestructible.)",
   "imageName": "rootborn defenses",
   "colorIdentity": [
     "W"

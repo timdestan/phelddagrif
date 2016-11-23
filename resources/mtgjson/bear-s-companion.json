@@ -16,7 +16,7 @@
     "Human",
     "Warrior"
   ],
-  "text": "When Bear's Companion enters the battlefield, put a 4/4 green Bear creature token onto the battlefield.",
+  "text": "When Bear's Companion enters the battlefield, create a 4/4 green Bear creature token.",
   "power": "2",
   "toughness": "2",
   "imageName": "bear's companion",

@@ -17,7 +17,7 @@
     "Goblin",
     "Warrior"
   ],
-  "text": "{T}: Put X 1/1 red Goblin creature tokens onto the battlefield, where X is the number of Goblins you control.",
+  "text": "{T}: Create X 1/1 red Goblin creature tokens, where X is the number of Goblins you control.",
   "power": "3",
   "toughness": "3",
   "imageName": "krenko, mob boss",

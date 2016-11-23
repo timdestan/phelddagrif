@@ -14,7 +14,7 @@
     "Goblin",
     "Shaman"
   ],
-  "text": "{3}{B}, Sacrifice a Goblin: Put two 1/1 black Goblin Rogue creature tokens onto the battlefield.",
+  "text": "{3}{B}, Sacrifice a Goblin: Create two 1/1 black Goblin Rogue creature tokens.",
   "power": "2",
   "toughness": "1",
   "imageName": "weirding shaman",

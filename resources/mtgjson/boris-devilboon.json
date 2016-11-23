@@ -18,7 +18,7 @@
     "Zombie",
     "Wizard"
   ],
-  "text": "{2}{B}{R}, {T}: Put a 1/1 black and red Demon creature token named Minor Demon onto the battlefield.",
+  "text": "{2}{B}{R}, {T}: Create a 1/1 black and red Demon creature token named Minor Demon.",
   "power": "2",
   "toughness": "2",
   "imageName": "boris devilboon",

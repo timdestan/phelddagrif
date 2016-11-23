@@ -14,7 +14,7 @@
     "Avatar",
     "Incarnation"
   ],
-  "text": "{0}: The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Any player may activate this ability, but only if he or she owns Personal Incarnation.\nWhen Personal Incarnation dies, its owner loses half his or her life, rounded up.",
+  "text": "{0}: The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Only Personal Incarnation's owner may activate this ability.\nWhen Personal Incarnation dies, its owner loses half his or her life, rounded up.",
   "power": "6",
   "toughness": "6",
   "imageName": "personal incarnation",

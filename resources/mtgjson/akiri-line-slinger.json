@@ -1,0 +1,30 @@
+{
+  "layout": "normal",
+  "name": "Akiri, Line-Slinger",
+  "manaCost": "{R}{W}",
+  "cmc": 2,
+  "colors": [
+    "White",
+    "Red"
+  ],
+  "type": "Legendary Creature — Kor Soldier Ally",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Kor",
+    "Soldier",
+    "Ally"
+  ],
+  "text": "First strike, vigilance\nAkiri, Line-Slinger gets +1/+0 for each artifact you control.\nPartner (You can have two commanders if both have partner.)",
+  "power": "0",
+  "toughness": "3",
+  "imageName": "akiri, line-slinger",
+  "colorIdentity": [
+    "W",
+    "R"
+  ]
+}

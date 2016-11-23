@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "As an additional cost to cast Devastating Summons, sacrifice X lands.\nPut two X/X red Elemental creature tokens onto the battlefield.",
+  "text": "As an additional cost to cast Devastating Summons, sacrifice X lands.\nCreate two X/X red Elemental creature tokens.",
   "imageName": "devastating summons",
   "colorIdentity": [
     "R"

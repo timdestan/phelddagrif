@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Choose three. You may choose the same mode more than once.\n• Put a 2/2 white Knight creature token with vigilance onto the battlefield.\n• Exile target enchantment.\n• You gain 5 life.",
+  "text": "Choose three. You may choose the same mode more than once.\n• Create a 2/2 white Knight creature token with vigilance.\n• Exile target enchantment.\n• You gain 5 life.",
   "imageName": "righteous confluence",
   "colorIdentity": [
     "W"

@@ -14,7 +14,7 @@
     "Eldrazi",
     "Drone"
   ],
-  "text": "When Dread Drone enters the battlefield, put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have \"Sacrifice this creature: Add {C} to your mana pool.\"",
+  "text": "When Dread Drone enters the battlefield, create two 0/1 colorless Eldrazi Spawn creature tokens. They have \"Sacrifice this creature: Add {C} to your mana pool.\"",
   "power": "4",
   "toughness": "1",
   "imageName": "dread drone",

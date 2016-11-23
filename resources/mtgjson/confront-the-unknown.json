@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Investigate, then target creature gets +1/+1 until end of turn for each Clue you control. (To investigate, put a colorless Clue artifact token onto the battlefield with \"{2}, Sacrifice this artifact: Draw a card.\")",
+  "text": "Investigate, then target creature gets +1/+1 until end of turn for each Clue you control. (To investigate, create a colorless Clue artifact token with \"{2}, Sacrifice this artifact: Draw a card.\")",
   "imageName": "confront the unknown",
   "colorIdentity": [
     "G"

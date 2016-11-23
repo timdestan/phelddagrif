@@ -17,7 +17,7 @@
     "Eldrazi",
     "Ooze"
   ],
-  "text": "Trample, haste\nWhenever Hanweir, the Writhing Township attacks, put two 3/2 colorless Eldrazi Horror creature tokens onto the battlefield tapped and attacking.",
+  "text": "Trample, haste\nWhenever Hanweir, the Writhing Township attacks, create two 3/2 colorless Eldrazi Horror creature tokens that are tapped and attacking.",
   "power": "7",
   "toughness": "4",
   "imageName": "hanweir, the writhing township"

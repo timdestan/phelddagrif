@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Assemble the Rank and Vile",
+  "type": "Conspiracy",
+  "types": [
+    "Conspiracy"
+  ],
+  "text": "Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)\nCreatures you control with the chosen name have \"When this creature dies, you may pay {B}. If you do, create a tapped 2/2 black Zombie creature token.\"",
+  "imageName": "assemble the rank and vile",
+  "colorIdentity": [
+    "B"
+  ]
+}

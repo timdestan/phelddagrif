@@ -14,7 +14,7 @@
     "Human",
     "Soldier"
   ],
-  "text": "At end of combat, if Kjeldoran Home Guard attacked or blocked this combat, put a -0/-1 counter on Kjeldoran Home Guard and put a 0/1 white Deserter creature token onto the battlefield.",
+  "text": "At end of combat, if Kjeldoran Home Guard attacked or blocked this combat, put a -0/-1 counter on Kjeldoran Home Guard and create a 0/1 white Deserter creature token.",
   "power": "1",
   "toughness": "6",
   "imageName": "kjeldoran home guard",

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Propeller Pioneer",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Artificer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Artificer"
+  ],
+  "text": "Flying\nFabricate 1 (When this creature enters the battlefield, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "propeller pioneer",
+  "colorIdentity": [
+    "W"
+  ]
+}

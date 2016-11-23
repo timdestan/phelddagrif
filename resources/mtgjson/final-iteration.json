@@ -14,7 +14,7 @@
     "Eldrazi",
     "Insect"
   ],
-  "text": "Flying\nWizards you control get +2/+1 and have flying.\nWhenever you cast an instant or sorcery spell, put a 1/1 blue Human Wizard creature token onto the battlefield.",
+  "text": "Flying\nWizards you control get +2/+1 and have flying.\nWhenever you cast an instant or sorcery spell, create a 1/1 blue Human Wizard creature token.",
   "power": "6",
   "toughness": "5",
   "imageName": "final iteration",

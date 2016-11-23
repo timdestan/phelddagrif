@@ -14,7 +14,7 @@
     "Human",
     "Shaman"
   ],
-  "text": "Whenever an Aura becomes attached to Brood Keeper, put a 2/2 red Dragon creature token with flying onto the battlefield. It has \"{R}: This creature gets +1/+0 until end of turn.\"",
+  "text": "Whenever an Aura becomes attached to Brood Keeper, create a 2/2 red Dragon creature token with flying. It has \"{R}: This creature gets +1/+0 until end of turn.\"",
   "power": "2",
   "toughness": "3",
   "imageName": "brood keeper",

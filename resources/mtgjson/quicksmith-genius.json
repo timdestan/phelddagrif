@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Quicksmith Genius",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Artificer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Artificer"
+  ],
+  "text": "Whenever an artifact enters the battlefield under your control, you may discard a card. If you do, draw a card.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "quicksmith genius",
+  "colorIdentity": [
+    "R"
+  ]
+}

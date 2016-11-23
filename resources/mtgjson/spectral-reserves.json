@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Put two 1/1 white Spirit creature tokens with flying onto the battlefield. You gain 2 life.",
+  "text": "Create two 1/1 white Spirit creature tokens with flying. You gain 2 life.",
   "imageName": "spectral reserves",
   "colorIdentity": [
     "W"

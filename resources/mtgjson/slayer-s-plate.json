@@ -10,6 +10,6 @@
   "subtypes": [
     "Equipment"
   ],
-  "text": "Equipped creature gets +4/+2.\nWhenever equipped creature dies, if it was a Human, put a 1/1 white Spirit creature token with flying onto the battlefield.\nEquip {3}",
+  "text": "Equipped creature gets +4/+2.\nWhenever equipped creature dies, if it was a Human, create a 1/1 white Spirit creature token with flying.\nEquip {3}",
   "imageName": "slayer's plate"
 }

@@ -10,7 +10,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "Landfall — Whenever a land enters the battlefield under your control, choose one —\n• Put a 1/1 white Kor Ally creature token onto the battlefield.\n• Creatures you control get +1/+1 until end of turn.",
+  "text": "Landfall — Whenever a land enters the battlefield under your control, choose one —\n• Create a 1/1 white Kor Ally creature token.\n• Creatures you control get +1/+1 until end of turn.",
   "imageName": "retreat to emeria",
   "colorIdentity": [
     "W"

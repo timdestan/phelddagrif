@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Goblin Spymaster",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Goblin Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Rogue"
+  ],
+  "text": "First strike\nAt the beginning of each opponent's end step, that player creates a 1/1 red Goblin creature token with \"Creatures you control attack each combat if able.\"",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "goblin spymaster",
+  "colorIdentity": [
+    "R"
+  ]
+}

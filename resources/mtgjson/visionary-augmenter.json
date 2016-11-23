@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Visionary Augmenter",
+  "manaCost": "{2}{W}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Dwarf Artificer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dwarf",
+    "Artificer"
+  ],
+  "text": "Fabricate 2 (When this creature enters the battlefield, put two +1/+1 counters on it or create two 1/1 colorless Servo artifact creature tokens.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "visionary augmenter",
+  "colorIdentity": [
+    "W"
+  ]
+}

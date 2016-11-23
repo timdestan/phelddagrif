@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Destroy target creature with flying. If that creature was blue or black, put a 1/2 green Spider creature token with reach onto the battlefield. (It can block creatures with flying.)",
+  "text": "Destroy target creature with flying. If that creature was blue or black, create a 1/2 green Spider creature token with reach. (It can block creatures with flying.)",
   "imageName": "gloomwidow's feast",
   "colorIdentity": [
     "G"

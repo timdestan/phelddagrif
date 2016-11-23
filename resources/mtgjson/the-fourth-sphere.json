@@ -8,6 +8,6 @@
   "subtypes": [
     "Phyrexia"
   ],
-  "text": "At the beginning of your upkeep, sacrifice a nonblack creature.\nWhenever you roll CHAOS, put a 2/2 black Zombie creature token onto the battlefield.",
+  "text": "At the beginning of your upkeep, sacrifice a nonblack creature.\nWhenever you roll CHAOS, create a 2/2 black Zombie creature token.",
   "imageName": "the fourth sphere"
 }

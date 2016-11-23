@@ -18,7 +18,7 @@
   "subtypes": [
     "God"
   ],
-  "text": "Indestructible\nAs long as your devotion to red and white is less than seven, Iroas isn't a creature.\nCreatures you control have menace. (They can't be blocked except by two or more creatures.)\nPrevent all damage that would be dealt to attacking creatures you control.",
+  "text": "Indestructible\nAs long as your devotion to red and white is less than seven, Iroas isn't a creature.\nCreatures you control have menace.\nPrevent all damage that would be dealt to attacking creatures you control.",
   "power": "7",
   "toughness": "4",
   "imageName": "iroas, god of victory",

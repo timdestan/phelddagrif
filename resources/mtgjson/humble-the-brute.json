@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Destroy target creature with power 4 or greater.\nInvestigate. (Put a colorless Clue artifact token onto the battlefield with \"{2}, Sacrifice this artifact: Draw a card.\")",
+  "text": "Destroy target creature with power 4 or greater.\nInvestigate. (Create a colorless Clue artifact token with \"{2}, Sacrifice this artifact: Draw a card.\")",
   "imageName": "humble the brute",
   "colorIdentity": [
     "W"

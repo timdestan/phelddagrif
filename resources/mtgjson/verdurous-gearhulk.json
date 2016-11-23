@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Verdurous Gearhulk",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Artifact Creature — Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "text": "Trample\nWhen Verdurous Gearhulk enters the battlefield, distribute four +1/+1 counters among any number of target creatures you control.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "verdurous gearhulk",
+  "colorIdentity": [
+    "G"
+  ]
+}

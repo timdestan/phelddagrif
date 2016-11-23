@@ -11,7 +11,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Put an X/X black and green Spirit Warrior creature token onto the battlefield, where X is the greatest toughness among creatures you control.",
+  "text": "Create an X/X black and green Spirit Warrior creature token, where X is the greatest toughness among creatures you control.",
   "imageName": "kin-tree invocation",
   "colorIdentity": [
     "B",

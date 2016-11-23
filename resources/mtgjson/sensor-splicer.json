@@ -13,7 +13,7 @@
   "subtypes": [
     "Artificer"
   ],
-  "text": "When Sensor Splicer enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield.\nGolem creatures you control have vigilance.",
+  "text": "When Sensor Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.\nGolem creatures you control have vigilance.",
   "power": "1",
   "toughness": "1",
   "imageName": "sensor splicer",

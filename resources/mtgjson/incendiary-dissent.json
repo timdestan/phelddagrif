@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Incendiary Dissent",
+  "type": "Conspiracy",
+  "types": [
+    "Conspiracy"
+  ],
+  "text": "Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)\nCreatures you control with the chosen name have \"{R}: This creature gets +1/+0 until end of turn.\"",
+  "imageName": "incendiary dissent",
+  "colorIdentity": [
+    "R"
+  ]
+}

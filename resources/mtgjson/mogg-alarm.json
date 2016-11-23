@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "You may sacrifice two Mountains rather than pay Mogg Alarm's mana cost.\nPut two 1/1 red Goblin creature tokens onto the battlefield.",
+  "text": "You may sacrifice two Mountains rather than pay Mogg Alarm's mana cost.\nCreate two 1/1 red Goblin creature tokens.",
   "imageName": "mogg alarm",
   "colorIdentity": [
     "R"

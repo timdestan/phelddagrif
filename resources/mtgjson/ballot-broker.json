@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ballot Broker",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Advisor",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Advisor"
+  ],
+  "text": "While voting, you may vote an additional time. (The votes can be for different choices or for the same choice.)",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "ballot broker",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -8,6 +8,6 @@
   "subtypes": [
     "Innistrad"
   ],
-  "text": "Whenever a creature deals damage to one or more players for the first time in a turn, put a +1/+1 counter on it.\nWhenever you roll CHAOS, each creature you control gains \"{T}: This creature deals 1 damage to target player\" until end of turn.",
+  "text": "Whenever a creature deals damage to one or more players for the first time each turn, put a +1/+1 counter on it.\nWhenever you roll CHAOS, each creature you control gains \"{T}: This creature deals 1 damage to target player\" until end of turn.",
   "imageName": "stensia"
 }

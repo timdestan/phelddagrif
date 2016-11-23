@@ -11,7 +11,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Exile target card from a graveyard. Put a 1/1 white and black Spirit creature token with flying onto the battlefield.",
+  "text": "Exile target card from a graveyard. Create a 1/1 white and black Spirit creature token with flying.",
   "imageName": "beckon apparition",
   "colorIdentity": [
     "W",

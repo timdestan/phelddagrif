@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Wispweaver Angel",
+  "manaCost": "{4}{W}{W}",
+  "cmc": 6,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Angel",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Angel"
+  ],
+  "text": "Flying\nWhen Wispweaver Angel enters the battlefield, you may exile another target creature you control, then return that card to the battlefield under its owner's control.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "wispweaver angel",
+  "colorIdentity": [
+    "W"
+  ]
+}

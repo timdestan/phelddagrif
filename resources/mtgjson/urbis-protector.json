@@ -14,7 +14,7 @@
     "Human",
     "Cleric"
   ],
-  "text": "When Urbis Protector enters the battlefield, put a 4/4 white Angel creature token with flying onto the battlefield.",
+  "text": "When Urbis Protector enters the battlefield, create a 4/4 white Angel creature token with flying.",
   "power": "1",
   "toughness": "1",
   "imageName": "urbis protector",

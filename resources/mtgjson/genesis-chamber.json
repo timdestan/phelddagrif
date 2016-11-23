@@ -7,6 +7,6 @@
   "types": [
     "Artifact"
   ],
-  "text": "Whenever a nontoken creature enters the battlefield, if Genesis Chamber is untapped, that creature's controller puts a 1/1 colorless Myr artifact creature token onto the battlefield.",
+  "text": "Whenever a nontoken creature enters the battlefield, if Genesis Chamber is untapped, that creature's controller creates a 1/1 colorless Myr artifact creature token.",
   "imageName": "genesis chamber"
 }

@@ -14,7 +14,7 @@
     "Human",
     "Warrior"
   ],
-  "text": "Cumulative upkeep—Have an opponent put a 1/1 red Survivor creature token onto the battlefield. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nTrample; rampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)",
+  "text": "Cumulative upkeep—Have an opponent create a 1/1 red Survivor creature token. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)\nTrample; rampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)",
   "power": "3",
   "toughness": "4",
   "imageName": "varchild's war-riders",

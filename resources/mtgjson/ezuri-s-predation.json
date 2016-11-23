@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "For each creature your opponents control, put a 4/4 green Beast creature token onto the battlefield. Each of those Beasts fights a different one of those creatures.",
+  "text": "For each creature your opponents control, create a 4/4 green Beast creature token. Each of those Beasts fights a different one of those creatures.",
   "imageName": "ezuri's predation",
   "colorIdentity": [
     "G"

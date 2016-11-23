@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Aether Searcher",
+  "manaCost": "{7}",
+  "cmc": 7,
+  "type": "Artifact Creature — Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "text": "Reveal Aether Searcher as you draft it. Reveal the next card you draft and note its name. \nWhen Aether Searcher enters the battlefield, you may search your hand and/or library for a card with a name noted as you drafted cards named Aether Searcher. You may cast it without paying its mana cost. If you searched your library this way, shuffle it.",
+  "power": "6",
+  "toughness": "4",
+  "imageName": "aether searcher"
+}

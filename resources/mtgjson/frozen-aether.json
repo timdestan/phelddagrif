@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Frozen Aether",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "Artifacts, creatures, and lands your opponents control enter the battlefield tapped.",
+  "imageName": "frozen aether",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -14,7 +14,7 @@
     "Insect",
     "Druid"
   ],
-  "text": "Whenever Broodhatch Nantuko is dealt damage, you may put that many 1/1 green Insect creature tokens onto the battlefield.\nMorph {2}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
+  "text": "Whenever Broodhatch Nantuko is dealt damage, you may create that many 1/1 green Insect creature tokens.\nMorph {2}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)",
   "power": "1",
   "toughness": "1",
   "imageName": "broodhatch nantuko",

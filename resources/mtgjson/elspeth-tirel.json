@@ -13,7 +13,7 @@
   "subtypes": [
     "Elspeth"
   ],
-  "text": "+2: You gain 1 life for each creature you control.\n−2: Put three 1/1 white Soldier creature tokens onto the battlefield.\n−5: Destroy all other permanents except for lands and tokens.",
+  "text": "+2: You gain 1 life for each creature you control.\n−2: Create three 1/1 white Soldier creature tokens.\n−5: Destroy all other permanents except for lands and tokens.",
   "loyalty": 4,
   "imageName": "elspeth tirel",
   "colorIdentity": [

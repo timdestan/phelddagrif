@@ -14,7 +14,7 @@
     "Kithkin",
     "Soldier"
   ],
-  "text": "{1}{W}, {Q}: Put a 1/1 white Kithkin Soldier creature token onto the battlefield. ({Q} is the untap symbol.)",
+  "text": "{1}{W}, {Q}: Create a 1/1 white Kithkin Soldier creature token. ({Q} is the untap symbol.)",
   "power": "1",
   "toughness": "1",
   "imageName": "patrol signaler",

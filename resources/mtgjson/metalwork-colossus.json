@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Metalwork Colossus",
+  "manaCost": "{11}",
+  "cmc": 11,
+  "type": "Artifact Creature — Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "text": "Metalwork Colossus costs {X} less to cast, where X is the total converted mana cost of noncreature artifacts you control.\nSacrifice two artifacts: Return Metalwork Colossus from your graveyard to your hand.",
+  "power": "10",
+  "toughness": "10",
+  "imageName": "metalwork colossus"
+}

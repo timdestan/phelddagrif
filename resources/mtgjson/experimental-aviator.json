@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Experimental Aviator",
+  "manaCost": "{3}{U}{U}",
+  "cmc": 5,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Human Artificer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Artificer"
+  ],
+  "text": "Flying\nWhen Experimental Aviator enters the battlefield, create two 1/1 colorless Thopter artifact creature tokens with flying.",
+  "power": "0",
+  "toughness": "3",
+  "imageName": "experimental aviator",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Gearseeker Serpent",
+  "manaCost": "{5}{U}{U}",
+  "cmc": 7,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Serpent",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Serpent"
+  ],
+  "text": "Gearseeker Serpent costs {1} less to cast for each artifact you control.\n{5}{U}: Gearseeker Serpent can't be blocked this turn.",
+  "power": "5",
+  "toughness": "6",
+  "imageName": "gearseeker serpent",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -13,7 +13,7 @@
   "subtypes": [
     "Freyalise"
   ],
-  "text": "+2: Put a 1/1 green Elf Druid creature token onto the battlefield with \"{T}: Add {G} to your mana pool.\"\n−2: Destroy target artifact or enchantment.\n−6: Draw a card for each green creature you control.\nFreyalise, Llanowar's Fury can be your commander.",
+  "text": "+2: Create a 1/1 green Elf Druid creature token with \"{T}: Add {G} to your mana pool.\"\n−2: Destroy target artifact or enchantment.\n−6: Draw a card for each green creature you control.\nFreyalise, Llanowar's Fury can be your commander.",
   "loyalty": 3,
   "imageName": "freyalise, llanowar's fury",
   "colorIdentity": [

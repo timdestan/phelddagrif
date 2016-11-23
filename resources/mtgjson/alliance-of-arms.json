@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Join forces — Starting with you, each player may pay any amount of mana. Each player puts X 1/1 white Soldier creature tokens onto the battlefield, where X is the total amount of mana paid this way.",
+  "text": "Join forces — Starting with you, each player may pay any amount of mana. Each player creates X 1/1 white Soldier creature tokens, where X is the total amount of mana paid this way.",
   "imageName": "alliance of arms",
   "colorIdentity": [
     "W"

@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Tana, the Bloodsower",
+  "manaCost": "{2}{R}{G}",
+  "cmc": 4,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Legendary Creature — Elf Druid",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Druid"
+  ],
+  "text": "Trample\nWhenever Tana, the Bloodsower deals combat damage to a player, create that many 1/1 green Saproling creature tokens.\nPartner (You can have two commanders if both have partner.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "tana, the bloodsower",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

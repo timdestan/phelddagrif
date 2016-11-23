@@ -1,0 +1,33 @@
+{
+  "layout": "normal",
+  "name": "Breya, Etherium Shaper",
+  "manaCost": "{W}{U}{B}{R}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Blue",
+    "Black",
+    "Red"
+  ],
+  "type": "Legendary Artifact Creature — Human",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Human"
+  ],
+  "text": "When Breya, Etherium Shaper enters the battlefield, create two 1/1 blue Thopter artifact creature tokens with flying.\n{2}, Sacrifice two artifacts: Choose one —\n• Breya deals 3 damage to target player.\n• Target creature gets -4/-4 until end of turn.\n• You gain 5 life.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "breya, etherium shaper",
+  "colorIdentity": [
+    "W",
+    "U",
+    "B",
+    "R"
+  ]
+}

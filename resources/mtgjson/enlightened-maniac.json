@@ -13,7 +13,7 @@
   "subtypes": [
     "Human"
   ],
-  "text": "When Enlightened Maniac enters the battlefield, put a 3/2 colorless Eldrazi Horror creature token onto the battlefield.",
+  "text": "When Enlightened Maniac enters the battlefield, create a 3/2 colorless Eldrazi Horror creature token.",
   "power": "0",
   "toughness": "2",
   "imageName": "enlightened maniac",

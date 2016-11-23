@@ -17,6 +17,7 @@
   "power": "2",
   "toughness": "2",
   "imageName": "furnace whelp",
+  "starter": true,
   "colorIdentity": [
     "R"
   ]

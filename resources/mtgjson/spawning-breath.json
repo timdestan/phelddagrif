@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Spawning Breath deals 1 damage to target creature or player. Put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has \"Sacrifice this creature: Add {C} to your mana pool.\"",
+  "text": "Spawning Breath deals 1 damage to target creature or player. Create a 0/1 colorless Eldrazi Spawn creature token. It has \"Sacrifice this creature: Add {C} to your mana pool.\"",
   "imageName": "spawning breath",
   "colorIdentity": [
     "R"

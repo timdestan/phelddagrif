@@ -15,7 +15,7 @@
     "Elf",
     "Shaman"
   ],
-  "text": "{1}, {T}, Tap an untapped creature you control: Put a 1/1 green Saproling creature token onto the battlefield.",
+  "text": "{1}, {T}, Tap an untapped creature you control: Create a 1/1 green Saproling creature token.",
   "power": "1",
   "toughness": "2",
   "imageName": "selesnya evangel",

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Servo Exhibition",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Create two 1/1 colorless Servo artifact creature tokens.",
+  "imageName": "servo exhibition",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Curio Vendor",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Vedalken",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vedalken"
+  ],
+  "power": "2",
+  "toughness": "1",
+  "imageName": "curio vendor",
+  "colorIdentity": [
+    "U"
+  ]
+}

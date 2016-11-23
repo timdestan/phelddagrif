@@ -10,7 +10,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "When a creature you control dies, sacrifice Promise of Bunrei. If you do, put four 1/1 colorless Spirit creature tokens onto the battlefield.",
+  "text": "When a creature you control dies, sacrifice Promise of Bunrei. If you do, create four 1/1 colorless Spirit creature tokens.",
   "imageName": "promise of bunrei",
   "colorIdentity": [
     "W"

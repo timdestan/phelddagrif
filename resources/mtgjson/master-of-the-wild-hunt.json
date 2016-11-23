@@ -14,7 +14,7 @@
     "Human",
     "Shaman"
   ],
-  "text": "At the beginning of your upkeep, put a 2/2 green Wolf creature token onto the battlefield.\n{T}: Tap all untapped Wolf creatures you control. Each Wolf tapped this way deals damage equal to its power to target creature. That creature deals damage equal to its power divided as its controller chooses among any number of those Wolves.",
+  "text": "At the beginning of your upkeep, create a 2/2 green Wolf creature token.\n{T}: Tap all untapped Wolf creatures you control. Each Wolf tapped this way deals damage equal to its power to target creature. That creature deals damage equal to its power divided as its controller chooses among any number of those Wolves.",
   "power": "3",
   "toughness": "3",
   "imageName": "master of the wild hunt",

@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Put a 1/1 green Saproling creature token onto the battlefield.",
+  "text": "Create a 1/1 green Saproling creature token.",
   "imageName": "sprout",
   "colorIdentity": [
     "G"

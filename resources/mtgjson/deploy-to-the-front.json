@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Put X 1/1 white Soldier creature tokens onto the battlefield, where X is the number of creatures on the battlefield.",
+  "text": "Create X 1/1 white Soldier creature tokens, where X is the number of creatures on the battlefield.",
   "imageName": "deploy to the front",
   "colorIdentity": [
     "W"

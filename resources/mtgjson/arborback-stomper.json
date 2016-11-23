@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Arborback Stomper",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Beast",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Beast"
+  ],
+  "text": "Trample\nWhen Arborback Stomper enters the battlefield, you gain 5 life.",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "arborback stomper",
+  "colorIdentity": [
+    "G"
+  ]
+}

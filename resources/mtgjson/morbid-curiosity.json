@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Morbid Curiosity",
+  "manaCost": "{1}{B}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "As an additional cost to cast Morbid Curiosity, sacrifice an artifact or creature.\nDraw cards equal to the converted mana cost of the sacrificed permanent.",
+  "imageName": "morbid curiosity",
+  "colorIdentity": [
+    "B"
+  ]
+}

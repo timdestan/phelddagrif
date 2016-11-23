@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Exile target creature. Put a colorless artifact token named Gold onto the battlefield. It has \"Sacrifice this artifact: Add one mana of any color to your mana pool.\"",
+  "text": "Exile target creature. Create a colorless artifact token named Gold. It has \"Sacrifice this artifact: Add one mana of any color to your mana pool.\"",
   "imageName": "gild",
   "colorIdentity": [
     "B"

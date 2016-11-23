@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Salivating Gremlins",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Gremlin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Gremlin"
+  ],
+  "text": "Whenever an artifact enters the battlefield under your control, Salivating Gremlins gets +2/+0 and gains trample until end of turn.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "salivating gremlins",
+  "colorIdentity": [
+    "R"
+  ]
+}

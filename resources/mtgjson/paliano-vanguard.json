@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Paliano Vanguard",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Draft Paliano Vanguard face up.\nAs you draft a creature card, you may reveal it, note its creature types, then turn Paliano Vanguard face down.\nOther creatures you control of a type you noted for cards named Paliano Vanguard get +1/+1.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "paliano vanguard",
+  "colorIdentity": [
+    "W"
+  ]
+}

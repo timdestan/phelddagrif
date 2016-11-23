@@ -13,7 +13,7 @@
   "subtypes": [
     "Wall"
   ],
-  "text": "Defender (This creature can't attack.)\n{0}: Dark Maze can attack this turn as though it didn't have defender.  Exile it at the beginning of the next end step.",
+  "text": "Defender (This creature can't attack.)\n{0}: Dark Maze can attack this turn as though it didn't have defender. Exile it at the beginning of the next end step.",
   "power": "4",
   "toughness": "5",
   "imageName": "dark maze",

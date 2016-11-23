@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Circle of Protection: Art",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "As Circle of Protection: Art comes into play, choose an artist.\n{1}{W}: The next time a source of your choice by the chosen artist would deal damage to you this turn, prevent that damage.\n{1}{W}: Return Circle of Protection: Art to its owner's hand.",
+  "imageName": "circle of protection art",
+  "colorIdentity": [
+    "W"
+  ]
+}

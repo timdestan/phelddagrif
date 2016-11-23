@@ -14,7 +14,7 @@
     "Human",
     "Soldier"
   ],
-  "text": "When Sunspire Gatekeepers enters the battlefield, if you control two or more Gates, put a 2/2 white Knight creature token with vigilance onto the battlefield.",
+  "text": "When Sunspire Gatekeepers enters the battlefield, if you control two or more Gates, create a 2/2 white Knight creature token with vigilance.",
   "power": "2",
   "toughness": "4",
   "imageName": "sunspire gatekeepers",

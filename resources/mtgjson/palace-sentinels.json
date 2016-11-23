@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Palace Sentinels",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "When Palace Sentinels enters the battlefield, you become the monarch.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "palace sentinels",
+  "colorIdentity": [
+    "W"
+  ]
+}

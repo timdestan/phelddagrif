@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Captured by the Consulate",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment — Aura",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura"
+  ],
+  "text": "Enchant creature you don't control\nEnchanted creature can't attack.\nWhenever an opponent casts a spell, if it has a single target, change the target to enchanted creature if able.",
+  "imageName": "captured by the consulate",
+  "colorIdentity": [
+    "W"
+  ]
+}

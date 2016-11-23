@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Iron League Steed",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "text": "Haste\nFabricate 1 (When this creature enters the battlefield, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "iron league steed"
+}

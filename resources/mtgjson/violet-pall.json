@@ -14,7 +14,7 @@
   "subtypes": [
     "Faerie"
   ],
-  "text": "Destroy target nonblack creature. Put a 1/1 black Faerie Rogue creature token with flying onto the battlefield.",
+  "text": "Destroy target nonblack creature. Create a 1/1 black Faerie Rogue creature token with flying.",
   "imageName": "violet pall",
   "colorIdentity": [
     "B"

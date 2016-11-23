@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Curse of Vengeance",
+  "manaCost": "{B}",
+  "cmc": 1,
+  "colors": [
+    "Black"
+  ],
+  "type": "Enchantment — Aura Curse",
+  "types": [
+    "Enchantment"
+  ],
+  "subtypes": [
+    "Aura",
+    "Curse"
+  ],
+  "text": "Enchant player\nWhenever enchanted player casts a spell, put a spite counter on Curse of Vengeance.\nWhen enchanted player loses the game, you gain X life and draw X cards, where X is the number of spite counters on Curse of Vengeance.",
+  "imageName": "curse of vengeance",
+  "colorIdentity": [
+    "B"
+  ]
+}

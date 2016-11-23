@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Tempting offer — Choose target creature you control. Put a token onto the battlefield that's a copy of that creature. Each opponent may put a token onto the battlefield that's a copy of that creature. For each opponent who does, put a token onto the battlefield that's a copy of that creature.",
+  "text": "Tempting offer — Choose target creature you control. Create a token that's a copy of that creature. Each opponent may create a token that's a copy of that creature. For each opponent who does, create a token that's a copy of that creature.",
   "imageName": "tempt with reflections",
   "colorIdentity": [
     "U"

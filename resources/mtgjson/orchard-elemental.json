@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Orchard Elemental",
+  "manaCost": "{5}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elemental",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elemental"
+  ],
+  "text": "Council's dilemma — When Orchard Elemental enters the battlefield, starting with you, each player votes for sprout or harvest. Put two +1/+1 counters on Orchard Elemental for each sprout vote. You gain 3 life for each harvest vote.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "orchard elemental",
+  "colorIdentity": [
+    "G"
+  ]
+}

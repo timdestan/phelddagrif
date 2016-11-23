@@ -10,7 +10,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "{1}{B}, Exile one or more creature cards from your graveyard: Put an X/X black Zombie Horror creature token onto the battlefield tapped, where X is twice the number of cards exiled this way.",
+  "text": "{1}{B}, Exile one or more creature cards from your graveyard: Create a tapped X/X black Zombie Horror creature token, where X is twice the number of cards exiled this way.",
   "imageName": "corpseweft",
   "colorIdentity": [
     "B"

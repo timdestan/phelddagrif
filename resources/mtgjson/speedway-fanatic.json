@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Speedway Fanatic",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Pilot",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Pilot"
+  ],
+  "text": "Haste\nWhenever Speedway Fanatic crews a Vehicle, that Vehicle gains haste until end of turn.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "speedway fanatic",
+  "colorIdentity": [
+    "R"
+  ]
+}

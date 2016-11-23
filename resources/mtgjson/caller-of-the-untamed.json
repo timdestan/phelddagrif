@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Caller of the Untamed",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Shaman",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Shaman"
+  ],
+  "text": "Before you shuffle your deck to start the game, you may reveal this card from your deck and exile a creature card you drafted that isn't in your deck.\n{X}, {T}: Create a token that's a copy of a card you exiled with cards named Caller of the Untamed. X is the converted mana cost of that card.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "caller of the untamed",
+  "colorIdentity": [
+    "G"
+  ]
+}

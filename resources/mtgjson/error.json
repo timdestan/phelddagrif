@@ -18,8 +18,8 @@
   "text": "Counter target multicolored spell.",
   "imageName": "error",
   "colorIdentity": [
+    "W",
     "U",
-    "B",
-    "W"
+    "B"
   ]
 }

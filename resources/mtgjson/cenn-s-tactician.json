@@ -14,7 +14,7 @@
     "Kithkin",
     "Soldier"
   ],
-  "text": "{W}, {T}: Put a +1/+1 counter on target Soldier creature.\nEach creature you control with a +1/+1 counter on it can block an additional creature.",
+  "text": "{W}, {T}: Put a +1/+1 counter on target Soldier creature.\nEach creature you control with a +1/+1 counter on it can block an additional creature each combat.",
   "power": "1",
   "toughness": "1",
   "imageName": "cenn's tactician",

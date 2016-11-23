@@ -1,10 +1,6 @@
 {
-  "layout": "flip",
+  "layout": "normal",
   "name": "Rune-Tail's Essence",
-  "names": [
-    "Rune-Tail, Kitsune Ascendant",
-    "Rune-Tail's Essence"
-  ],
   "manaCost": "{2}{W}",
   "cmc": 3,
   "colors": [

@@ -10,6 +10,6 @@
   "subtypes": [
     "Equipment"
   ],
-  "text": "Equipped creature can block an additional creature.\nEquip {1}",
+  "text": "Equipped creature can block an additional creature each combat.\nEquip {1}",
   "imageName": "echo circlet"
 }

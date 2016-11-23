@@ -14,7 +14,7 @@
     "Eldrazi",
     "Drone"
   ],
-  "text": "When Nest Invader enters the battlefield, put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has \"Sacrifice this creature: Add {C} to your mana pool.\"",
+  "text": "When Nest Invader enters the battlefield, create a 0/1 colorless Eldrazi Spawn creature token. It has \"Sacrifice this creature: Add {C} to your mana pool.\"",
   "power": "2",
   "toughness": "2",
   "imageName": "nest invader",

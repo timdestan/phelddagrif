@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Self-Assembler",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact Creature — Assembly-Worker",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Assembly-Worker"
+  ],
+  "text": "When Self-Assembler enters the battlefield, you may search your library for an Assembly-Worker creature card, reveal it, put it into your hand, then shuffle your library.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "self-assembler"
+}

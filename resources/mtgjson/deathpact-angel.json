@@ -14,7 +14,7 @@
   "subtypes": [
     "Angel"
   ],
-  "text": "Flying\nWhen Deathpact Angel dies, put a 1/1 white and black Cleric creature token onto the battlefield. It has \"{3}{W}{B}{B}, {T}, Sacrifice this creature: Return a card named Deathpact Angel from your graveyard to the battlefield.\"",
+  "text": "Flying\nWhen Deathpact Angel dies, create a 1/1 white and black Cleric creature token. It has \"{3}{W}{B}{B}, {T}, Sacrifice this creature: Return a card named Deathpact Angel from your graveyard to the battlefield.\"",
   "power": "5",
   "toughness": "5",
   "imageName": "deathpact angel",

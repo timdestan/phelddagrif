@@ -5,6 +5,6 @@
   "types": [
     "Scheme"
   ],
-  "text": "When you set this scheme in motion, for each opponent, put a 2/2 black Zombie creature token onto the battlefield that attacks that player each combat if able.",
+  "text": "When you set this scheme in motion, for each opponent, create a 2/2 black Zombie creature token that attacks that player each combat if able.",
   "imageName": "rotted ones, lay siege"
 }

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Kujar Seedsculptor",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Druid"
+  ],
+  "text": "When Kujar Seedsculptor enters the battlefield, put a +1/+1 counter on target creature you control.",
+  "power": "1",
+  "toughness": "2",
+  "imageName": "kujar seedsculptor",
+  "colorIdentity": [
+    "G"
+  ]
+}

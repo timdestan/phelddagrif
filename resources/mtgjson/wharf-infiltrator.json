@@ -14,7 +14,7 @@
     "Human",
     "Horror"
   ],
-  "text": "Skulk (This creature can't be blocked by creatures with greater power.)\nWhenever Wharf Infiltrator deals combat damage to a player, you may draw a card. If you do, discard a card.\nWhenever you discard a creature card, you may pay {2}. If you do, put a 3/2 colorless Eldrazi Horror creature token onto the battlefield.",
+  "text": "Skulk (This creature can't be blocked by creatures with greater power.)\nWhenever Wharf Infiltrator deals combat damage to a player, you may draw a card. If you do, discard a card.\nWhenever you discard a creature card, you may pay {2}. If you do, create a 3/2 colorless Eldrazi Horror creature token.",
   "power": "1",
   "toughness": "1",
   "imageName": "wharf infiltrator",

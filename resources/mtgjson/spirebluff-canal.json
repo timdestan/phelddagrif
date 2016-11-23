@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Spirebluff Canal",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Spirebluff Canal enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {U} or {R} to your mana pool.",
+  "imageName": "spirebluff canal",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

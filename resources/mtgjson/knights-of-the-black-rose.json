@@ -1,0 +1,26 @@
+{
+  "layout": "normal",
+  "name": "Knights of the Black Rose",
+  "manaCost": "{3}{W}{B}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Black"
+  ],
+  "type": "Creature — Human Knight",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Knight"
+  ],
+  "text": "When Knights of the Black Rose enters the battlefield, you become the monarch.\nWhenever an opponent becomes the monarch, if you were the monarch as the turn began, that player loses 2 life and you gain 2 life.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "knights of the black rose",
+  "colorIdentity": [
+    "W",
+    "B"
+  ]
+}

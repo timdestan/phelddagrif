@@ -14,7 +14,7 @@
     "Faerie",
     "Spellshaper"
   ],
-  "text": "Flying\n{U}, {T}, Discard a card: Put a 1/1 blue Faerie creature token named Cloud Sprite onto the battlefield. It has flying and \"Cloud Sprite can block only creatures with flying.\"",
+  "text": "Flying\n{U}, {T}, Discard a card: Create a 1/1 blue Faerie creature token named Cloud Sprite. It has flying and \"Cloud Sprite can block only creatures with flying.\"",
   "power": "1",
   "toughness": "1",
   "imageName": "cloudseeder",

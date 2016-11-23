@@ -10,7 +10,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "At the beginning of your upkeep, put X 2/2 black Zombie creature tokens onto the battlefield, where X is half the number of Zombies you control, rounded down.",
+  "text": "At the beginning of your upkeep, create X 2/2 black Zombie creature tokens, where X is half the number of Zombies you control, rounded down.",
   "imageName": "endless ranks of the dead",
   "colorIdentity": [
     "B"

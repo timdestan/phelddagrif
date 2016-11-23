@@ -11,7 +11,7 @@
     "Eldrazi",
     "Drone"
   ],
-  "text": "Devoid (This card has no color.)\nWhen Eyeless Watcher enters the battlefield, put two 1/1 colorless Eldrazi Scion creature tokens onto the battlefield. They have \"Sacrifice this creature: Add {C} to your mana pool.\"",
+  "text": "Devoid (This card has no color.)\nWhen Eyeless Watcher enters the battlefield, create two 1/1 colorless Eldrazi Scion creature tokens. They have \"Sacrifice this creature: Add {C} to your mana pool.\"",
   "power": "1",
   "toughness": "1",
   "imageName": "eyeless watcher",

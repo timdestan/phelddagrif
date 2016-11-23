@@ -14,7 +14,7 @@
     "Elf",
     "Warrior"
   ],
-  "text": "When Dwynen's Elite enters the battlefield, if you control another Elf, put a 1/1 green Elf Warrior creature token onto the battlefield.",
+  "text": "When Dwynen's Elite enters the battlefield, if you control another Elf, create a 1/1 green Elf Warrior creature token.",
   "power": "2",
   "toughness": "2",
   "imageName": "dwynen's elite",

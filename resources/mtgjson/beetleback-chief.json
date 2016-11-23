@@ -14,7 +14,7 @@
     "Goblin",
     "Warrior"
   ],
-  "text": "When Beetleback Chief enters the battlefield, put two 1/1 red Goblin creature tokens onto the battlefield.",
+  "text": "When Beetleback Chief enters the battlefield, create two 1/1 red Goblin creature tokens.",
   "power": "2",
   "toughness": "2",
   "imageName": "beetleback chief",

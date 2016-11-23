@@ -14,7 +14,7 @@
     "Merfolk",
     "Wizard"
   ],
-  "text": "Whenever Stonybrook Schoolmaster becomes tapped, you may put a 1/1 blue Merfolk Wizard creature token onto the battlefield.",
+  "text": "Whenever Stonybrook Schoolmaster becomes tapped, you may create a 1/1 blue Merfolk Wizard creature token.",
   "power": "1",
   "toughness": "2",
   "imageName": "stonybrook schoolmaster",

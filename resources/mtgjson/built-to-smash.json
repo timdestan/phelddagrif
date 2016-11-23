@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Built to Smash",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target attacking creature gets +3/+3 until end of turn. If it's an artifact creature, it gains trample until end of turn.",
+  "imageName": "built to smash",
+  "colorIdentity": [
+    "R"
+  ]
+}

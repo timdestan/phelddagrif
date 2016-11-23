@@ -10,7 +10,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "{1}{G}, Exile two cards from your graveyard: Put a 2/2 green Bear creature token onto the battlefield.",
+  "text": "{1}{G}, Exile two cards from your graveyard: Create a 2/2 green Bear creature token.",
   "imageName": "bearscape",
   "colorIdentity": [
     "G"

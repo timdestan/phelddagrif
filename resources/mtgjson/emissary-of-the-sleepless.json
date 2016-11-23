@@ -13,7 +13,7 @@
   "subtypes": [
     "Spirit"
   ],
-  "text": "Flying\nWhen Emissary of the Sleepless enters the battlefield, if a creature died this turn, put a 1/1 white Spirit creature token with flying onto the battlefield.",
+  "text": "Flying\nWhen Emissary of the Sleepless enters the battlefield, if a creature died this turn, create a 1/1 white Spirit creature token with flying.",
   "power": "2",
   "toughness": "4",
   "imageName": "emissary of the sleepless",

@@ -17,7 +17,7 @@
   "subtypes": [
     "God"
   ],
-  "text": "Indestructible\nAs long as your devotion to white is less than five, Heliod isn't a creature. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)\nOther creatures you control have vigilance.\n{2}{W}{W}: Put a 2/1 white Cleric enchantment creature token onto the battlefield.",
+  "text": "Indestructible\nAs long as your devotion to white is less than five, Heliod isn't a creature. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)\nOther creatures you control have vigilance.\n{2}{W}{W}: Create a 2/1 white Cleric enchantment creature token.",
   "power": "5",
   "toughness": "6",
   "imageName": "heliod, god of the sun",

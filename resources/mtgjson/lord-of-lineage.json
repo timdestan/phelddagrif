@@ -16,7 +16,7 @@
   "subtypes": [
     "Vampire"
   ],
-  "text": "Flying\nOther Vampire creatures you control get +2/+2.\n{T}: Put a 2/2 black Vampire creature token with flying onto the battlefield.",
+  "text": "Flying\nOther Vampire creatures you control get +2/+2.\n{T}: Create a 2/2 black Vampire creature token with flying.",
   "power": "5",
   "toughness": "5",
   "imageName": "lord of lineage",

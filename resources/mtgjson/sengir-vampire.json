@@ -17,6 +17,7 @@
   "power": "4",
   "toughness": "4",
   "imageName": "sengir vampire",
+  "starter": true,
   "colorIdentity": [
     "B"
   ]

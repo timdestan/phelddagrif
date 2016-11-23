@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Strive — Twinflame costs {2}{R} more to cast for each target beyond the first.\nChoose any number of target creatures you control. For each of them, put a token that's a copy of that creature onto the battlefield. Those tokens have haste. Exile them at the beginning of the next end step.",
+  "text": "Strive — Twinflame costs {2}{R} more to cast for each target beyond the first.\nChoose any number of target creatures you control. For each of them, create a token that's a copy of that creature. Those tokens have haste. Exile them at the beginning of the next end step.",
   "imageName": "twinflame",
   "colorIdentity": [
     "R"

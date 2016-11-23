@@ -14,7 +14,7 @@
   "subtypes": [
     "Sorin"
   ],
-  "text": "+1: Put a 1/1 black Vampire creature token with lifelink onto the battlefield.\n−2: You get an emblem with \"Creatures you control get +1/+0.\"\n−6: Destroy up to three target creatures and/or other planeswalkers. Return each card put into a graveyard this way to the battlefield under your control.",
+  "text": "+1: Create a 1/1 black Vampire creature token with lifelink.\n−2: You get an emblem with \"Creatures you control get +1/+0.\"\n−6: Destroy up to three target creatures and/or other planeswalkers. Return each card put into a graveyard this way to the battlefield under your control.",
   "loyalty": 3,
   "imageName": "sorin, lord of innistrad",
   "colorIdentity": [

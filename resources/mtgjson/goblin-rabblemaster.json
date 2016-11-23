@@ -14,7 +14,7 @@
     "Goblin",
     "Warrior"
   ],
-  "text": "Other Goblin creatures you control attack each turn if able.\nAt the beginning of combat on your turn, put a 1/1 red Goblin creature token with haste onto the battlefield.\nWhenever Goblin Rabblemaster attacks, it gets +1/+0 until end of turn for each other attacking Goblin.",
+  "text": "Other Goblin creatures you control attack each turn if able.\nAt the beginning of combat on your turn, create a 1/1 red Goblin creature token with haste.\nWhenever Goblin Rabblemaster attacks, it gets +1/+0 until end of turn for each other attacking Goblin.",
   "power": "2",
   "toughness": "2",
   "imageName": "goblin rabblemaster",

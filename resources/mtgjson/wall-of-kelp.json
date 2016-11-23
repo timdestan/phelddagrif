@@ -14,7 +14,7 @@
     "Plant",
     "Wall"
   ],
-  "text": "Defender (This creature can't attack.)\n{U}{U}, {T}: Put a 0/1 blue Plant Wall creature token with defender named Kelp onto the battlefield.",
+  "text": "Defender (This creature can't attack.)\n{U}{U}, {T}: Create a 0/1 blue Plant Wall creature token with defender named Kelp.",
   "power": "0",
   "toughness": "3",
   "imageName": "wall of kelp",

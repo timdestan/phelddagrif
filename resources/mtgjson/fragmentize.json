@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Fragmentize",
+  "manaCost": "{W}",
+  "cmc": 1,
+  "colors": [
+    "White"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Destroy target artifact or enchantment with converted mana cost 4 or less.",
+  "imageName": "fragmentize",
+  "colorIdentity": [
+    "W"
+  ]
+}

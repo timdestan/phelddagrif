@@ -14,7 +14,7 @@
   "subtypes": [
     "Kiora"
   ],
-  "text": "+1: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls.\n−1: Draw a card. You may play an additional land this turn.\n−5: You get an emblem with \"At the beginning of your end step, put a 9/9 blue Kraken creature token onto the battlefield.\"",
+  "text": "+1: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls.\n−1: Draw a card. You may play an additional land this turn.\n−5: You get an emblem with \"At the beginning of your end step, create a 9/9 blue Kraken creature token.\"",
   "loyalty": 2,
   "imageName": "kiora, the crashing wave",
   "colorIdentity": [

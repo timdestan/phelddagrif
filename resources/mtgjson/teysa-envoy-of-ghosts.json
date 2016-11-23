@@ -18,7 +18,7 @@
     "Human",
     "Advisor"
   ],
-  "text": "Vigilance, protection from creatures\nWhenever a creature deals combat damage to you, destroy that creature. Put a 1/1 white and black Spirit creature token with flying onto the battlefield.",
+  "text": "Vigilance, protection from creatures\nWhenever a creature deals combat damage to you, destroy that creature. Create a 1/1 white and black Spirit creature token with flying.",
   "power": "4",
   "toughness": "4",
   "imageName": "teysa, envoy of ghosts",

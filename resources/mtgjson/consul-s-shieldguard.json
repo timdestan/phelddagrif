@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Consul's Shieldguard",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Dwarf Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dwarf",
+    "Soldier"
+  ],
+  "text": "When Consul's Shieldguard enters the battlefield, you get {E}{E} (two energy counters).\nWhenever Consul's Shieldguard attacks, you may pay {E}. If you do, another target attacking creature gains indestructible until end of turn.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "consul's shieldguard",
+  "colorIdentity": [
+    "W"
+  ]
+}

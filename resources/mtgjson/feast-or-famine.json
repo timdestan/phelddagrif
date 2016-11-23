@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Choose one —\n• Put a 2/2 black Zombie creature token onto the battlefield.\n• Destroy target nonartifact, nonblack creature. It can't be regenerated.",
+  "text": "Choose one —\n• Create a 2/2 black Zombie creature token.\n• Destroy target nonartifact, nonblack creature. It can't be regenerated.",
   "imageName": "feast or famine",
   "colorIdentity": [
     "B"

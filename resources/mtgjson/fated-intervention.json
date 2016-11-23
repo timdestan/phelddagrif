@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Put two 3/3 green Centaur enchantment creature tokens onto the battlefield. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+  "text": "Create two 3/3 green Centaur enchantment creature tokens. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
   "imageName": "fated intervention",
   "colorIdentity": [
     "G"

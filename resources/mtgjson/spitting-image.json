@@ -11,7 +11,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Put a token that's a copy of target creature onto the battlefield.\nRetrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)",
+  "text": "Create a token that's a copy of target creature.\nRetrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)",
   "imageName": "spitting image",
   "colorIdentity": [
     "U",

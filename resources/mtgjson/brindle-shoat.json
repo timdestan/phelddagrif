@@ -13,7 +13,7 @@
   "subtypes": [
     "Boar"
   ],
-  "text": "When Brindle Shoat dies, put a 3/3 green Boar creature token onto the battlefield.",
+  "text": "When Brindle Shoat dies, create a 3/3 green Boar creature token.",
   "power": "1",
   "toughness": "1",
   "imageName": "brindle shoat",

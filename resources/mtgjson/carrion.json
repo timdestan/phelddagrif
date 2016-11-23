@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "As an additional cost to cast Carrion, sacrifice a creature.\nPut X 0/1 black Insect creature tokens onto the battlefield, where X is the sacrificed creature's power.",
+  "text": "As an additional cost to cast Carrion, sacrifice a creature.\nCreate X 0/1 black Insect creature tokens, where X is the sacrificed creature's power.",
   "imageName": "carrion",
   "colorIdentity": [
     "B"

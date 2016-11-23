@@ -13,7 +13,7 @@
   "subtypes": [
     "Angel"
   ],
-  "text": "Flying\nWhenever another non-Spirit creature you control dies, put a 1/1 white Spirit creature token with flying onto the battlefield.",
+  "text": "Flying\nWhenever another non-Spirit creature you control dies, create a 1/1 white Spirit creature token with flying.",
   "power": "5",
   "toughness": "5",
   "imageName": "requiem angel",

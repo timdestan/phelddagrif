@@ -1,10 +1,6 @@
 {
-  "layout": "flip",
+  "layout": "normal",
   "name": "Autumn-Tail, Kitsune Sage",
-  "names": [
-    "Kitsune Mystic",
-    "Autumn-Tail, Kitsune Sage"
-  ],
   "manaCost": "{3}{W}",
   "cmc": 4,
   "colors": [

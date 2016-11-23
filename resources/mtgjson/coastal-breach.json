@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Coastal Breach",
+  "manaCost": "{6}{U}",
+  "cmc": 7,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Undaunted (This spell costs {1} less to cast for each opponent.)\nReturn all nonland permanents to their owners' hands.",
+  "imageName": "coastal breach",
+  "colorIdentity": [
+    "U"
+  ]
+}

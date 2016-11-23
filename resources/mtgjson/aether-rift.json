@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Aether Rift",
+  "manaCost": "{1}{R}{G}",
+  "cmc": 3,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "At the beginning of your upkeep, discard a card at random. If you discard a creature card this way, return it from your graveyard to the battlefield unless any player pays 5 life.",
+  "imageName": "aether rift",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

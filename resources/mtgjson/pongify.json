@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Destroy target creature. It can't be regenerated. Its controller puts a 3/3 green Ape creature token onto the battlefield.",
+  "text": "Destroy target creature. It can't be regenerated. Its controller creates a 3/3 green Ape creature token.",
   "imageName": "pongify",
   "colorIdentity": [
     "U"

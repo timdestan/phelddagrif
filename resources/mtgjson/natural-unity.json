@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Natural Unity",
+  "type": "Conspiracy",
+  "types": [
+    "Conspiracy"
+  ],
+  "text": "Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)\nCreatures you control with the chosen name have \"At the beginning of combat on your turn, you may pay {G}. If you do, put a +1/+1 counter on this creature.\"",
+  "imageName": "natural unity",
+  "colorIdentity": [
+    "G"
+  ]
+}

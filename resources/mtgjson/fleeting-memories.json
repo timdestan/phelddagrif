@@ -10,7 +10,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "When Fleeting Memories enters the battlefield, investigate. (Put a colorless Clue artifact token onto the battlefield with \"{2}, Sacrifice this artifact: Draw a card.\")\nWhenever you sacrifice a Clue, target player puts the top three cards of his or her library into his or her graveyard.",
+  "text": "When Fleeting Memories enters the battlefield, investigate. (Create a colorless Clue artifact token with \"{2}, Sacrifice this artifact: Draw a card.\")\nWhenever you sacrifice a Clue, target player puts the top three cards of his or her library into his or her graveyard.",
   "imageName": "fleeting memories",
   "colorIdentity": [
     "U"

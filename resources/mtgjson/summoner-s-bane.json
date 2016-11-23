@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Counter target creature spell. Put a 2/2 blue Illusion creature token onto the battlefield.",
+  "text": "Counter target creature spell. Create a 2/2 blue Illusion creature token.",
   "imageName": "summoner's bane",
   "colorIdentity": [
     "U"

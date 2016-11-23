@@ -16,7 +16,7 @@
     "Human",
     "Rogue"
   ],
-  "text": "Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)",
+  "text": "Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)",
   "power": "2",
   "toughness": "2",
   "imageName": "shardless agent",

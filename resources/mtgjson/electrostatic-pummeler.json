@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Electrostatic Pummeler",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "text": "When Electrostatic Pummeler enters the battlefield, you get {E}{E}{E} (three energy counters).\nPay {E}{E}{E}: Electrostatic Pummeler gets +X/+X until end of turn, where X is its power.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "electrostatic pummeler"
+}

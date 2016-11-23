@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Prismatic Geoscope",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "Prismatic Geoscope enters the battlefield tapped.\nDomain — {T}: Add X mana in any combination of colors to your mana pool, where X is the number of basic land types among lands you control.",
+  "imageName": "prismatic geoscope"
+}

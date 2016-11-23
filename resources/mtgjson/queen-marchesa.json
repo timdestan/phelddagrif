@@ -1,0 +1,31 @@
+{
+  "layout": "normal",
+  "name": "Queen Marchesa",
+  "manaCost": "{1}{R}{W}{B}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Black",
+    "Red"
+  ],
+  "type": "Legendary Creature — Human Assassin",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Assassin"
+  ],
+  "text": "Deathtouch, haste\nWhen Queen Marchesa enters the battlefield, you become the monarch.\nAt the beginning of your upkeep, if an opponent is the monarch, create a 1/1 black Assassin creature token with deathtouch and haste.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "queen marchesa",
+  "colorIdentity": [
+    "W",
+    "B",
+    "R"
+  ]
+}

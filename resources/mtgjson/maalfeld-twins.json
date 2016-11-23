@@ -13,7 +13,7 @@
   "subtypes": [
     "Zombie"
   ],
-  "text": "When Maalfeld Twins dies, put two 2/2 black Zombie creature tokens onto the battlefield.",
+  "text": "When Maalfeld Twins dies, create two 2/2 black Zombie creature tokens.",
   "power": "4",
   "toughness": "4",
   "imageName": "maalfeld twins",

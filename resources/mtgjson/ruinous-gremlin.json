@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Ruinous Gremlin",
+  "manaCost": "{R}",
+  "cmc": 1,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Gremlin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Gremlin"
+  ],
+  "text": "{2}{R}, Sacrifice Ruinous Gremlin: Destroy target artifact.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "ruinous gremlin",
+  "colorIdentity": [
+    "R"
+  ]
+}

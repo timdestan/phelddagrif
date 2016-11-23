@@ -11,7 +11,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "{2}: Exile target creature card from a graveyard. Put a 1/1 green Saproling creature token onto the battlefield.",
+  "text": "{2}: Exile target creature card from a graveyard. Create a 1/1 green Saproling creature token.",
   "imageName": "necrogenesis",
   "colorIdentity": [
     "B",

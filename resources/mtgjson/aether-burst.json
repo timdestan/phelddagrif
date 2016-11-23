@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Aether Burst",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Return up to X target creatures to their owners' hands, where X is one plus the number of cards named Aether Burst in all graveyards as you cast Aether Burst.",
+  "imageName": "aether burst",
+  "colorIdentity": [
+    "U"
+  ]
+}

@@ -18,7 +18,7 @@
   "subtypes": [
     "Equipment"
   ],
-  "text": "Equipped creature gets +3/+3 and has first strike.\nWhenever a creature dealt damage by equipped creature this turn dies, you may exile that card. If you do, put a 2/2 black Zombie creature token onto the battlefield.\nEquip {2}",
+  "text": "Equipped creature gets +3/+3 and has first strike.\nWhenever a creature dealt damage by equipped creature this turn dies, you may exile that card. If you do, create a 2/2 black Zombie creature token.\nEquip {2}",
   "imageName": "unscythe, killer of kings",
   "colorIdentity": [
     "U",

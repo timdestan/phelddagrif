@@ -12,6 +12,7 @@
   ],
   "text": "Destroy target creature with flying.",
   "imageName": "plummet",
+  "starter": true,
   "colorIdentity": [
     "G"
   ]

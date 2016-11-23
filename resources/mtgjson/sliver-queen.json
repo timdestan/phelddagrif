@@ -20,7 +20,7 @@
   "subtypes": [
     "Sliver"
   ],
-  "text": "{2}: Put a 1/1 colorless Sliver creature token onto the battlefield.",
+  "text": "{2}: Create a 1/1 colorless Sliver creature token.",
   "power": "7",
   "toughness": "7",
   "imageName": "sliver queen",

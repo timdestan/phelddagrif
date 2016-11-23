@@ -11,7 +11,7 @@
   "subtypes": [
     "Myr"
   ],
-  "text": "Flash\nYou may cast artifact cards as though they had flash.",
+  "text": "Flash\nYou may cast artifact spells as though they had flash.",
   "power": "2",
   "toughness": "2",
   "imageName": "shimmer myr"

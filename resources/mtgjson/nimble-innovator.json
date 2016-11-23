@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Nimble Innovator",
+  "manaCost": "{3}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Vedalken Artificer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vedalken",
+    "Artificer"
+  ],
+  "text": "When Nimble Innovator enters the battlefield, draw a card.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "nimble innovator",
+  "colorIdentity": [
+    "U"
+  ]
+}

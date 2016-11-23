@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Strive — Launch the Fleet costs {1} more to cast for each target beyond the first.\nUntil end of turn, any number of target creatures each gain \"Whenever this creature attacks, put a 1/1 white Soldier creature token onto the battlefield tapped and attacking.\"",
+  "text": "Strive — Launch the Fleet costs {1} more to cast for each target beyond the first.\nUntil end of turn, any number of target creatures each gain \"Whenever this creature attacks, create a 1/1 white Soldier creature token that's tapped and attacking.\"",
   "imageName": "launch the fleet",
   "colorIdentity": [
     "W"

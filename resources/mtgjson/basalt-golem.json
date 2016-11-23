@@ -11,7 +11,7 @@
   "subtypes": [
     "Golem"
   ],
-  "text": "Basalt Golem can't be blocked by artifact creatures.\nWhenever Basalt Golem becomes blocked by a creature, that creature's controller sacrifices it at end of combat. If the player does, he or she puts a 0/2 colorless Wall artifact creature token with defender onto the battlefield.",
+  "text": "Basalt Golem can't be blocked by artifact creatures.\nWhenever Basalt Golem becomes blocked by a creature, that creature's controller sacrifices it at end of combat. If the player does, he or she creates a 0/2 colorless Wall artifact creature token with defender.",
   "power": "2",
   "toughness": "4",
   "imageName": "basalt golem"

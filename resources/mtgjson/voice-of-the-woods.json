@@ -13,7 +13,7 @@
   "subtypes": [
     "Elf"
   ],
-  "text": "Tap five untapped Elves you control: Put a 7/7 green Elemental creature token with trample onto the battlefield.",
+  "text": "Tap five untapped Elves you control: Create a 7/7 green Elemental creature token with trample.",
   "power": "2",
   "toughness": "2",
   "imageName": "voice of the woods",

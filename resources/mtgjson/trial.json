@@ -18,8 +18,8 @@
   "text": "Return all creatures blocking or blocked by target creature to their owner's hand.",
   "imageName": "trial",
   "colorIdentity": [
+    "W",
     "U",
-    "B",
-    "W"
+    "B"
   ]
 }

@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Put two 1/1 white Soldier creature tokens onto the battlefield.",
+  "text": "Create two 1/1 white Soldier creature tokens.",
   "imageName": "raise the alarm",
   "colorIdentity": [
     "W"

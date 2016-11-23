@@ -14,7 +14,7 @@
     "Elf",
     "Spellshaper"
   ],
-  "text": "{G}, {T}, Discard a card: Put a 1/1 green Elf Druid creature token named Llanowar Elves onto the battlefield. It has \"{T}: Add {G} to your mana pool.\"",
+  "text": "{G}, {T}, Discard a card: Create a 1/1 green Elf Druid creature token named Llanowar Elves. It has \"{T}: Add {G} to your mana pool.\"",
   "power": "1",
   "toughness": "1",
   "imageName": "llanowar mentor",

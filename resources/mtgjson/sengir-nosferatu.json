@@ -13,7 +13,7 @@
   "subtypes": [
     "Vampire"
   ],
-  "text": "Flying\n{1}{B}, Exile Sengir Nosferatu: Put a 1/2 black Bat creature token with flying onto the battlefield. It has \"{1}{B}, Sacrifice this creature: Return an exiled card named Sengir Nosferatu to the battlefield under its owner's control.\"",
+  "text": "Flying\n{1}{B}, Exile Sengir Nosferatu: Create a 1/2 black Bat creature token with flying. It has \"{1}{B}, Sacrifice this creature: Return an exiled card named Sengir Nosferatu to the battlefield under its owner's control.\"",
   "power": "4",
   "toughness": "4",
   "imageName": "sengir nosferatu",

@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Glint-Nest Crane",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Bird",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "Flying\nWhen Glint-Nest Crane enters the battlefield, look at the top four cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "glint-nest crane",
+  "colorIdentity": [
+    "U"
+  ]
+}

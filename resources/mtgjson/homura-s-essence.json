@@ -1,10 +1,6 @@
 {
-  "layout": "flip",
+  "layout": "normal",
   "name": "Homura's Essence",
-  "names": [
-    "Homura, Human Ascendant",
-    "Homura's Essence"
-  ],
   "manaCost": "{4}{R}{R}",
   "cmc": 6,
   "colors": [

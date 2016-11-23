@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Counter target enchantment, instant, or sorcery spell. Its controller puts a 2/2 blue Bird creature token with flying onto the battlefield.",
+  "text": "Counter target enchantment, instant, or sorcery spell. Its controller creates a 2/2 blue Bird creature token with flying.",
   "imageName": "swan song",
   "colorIdentity": [
     "U"

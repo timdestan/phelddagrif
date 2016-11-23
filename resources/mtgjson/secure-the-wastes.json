@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Put X 1/1 white Warrior creature tokens onto the battlefield.",
+  "text": "Create X 1/1 white Warrior creature tokens.",
   "imageName": "secure the wastes",
   "colorIdentity": [
     "W"

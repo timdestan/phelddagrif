@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Destroy any number of target creatures. For each creature destroyed this way, its controller puts a 4/4 red Dragon creature token with flying onto the battlefield.",
+  "text": "Destroy any number of target creatures. For each creature destroyed this way, its controller creates a 4/4 red Dragon creature token with flying.",
   "imageName": "descent of the dragons",
   "colorIdentity": [
     "R"

@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Revolutionary Rebuff",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target nonartifact spell unless its controller pays {2}.",
+  "imageName": "revolutionary rebuff",
+  "colorIdentity": [
+    "U"
+  ]
+}

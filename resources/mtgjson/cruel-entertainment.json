@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Cruel Entertainment",
+  "manaCost": "{6}{B}",
+  "cmc": 7,
+  "colors": [
+    "Black"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Choose target player and another target player. The first player controls the second player during the second player's next turn, and the second player controls the first player during the first player's next turn.",
+  "imageName": "cruel entertainment",
+  "colorIdentity": [
+    "B"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Unlicensed Disintegration",
+  "manaCost": "{1}{B}{R}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Destroy target creature. If you control an artifact, Unlicensed Disintegration deals 3 damage to that creature's controller.",
+  "imageName": "unlicensed disintegration",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

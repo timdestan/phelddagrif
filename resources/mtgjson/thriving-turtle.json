@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Thriving Turtle",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Turtle",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Turtle"
+  ],
+  "text": "When Thriving Turtle enters the battlefield, you get {E}{E} (two energy counters).\nWhenever Thriving Turtle attacks, you may pay {E}{E}. If you do, put a +1/+1 counter on it.",
+  "power": "0",
+  "toughness": "3",
+  "imageName": "thriving turtle",
+  "colorIdentity": [
+    "U"
+  ]
+}

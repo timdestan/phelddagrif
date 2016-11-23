@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Exile X target creatures. For each creature exiled this way, its controller puts a 2/2 green Boar creature token onto the battlefield.",
+  "text": "Exile X target creatures. For each creature exiled this way, its controller creates a 2/2 green Boar creature token.",
   "imageName": "curse of the swine",
   "colorIdentity": [
     "U"

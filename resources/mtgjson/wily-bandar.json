@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Wily Bandar",
+  "manaCost": "{G}",
+  "cmc": 1,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Cat Monkey",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat",
+    "Monkey"
+  ],
+  "text": "{2}{G}: Wily Bandar gains indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "wily bandar",
+  "colorIdentity": [
+    "G"
+  ]
+}

@@ -10,7 +10,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "{3}{R}: Choose target creature or player, then put the top three cards of your library into your graveyard.  Heretic's Punishment deals damage to that creature or player equal to the highest converted mana cost among those cards.",
+  "text": "{3}{R}: Choose target creature or player, then put the top three cards of your library into your graveyard. Heretic's Punishment deals damage to that creature or player equal to the highest converted mana cost among those cards.",
   "imageName": "heretic's punishment",
   "colorIdentity": [
     "R"

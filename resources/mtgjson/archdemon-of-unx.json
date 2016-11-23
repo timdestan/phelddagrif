@@ -13,7 +13,7 @@
   "subtypes": [
     "Demon"
   ],
-  "text": "Flying, trample\nAt the beginning of your upkeep, sacrifice a non-Zombie creature, then put a 2/2 black Zombie creature token onto the battlefield.",
+  "text": "Flying, trample\nAt the beginning of your upkeep, sacrifice a non-Zombie creature, then create a 2/2 black Zombie creature token.",
   "power": "6",
   "toughness": "6",
   "imageName": "archdemon of unx",

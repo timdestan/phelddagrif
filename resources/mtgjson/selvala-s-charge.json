@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Parley — Each player reveals the top card of his or her library. For each nonland card revealed this way, you put a 3/3 green Elephant creature token onto the battlefield. Then each player draws a card.",
+  "text": "Parley — Each player reveals the top card of his or her library. For each nonland card revealed this way, you create a 3/3 green Elephant creature token. Then each player draws a card.",
   "imageName": "selvala's charge",
   "colorIdentity": [
     "G"

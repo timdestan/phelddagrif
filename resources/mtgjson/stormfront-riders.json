@@ -14,7 +14,7 @@
     "Human",
     "Soldier"
   ],
-  "text": "Flying\nWhen Stormfront Riders enters the battlefield, return two creatures you control to their owner's hand.\nWhenever Stormfront Riders or another creature is returned to your hand from the battlefield, put a 1/1 white Soldier creature token onto the battlefield.",
+  "text": "Flying\nWhen Stormfront Riders enters the battlefield, return two creatures you control to their owner's hand.\nWhenever Stormfront Riders or another creature is returned to your hand from the battlefield, create a 1/1 white Soldier creature token.",
   "power": "4",
   "toughness": "3",
   "imageName": "stormfront riders",

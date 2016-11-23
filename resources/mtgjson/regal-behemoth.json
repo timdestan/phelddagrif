@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Regal Behemoth",
+  "manaCost": "{4}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Lizard",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Lizard"
+  ],
+  "text": "Trample\nWhen Regal Behemoth enters the battlefield, you become the monarch.\nWhenever you tap a land for mana while you're the monarch, add one mana of any color to your mana pool (in addition to the mana the land produces).",
+  "power": "5",
+  "toughness": "5",
+  "imageName": "regal behemoth",
+  "colorIdentity": [
+    "G"
+  ]
+}

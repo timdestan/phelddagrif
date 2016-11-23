@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Put a 2/2 green Wolf creature token onto the battlefield.\nMorbid — Put three 2/2 green Wolf creature tokens onto the battlefield instead if a creature died this turn.",
+  "text": "Create a 2/2 green Wolf creature token.\nMorbid — Create three 2/2 green Wolf creature tokens instead if a creature died this turn.",
   "imageName": "predator's howl",
   "colorIdentity": [
     "G"

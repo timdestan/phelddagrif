@@ -10,7 +10,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "{1}{G}, Remove one or more +1/+1 counters from among creatures you control: Put an X/X green Ooze creature token onto the battlefield, where X is the number of +1/+1 counters removed this way.",
+  "text": "{1}{G}, Remove one or more +1/+1 counters from among creatures you control: Create an X/X green Ooze creature token, where X is the number of +1/+1 counters removed this way.",
   "imageName": "ooze flux",
   "colorIdentity": [
     "G"

@@ -7,6 +7,6 @@
   "types": [
     "Artifact"
   ],
-  "text": "As Volrath's Laboratory enters the battlefield, choose a color and a creature type.\n{5}, {T}: Put a 2/2 creature token of the chosen color and type onto the battlefield.",
+  "text": "As Volrath's Laboratory enters the battlefield, choose a color and a creature type.\n{5}, {T}: Create a 2/2 creature token of the chosen color and type.",
   "imageName": "volrath's laboratory"
 }

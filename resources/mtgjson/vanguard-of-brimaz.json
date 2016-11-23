@@ -14,7 +14,7 @@
     "Cat",
     "Soldier"
   ],
-  "text": "Vigilance\nHeroic — Whenever you cast a spell that targets Vanguard of Brimaz, put a 1/1 white Cat Soldier creature token with vigilance onto the battlefield.",
+  "text": "Vigilance\nHeroic — Whenever you cast a spell that targets Vanguard of Brimaz, create a 1/1 white Cat Soldier creature token with vigilance.",
   "power": "2",
   "toughness": "2",
   "imageName": "vanguard of brimaz",

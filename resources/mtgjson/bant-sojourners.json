@@ -16,7 +16,7 @@
     "Human",
     "Soldier"
   ],
-  "text": "When you cycle Bant Sojourners or it dies, you may put a 1/1 white Soldier creature token onto the battlefield.\nCycling {2}{W} ({2}{W}, Discard this card: Draw a card.)",
+  "text": "When you cycle Bant Sojourners or it dies, you may create a 1/1 white Soldier creature token.\nCycling {2}{W} ({2}{W}, Discard this card: Draw a card.)",
   "power": "2",
   "toughness": "4",
   "imageName": "bant sojourners",

@@ -14,7 +14,7 @@
     "Human",
     "Soldier"
   ],
-  "text": "First strike\nWhenever Precinct Captain deals combat damage to a player, put a 1/1 white Soldier creature token onto the battlefield.",
+  "text": "First strike\nWhenever Precinct Captain deals combat damage to a player, create a 1/1 white Soldier creature token.",
   "power": "2",
   "toughness": "2",
   "imageName": "precinct captain",

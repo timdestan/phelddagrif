@@ -13,7 +13,7 @@
   "subtypes": [
     "Human"
   ],
-  "text": "When Sengir Autocrat enters the battlefield, put three 0/1 black Serf creature tokens onto the battlefield.\nWhen Sengir Autocrat leaves the battlefield, exile all Serf tokens.",
+  "text": "When Sengir Autocrat enters the battlefield, create three 0/1 black Serf creature tokens.\nWhen Sengir Autocrat leaves the battlefield, exile all Serf tokens.",
   "power": "2",
   "toughness": "2",
   "imageName": "sengir autocrat",

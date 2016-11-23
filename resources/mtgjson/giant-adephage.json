@@ -13,7 +13,7 @@
   "subtypes": [
     "Insect"
   ],
-  "text": "Trample\nWhenever Giant Adephage deals combat damage to a player, put a token onto the battlefield that's a copy of Giant Adephage.",
+  "text": "Trample\nWhenever Giant Adephage deals combat damage to a player, create a token that's a copy of Giant Adephage.",
   "power": "7",
   "toughness": "7",
   "imageName": "giant adephage",

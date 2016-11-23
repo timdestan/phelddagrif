@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Reyhan, Last of the Abzan",
+  "manaCost": "{1}{B}{G}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Legendary Creature — Human Warrior",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "Reyhan, Last of the Abzan enters the battlefield with three +1/+1 counters on it.\nWhenever a creature you control dies or is put into the command zone, if it had one or more +1/+1 counters on it, you may put that many +1/+1 counters on target creature.\nPartner (You can have two commanders if both have partner.)",
+  "power": "0",
+  "toughness": "0",
+  "imageName": "reyhan, last of the abzan",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

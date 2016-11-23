@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nPut three 3/3 green Beast creature tokens onto the battlefield.",
+  "text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nCreate three 3/3 green Beast creature tokens.",
   "imageName": "feral incarnation",
   "colorIdentity": [
     "G"

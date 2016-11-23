@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Anchor to the Aether",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Put target creature on top of its owner's library. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "imageName": "anchor to the aether",
+  "colorIdentity": [
+    "U"
+  ]
+}

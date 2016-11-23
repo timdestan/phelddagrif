@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Put a 4/4 green Beast creature token onto the battlefield.\nStorm (When you cast this spell, copy it for each spell cast before it this turn.)",
+  "text": "Create a 4/4 green Beast creature token.\nStorm (When you cast this spell, copy it for each spell cast before it this turn.)",
   "imageName": "hunting pack",
   "colorIdentity": [
     "G"

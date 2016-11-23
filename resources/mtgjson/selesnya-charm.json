@@ -11,7 +11,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Choose one —\n• Target creature gets +2/+2 and gains trample until end of turn.\n• Exile target creature with power 5 or greater.\n• Put a 2/2 white Knight creature token with vigilance onto the battlefield.",
+  "text": "Choose one —\n• Target creature gets +2/+2 and gains trample until end of turn.\n• Exile target creature with power 5 or greater.\n• Create a 2/2 white Knight creature token with vigilance.",
   "imageName": "selesnya charm",
   "colorIdentity": [
     "W",

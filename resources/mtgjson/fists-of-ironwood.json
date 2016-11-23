@@ -13,7 +13,7 @@
   "subtypes": [
     "Aura"
   ],
-  "text": "Enchant creature\nWhen Fists of Ironwood enters the battlefield, put two 1/1 green Saproling creature tokens onto the battlefield.\nEnchanted creature has trample.",
+  "text": "Enchant creature\nWhen Fists of Ironwood enters the battlefield, create two 1/1 green Saproling creature tokens.\nEnchanted creature has trample.",
   "imageName": "fists of ironwood",
   "colorIdentity": [
     "G"

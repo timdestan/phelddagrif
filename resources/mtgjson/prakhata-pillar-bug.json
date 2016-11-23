@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Prakhata Pillar-Bug",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact Creature — Insect",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "{B}: Prakhata Pillar-Bug gains lifelink until end of turn. (Damage dealt by this creature also causes you to gain that much life.)",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "prakhata pillar-bug",
+  "colorIdentity": [
+    "B"
+  ]
+}

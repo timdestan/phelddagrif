@@ -14,7 +14,7 @@
     "Eldrazi",
     "Drone"
   ],
-  "text": "When Emrakul's Hatcher enters the battlefield, put three 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have \"Sacrifice this creature: Add {C} to your mana pool.\"",
+  "text": "When Emrakul's Hatcher enters the battlefield, create three 0/1 colorless Eldrazi Spawn creature tokens. They have \"Sacrifice this creature: Add {C} to your mana pool.\"",
   "power": "3",
   "toughness": "3",
   "imageName": "emrakul's hatcher",

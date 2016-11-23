@@ -15,7 +15,7 @@
     "Human",
     "Wizard"
   ],
-  "text": "{U}, {T}: Put a 0/1 blue Homunculus artifact creature token onto the battlefield.\nAt the beginning of your upkeep, sacrifice a Homunculus.",
+  "text": "{U}, {T}: Create a 0/1 blue Homunculus artifact creature token.\nAt the beginning of your upkeep, sacrifice a Homunculus.",
   "power": "1",
   "toughness": "2",
   "imageName": "puppet conjurer",

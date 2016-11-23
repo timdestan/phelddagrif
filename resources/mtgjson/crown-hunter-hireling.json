@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Crown-Hunter Hireling",
+  "manaCost": "{4}{R}",
+  "cmc": 5,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Ogre Mercenary",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Ogre",
+    "Mercenary"
+  ],
+  "text": "When Crown-Hunter Hireling enters the battlefield, you become the monarch.\nCrown-Hunter Hireling can't attack unless defending player is the monarch.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "crown-hunter hireling",
+  "colorIdentity": [
+    "R"
+  ]
+}

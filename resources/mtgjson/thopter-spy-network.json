@@ -10,7 +10,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "At the beginning of your upkeep, if you control an artifact, put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield.\nWhenever one or more artifact creatures you control deal combat damage to a player, draw a card.",
+  "text": "At the beginning of your upkeep, if you control an artifact, create a 1/1 colorless Thopter artifact creature token with flying.\nWhenever one or more artifact creatures you control deal combat damage to a player, draw a card.",
   "imageName": "thopter spy network",
   "colorIdentity": [
     "U"

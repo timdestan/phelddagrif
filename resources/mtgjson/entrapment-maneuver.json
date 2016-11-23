@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Entrapment Maneuver",
+  "manaCost": "{3}{W}",
+  "cmc": 4,
+  "colors": [
+    "White"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Target player sacrifices an attacking creature. You create X 1/1 white Soldier creature tokens, where X is that creature's toughness.",
+  "imageName": "entrapment maneuver",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -10,7 +10,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "Whenever you cast an enchantment spell, put a 4/4 white Angel creature token with flying onto the battlefield.",
+  "text": "Whenever you cast an enchantment spell, create a 4/4 white Angel creature token with flying.",
   "imageName": "sigil of the empty throne",
   "colorIdentity": [
     "W"

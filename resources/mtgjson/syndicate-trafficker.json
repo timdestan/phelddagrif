@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Syndicate Trafficker",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Aetherborn Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Aetherborn",
+    "Rogue"
+  ],
+  "text": "{1}, Sacrifice an artifact: Put a +1/+1 counter on Syndicate Trafficker. It gains indestructible until end of turn.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "syndicate trafficker",
+  "colorIdentity": [
+    "B"
+  ]
+}

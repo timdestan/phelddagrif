@@ -13,7 +13,7 @@
   "subtypes": [
     "Trap"
   ],
-  "text": "Stone Idol Trap costs {1} less to cast for each attacking creature.\nPut a 6/12 colorless Construct artifact creature token with trample onto the battlefield. Exile it at the beginning of your next end step.",
+  "text": "Stone Idol Trap costs {1} less to cast for each attacking creature.\nCreate a 6/12 colorless Construct artifact creature token with trample. Exile it at the beginning of your next end step.",
   "imageName": "stone idol trap",
   "colorIdentity": [
     "R"

@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Put an X/X green Ooze creature token onto the battlefield, where X is the greatest power among creatures you control.",
+  "text": "Create an X/X green Ooze creature token, where X is the greatest power among creatures you control.",
   "imageName": "miming slime",
   "colorIdentity": [
     "G"

@@ -13,7 +13,7 @@
   "subtypes": [
     "Dragon"
   ],
-  "text": "Defender (This creature can't attack.)\nWhen Dragon Egg dies, put a 2/2 red Dragon creature token with flying onto the battlefield. It has \"{R}: This creature gets +1/+0 until end of turn.\"",
+  "text": "Defender (This creature can't attack.)\nWhen Dragon Egg dies, create a 2/2 red Dragon creature token with flying. It has \"{R}: This creature gets +1/+0 until end of turn.\"",
   "power": "0",
   "toughness": "2",
   "imageName": "dragon egg",

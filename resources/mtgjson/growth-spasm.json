@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Put a 0/1 colorless Eldrazi Spawn creature token onto the battlefield. It has \"Sacrifice this creature: Add {C} to your mana pool.\"",
+  "text": "Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. Create a 0/1 colorless Eldrazi Spawn creature token. It has \"Sacrifice this creature: Add {C} to your mana pool.\"",
   "imageName": "growth spasm",
   "colorIdentity": [
     "G"

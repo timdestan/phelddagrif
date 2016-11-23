@@ -13,7 +13,7 @@
   "subtypes": [
     "Archon"
   ],
-  "text": "Flying\nTribute 2 (As this creature enters the battlefield, an opponent of your choice may place two +1/+1 counters on it.)\nWhen Ornitharch enters the battlefield, if tribute wasn't paid, put two 1/1 white Bird creature tokens with flying onto the battlefield.",
+  "text": "Flying\nTribute 2 (As this creature enters the battlefield, an opponent of your choice may place two +1/+1 counters on it.)\nWhen Ornitharch enters the battlefield, if tribute wasn't paid, create two 1/1 white Bird creature tokens with flying.",
   "power": "3",
   "toughness": "3",
   "imageName": "ornitharch",

@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Destroy target nonblack creature. Put two 0/1 colorless Eldrazi Spawn creature tokens onto the battlefield. They have \"Sacrifice this creature: Add {C} to your mana pool.\"",
+  "text": "Destroy target nonblack creature. Create two 0/1 colorless Eldrazi Spawn creature tokens. They have \"Sacrifice this creature: Add {C} to your mana pool.\"",
   "imageName": "corpsehatch",
   "colorIdentity": [
     "B"

@@ -13,7 +13,7 @@
   "subtypes": [
     "Hippogriff"
   ],
-  "text": "Flash (You may cast this spell any time you could cast an instant.)\nFlying\nCreatures entering the battlefield don't cause abilities to trigger.",
+  "text": "Flash\nFlying\nCreatures entering the battlefield don't cause abilities to trigger.",
   "power": "2",
   "toughness": "1",
   "imageName": "hushwing gryff",

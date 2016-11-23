@@ -13,7 +13,7 @@
   "subtypes": [
     "Elspeth"
   ],
-  "text": "+1: Put three 1/1 white Soldier creature tokens onto the battlefield.\n−3: Destroy all creatures with power 4 or greater.\n−7: You get an emblem with \"Creatures you control get +2/+2 and have flying.\"",
+  "text": "+1: Create three 1/1 white Soldier creature tokens.\n−3: Destroy all creatures with power 4 or greater.\n−7: You get an emblem with \"Creatures you control get +2/+2 and have flying.\"",
   "loyalty": 4,
   "imageName": "elspeth, sun's champion",
   "colorIdentity": [

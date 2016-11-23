@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Grip of Phyresis",
+  "manaCost": "{2}{U}",
+  "cmc": 3,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Gain control of target Equipment, then create a 0/0 black Germ creature token and attach that Equipment to it.",
+  "imageName": "grip of phyresis",
+  "colorIdentity": [
+    "U"
+  ]
+}

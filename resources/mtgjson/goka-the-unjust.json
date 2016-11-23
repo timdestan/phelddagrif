@@ -1,10 +1,6 @@
 {
-  "layout": "flip",
+  "layout": "normal",
   "name": "Goka the Unjust",
-  "names": [
-    "Initiate of Blood",
-    "Goka the Unjust"
-  ],
   "manaCost": "{3}{R}",
   "cmc": 4,
   "colors": [

@@ -10,7 +10,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "At the beginning of each end step, if you gained 4 or more life this turn, put a 4/4 white Angel creature token with flying onto the battlefield.",
+  "text": "At the beginning of each end step, if you gained 4 or more life this turn, create a 4/4 white Angel creature token with flying.",
   "imageName": "angelic accord",
   "colorIdentity": [
     "W"

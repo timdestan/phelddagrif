@@ -10,7 +10,7 @@
   "subtypes": [
     "Eldrazi"
   ],
-  "text": "When you cast Desolation Twin, put a 10/10 colorless Eldrazi creature token onto the battlefield.",
+  "text": "When you cast Desolation Twin, create a 10/10 colorless Eldrazi creature token.",
   "power": "10",
   "toughness": "10",
   "imageName": "desolation twin"

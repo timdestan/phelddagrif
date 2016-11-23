@@ -14,7 +14,7 @@
   "subtypes": [
     "Giant"
   ],
-  "text": "You gain 10 life. Then if you have more life than an opponent, put a 5/5 white Giant Warrior creature token onto the battlefield.",
+  "text": "You gain 10 life. Then if you have more life than an opponent, create a 5/5 white Giant Warrior creature token.",
   "imageName": "feudkiller's verdict",
   "colorIdentity": [
     "W"

@@ -14,7 +14,7 @@
     "Human",
     "Wizard"
   ],
-  "text": "{G}, {T}: Choose target opponent who controlled more creatures than you did as you activated this ability. Put a 2/2 green Beast creature token onto the battlefield.",
+  "text": "{G}, {T}: Choose target opponent who controlled more creatures than you did as you activated this ability. Create a 2/2 green Beast creature token.",
   "power": "1",
   "toughness": "2",
   "imageName": "keeper of the beasts",

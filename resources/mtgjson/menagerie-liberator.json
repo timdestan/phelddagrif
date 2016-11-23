@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Menagerie Liberator",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "Trample\nMelee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "menagerie liberator",
+  "colorIdentity": [
+    "G"
+  ]
+}

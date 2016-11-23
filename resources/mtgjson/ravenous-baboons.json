@@ -6,12 +6,12 @@
   "colors": [
     "Red"
   ],
-  "type": "Creature — Ape",
+  "type": "Creature — Monkey",
   "types": [
     "Creature"
   ],
   "subtypes": [
-    "Ape"
+    "Monkey"
   ],
   "text": "When Ravenous Baboons enters the battlefield, destroy target nonbasic land.",
   "power": "2",

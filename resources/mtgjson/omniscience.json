@@ -10,7 +10,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "You may cast nonland cards from your hand without paying their mana costs.",
+  "text": "You may cast spells from your hand without paying their mana costs.",
   "imageName": "omniscience",
   "colorIdentity": [
     "U"

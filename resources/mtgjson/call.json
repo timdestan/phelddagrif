@@ -15,7 +15,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Put four 1/1 white Bird creature tokens with flying onto the battlefield.\nFuse (You may cast one or both halves of this card from your hand.)",
+  "text": "Create four 1/1 white Bird creature tokens with flying.\nFuse (You may cast one or both halves of this card from your hand.)",
   "imageName": "call",
   "colorIdentity": [
     "W",

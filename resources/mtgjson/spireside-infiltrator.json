@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Spireside Infiltrator",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Rogue"
+  ],
+  "text": "Whenever Spireside Infiltrator becomes tapped, it deals 1 damage to each opponent.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "spireside infiltrator",
+  "colorIdentity": [
+    "R"
+  ]
+}

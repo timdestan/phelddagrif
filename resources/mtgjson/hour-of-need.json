@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Strive — Hour of Need costs {1}{U} more to cast for each target beyond the first.\nExile any number of target creatures. For each creature exiled this way, its controller puts a 4/4 blue Sphinx creature token with flying onto the battlefield.",
+  "text": "Strive — Hour of Need costs {1}{U} more to cast for each target beyond the first.\nExile any number of target creatures. For each creature exiled this way, its controller creates a 4/4 blue Sphinx creature token with flying.",
   "imageName": "hour of need",
   "colorIdentity": [
     "U"

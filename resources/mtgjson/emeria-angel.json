@@ -13,7 +13,7 @@
   "subtypes": [
     "Angel"
   ],
-  "text": "Flying\nLandfall — Whenever a land enters the battlefield under your control, you may put a 1/1 white Bird creature token with flying onto the battlefield.",
+  "text": "Flying\nLandfall — Whenever a land enters the battlefield under your control, you may create a 1/1 white Bird creature token with flying.",
   "power": "3",
   "toughness": "3",
   "imageName": "emeria angel",

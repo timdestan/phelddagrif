@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Lawless Broker",
+  "manaCost": "{2}{B}",
+  "cmc": 3,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Aetherborn Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Aetherborn",
+    "Rogue"
+  ],
+  "text": "When Lawless Broker dies, put a +1/+1 counter on target creature you control.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "lawless broker",
+  "colorIdentity": [
+    "B"
+  ]
+}

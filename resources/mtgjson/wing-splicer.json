@@ -14,7 +14,7 @@
     "Human",
     "Artificer"
   ],
-  "text": "When Wing Splicer enters the battlefield, put a 3/3 colorless Golem artifact creature token onto the battlefield.\nGolem creatures you control have flying.",
+  "text": "When Wing Splicer enters the battlefield, create a 3/3 colorless Golem artifact creature token.\nGolem creatures you control have flying.",
   "power": "1",
   "toughness": "1",
   "imageName": "wing splicer",

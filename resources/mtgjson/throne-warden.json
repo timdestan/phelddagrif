@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Throne Warden",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "At the beginning of your end step, if you're the monarch, put a +1/+1 counter on Throne Warden.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "throne warden",
+  "colorIdentity": [
+    "W"
+  ]
+}

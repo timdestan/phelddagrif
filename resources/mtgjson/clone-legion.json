@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "For each creature target player controls, put a token onto the battlefield that's a copy of that creature.",
+  "text": "For each creature target player controls, create a token that's a copy of that creature.",
   "imageName": "clone legion",
   "colorIdentity": [
     "U"

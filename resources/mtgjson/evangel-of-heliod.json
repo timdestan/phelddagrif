@@ -14,7 +14,7 @@
     "Human",
     "Cleric"
   ],
-  "text": "When Evangel of Heliod enters the battlefield, put a number of 1/1 white Soldier creature tokens onto the battlefield equal to your devotion to white. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)",
+  "text": "When Evangel of Heliod enters the battlefield, create a number of 1/1 white Soldier creature tokens equal to your devotion to white. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)",
   "power": "1",
   "toughness": "3",
   "imageName": "evangel of heliod",

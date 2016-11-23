@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Put X 1/2 green Spider creature tokens with reach onto the battlefield, where X is the number of creatures attacking you. Prevent all combat damage that would be dealt this turn by non-Spider creatures.",
+  "text": "Create X 1/2 green Spider creature tokens with reach, where X is the number of creatures attacking you. Prevent all combat damage that would be dealt this turn by non-Spider creatures.",
   "imageName": "arachnogenesis",
   "colorIdentity": [
     "G"

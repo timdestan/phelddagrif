@@ -14,7 +14,7 @@
   "subtypes": [
     "Sarkhan"
   ],
-  "text": "+1: Creatures you control get +1/+1 and gain haste until end of turn.\n−2: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.\n−6: Put five 4/4 red Dragon creature tokens with flying onto the battlefield.",
+  "text": "+1: Creatures you control get +1/+1 and gain haste until end of turn.\n−2: Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.\n−6: Create five 4/4 red Dragon creature tokens with flying.",
   "loyalty": 4,
   "imageName": "sarkhan vol",
   "colorIdentity": [

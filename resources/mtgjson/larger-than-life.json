@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Larger Than Life",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Target creature gets +4/+4 and gains trample until end of turn.",
+  "imageName": "larger than life",
+  "colorIdentity": [
+    "G"
+  ]
+}

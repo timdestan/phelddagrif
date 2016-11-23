@@ -14,7 +14,7 @@
     "Human",
     "Druid"
   ],
-  "text": "At the beginning of each upkeep, if Dreampod Druid is enchanted, put a 1/1 green Saproling creature token onto the battlefield.",
+  "text": "At the beginning of each upkeep, if Dreampod Druid is enchanted, create a 1/1 green Saproling creature token.",
   "power": "2",
   "toughness": "2",
   "imageName": "dreampod druid",

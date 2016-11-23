@@ -1,10 +1,6 @@
 {
-  "layout": "flip",
+  "layout": "normal",
   "name": "Dokai, Weaver of Life",
-  "names": [
-    "Budoka Gardener",
-    "Dokai, Weaver of Life"
-  ],
   "manaCost": "{1}{G}",
   "cmc": 2,
   "colors": [
@@ -21,7 +17,7 @@
     "Human",
     "Monk"
   ],
-  "text": "{4}{G}{G}, {T}: Put an X/X green Elemental creature token onto the battlefield, where X is the number of lands you control.",
+  "text": "{4}{G}{G}, {T}: Create an X/X green Elemental creature token, where X is the number of lands you control.",
   "power": "3",
   "toughness": "3",
   "imageName": "dokai, weaver of life",

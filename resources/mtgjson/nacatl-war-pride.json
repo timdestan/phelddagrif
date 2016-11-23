@@ -14,7 +14,7 @@
     "Cat",
     "Warrior"
   ],
-  "text": "Nacatl War-Pride must be blocked by exactly one creature if able.\nWhenever Nacatl War-Pride attacks, put X tokens that are copies of Nacatl War-Pride onto the battlefield tapped and attacking, where X is the number of creatures defending player controls. Exile the tokens at the beginning of the next end step.",
+  "text": "Nacatl War-Pride must be blocked by exactly one creature if able.\nWhenever Nacatl War-Pride attacks, create X tokens that are copies of Nacatl War-Pride and that are tapped and attacking, where X is the number of creatures defending player controls. Exile the tokens at the beginning of the next end step.",
   "power": "3",
   "toughness": "3",
   "imageName": "nacatl war-pride",

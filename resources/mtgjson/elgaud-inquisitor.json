@@ -14,7 +14,7 @@
     "Human",
     "Cleric"
   ],
-  "text": "Lifelink (Damage dealt by this creature also causes you to gain that much life.)\nWhen Elgaud Inquisitor dies, put a 1/1 white Spirit creature token with flying onto the battlefield.",
+  "text": "Lifelink (Damage dealt by this creature also causes you to gain that much life.)\nWhen Elgaud Inquisitor dies, create a 1/1 white Spirit creature token with flying.",
   "power": "2",
   "toughness": "2",
   "imageName": "elgaud inquisitor",

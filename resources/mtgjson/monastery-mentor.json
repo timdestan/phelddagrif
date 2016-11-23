@@ -14,7 +14,7 @@
     "Human",
     "Monk"
   ],
-  "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever you cast a noncreature spell, put a 1/1 white Monk creature token with prowess onto the battlefield.",
+  "text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\nWhenever you cast a noncreature spell, create a 1/1 white Monk creature token with prowess.",
   "power": "2",
   "toughness": "2",
   "imageName": "monastery mentor",

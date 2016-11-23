@@ -20,8 +20,10 @@
   "text": "Counter target creature spell.",
   "imageName": "when",
   "colorIdentity": [
-    "U",
+    "W",
     "R",
-    "W"
+    "U",
+    "B",
+    "G"
   ]
 }

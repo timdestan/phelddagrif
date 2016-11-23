@@ -13,7 +13,7 @@
   "subtypes": [
     "Horror"
   ],
-  "text": "Trample\nWhen Hunted Horror enters the battlefield, target opponent puts two 3/3 green Centaur creature tokens with protection from black onto the battlefield.",
+  "text": "Trample\nWhen Hunted Horror enters the battlefield, target opponent creates two 3/3 green Centaur creature tokens with protection from black.",
   "power": "7",
   "toughness": "7",
   "imageName": "hunted horror",

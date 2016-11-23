@@ -1,10 +1,6 @@
 {
-  "layout": "flip",
+  "layout": "normal",
   "name": "Tomoya the Revealer",
-  "names": [
-    "Jushi Apprentice",
-    "Tomoya the Revealer"
-  ],
   "manaCost": "{1}{U}",
   "cmc": 2,
   "colors": [

@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Vial Smasher the Fierce",
+  "manaCost": "{1}{B}{R}",
+  "cmc": 3,
+  "colors": [
+    "Black",
+    "Red"
+  ],
+  "type": "Legendary Creature — Goblin Berserker",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Berserker"
+  ],
+  "text": "Whenever you cast your first spell each turn, Vial Smasher the Fierce deals damage equal to that spell's converted mana cost to an opponent chosen at random.\nPartner (You can have two commanders if both have partner.)",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "vial smasher the fierce",
+  "colorIdentity": [
+    "B",
+    "R"
+  ]
+}

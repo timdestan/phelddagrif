@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "For each token you control, put a token onto the battlefield that's a copy of that permanent.",
+  "text": "For each token you control, create a token that's a copy of that permanent.",
   "imageName": "second harvest",
   "colorIdentity": [
     "G"

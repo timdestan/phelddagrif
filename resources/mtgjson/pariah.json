@@ -13,7 +13,7 @@
   "subtypes": [
     "Aura"
   ],
-  "text": "Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)\nAll damage that would be dealt to you is dealt to enchanted creature instead.",
+  "text": "Enchant creature\nAll damage that would be dealt to you is dealt to enchanted creature instead.",
   "imageName": "pariah",
   "colorIdentity": [
     "W"

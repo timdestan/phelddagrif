@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Target creature you control fights target creature you don't control.",
+  "text": "Target creature you control fights target creature you don't control. (Each deals damage equal to its power to the other.)",
   "imageName": "prey upon",
   "colorIdentity": [
     "G"

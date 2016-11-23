@@ -13,7 +13,7 @@
   "subtypes": [
     "Sliver"
   ],
-  "text": "Flash\nAny player may play Sliver cards as though they had flash.",
+  "text": "Flash\nAny player may cast Sliver spells as though they had flash.",
   "power": "1",
   "toughness": "1",
   "imageName": "quick sliver",

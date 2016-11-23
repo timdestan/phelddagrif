@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Dukhara Peafowl",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact Creature — Bird",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Bird"
+  ],
+  "text": "{U}: Dukhara Peafowl gains flying until end of turn.",
+  "power": "2",
+  "toughness": "4",
+  "imageName": "dukhara peafowl",
+  "colorIdentity": [
+    "U"
+  ]
+}

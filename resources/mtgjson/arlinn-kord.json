@@ -18,7 +18,7 @@
   "subtypes": [
     "Arlinn"
   ],
-  "text": "+1: Until end of turn, up to one target creature gets +2/+2 and gains vigilance and haste.\n0: Put a 2/2 green Wolf creature token onto the battlefield. Transform Arlinn Kord.",
+  "text": "+1: Until end of turn, up to one target creature gets +2/+2 and gains vigilance and haste.\n0: Create a 2/2 green Wolf creature token. Transform Arlinn Kord.",
   "loyalty": 3,
   "imageName": "arlinn kord",
   "colorIdentity": [

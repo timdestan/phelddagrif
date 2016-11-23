@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Deputized Protester",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "Menace (This creature can't be blocked except by two or more creatures.)\nMelee (Whenever this creature attacks, it gets +1/+1 until end of turn for each opponent you attacked with a creature this combat.)",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "deputized protester",
+  "colorIdentity": [
+    "R"
+  ]
+}

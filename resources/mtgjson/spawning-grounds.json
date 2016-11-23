@@ -13,7 +13,7 @@
   "subtypes": [
     "Aura"
   ],
-  "text": "Enchant land\nEnchanted land has \"{T}: Put a 5/5 green Beast creature token with trample onto the battlefield.\"",
+  "text": "Enchant land\nEnchanted land has \"{T}: Create a 5/5 green Beast creature token with trample.\"",
   "imageName": "spawning grounds",
   "colorIdentity": [
     "G"

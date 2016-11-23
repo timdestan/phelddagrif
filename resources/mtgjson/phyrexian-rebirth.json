@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Destroy all creatures, then put an X/X colorless Horror artifact creature token onto the battlefield, where X is the number of creatures destroyed this way.",
+  "text": "Destroy all creatures, then create an X/X colorless Horror artifact creature token, where X is the number of creatures destroyed this way.",
   "imageName": "phyrexian rebirth",
   "colorIdentity": [
     "W"

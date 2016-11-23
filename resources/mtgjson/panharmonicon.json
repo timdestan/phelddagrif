@@ -1,0 +1,12 @@
+{
+  "layout": "normal",
+  "name": "Panharmonicon",
+  "manaCost": "{4}",
+  "cmc": 4,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "If an artifact or creature entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.",
+  "imageName": "panharmonicon"
+}

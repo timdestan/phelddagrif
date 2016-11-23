@@ -32,7 +32,7 @@ function split(jsonData) {
 }
 
 function makeFilename(name) {
-  const base = name.replace(/\s|[?!,"']/g, '-')
+  const base = name.replace(/\s|[?!,"':]/g, '-')
                    .replace(/(-)+/g, '-')
                    .replace(/^-|-$/, '')
                    .toLowerCase();

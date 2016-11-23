@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Destroy target land. Put a 1/1 red Goblin creature token onto the battlefield.",
+  "text": "Destroy target land. Create a 1/1 red Goblin creature token.",
   "imageName": "survey the wreckage",
   "colorIdentity": [
     "R"

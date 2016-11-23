@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Renegade Freighter",
+  "manaCost": "{3}",
+  "cmc": 3,
+  "type": "Artifact — Vehicle",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Vehicle"
+  ],
+  "text": "Whenever Renegade Freighter attacks, it gets +1/+1 and gains trample until end of turn.\nCrew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)",
+  "power": "4",
+  "toughness": "3",
+  "imageName": "renegade freighter"
+}

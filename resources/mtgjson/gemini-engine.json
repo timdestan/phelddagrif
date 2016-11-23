@@ -11,7 +11,7 @@
   "subtypes": [
     "Construct"
   ],
-  "text": "Whenever Gemini Engine attacks, put a colorless Construct artifact creature token named Twin onto the battlefield attacking. Its power is equal to Gemini Engine's power and its toughness is equal to Gemini Engine's toughness. Sacrifice the token at end of combat.",
+  "text": "Whenever Gemini Engine attacks, create a colorless Construct artifact creature token named Twin that's attacking. Its power is equal to Gemini Engine's power and its toughness is equal to Gemini Engine's toughness. Sacrifice the token at end of combat.",
   "power": "3",
   "toughness": "4",
   "imageName": "gemini engine"

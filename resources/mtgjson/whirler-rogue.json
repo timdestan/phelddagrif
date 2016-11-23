@@ -15,7 +15,7 @@
     "Rogue",
     "Artificer"
   ],
-  "text": "When Whirler Rogue enters the battlefield, put two 1/1 colorless Thopter artifact creature tokens with flying onto the battlefield.\nTap two untapped artifacts you control: Target creature can't be blocked this turn.",
+  "text": "When Whirler Rogue enters the battlefield, create two 1/1 colorless Thopter artifact creature tokens with flying.\nTap two untapped artifacts you control: Target creature can't be blocked this turn.",
   "power": "2",
   "toughness": "2",
   "imageName": "whirler rogue",

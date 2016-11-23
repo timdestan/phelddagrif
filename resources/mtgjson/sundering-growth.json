@@ -11,7 +11,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Destroy target artifact or enchantment, then populate. (Put a token onto the battlefield that's a copy of a creature token you control.)",
+  "text": "Destroy target artifact or enchantment, then populate. (Create a token that's a copy of a creature token you control.)",
   "imageName": "sundering growth",
   "colorIdentity": [
     "W",

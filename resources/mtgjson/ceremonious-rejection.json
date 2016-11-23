@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Ceremonious Rejection",
+  "manaCost": "{U}",
+  "cmc": 1,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target colorless spell.",
+  "imageName": "ceremonious rejection",
+  "colorIdentity": [
+    "U"
+  ]
+}

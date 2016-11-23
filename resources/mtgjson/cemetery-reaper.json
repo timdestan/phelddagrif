@@ -13,7 +13,7 @@
   "subtypes": [
     "Zombie"
   ],
-  "text": "Other Zombie creatures you control get +1/+1.\n{2}{B}, {T}: Exile target creature card from a graveyard. Put a 2/2 black Zombie creature token onto the battlefield.",
+  "text": "Other Zombie creatures you control get +1/+1.\n{2}{B}, {T}: Exile target creature card from a graveyard. Create a 2/2 black Zombie creature token.",
   "power": "2",
   "toughness": "2",
   "imageName": "cemetery reaper",

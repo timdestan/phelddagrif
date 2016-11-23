@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Each other player sacrifices a creature. You put a 2/2 black Zombie creature token onto the battlefield for each creature sacrificed this way.",
+  "text": "Each other player sacrifices a creature. You create a 2/2 black Zombie creature token for each creature sacrificed this way.",
   "imageName": "syphon flesh",
   "colorIdentity": [
     "B"

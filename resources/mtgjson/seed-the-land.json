@@ -10,7 +10,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "Whenever a land enters the battlefield, its controller puts a 1/1 green Snake creature token onto the battlefield.",
+  "text": "Whenever a land enters the battlefield, its controller creates a 1/1 green Snake creature token.",
   "imageName": "seed the land",
   "colorIdentity": [
     "G"

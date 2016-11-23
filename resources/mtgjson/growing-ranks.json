@@ -11,7 +11,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "At the beginning of your upkeep, populate. (Put a token onto the battlefield that's a copy of a creature token you control.)",
+  "text": "At the beginning of your upkeep, populate. (Create a token that's a copy of a creature token you control.)",
   "imageName": "growing ranks",
   "colorIdentity": [
     "W",

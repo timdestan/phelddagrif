@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Put four 2/2 white Knight creature tokens with vigilance onto the battlefield.\nSpell mastery — If there are two or more instant and/or sorcery cards in your graveyard, creatures you control gain indestructible until end of turn.",
+  "text": "Create four 2/2 white Knight creature tokens with vigilance.\nSpell mastery — If there are two or more instant and/or sorcery cards in your graveyard, creatures you control gain indestructible until end of turn.",
   "imageName": "gideon's phalanx",
   "colorIdentity": [
     "W"

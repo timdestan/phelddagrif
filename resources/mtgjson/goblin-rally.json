@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Put four 1/1 red Goblin creature tokens onto the battlefield.",
+  "text": "Create four 1/1 red Goblin creature tokens.",
   "imageName": "goblin rally",
   "colorIdentity": [
     "R"

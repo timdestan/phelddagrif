@@ -13,7 +13,7 @@
   "subtypes": [
     "Garruk"
   ],
-  "text": "+1: Untap two target lands.\n−1: Put a 3/3 green Beast creature token onto the battlefield.\n−4: Creatures you control get +3/+3 and gain trample until end of turn.",
+  "text": "+1: Untap two target lands.\n−1: Create a 3/3 green Beast creature token.\n−4: Creatures you control get +3/+3 and gain trample until end of turn.",
   "loyalty": 3,
   "imageName": "garruk wildspeaker",
   "colorIdentity": [

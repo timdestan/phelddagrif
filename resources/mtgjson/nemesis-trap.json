@@ -13,7 +13,7 @@
   "subtypes": [
     "Trap"
   ],
-  "text": "If a white creature is attacking, you may pay {B}{B} rather than pay Nemesis Trap's mana cost.\nExile target attacking creature. Put a token that's a copy of that creature onto the battlefield. Exile it at the beginning of the next end step.",
+  "text": "If a white creature is attacking, you may pay {B}{B} rather than pay Nemesis Trap's mana cost.\nExile target attacking creature. Create a token that's a copy of that creature. Exile it at the beginning of the next end step.",
   "imageName": "nemesis trap",
   "colorIdentity": [
     "B"

@@ -13,7 +13,7 @@
   "subtypes": [
     "Aura"
   ],
-  "text": "Enchant land\nWhen Weirding Wood enters the battlefield, investigate. (Put a colorless Clue artifact token onto the battlefield with \"{2}, Sacrifice this artifact: Draw a card.\")\nEnchanted land has \"{T}: Add two mana of any one color to your mana pool.\"",
+  "text": "Enchant land\nWhen Weirding Wood enters the battlefield, investigate. (Create a colorless Clue artifact token with \"{2}, Sacrifice this artifact: Draw a card.\")\nEnchanted land has \"{T}: Add two mana of any one color to your mana pool.\"",
   "imageName": "weirding wood",
   "colorIdentity": [
     "G"

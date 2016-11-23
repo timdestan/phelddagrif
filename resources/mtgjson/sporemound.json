@@ -13,7 +13,7 @@
   "subtypes": [
     "Fungus"
   ],
-  "text": "Whenever a land enters the battlefield under your control, put a 1/1 green Saproling creature token onto the battlefield.",
+  "text": "Whenever a land enters the battlefield under your control, create a 1/1 green Saproling creature token.",
   "power": "3",
   "toughness": "3",
   "imageName": "sporemound",

@@ -14,7 +14,7 @@
     "Human",
     "Artificer"
   ],
-  "text": "Whenever you cast an artifact spell, you may pay {1}. If you do, put a 1/1 colorless Myr artifact creature token onto the battlefield.",
+  "text": "Whenever you cast an artifact spell, you may pay {1}. If you do, create a 1/1 colorless Myr artifact creature token.",
   "power": "2",
   "toughness": "1",
   "imageName": "myrsmith",

@@ -11,7 +11,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "At the beginning of each opponent's end step, if that player didn't cast a creature spell this turn, put a 2/2 green Lizard creature token onto the battlefield.",
+  "text": "At the beginning of each opponent's end step, if that player didn't cast a creature spell this turn, create a 2/2 green Lizard creature token.",
   "imageName": "predatory advantage",
   "colorIdentity": [
     "R",

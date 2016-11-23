@@ -10,7 +10,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "Whenever a nontoken creature is put into your graveyard from the battlefield, put a 1/1 white Spirit creature token with flying onto the battlefield.",
+  "text": "Whenever a nontoken creature is put into your graveyard from the battlefield, create a 1/1 white Spirit creature token with flying.",
   "imageName": "field of souls",
   "colorIdentity": [
     "W"

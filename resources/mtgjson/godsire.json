@@ -15,7 +15,7 @@
   "subtypes": [
     "Beast"
   ],
-  "text": "Vigilance\n{T}: Put an 8/8 Beast creature token that's red, green, and white onto the battlefield.",
+  "text": "Vigilance\n{T}: Create an 8/8 Beast creature token that's red, green, and white.",
   "power": "8",
   "toughness": "8",
   "imageName": "godsire",

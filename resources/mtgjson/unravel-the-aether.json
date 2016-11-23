@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Unravel the Aether",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Choose target artifact or enchantment. Its owner shuffles it into his or her library.",
+  "imageName": "unravel the aether",
+  "colorIdentity": [
+    "G"
+  ]
+}

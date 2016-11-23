@@ -10,7 +10,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "At the beginning of your upkeep, if there are no Reflection tokens on the battlefield, put a 2/2 white Reflection creature token onto the battlefield.\n{0}: Destroy target Reflection.",
+  "text": "At the beginning of your upkeep, if there are no Reflection tokens on the battlefield, create a 2/2 white Reflection creature token.\n{0}: Destroy target Reflection.",
   "imageName": "spirit mirror",
   "colorIdentity": [
     "W"

@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Exile target creature, then populate. (Put a token onto the battlefield that's a copy of a creature token you control.)",
+  "text": "Exile target creature, then populate. (Create a token that's a copy of a creature token you control.)",
   "imageName": "trostani's judgment",
   "colorIdentity": [
     "W"

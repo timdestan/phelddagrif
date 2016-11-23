@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Smuggler Captain",
+  "manaCost": "{3}{B}",
+  "cmc": 4,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Pirate",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Pirate"
+  ],
+  "text": "Draft Smuggler Captain face up.\nAs you draft a card, you may reveal it, note its name, then turn Smuggler Captain face down.\nWhen Smuggler Captain enters the battlefield, you may search your library for a card with a name you noted for cards named Smuggler Captain, reveal it, put it into your hand, then shuffle your library.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "smuggler captain",
+  "colorIdentity": [
+    "B"
+  ]
+}

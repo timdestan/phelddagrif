@@ -13,7 +13,7 @@
   "subtypes": [
     "Angel"
   ],
-  "text": "Flying\nWhen Haunted Angel dies, exile Haunted Angel and each other player puts a 3/3 black Angel creature token with flying onto the battlefield.",
+  "text": "Flying\nWhen Haunted Angel dies, exile Haunted Angel and each other player creates a 3/3 black Angel creature token with flying.",
   "power": "3",
   "toughness": "3",
   "imageName": "haunted angel",

@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Stonehoof Chieftain",
+  "manaCost": "{7}{G}",
+  "cmc": 8,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Centaur Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Centaur",
+    "Warrior"
+  ],
+  "text": "Trample, indestructible\nWhenever another creature you control attacks, it gains trample and indestructible until end of turn.",
+  "power": "8",
+  "toughness": "8",
+  "imageName": "stonehoof chieftain",
+  "colorIdentity": [
+    "G"
+  ]
+}

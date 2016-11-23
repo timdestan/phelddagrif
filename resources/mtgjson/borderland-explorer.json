@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Borderland Explorer",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Scout",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Scout"
+  ],
+  "text": "When Borderland Explorer enters the battlefield, each player may discard a card. Each player who discarded a card this way may search his or her library for a basic land card, reveal it, put it into his or her hand, then shuffle his or her library.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "borderland explorer",
+  "colorIdentity": [
+    "G"
+  ]
+}

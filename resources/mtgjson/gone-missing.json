@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Put target permanent on top of its owner's library.\nInvestigate. (Put a colorless Clue artifact token onto the battlefield with \"{2}, Sacrifice this artifact: Draw a card.\")",
+  "text": "Put target permanent on top of its owner's library.\nInvestigate. (Create a colorless Clue artifact token with \"{2}, Sacrifice this artifact: Draw a card.\")",
   "imageName": "gone missing",
   "colorIdentity": [
     "U"

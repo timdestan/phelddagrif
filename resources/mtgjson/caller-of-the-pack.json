@@ -13,7 +13,7 @@
   "subtypes": [
     "Beast"
   ],
-  "text": "Trample\nMyriad (Whenever this creature attacks, for each opponent other than defending player, you may put a token that's a copy of this creature onto the battlefield tapped and attacking that player or a planeswalker he or she controls. Exile the tokens at end of combat.)",
+  "text": "Trample\nMyriad (Whenever this creature attacks, for each opponent other than defending player, you may create a token that's a copy of this creature that's tapped and attacking that player or a planeswalker he or she controls. Exile the tokens at end of combat.)",
   "power": "8",
   "toughness": "6",
   "imageName": "caller of the pack",

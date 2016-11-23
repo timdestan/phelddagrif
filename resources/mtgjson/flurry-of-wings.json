@@ -12,7 +12,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Put X 1/1 white Bird Soldier creature tokens with flying onto the battlefield, where X is the number of attacking creatures.",
+  "text": "Create X 1/1 white Bird Soldier creature tokens with flying, where X is the number of attacking creatures.",
   "imageName": "flurry of wings",
   "colorIdentity": [
     "W",

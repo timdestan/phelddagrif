@@ -20,10 +20,10 @@
   "text": "Destroy target enchantment.",
   "imageName": "why",
   "colorIdentity": [
-    "G",
-    "B",
-    "U",
+    "W",
     "R",
-    "W"
+    "U",
+    "B",
+    "G"
   ]
 }

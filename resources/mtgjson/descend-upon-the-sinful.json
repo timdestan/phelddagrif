@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Exile all creatures.\nDelirium — Put a 4/4 white Angel creature token with flying onto the battlefield if there are four or more card types among cards in your graveyard.",
+  "text": "Exile all creatures.\nDelirium — Create a 4/4 white Angel creature token with flying if there are four or more card types among cards in your graveyard.",
   "imageName": "descend upon the sinful",
   "colorIdentity": [
     "W"

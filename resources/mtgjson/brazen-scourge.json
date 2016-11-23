@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Brazen Scourge",
+  "manaCost": "{1}{R}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Creature — Gremlin",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Gremlin"
+  ],
+  "text": "Haste",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "brazen scourge",
+  "colorIdentity": [
+    "R"
+  ]
+}

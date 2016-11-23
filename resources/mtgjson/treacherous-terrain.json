@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Treacherous Terrain",
+  "manaCost": "{6}{R}{G}",
+  "cmc": 8,
+  "colors": [
+    "Red",
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Treacherous Terrain deals damage to each opponent equal to the number of lands that player controls.\nBasic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.)",
+  "imageName": "treacherous terrain",
+  "colorIdentity": [
+    "R",
+    "G"
+  ]
+}

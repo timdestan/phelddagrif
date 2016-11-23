@@ -18,7 +18,7 @@
     "Insect",
     "Horror"
   ],
-  "text": "Flying\nWhenever you cast an instant or sorcery spell, put a 1/1 blue Human Wizard creature token onto the battlefield. Then if you control three or more Wizards, transform Docent of Perfection.",
+  "text": "Flying\nWhenever you cast an instant or sorcery spell, create a 1/1 blue Human Wizard creature token. Then if you control three or more Wizards, transform Docent of Perfection.",
   "power": "5",
   "toughness": "4",
   "imageName": "docent of perfection",

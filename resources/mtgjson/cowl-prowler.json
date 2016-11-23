@@ -1,0 +1,22 @@
+{
+  "layout": "normal",
+  "name": "Cowl Prowler",
+  "manaCost": "{4}{G}{G}",
+  "cmc": 6,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Wurm",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Wurm"
+  ],
+  "power": "6",
+  "toughness": "6",
+  "imageName": "cowl prowler",
+  "colorIdentity": [
+    "G"
+  ]
+}

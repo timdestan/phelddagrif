@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Put a 2/2 black Zombie creature token onto the battlefield tapped for each instant and sorcery card in your graveyard.",
+  "text": "Create a tapped 2/2 black Zombie creature token for each instant and sorcery card in your graveyard.",
   "imageName": "rise from the tides",
   "colorIdentity": [
     "U"

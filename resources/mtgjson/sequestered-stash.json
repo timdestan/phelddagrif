@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Sequestered Stash",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "{T}: Add {C} to your mana pool.\n{4}, {T}, Sacrifice Sequestered Stash: Put the top five cards of your library into your graveyard. Then you may put an artifact card from your graveyard on top of your library.",
+  "imageName": "sequestered stash"
+}

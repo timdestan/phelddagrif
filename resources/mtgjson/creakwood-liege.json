@@ -14,7 +14,7 @@
   "subtypes": [
     "Horror"
   ],
-  "text": "Other black creatures you control get +1/+1.\nOther green creatures you control get +1/+1.\nAt the beginning of your upkeep, you may put a 1/1 black and green Worm creature token onto the battlefield.",
+  "text": "Other black creatures you control get +1/+1.\nOther green creatures you control get +1/+1.\nAt the beginning of your upkeep, you may create a 1/1 black and green Worm creature token.",
   "power": "2",
   "toughness": "2",
   "imageName": "creakwood liege",

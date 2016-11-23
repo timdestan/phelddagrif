@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Destroy target permanent. Its controller puts a 3/3 green Beast creature token onto the battlefield.",
+  "text": "Destroy target permanent. Its controller creates a 3/3 green Beast creature token.",
   "imageName": "beast within",
   "colorIdentity": [
     "G"

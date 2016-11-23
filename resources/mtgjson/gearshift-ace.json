@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Gearshift Ace",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Dwarf Pilot",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dwarf",
+    "Pilot"
+  ],
+  "text": "First strike\nWhenever Gearshift Ace crews a Vehicle, that Vehicle gains first strike until end of turn.",
+  "power": "2",
+  "toughness": "1",
+  "imageName": "gearshift ace",
+  "colorIdentity": [
+    "W"
+  ]
+}

@@ -5,7 +5,7 @@
   "types": [
     "Land"
   ],
-  "text": "Khalni Garden enters the battlefield tapped.\nWhen Khalni Garden enters the battlefield, put a 0/1 green Plant creature token onto the battlefield.\n{T}: Add {G} to your mana pool.",
+  "text": "Khalni Garden enters the battlefield tapped.\nWhen Khalni Garden enters the battlefield, create a 0/1 green Plant creature token.\n{T}: Add {G} to your mana pool.",
   "imageName": "khalni garden",
   "colorIdentity": [
     "G"

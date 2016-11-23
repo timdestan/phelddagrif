@@ -10,7 +10,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "Whenever you cast a noncreature spell, you may pay {1}{U}. If you do, put a 2/2 blue Djinn Monk creature token with flying onto the battlefield.",
+  "text": "Whenever you cast a noncreature spell, you may pay {1}{U}. If you do, create a 2/2 blue Djinn Monk creature token with flying.",
   "imageName": "skywise teachings",
   "colorIdentity": [
     "U"

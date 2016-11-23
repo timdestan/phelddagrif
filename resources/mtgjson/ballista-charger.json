@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Ballista Charger",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact — Vehicle",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Vehicle"
+  ],
+  "text": "Whenever Ballista Charger attacks, it deals 1 damage to target creature or player.\nCrew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",
+  "power": "6",
+  "toughness": "6",
+  "imageName": "ballista charger"
+}

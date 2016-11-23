@@ -13,7 +13,7 @@
   "subtypes": [
     "Aura"
   ],
-  "text": "Enchant land\nEnchanted land has \"{T}: Put a 1/1 green Squirrel creature token onto the battlefield.\"",
+  "text": "Enchant land\nEnchanted land has \"{T}: Create a 1/1 green Squirrel creature token.\"",
   "imageName": "squirrel nest",
   "colorIdentity": [
     "G"

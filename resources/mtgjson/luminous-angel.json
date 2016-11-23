@@ -13,7 +13,7 @@
   "subtypes": [
     "Angel"
   ],
-  "text": "Flying\nAt the beginning of your upkeep, you may put a 1/1 white Spirit creature token with flying onto the battlefield.",
+  "text": "Flying\nAt the beginning of your upkeep, you may create a 1/1 white Spirit creature token with flying.",
   "power": "4",
   "toughness": "4",
   "imageName": "luminous angel",

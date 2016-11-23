@@ -8,6 +8,7 @@
     "Artifact"
   ],
   "text": "{U}, Sacrifice Æther Spellbomb: Return target creature to its owner's hand.\n{1}, Sacrifice Æther Spellbomb: Draw a card.",
+  "mciNumber": "196",
   "imageName": "æther spellbomb",
   "colorIdentity": [
     "U"

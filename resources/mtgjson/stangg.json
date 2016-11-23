@@ -18,7 +18,7 @@
     "Human",
     "Warrior"
   ],
-  "text": "When Stangg enters the battlefield, put a legendary 3/4 red and green Human Warrior creature token named Stangg Twin onto the battlefield. When Stangg leaves the battlefield, exile that token. When that token leaves the battlefield, sacrifice Stangg.",
+  "text": "When Stangg enters the battlefield, create a legendary 3/4 red and green Human Warrior creature token named Stangg Twin. When Stangg leaves the battlefield, exile that token. When that token leaves the battlefield, sacrifice Stangg.",
   "power": "3",
   "toughness": "4",
   "imageName": "stangg",

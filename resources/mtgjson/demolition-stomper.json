@@ -1,0 +1,17 @@
+{
+  "layout": "normal",
+  "name": "Demolition Stomper",
+  "manaCost": "{6}",
+  "cmc": 6,
+  "type": "Artifact — Vehicle",
+  "types": [
+    "Artifact"
+  ],
+  "subtypes": [
+    "Vehicle"
+  ],
+  "text": "Demolition Stomper can't be blocked by creatures with power 2 or less.\nCrew 5 (Tap any number of creatures you control with total power 5 or more: This Vehicle becomes an artifact creature until end of turn.)",
+  "power": "10",
+  "toughness": "7",
+  "imageName": "demolition stomper"
+}

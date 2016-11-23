@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Silas Renn, Seeker Adept",
+  "manaCost": "{1}{U}{B}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Black"
+  ],
+  "type": "Legendary Artifact Creature — Human",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Human"
+  ],
+  "text": "Deathtouch\nWhenever Silas Renn, Seeker Adept deals combat damage to a player, choose target artifact card in your graveyard. You may cast that card this turn.\nPartner (You can have two commanders if both have partner.)",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "silas renn, seeker adept",
+  "colorIdentity": [
+    "U",
+    "B"
+  ]
+}

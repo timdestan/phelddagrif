@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Converge — Put a 1/1 white Kor Ally creature token onto the battlefield for each color of mana spent to cast Unified Front.",
+  "text": "Converge — Create a 1/1 white Kor Ally creature token for each color of mana spent to cast Unified Front.",
   "imageName": "unified front",
   "colorIdentity": [
     "W"

@@ -10,7 +10,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "{B}, Exile two creature cards from your graveyard: Put a 1/1 black Skeleton creature token onto the battlefield. It has \"{B}: Regenerate this creature.\"\nWhen Drudge Spell leaves the battlefield, destroy all Skeleton tokens. They can't be regenerated.",
+  "text": "{B}, Exile two creature cards from your graveyard: Create a 1/1 black Skeleton creature token. It has \"{B}: Regenerate this creature.\"\nWhen Drudge Spell leaves the battlefield, destroy all Skeleton tokens. They can't be regenerated.",
   "imageName": "drudge spell",
   "colorIdentity": [
     "B"

@@ -13,7 +13,7 @@
   "subtypes": [
     "Spirit"
   ],
-  "text": "Flying\nHaunt (When this creature dies, exile it haunting target creature.)\nWhen Belfry Spirit enters the battlefield or the creature it haunts dies, put two 1/1 black Bat creature tokens with flying onto the battlefield.",
+  "text": "Flying\nHaunt (When this creature dies, exile it haunting target creature.)\nWhen Belfry Spirit enters the battlefield or the creature it haunts dies, create two 1/1 black Bat creature tokens with flying.",
   "power": "1",
   "toughness": "1",
   "imageName": "belfry spirit",

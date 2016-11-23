@@ -14,7 +14,7 @@
     "Ogre",
     "Rogue"
   ],
-  "text": "Whenever another nontoken creature dies, you may put a 1/1 black Rat creature token onto the battlefield.\nRats you control have deathtouch.",
+  "text": "Whenever another nontoken creature dies, you may create a 1/1 black Rat creature token.\nRats you control have deathtouch.",
   "power": "3",
   "toughness": "3",
   "imageName": "ogre slumlord",

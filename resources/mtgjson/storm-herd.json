@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Put X 1/1 white Pegasus creature tokens with flying onto the battlefield, where X is your life total.",
+  "text": "Create X 1/1 white Pegasus creature tokens with flying, where X is your life total.",
   "imageName": "storm herd",
   "colorIdentity": [
     "W"

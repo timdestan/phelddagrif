@@ -11,7 +11,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Put a 5/5 green Wurm creature token with trample onto the battlefield.",
+  "text": "Create a 5/5 green Wurm creature token with trample.",
   "imageName": "advent of the wurm",
   "colorIdentity": [
     "W",

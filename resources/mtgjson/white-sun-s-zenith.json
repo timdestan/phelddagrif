@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Put X 2/2 white Cat creature tokens onto the battlefield. Shuffle White Sun's Zenith into its owner's library.",
+  "text": "Create X 2/2 white Cat creature tokens. Shuffle White Sun's Zenith into its owner's library.",
   "imageName": "white sun's zenith",
   "colorIdentity": [
     "W"

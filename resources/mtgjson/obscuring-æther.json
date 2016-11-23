@@ -11,6 +11,7 @@
     "Enchantment"
   ],
   "text": "Face-down creature spells you cast cost {1} less to cast.\n{1}{G}: Turn Obscuring Æther face down. (It becomes a 2/2 creature.)",
+  "mciNumber": "194",
   "imageName": "obscuring æther",
   "colorIdentity": [
     "G"

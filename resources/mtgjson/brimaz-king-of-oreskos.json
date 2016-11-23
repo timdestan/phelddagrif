@@ -17,7 +17,7 @@
     "Cat",
     "Soldier"
   ],
-  "text": "Vigilance\nWhenever Brimaz, King of Oreskos attacks, put a 1/1 white Cat Soldier creature token with vigilance onto the battlefield attacking.\nWhenever Brimaz blocks a creature, put a 1/1 white Cat Soldier creature token with vigilance onto the battlefield blocking that creature.",
+  "text": "Vigilance\nWhenever Brimaz, King of Oreskos attacks, create a 1/1 white Cat Soldier creature token with vigilance that's attacking.\nWhenever Brimaz blocks a creature, create a 1/1 white Cat Soldier creature token with vigilance that's blocking that creature.",
   "power": "3",
   "toughness": "4",
   "imageName": "brimaz, king of oreskos",

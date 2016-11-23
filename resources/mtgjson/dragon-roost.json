@@ -10,7 +10,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "{5}{R}{R}: Put a 5/5 red Dragon creature token with flying onto the battlefield. (It can't be blocked except by creatures with flying or reach.)",
+  "text": "{5}{R}{R}: Create a 5/5 red Dragon creature token with flying. (It can't be blocked except by creatures with flying or reach.)",
   "imageName": "dragon roost",
   "colorIdentity": [
     "R"

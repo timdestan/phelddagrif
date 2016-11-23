@@ -12,6 +12,7 @@
   ],
   "text": "Target player discards two cards.",
   "imageName": "mind rot",
+  "starter": true,
   "colorIdentity": [
     "B"
   ]

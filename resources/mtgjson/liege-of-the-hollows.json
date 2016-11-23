@@ -13,7 +13,7 @@
   "subtypes": [
     "Spirit"
   ],
-  "text": "When Liege of the Hollows dies, each player may pay any amount of mana. Then each player who paid mana this way puts that many 1/1 green Squirrel creature tokens onto the battlefield.",
+  "text": "When Liege of the Hollows dies, each player may pay any amount of mana. Then each player who paid mana this way creates that many 1/1 green Squirrel creature tokens.",
   "power": "3",
   "toughness": "4",
   "imageName": "liege of the hollows",

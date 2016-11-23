@@ -15,7 +15,7 @@
     "Minotaur",
     "Soldier"
   ],
-  "text": "Whenever an instant or sorcery spell you control deals damage, put two 1/1 red and white Soldier creature tokens with haste onto the battlefield.",
+  "text": "Whenever an instant or sorcery spell you control deals damage, create two 1/1 red and white Soldier creature tokens with haste.",
   "power": "5",
   "toughness": "3",
   "imageName": "blaze commando",

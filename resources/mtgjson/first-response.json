@@ -10,7 +10,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "At the beginning of each upkeep, if you lost life last turn, put a 1/1 white Soldier creature token onto the battlefield.",
+  "text": "At the beginning of each upkeep, if you lost life last turn, create a 1/1 white Soldier creature token.",
   "imageName": "first response",
   "colorIdentity": [
     "W"

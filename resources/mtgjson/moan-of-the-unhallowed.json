@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Put two 2/2 black Zombie creature tokens onto the battlefield.\nFlashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "text": "Create two 2/2 black Zombie creature tokens.\nFlashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
   "imageName": "moan of the unhallowed",
   "colorIdentity": [
     "B"

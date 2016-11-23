@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Orzhov Advokist",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Advisor",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Advisor"
+  ],
+  "text": "At the beginning of your upkeep, each player may put two +1/+1 counters on a creature he or she controls. If a player does, creatures that player controls can't attack you or a planeswalker you control until your next turn.",
+  "power": "1",
+  "toughness": "4",
+  "imageName": "orzhov advokist",
+  "colorIdentity": [
+    "W"
+  ]
+}

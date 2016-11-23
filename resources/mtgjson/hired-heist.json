@@ -1,0 +1,13 @@
+{
+  "layout": "normal",
+  "name": "Hired Heist",
+  "type": "Conspiracy",
+  "types": [
+    "Conspiracy"
+  ],
+  "text": "Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly name a card. You may turn this conspiracy face up any time and reveal the chosen name.)\nWhenever a creature you control with the chosen name deals combat damage to a player, you may pay {U}. If you do, draw a card.",
+  "imageName": "hired heist",
+  "colorIdentity": [
+    "U"
+  ]
+}

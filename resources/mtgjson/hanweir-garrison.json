@@ -19,7 +19,7 @@
     "Human",
     "Soldier"
   ],
-  "text": "Whenever Hanweir Garrison attacks, put two 1/1 red Human creature tokens onto the battlefield tapped and attacking.\n(Melds with Hanweir Battlements.)",
+  "text": "Whenever Hanweir Garrison attacks, create two 1/1 red Human creature tokens that are tapped and attacking.\n(Melds with Hanweir Battlements.)",
   "power": "2",
   "toughness": "3",
   "imageName": "hanweir garrison",

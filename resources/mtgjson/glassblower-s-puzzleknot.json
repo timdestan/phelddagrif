@@ -1,0 +1,15 @@
+{
+  "layout": "normal",
+  "name": "Glassblower's Puzzleknot",
+  "manaCost": "{2}",
+  "cmc": 2,
+  "type": "Artifact",
+  "types": [
+    "Artifact"
+  ],
+  "text": "When Glassblower's Puzzleknot enters the battlefield, scry 2, then you get {E}{E}. (You get two energy counters. To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)\n{2}{U}, Sacrifice Glassblower's Puzzleknot: Scry 2, then you get {E}{E}.",
+  "imageName": "glassblower's puzzleknot",
+  "colorIdentity": [
+    "U"
+  ]
+}

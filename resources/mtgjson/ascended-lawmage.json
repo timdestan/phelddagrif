@@ -15,7 +15,7 @@
     "Vedalken",
     "Wizard"
   ],
-  "text": "Flying, hexproof",
+  "text": "Flying\nHexproof (This creature can't be the target of spells or abilities your opponents control.)",
   "power": "3",
   "toughness": "2",
   "imageName": "ascended lawmage",

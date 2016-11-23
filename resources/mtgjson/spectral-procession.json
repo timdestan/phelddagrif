@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Put three 1/1 white Spirit creature tokens with flying onto the battlefield.",
+  "text": "Create three 1/1 white Spirit creature tokens with flying.",
   "imageName": "spectral procession",
   "colorIdentity": [
     "W"

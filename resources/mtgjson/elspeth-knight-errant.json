@@ -13,7 +13,7 @@
   "subtypes": [
     "Elspeth"
   ],
-  "text": "+1: Put a 1/1 white Soldier creature token onto the battlefield.\n+1: Target creature gets +3/+3 and gains flying until end of turn.\n−8: You get an emblem with \"Artifacts, creatures, enchantments, and lands you control have indestructible.\"",
+  "text": "+1: Create a 1/1 white Soldier creature token.\n+1: Target creature gets +3/+3 and gains flying until end of turn.\n−8: You get an emblem with \"Artifacts, creatures, enchantments, and lands you control have indestructible.\"",
   "loyalty": 4,
   "imageName": "elspeth, knight-errant",
   "colorIdentity": [

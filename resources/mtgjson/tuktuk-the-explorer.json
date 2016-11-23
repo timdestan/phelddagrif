@@ -16,7 +16,7 @@
   "subtypes": [
     "Goblin"
   ],
-  "text": "Haste\nWhen Tuktuk the Explorer dies, put a legendary 5/5 colorless Goblin Golem artifact creature token named Tuktuk the Returned onto the battlefield.",
+  "text": "Haste\nWhen Tuktuk the Explorer dies, create a legendary 5/5 colorless Goblin Golem artifact creature token named Tuktuk the Returned.",
   "power": "1",
   "toughness": "1",
   "imageName": "tuktuk the explorer",

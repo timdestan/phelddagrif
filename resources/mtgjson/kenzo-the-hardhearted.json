@@ -1,10 +1,6 @@
 {
-  "layout": "flip",
+  "layout": "normal",
   "name": "Kenzo the Hardhearted",
-  "names": [
-    "Bushi Tenderfoot",
-    "Kenzo the Hardhearted"
-  ],
   "manaCost": "{W}",
   "cmc": 1,
   "colors": [

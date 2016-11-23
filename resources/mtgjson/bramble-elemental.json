@@ -13,7 +13,7 @@
   "subtypes": [
     "Elemental"
   ],
-  "text": "Whenever an Aura becomes attached to Bramble Elemental, put two 1/1 green Saproling creature tokens onto the battlefield.",
+  "text": "Whenever an Aura becomes attached to Bramble Elemental, create two 1/1 green Saproling creature tokens.",
   "power": "4",
   "toughness": "4",
   "imageName": "bramble elemental",

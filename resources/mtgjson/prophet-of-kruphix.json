@@ -15,7 +15,7 @@
     "Human",
     "Wizard"
   ],
-  "text": "Untap all creatures and lands you control during each other player's untap step.\nYou may cast creature cards as though they had flash.",
+  "text": "Untap all creatures and lands you control during each other player's untap step.\nYou may cast creature spells as though they had flash.",
   "power": "2",
   "toughness": "3",
   "imageName": "prophet of kruphix",

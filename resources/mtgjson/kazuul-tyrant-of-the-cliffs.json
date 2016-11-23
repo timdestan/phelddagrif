@@ -17,7 +17,7 @@
     "Ogre",
     "Warrior"
   ],
-  "text": "Whenever a creature an opponent controls attacks, if you're the defending player, put a 3/3 red Ogre creature token onto the battlefield unless that creature's controller pays {3}.",
+  "text": "Whenever a creature an opponent controls attacks, if you're the defending player, create a 3/3 red Ogre creature token unless that creature's controller pays {3}.",
   "power": "5",
   "toughness": "4",
   "imageName": "kazuul, tyrant of the cliffs",

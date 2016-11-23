@@ -13,7 +13,7 @@
   "subtypes": [
     "Aura"
   ],
-  "text": "Enchant creature\nEnchanted creature has \"{T}: Put a 1/1 green Elf Warrior creature token onto the battlefield.\"",
+  "text": "Enchant creature\nEnchanted creature has \"{T}: Create a 1/1 green Elf Warrior creature token.\"",
   "imageName": "presence of gond",
   "colorIdentity": [
     "G"

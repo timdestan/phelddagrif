@@ -1,0 +1,21 @@
+{
+  "layout": "normal",
+  "name": "Bastion Mastodon",
+  "manaCost": "{5}",
+  "cmc": 5,
+  "type": "Artifact Creature — Elephant",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Elephant"
+  ],
+  "text": "{W}: Bastion Mastodon gains vigilance until end of turn.",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "bastion mastodon",
+  "colorIdentity": [
+    "W"
+  ]
+}

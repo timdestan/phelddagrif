@@ -8,6 +8,6 @@
   "types": [
     "Land"
   ],
-  "text": "{T}: Add {C} to your mana pool.\nWhen Gods' Eye, Gate to the Reikai is put into a graveyard from the battlefield, put a 1/1 colorless Spirit creature token onto the battlefield.",
+  "text": "{T}: Add {C} to your mana pool.\nWhen Gods' Eye, Gate to the Reikai is put into a graveyard from the battlefield, create a 1/1 colorless Spirit creature token.",
   "imageName": "gods' eye, gate to the reikai"
 }

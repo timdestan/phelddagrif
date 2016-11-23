@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Circle of Protection: Blue",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Enchantment",
+  "types": [
+    "Enchantment"
+  ],
+  "text": "{1}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage.",
+  "imageName": "circle of protection blue",
+  "colorIdentity": [
+    "W"
+  ]
+}

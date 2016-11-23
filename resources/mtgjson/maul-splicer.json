@@ -14,7 +14,7 @@
     "Human",
     "Artificer"
   ],
-  "text": "When Maul Splicer enters the battlefield, put two 3/3 colorless Golem artifact creature tokens onto the battlefield.\nGolem creatures you control have trample.",
+  "text": "When Maul Splicer enters the battlefield, create two 3/3 colorless Golem artifact creature tokens.\nGolem creatures you control have trample.",
   "power": "1",
   "toughness": "1",
   "imageName": "maul splicer",

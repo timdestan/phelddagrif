@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Benefactor's Draught",
+  "manaCost": "{1}{G}",
+  "cmc": 2,
+  "colors": [
+    "Green"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Untap all creatures. Until end of turn, whenever a creature an opponent controls blocks, draw a card.\nDraw a card.",
+  "imageName": "benefactor's draught",
+  "colorIdentity": [
+    "G"
+  ]
+}

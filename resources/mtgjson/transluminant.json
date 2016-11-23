@@ -14,7 +14,7 @@
     "Dryad",
     "Shaman"
   ],
-  "text": "{W}, Sacrifice Transluminant: Put a 1/1 white Spirit creature token with flying onto the battlefield at the beginning of the next end step.",
+  "text": "{W}, Sacrifice Transluminant: Create a 1/1 white Spirit creature token with flying at the beginning of the next end step.",
   "power": "2",
   "toughness": "2",
   "imageName": "transluminant",

@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Ludevic, Necro-Alchemist",
+  "manaCost": "{1}{U}{R}",
+  "cmc": 3,
+  "colors": [
+    "Blue",
+    "Red"
+  ],
+  "type": "Legendary Creature — Human Wizard",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "At the beginning of each player's end step, that player may draw a card if a player other than you lost life this turn.\nPartner (You can have two commanders if both have partner.)",
+  "power": "1",
+  "toughness": "4",
+  "imageName": "ludevic, necro-alchemist",
+  "colorIdentity": [
+    "U",
+    "R"
+  ]
+}

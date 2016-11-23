@@ -11,7 +11,7 @@
   "subtypes": [
     "Spellshaper"
   ],
-  "text": "{1}, {T}, Discard a card: Put a 1/1 colorless Sliver artifact creature token named Metallic Sliver onto the battlefield.",
+  "text": "{1}, {T}, Discard a card: Create a 1/1 colorless Sliver artifact creature token named Metallic Sliver.",
   "power": "1",
   "toughness": "1",
   "imageName": "sliversmith"

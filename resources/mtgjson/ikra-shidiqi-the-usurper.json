@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Ikra Shidiqi, the Usurper",
+  "manaCost": "{3}{B}{G}",
+  "cmc": 5,
+  "colors": [
+    "Black",
+    "Green"
+  ],
+  "type": "Legendary Creature — Naga Wizard",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Naga",
+    "Wizard"
+  ],
+  "text": "Menace\nWhenever a creature you control deals combat damage to a player, you gain life equal to that creature's toughness.\nPartner (You can have two commanders if both have partner.)",
+  "power": "3",
+  "toughness": "7",
+  "imageName": "ikra shidiqi, the usurper",
+  "colorIdentity": [
+    "B",
+    "G"
+  ]
+}

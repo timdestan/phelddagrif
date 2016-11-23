@@ -13,7 +13,7 @@
   "subtypes": [
     "Giant"
   ],
-  "text": "You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, put a 1/1 red Goblin creature token with haste onto the battlefield.\nWhen Chancellor of the Forge enters the battlefield, put X 1/1 red Goblin creature tokens with haste onto the battlefield, where X is the number of creatures you control.",
+  "text": "You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, create a 1/1 red Goblin creature token with haste.\nWhen Chancellor of the Forge enters the battlefield, create X 1/1 red Goblin creature tokens with haste, where X is the number of creatures you control.",
   "power": "5",
   "toughness": "5",
   "imageName": "chancellor of the forge",

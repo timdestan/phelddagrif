@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Cataclysmic Gearhulk",
+  "manaCost": "{3}{W}{W}",
+  "cmc": 5,
+  "colors": [
+    "White"
+  ],
+  "type": "Artifact Creature — Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "text": "Vigilance\nWhen Cataclysmic Gearhulk enters the battlefield, each player chooses an artifact, a creature, an enchantment, and a planeswalker from among the nonland permanents he or she controls, then sacrifices the rest.",
+  "power": "4",
+  "toughness": "5",
+  "imageName": "cataclysmic gearhulk",
+  "colorIdentity": [
+    "W"
+  ]
+}

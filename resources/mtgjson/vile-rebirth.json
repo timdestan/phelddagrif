@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Exile target creature card from a graveyard. Put a 2/2 black Zombie creature token onto the battlefield.",
+  "text": "Exile target creature card from a graveyard. Create a 2/2 black Zombie creature token.",
   "imageName": "vile rebirth",
   "colorIdentity": [
     "B"

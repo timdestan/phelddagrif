@@ -10,7 +10,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "{2}{R}, Sacrifice two Goblins: Put three 1/1 red Goblin creature tokens onto the battlefield.",
+  "text": "{2}{R}, Sacrifice two Goblins: Create three 1/1 red Goblin creature tokens.",
   "imageName": "goblin warrens",
   "colorIdentity": [
     "R"

@@ -13,7 +13,7 @@
   "subtypes": [
     "Wurm"
   ],
-  "text": "Trample\nWhen Worldspine Wurm dies, put three 5/5 green Wurm creature tokens with trample onto the battlefield.\nWhen Worldspine Wurm is put into a graveyard from anywhere, shuffle it into its owner's library.",
+  "text": "Trample\nWhen Worldspine Wurm dies, create three 5/5 green Wurm creature tokens with trample.\nWhen Worldspine Wurm is put into a graveyard from anywhere, shuffle it into its owner's library.",
   "power": "15",
   "toughness": "15",
   "imageName": "worldspine wurm",

@@ -10,7 +10,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "{2}{W}, Sacrifice Vessel of Ephemera: Put two 1/1 white Spirit creature tokens with flying onto the battlefield.",
+  "text": "{2}{W}, Sacrifice Vessel of Ephemera: Create two 1/1 white Spirit creature tokens with flying.",
   "imageName": "vessel of ephemera",
   "colorIdentity": [
     "W"

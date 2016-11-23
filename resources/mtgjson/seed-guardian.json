@@ -13,7 +13,7 @@
   "subtypes": [
     "Elemental"
   ],
-  "text": "Reach\nWhen Seed Guardian dies, put an X/X green Elemental creature token onto the battlefield, where X is the number of creature cards in your graveyard.",
+  "text": "Reach\nWhen Seed Guardian dies, create an X/X green Elemental creature token, where X is the number of creature cards in your graveyard.",
   "power": "3",
   "toughness": "4",
   "imageName": "seed guardian",

@@ -11,7 +11,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Put a 5/5 blue and red Elemental creature token with flying onto the battlefield.\nRetrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)",
+  "text": "Create a 5/5 blue and red Elemental creature token with flying.\nRetrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)",
   "imageName": "call the skybreaker",
   "colorIdentity": [
     "U",

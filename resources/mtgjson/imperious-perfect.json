@@ -14,7 +14,7 @@
     "Elf",
     "Warrior"
   ],
-  "text": "Other Elf creatures you control get +1/+1.\n{G}, {T}: Put a 1/1 green Elf Warrior creature token onto the battlefield.",
+  "text": "Other Elf creatures you control get +1/+1.\n{G}, {T}: Create a 1/1 green Elf Warrior creature token.",
   "power": "2",
   "toughness": "2",
   "imageName": "imperious perfect",

@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Exile X target creature cards from your graveyard. For each creature card exiled this way, put a 2/2 black Zombie creature token onto the battlefield.",
+  "text": "Exile X target creature cards from your graveyard. For each creature card exiled this way, create a 2/2 black Zombie creature token.",
   "imageName": "midnight ritual",
   "colorIdentity": [
     "B"

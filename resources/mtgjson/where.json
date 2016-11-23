@@ -20,9 +20,10 @@
   "text": "Destroy target land.",
   "imageName": "where",
   "colorIdentity": [
-    "B",
-    "U",
+    "W",
     "R",
-    "W"
+    "U",
+    "B",
+    "G"
   ]
 }

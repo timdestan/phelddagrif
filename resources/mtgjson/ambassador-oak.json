@@ -14,7 +14,7 @@
     "Treefolk",
     "Warrior"
   ],
-  "text": "When Ambassador Oak enters the battlefield, put a 1/1 green Elf Warrior creature token onto the battlefield.",
+  "text": "When Ambassador Oak enters the battlefield, create a 1/1 green Elf Warrior creature token.",
   "power": "3",
   "toughness": "3",
   "imageName": "ambassador oak",

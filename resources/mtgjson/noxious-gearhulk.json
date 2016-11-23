@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Noxious Gearhulk",
+  "manaCost": "{4}{B}{B}",
+  "cmc": 6,
+  "colors": [
+    "Black"
+  ],
+  "type": "Artifact Creature — Construct",
+  "types": [
+    "Artifact",
+    "Creature"
+  ],
+  "subtypes": [
+    "Construct"
+  ],
+  "text": "Menace\nWhen Noxious Gearhulk enters the battlefield, you may destroy another target creature. If a creature is destroyed this way, you gain life equal to its toughness.",
+  "power": "5",
+  "toughness": "4",
+  "imageName": "noxious gearhulk",
+  "colorIdentity": [
+    "B"
+  ]
+}

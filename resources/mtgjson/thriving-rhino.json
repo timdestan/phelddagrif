@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Thriving Rhino",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Rhino",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Rhino"
+  ],
+  "text": "When Thriving Rhino enters the battlefield, you get {E}{E} (two energy counters).\nWhenever Thriving Rhino attacks, you may pay {E}{E}. If you do, put a +1/+1 counter on it.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "thriving rhino",
+  "colorIdentity": [
+    "G"
+  ]
+}

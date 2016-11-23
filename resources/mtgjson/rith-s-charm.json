@@ -12,7 +12,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Choose one —\n• Destroy target nonbasic land.\n• Put three 1/1 green Saproling creature tokens onto the battlefield.\n• Prevent all damage a source of your choice would deal this turn.",
+  "text": "Choose one —\n• Destroy target nonbasic land.\n• Create three 1/1 green Saproling creature tokens.\n• Prevent all damage a source of your choice would deal this turn.",
   "imageName": "rith's charm",
   "colorIdentity": [
     "W",

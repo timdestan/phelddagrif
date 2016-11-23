@@ -13,7 +13,7 @@
   "subtypes": [
     "Avatar"
   ],
-  "text": "Reach\n{3}{G}{G}: Put a 3/3 green Beast creature token onto the battlefield.\n{3}{G}{G}, Exile Soul of Zendikar from your graveyard: Put a 3/3 green Beast creature token onto the battlefield.",
+  "text": "Reach\n{3}{G}{G}: Create a 3/3 green Beast creature token.\n{3}{G}{G}, Exile Soul of Zendikar from your graveyard: Create a 3/3 green Beast creature token.",
   "power": "6",
   "toughness": "6",
   "imageName": "soul of zendikar",

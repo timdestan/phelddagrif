@@ -14,7 +14,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Put a 3/3 green Elephant creature token onto the battlefield.",
+  "text": "Create a 3/3 green Elephant creature token.",
   "imageName": "battery",
   "colorIdentity": [
     "G",

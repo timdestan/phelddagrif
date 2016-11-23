@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Exile target creature card from a graveyard. Put a 2/2 black Zombie creature token onto the battlefield. You gain 2 life.",
+  "text": "Exile target creature card from a graveyard. Create a 2/2 black Zombie creature token. You gain 2 life.",
   "imageName": "shamble back",
   "colorIdentity": [
     "B"

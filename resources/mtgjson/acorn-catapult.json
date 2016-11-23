@@ -7,6 +7,6 @@
   "types": [
     "Artifact"
   ],
-  "text": "{1}, {T}: Acorn Catapult deals 1 damage to target creature or player. That creature's controller or that player puts a 1/1 green Squirrel creature token onto the battlefield.",
+  "text": "{1}, {T}: Acorn Catapult deals 1 damage to target creature or player. That creature's controller or that player creates a 1/1 green Squirrel creature token.",
   "imageName": "acorn catapult"
 }

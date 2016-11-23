@@ -17,7 +17,7 @@
     "Human",
     "Samurai"
   ],
-  "text": "Indestructible\nVigilance (Attacking doesn't cause this creature to tap.)\nBushido 5 (Whenever this creature blocks or becomes blocked, it gets +5/+5 until end of turn.)",
+  "text": "Vigilance, indestructible\nBushido 5 (Whenever this creature blocks or becomes blocked, it gets +5/+5 until end of turn.)",
   "power": "3",
   "toughness": "3",
   "imageName": "konda, lord of eiganjo",

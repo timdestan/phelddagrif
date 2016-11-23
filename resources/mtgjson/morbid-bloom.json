@@ -11,7 +11,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Exile target creature card from a graveyard, then put X 1/1 green Saproling creature tokens onto the battlefield, where X is the exiled card's toughness.",
+  "text": "Exile target creature card from a graveyard, then create X 1/1 green Saproling creature tokens, where X is the exiled card's toughness.",
   "imageName": "morbid bloom",
   "colorIdentity": [
     "B",

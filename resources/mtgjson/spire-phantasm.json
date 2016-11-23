@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Spire Phantasm",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Gargoyle Illusion",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Gargoyle",
+    "Illusion"
+  ],
+  "text": "Reveal Spire Phantasm as you draft it. The next time a player drafts a card from this booster pack, guess that card's name. Then that player reveals the drafted card.\nFlying\nWhen Spire Phantasm enters the battlefield, if you guessed correctly for a card named Spire Phantasm, draw a card.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "spire phantasm",
+  "colorIdentity": [
+    "U"
+  ]
+}

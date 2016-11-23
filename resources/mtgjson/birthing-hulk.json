@@ -11,7 +11,7 @@
     "Eldrazi",
     "Drone"
   ],
-  "text": "Devoid (This card has no color.)\nWhen Birthing Hulk enters the battlefield, put two 1/1 colorless Eldrazi Scion creature tokens onto the battlefield. They have \"Sacrifice this creature: Add {C} to your mana pool.\" ({C} represents colorless mana.)\n{1}{C}: Regenerate Birthing Hulk.",
+  "text": "Devoid (This card has no color.)\nWhen Birthing Hulk enters the battlefield, create two 1/1 colorless Eldrazi Scion creature tokens. They have \"Sacrifice this creature: Add {C} to your mana pool.\" ({C} represents colorless mana.)\n{1}{C}: Regenerate Birthing Hulk.",
   "power": "5",
   "toughness": "4",
   "imageName": "birthing hulk",

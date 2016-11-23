@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Put X 1/1 green Saproling creature tokens onto the battlefield, where X is the greatest power among creatures you control.",
+  "text": "Create X 1/1 green Saproling creature tokens, where X is the greatest power among creatures you control.",
   "imageName": "fungal sprouting",
   "colorIdentity": [
     "G"

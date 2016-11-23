@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Failed Inspection",
+  "manaCost": "{2}{U}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Counter target spell. Draw a card, then discard a card.",
+  "imageName": "failed inspection",
+  "colorIdentity": [
+    "U"
+  ]
+}

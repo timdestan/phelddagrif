@@ -14,7 +14,7 @@
     "Zombie",
     "Giant"
   ],
-  "text": "When Grixis Slavedriver leaves the battlefield, put a 2/2 black Zombie creature token onto the battlefield.\nUnearth {3}{B} ({3}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",
+  "text": "When Grixis Slavedriver leaves the battlefield, create a 2/2 black Zombie creature token.\nUnearth {3}{B} ({3}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)",
   "power": "4",
   "toughness": "4",
   "imageName": "grixis slavedriver",

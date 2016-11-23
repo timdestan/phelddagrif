@@ -10,7 +10,7 @@
   "types": [
     "Enchantment"
   ],
-  "text": "Soldier creatures have vigilance.\n{2}{W}: Put a 1/1 white Soldier creature token onto the battlefield.",
+  "text": "Soldier creatures have vigilance.\n{2}{W}: Create a 1/1 white Soldier creature token.",
   "imageName": "mobilization",
   "colorIdentity": [
     "W"

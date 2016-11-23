@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Put three 3/1 red Elemental creature tokens with haste onto the battlefield. Exile them at the beginning of the next end step.",
+  "text": "Create three 3/1 red Elemental creature tokens with haste. Exile them at the beginning of the next end step.",
   "imageName": "feral lightning",
   "colorIdentity": [
     "R"

@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Destroy target artifact or enchantment. If {G} was spent to cast Seed Spark, put two 1/1 green Saproling creature tokens onto the battlefield.",
+  "text": "Destroy target artifact or enchantment. If {G} was spent to cast Seed Spark, create two 1/1 green Saproling creature tokens.",
   "imageName": "seed spark",
   "colorIdentity": [
     "W",

@@ -1,0 +1,25 @@
+{
+  "layout": "normal",
+  "name": "Architect of the Untamed",
+  "manaCost": "{2}{G}",
+  "cmc": 3,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Artificer Druid",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Artificer",
+    "Druid"
+  ],
+  "text": "Whenever a land enters the battlefield under your control, you get {E} (an energy counter).\nPay {E}{E}{E}{E}{E}{E}{E}{E}: Create a 6/6 colorless Beast artifact creature token.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "architect of the untamed",
+  "colorIdentity": [
+    "G"
+  ]
+}

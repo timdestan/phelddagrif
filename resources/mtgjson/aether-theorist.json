@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Aether Theorist",
+  "manaCost": "{1}{U}",
+  "cmc": 2,
+  "colors": [
+    "Blue"
+  ],
+  "type": "Creature — Vedalken Rogue",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Vedalken",
+    "Rogue"
+  ],
+  "text": "When Aether Theorist enters the battlefield, you get {E}{E}{E} (three energy counters).\n{T}, Pay {E}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)",
+  "power": "1",
+  "toughness": "3",
+  "imageName": "aether theorist",
+  "colorIdentity": [
+    "U"
+  ]
+}

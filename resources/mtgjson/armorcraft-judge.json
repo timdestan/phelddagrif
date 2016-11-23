@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Armorcraft Judge",
+  "manaCost": "{3}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Artificer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Artificer"
+  ],
+  "text": "When Armorcraft Judge enters the battlefield, draw a card for each creature you control with a +1/+1 counter on it.",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "armorcraft judge",
+  "colorIdentity": [
+    "G"
+  ]
+}

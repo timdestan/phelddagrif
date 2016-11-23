@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Counter target creature spell. Put a 1/1 blue Spirit creature token with flying onto the battlefield.",
+  "text": "Counter target creature spell. Create a 1/1 blue Spirit creature token with flying.",
   "imageName": "geist snatch",
   "colorIdentity": [
     "U"

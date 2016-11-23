@@ -13,7 +13,7 @@
   "subtypes": [
     "Gideon"
   ],
-  "text": "+1: Until end of turn, Gideon, Ally of Zendikar becomes a 5/5 Human Soldier Ally creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.\n0: Put a 2/2 white Knight Ally creature token onto the battlefield.\n−4: You get an emblem with \"Creatures you control get +1/+1.\"",
+  "text": "+1: Until end of turn, Gideon, Ally of Zendikar becomes a 5/5 Human Soldier Ally creature with indestructible that's still a planeswalker. Prevent all damage that would be dealt to him this turn.\n0: Create a 2/2 white Knight Ally creature token.\n−4: You get an emblem with \"Creatures you control get +1/+1.\"",
   "loyalty": 4,
   "imageName": "gideon, ally of zendikar",
   "colorIdentity": [

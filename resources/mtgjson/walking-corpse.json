@@ -16,6 +16,7 @@
   "power": "2",
   "toughness": "2",
   "imageName": "walking corpse",
+  "starter": true,
   "colorIdentity": [
     "B"
   ]

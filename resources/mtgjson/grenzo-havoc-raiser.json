@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Grenzo, Havoc Raiser",
+  "manaCost": "{R}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Creature — Goblin Rogue",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Goblin",
+    "Rogue"
+  ],
+  "text": "Whenever a creature you control deals combat damage to a player, choose one —\n• Goad target creature that player controls. \n• Exile the top card of that player's library. Until end of turn, you may cast that card and you may spend mana as though it were mana of any color to cast it.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "grenzo, havoc raiser",
+  "colorIdentity": [
+    "R"
+  ]
+}

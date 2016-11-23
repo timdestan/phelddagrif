@@ -14,7 +14,7 @@
     "Troll",
     "Warrior"
   ],
-  "text": "When Hunted Troll enters the battlefield, target opponent puts four 1/1 blue Faerie creature tokens with flying onto the battlefield.\n{G}: Regenerate Hunted Troll.",
+  "text": "When Hunted Troll enters the battlefield, target opponent creates four 1/1 blue Faerie creature tokens with flying.\n{G}: Regenerate Hunted Troll.",
   "power": "8",
   "toughness": "4",
   "imageName": "hunted troll",

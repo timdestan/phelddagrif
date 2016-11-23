@@ -13,7 +13,7 @@
   "subtypes": [
     "Beast"
   ],
-  "text": "Trample\nLandfall — Whenever a land enters the battlefield under your control, you may put a 4/4 green Beast creature token onto the battlefield.",
+  "text": "Trample\nLandfall — Whenever a land enters the battlefield under your control, you may create a 4/4 green Beast creature token.",
   "power": "6",
   "toughness": "6",
   "imageName": "rampaging baloths",

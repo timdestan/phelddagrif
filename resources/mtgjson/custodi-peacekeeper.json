@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Custodi Peacekeeper",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Human Cleric",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Cleric"
+  ],
+  "text": "Reveal Custodi Peacekeeper as you draft it and note how many cards you've drafted this draft round, including Custodi Peacekeeper.\n{W}, {T}: Tap target creature with power less than or equal to the highest number you noted for cards named Custodi Peacekeeper.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "custodi peacekeeper",
+  "colorIdentity": [
+    "W"
+  ]
+}

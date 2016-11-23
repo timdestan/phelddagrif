@@ -1,0 +1,18 @@
+{
+  "layout": "normal",
+  "name": "Chandra's Pyrohelix",
+  "manaCost": "{1}{R}",
+  "cmc": 2,
+  "colors": [
+    "Red"
+  ],
+  "type": "Instant",
+  "types": [
+    "Instant"
+  ],
+  "text": "Chandra's Pyrohelix deals 2 damage divided as you choose among one or two target creatures and/or players.",
+  "imageName": "chandra's pyrohelix",
+  "colorIdentity": [
+    "R"
+  ]
+}

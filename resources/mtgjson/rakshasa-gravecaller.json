@@ -14,7 +14,7 @@
     "Cat",
     "Demon"
   ],
-  "text": "Exploit (When this creature enters the battlefield, you may sacrifice a creature.)\nWhen Rakshasa Gravecaller exploits a creature, put two 2/2 black Zombie creature tokens onto the battlefield.",
+  "text": "Exploit (When this creature enters the battlefield, you may sacrifice a creature.)\nWhen Rakshasa Gravecaller exploits a creature, create two 2/2 black Zombie creature tokens.",
   "power": "3",
   "toughness": "6",
   "imageName": "rakshasa gravecaller",

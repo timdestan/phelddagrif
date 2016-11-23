@@ -13,7 +13,7 @@
   "subtypes": [
     "Elemental"
   ],
-  "text": "Trample\nWhenever Spawnwrithe deals combat damage to a player, put a token that's a copy of Spawnwrithe onto the battlefield.",
+  "text": "Trample\nWhenever Spawnwrithe deals combat damage to a player, create a token that's a copy of Spawnwrithe.",
   "power": "2",
   "toughness": "2",
   "imageName": "spawnwrithe",

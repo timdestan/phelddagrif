@@ -13,7 +13,7 @@
   "subtypes": [
     "Snake"
   ],
-  "text": "Flying\nWhen Patagia Viper enters the battlefield, put two 1/1 green and blue Snake creature tokens onto the battlefield.\nWhen Patagia Viper enters the battlefield, sacrifice it unless {U} was spent to cast it.",
+  "text": "Flying\nWhen Patagia Viper enters the battlefield, create two 1/1 green and blue Snake creature tokens.\nWhen Patagia Viper enters the battlefield, sacrifice it unless {U} was spent to cast it.",
   "power": "2",
   "toughness": "1",
   "imageName": "patagia viper",

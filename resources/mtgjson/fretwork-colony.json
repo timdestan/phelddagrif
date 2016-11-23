@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Fretwork Colony",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Insect",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Insect"
+  ],
+  "text": "Fretwork Colony can't block.\nAt the beginning of your upkeep, put a +1/+1 counter on Fretwork Colony and you lose 1 life.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "fretwork colony",
+  "colorIdentity": [
+    "B"
+  ]
+}

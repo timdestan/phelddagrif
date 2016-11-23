@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Put an X/X green Ooze creature token onto the battlefield.",
+  "text": "Create an X/X green Ooze creature token.",
   "imageName": "slime molding",
   "colorIdentity": [
     "G"

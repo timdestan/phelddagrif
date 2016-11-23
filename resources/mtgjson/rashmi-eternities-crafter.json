@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Rashmi, Eternities Crafter",
+  "manaCost": "{2}{G}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Legendary Creature — Elf Druid",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Druid"
+  ],
+  "text": "Whenever you cast your first spell each turn, reveal the top card of your library. If it's a nonland card with converted mana cost less than that spell's, you may cast it without paying its mana cost. If you don't cast the revealed card, put it into your hand.",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "rashmi, eternities crafter",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "layout": "normal",
+  "name": "Kydele, Chosen of Kruphix",
+  "manaCost": "{2}{G}{U}",
+  "cmc": 4,
+  "colors": [
+    "Blue",
+    "Green"
+  ],
+  "type": "Legendary Creature — Human Wizard",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Wizard"
+  ],
+  "text": "{T}: Add {C} to your mana pool for each card you've drawn this turn.\nPartner (You can have two commanders if both have partner.)",
+  "power": "2",
+  "toughness": "3",
+  "imageName": "kydele, chosen of kruphix",
+  "colorIdentity": [
+    "U",
+    "G"
+  ]
+}

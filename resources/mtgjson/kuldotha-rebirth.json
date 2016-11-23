@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "As an additional cost to cast Kuldotha Rebirth, sacrifice an artifact.\nPut three 1/1 red Goblin creature tokens onto the battlefield.",
+  "text": "As an additional cost to cast Kuldotha Rebirth, sacrifice an artifact.\nCreate three 1/1 red Goblin creature tokens.",
   "imageName": "kuldotha rebirth",
   "colorIdentity": [
     "R"

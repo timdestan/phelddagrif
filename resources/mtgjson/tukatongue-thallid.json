@@ -13,7 +13,7 @@
   "subtypes": [
     "Fungus"
   ],
-  "text": "When Tukatongue Thallid dies, put a 1/1 green Saproling creature token onto the battlefield.",
+  "text": "When Tukatongue Thallid dies, create a 1/1 green Saproling creature token.",
   "power": "1",
   "toughness": "1",
   "imageName": "tukatongue thallid",

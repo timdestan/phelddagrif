@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Master Trinketeer",
+  "manaCost": "{2}{W}",
+  "cmc": 3,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Dwarf Artificer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dwarf",
+    "Artificer"
+  ],
+  "text": "Servos and Thopters you control get +1/+1.\n{3}{W}: Create a 1/1 colorless Servo artifact creature token.",
+  "power": "3",
+  "toughness": "2",
+  "imageName": "master trinketeer",
+  "colorIdentity": [
+    "W"
+  ]
+}

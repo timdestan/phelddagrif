@@ -1,10 +1,6 @@
 {
-  "layout": "flip",
+  "layout": "normal",
   "name": "Tok-Tok, Volcano Born",
-  "names": [
-    "Akki Lavarunner",
-    "Tok-Tok, Volcano Born"
-  ],
   "manaCost": "{3}{R}",
   "cmc": 4,
   "colors": [

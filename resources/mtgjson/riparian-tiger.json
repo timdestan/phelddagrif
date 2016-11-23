@@ -1,0 +1,23 @@
+{
+  "layout": "normal",
+  "name": "Riparian Tiger",
+  "manaCost": "{3}{G}{G}",
+  "cmc": 5,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Cat",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Cat"
+  ],
+  "text": "Trample\nWhen Riparian Tiger enters the battlefield, you get {E}{E} (two energy counters).\nWhenever Riparian Tiger attacks, you may pay {E}{E}. If you do, it gets +2/+2 until end of turn.",
+  "power": "4",
+  "toughness": "4",
+  "imageName": "riparian tiger",
+  "colorIdentity": [
+    "G"
+  ]
+}

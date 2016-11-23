@@ -14,7 +14,7 @@
     "Human",
     "Wizard"
   ],
-  "text": "Whenever Xathrid Necromancer or another Human creature you control dies, put a 2/2 black Zombie creature token onto the battlefield tapped.",
+  "text": "Whenever Xathrid Necromancer or another Human creature you control dies, create a tapped 2/2 black Zombie creature token.",
   "power": "2",
   "toughness": "2",
   "imageName": "xathrid necromancer",

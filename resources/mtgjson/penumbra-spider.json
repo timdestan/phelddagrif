@@ -13,7 +13,7 @@
   "subtypes": [
     "Spider"
   ],
-  "text": "Reach\nWhen Penumbra Spider dies, put a 2/4 black Spider creature token with reach onto the battlefield.",
+  "text": "Reach\nWhen Penumbra Spider dies, create a 2/4 black Spider creature token with reach.",
   "power": "2",
   "toughness": "4",
   "imageName": "penumbra spider",

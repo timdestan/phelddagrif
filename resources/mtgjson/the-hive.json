@@ -7,6 +7,6 @@
   "types": [
     "Artifact"
   ],
-  "text": "{5}, {T}: Put a 1/1 colorless Insect artifact creature token with flying named Wasp onto the battlefield. (It can't be blocked except by creatures with flying or reach.)",
+  "text": "{5}, {T}: Create a 1/1 colorless Insect artifact creature token with flying named Wasp. (It can't be blocked except by creatures with flying or reach.)",
   "imageName": "the hive"
 }

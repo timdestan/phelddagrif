@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Embraal Bruiser",
+  "manaCost": "{1}{B}",
+  "cmc": 2,
+  "colors": [
+    "Black"
+  ],
+  "type": "Creature — Human Warrior",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Warrior"
+  ],
+  "text": "Embraal Bruiser enters the battlefield tapped.\nEmbraal Bruiser has menace as long as you control an artifact.",
+  "power": "3",
+  "toughness": "1",
+  "imageName": "embraal bruiser",
+  "colorIdentity": [
+    "B"
+  ]
+}

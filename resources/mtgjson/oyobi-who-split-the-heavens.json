@@ -16,7 +16,7 @@
   "subtypes": [
     "Spirit"
   ],
-  "text": "Flying\nWhenever you cast a Spirit or Arcane spell, put a 3/3 white Spirit creature token with flying onto the battlefield.",
+  "text": "Flying\nWhenever you cast a Spirit or Arcane spell, create a 3/3 white Spirit creature token with flying.",
   "power": "3",
   "toughness": "6",
   "imageName": "oyobi, who split the heavens",

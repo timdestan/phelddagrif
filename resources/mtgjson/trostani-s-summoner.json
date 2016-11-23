@@ -15,7 +15,7 @@
     "Elf",
     "Shaman"
   ],
-  "text": "When Trostani's Summoner enters the battlefield, put a 2/2 white Knight creature token with vigilance, a 3/3 green Centaur creature token, and a 4/4 green Rhino creature token with trample onto the battlefield.",
+  "text": "When Trostani's Summoner enters the battlefield, create a 2/2 white Knight creature token with vigilance, a 3/3 green Centaur creature token, and a 4/4 green Rhino creature token with trample.",
   "power": "1",
   "toughness": "1",
   "imageName": "trostani's summoner",

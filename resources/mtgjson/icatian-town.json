@@ -10,7 +10,7 @@
   "types": [
     "Sorcery"
   ],
-  "text": "Put four 1/1 white Citizen creature tokens onto the battlefield.",
+  "text": "Create four 1/1 white Citizen creature tokens.",
   "imageName": "icatian town",
   "colorIdentity": [
     "W"

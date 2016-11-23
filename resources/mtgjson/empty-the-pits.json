@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nPut X 2/2 black Zombie creature tokens onto the battlefield tapped.",
+  "text": "Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)\nCreate X tapped 2/2 black Zombie creature tokens.",
   "imageName": "empty the pits",
   "colorIdentity": [
     "B"

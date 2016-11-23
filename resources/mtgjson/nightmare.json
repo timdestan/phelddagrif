@@ -18,6 +18,7 @@
   "power": "*",
   "toughness": "*",
   "imageName": "nightmare",
+  "starter": true,
   "colorIdentity": [
     "B"
   ]

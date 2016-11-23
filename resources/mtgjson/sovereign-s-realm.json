@@ -1,0 +1,10 @@
+{
+  "layout": "normal",
+  "name": "Sovereign's Realm",
+  "type": "Conspiracy",
+  "types": [
+    "Conspiracy"
+  ],
+  "text": "(Start the game with this conspiracy face up in the command zone.)\nYour deck can't have basic land cards and your starting hand size is five.\nExile a card from your hand: This turn, you may play basic land cards from outside the game.\nBasic lands you control have \"{T}: Add one mana of any color to your mana pool.\"",
+  "imageName": "sovereign's realm"
+}

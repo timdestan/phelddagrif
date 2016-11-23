@@ -17,7 +17,7 @@
     "Moonfolk",
     "Wizard"
   ],
-  "text": "Flying\n{1}, Return a land you control to its owner's hand: Put a 1/1 blue Illusion creature token with flying onto the battlefield.",
+  "text": "Flying\n{1}, Return a land you control to its owner's hand: Create a 1/1 blue Illusion creature token with flying.",
   "power": "2",
   "toughness": "4",
   "imageName": "meloku the clouded mirror",

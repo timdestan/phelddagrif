@@ -1,0 +1,27 @@
+{
+  "layout": "normal",
+  "name": "Pia Nalaar",
+  "manaCost": "{2}{R}",
+  "cmc": 3,
+  "colors": [
+    "Red"
+  ],
+  "type": "Legendary Creature — Human Artificer",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Artificer"
+  ],
+  "text": "When Pia Nalaar enters the battlefield, create a 1/1 colorless Thopter artifact creature token with flying.\n{1}{R}: Target artifact creature gets +1/+0 until end of turn.\n{1}, Sacrifice an artifact: Target creature can't block this turn.",
+  "power": "2",
+  "toughness": "2",
+  "imageName": "pia nalaar",
+  "colorIdentity": [
+    "R"
+  ]
+}

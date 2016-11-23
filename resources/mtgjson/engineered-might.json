@@ -1,0 +1,20 @@
+{
+  "layout": "normal",
+  "name": "Engineered Might",
+  "manaCost": "{3}{G}{W}",
+  "cmc": 5,
+  "colors": [
+    "White",
+    "Green"
+  ],
+  "type": "Sorcery",
+  "types": [
+    "Sorcery"
+  ],
+  "text": "Choose one —\n• Target creature gets +5/+5 and gains trample until end of turn.\n• Creatures you control get +2/+2 and gain vigilance until end of turn.",
+  "imageName": "engineered might",
+  "colorIdentity": [
+    "W",
+    "G"
+  ]
+}

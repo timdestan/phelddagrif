@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Peema Outrider",
+  "manaCost": "{2}{G}{G}",
+  "cmc": 4,
+  "colors": [
+    "Green"
+  ],
+  "type": "Creature — Elf Artificer",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Elf",
+    "Artificer"
+  ],
+  "text": "Trample\nFabricate 1 (When this creature enters the battlefield, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.)",
+  "power": "3",
+  "toughness": "3",
+  "imageName": "peema outrider",
+  "colorIdentity": [
+    "G"
+  ]
+}

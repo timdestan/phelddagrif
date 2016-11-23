@@ -1,0 +1,14 @@
+{
+  "layout": "normal",
+  "name": "Inspiring Vantage",
+  "type": "Land",
+  "types": [
+    "Land"
+  ],
+  "text": "Inspiring Vantage enters the battlefield tapped unless you control two or fewer other lands.\n{T}: Add {R} or {W} to your mana pool.",
+  "imageName": "inspiring vantage",
+  "colorIdentity": [
+    "R",
+    "W"
+  ]
+}

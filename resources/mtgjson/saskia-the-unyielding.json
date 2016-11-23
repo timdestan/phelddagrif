@@ -1,0 +1,33 @@
+{
+  "layout": "normal",
+  "name": "Saskia the Unyielding",
+  "manaCost": "{B}{R}{G}{W}",
+  "cmc": 4,
+  "colors": [
+    "White",
+    "Black",
+    "Red",
+    "Green"
+  ],
+  "type": "Legendary Creature — Human Soldier",
+  "supertypes": [
+    "Legendary"
+  ],
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Human",
+    "Soldier"
+  ],
+  "text": "Vigilance, haste\nAs Saskia the Unyielding enters the battlefield, choose a player.\nWhenever a creature you control deals combat damage to a player, it deals that much damage to the chosen player.",
+  "power": "3",
+  "toughness": "4",
+  "imageName": "saskia the unyielding",
+  "colorIdentity": [
+    "W",
+    "B",
+    "R",
+    "G"
+  ]
+}

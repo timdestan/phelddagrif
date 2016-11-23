@@ -11,7 +11,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Counter target spell. Put an X/X green Ooze creature token onto the battlefield, where X is that spell's converted mana cost.",
+  "text": "Counter target spell. Create an X/X green Ooze creature token, where X is that spell's converted mana cost.",
   "imageName": "mystic genesis",
   "colorIdentity": [
     "U",

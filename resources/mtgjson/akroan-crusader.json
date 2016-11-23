@@ -14,7 +14,7 @@
     "Human",
     "Soldier"
   ],
-  "text": "Heroic — Whenever you cast a spell that targets Akroan Crusader, put a 1/1 red Soldier creature token with haste onto the battlefield.",
+  "text": "Heroic — Whenever you cast a spell that targets Akroan Crusader, create a 1/1 red Soldier creature token with haste.",
   "power": "1",
   "toughness": "1",
   "imageName": "akroan crusader",

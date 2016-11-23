@@ -13,7 +13,7 @@
   "subtypes": [
     "Hydra"
   ],
-  "text": "Trample (This creature can deal excess combat damage to defending player or planeswalker while attacking.)\nWhenever a player casts a spell, put a +1/+1 counter on Managorger Hydra.",
+  "text": "Trample\nWhenever a player casts a spell, put a +1/+1 counter on Managorger Hydra.",
   "power": "1",
   "toughness": "1",
   "imageName": "managorger hydra",

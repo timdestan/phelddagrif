@@ -1,0 +1,24 @@
+{
+  "layout": "normal",
+  "name": "Ninth Bridge Patrol",
+  "manaCost": "{1}{W}",
+  "cmc": 2,
+  "colors": [
+    "White"
+  ],
+  "type": "Creature — Dwarf Soldier",
+  "types": [
+    "Creature"
+  ],
+  "subtypes": [
+    "Dwarf",
+    "Soldier"
+  ],
+  "text": "Whenever another creature you control leaves the battlefield, put a +1/+1 counter on Ninth Bridge Patrol.",
+  "power": "1",
+  "toughness": "1",
+  "imageName": "ninth bridge patrol",
+  "colorIdentity": [
+    "W"
+  ]
+}

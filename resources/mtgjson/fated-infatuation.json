@@ -10,7 +10,7 @@
   "types": [
     "Instant"
   ],
-  "text": "Put a token onto the battlefield that's a copy of target creature you control. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
+  "text": "Create a token that's a copy of target creature you control. If it's your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)",
   "imageName": "fated infatuation",
   "colorIdentity": [
     "U"

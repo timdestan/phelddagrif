@@ -9,7 +9,7 @@
     "Eldrazi",
     "Spawn"
   ],
-  "text": "Sacrifice this creature: Add {C} to your mana pool.",
+  "text": "Sacrifice this creature: Add {1} to your mana pool.",
   "power": "0",
   "toughness": "1",
   "imageName": "eldrazi spawn"

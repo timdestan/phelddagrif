@@ -13,7 +13,7 @@
   "subtypes": [
     "Insect"
   ],
-  "text": "Whenever Saber Ants is dealt damage, you may put that many 1/1 green Insect creature tokens onto the battlefield.",
+  "text": "Whenever Saber Ants is dealt damage, you may create that many 1/1 green Insect creature tokens.",
   "power": "2",
   "toughness": "3",
   "imageName": "saber ants",
