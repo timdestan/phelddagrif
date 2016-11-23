@@ -50,10 +50,13 @@ function writeToFiles(cards, cb) {
   function enqueueWrites() {
     while (queue.length > 0 && pendingWrites < MAX_OPEN_FILES) {
       const card = queue.pop();
-      const jsonContent = card.content;
-      if (jsonContent.layout === 'token') {
+      if (card.content.layout === 'token') {
         // Do not save token cards. Delete them if they are already there.
-        fs.unlinkSync(card.filename);
+        fs.exists(card.filename, (exists) => {
+          if (exists) {
+            fs.unlinkSync(card.filename);
+          }
+        });
       } else {
         ++pendingWrites;
         fs.writeFile(card.filename, JSON.stringify(card.content, undefined, 2),
