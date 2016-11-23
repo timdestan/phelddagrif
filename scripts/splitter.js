@@ -40,7 +40,7 @@ function makeFilename(name) {
 }
 
 function writeToFiles(cards, cb) {
-  var queue = [...cards];
+  const queue = [...cards];
 
   let pendingWrites = 0;
   // Need to rate limit ourselves, at least on Windows, or complains about too
@@ -50,9 +50,15 @@ function writeToFiles(cards, cb) {
   function enqueueWrites() {
     while (queue.length > 0 && pendingWrites < MAX_OPEN_FILES) {
       const card = queue.pop();
-      ++pendingWrites;
-      fs.writeFile(card.filename, JSON.stringify(card.content, undefined, 2),
-                   handleWriteCompletion);
+      const jsonContent = card.content;
+      if (jsonContent.layout === 'token') {
+        // Do not save token cards. Delete them if they are already there.
+        fs.unlinkSync(card.filename);
+      } else {
+        ++pendingWrites;
+        fs.writeFile(card.filename, JSON.stringify(card.content, undefined, 2),
+                     handleWriteCompletion);
+      }
     }
   }
 
