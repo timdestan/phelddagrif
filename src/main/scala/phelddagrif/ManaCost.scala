@@ -21,6 +21,8 @@ object ManaCost {
     }
 
     def /(other: ManaSymbol): ManaSymbol = Hybrid(self, other)
+    def /(genericCost: Int): ManaSymbol =
+        Hybrid(self, FixedGeneric(genericCost))
   }
 
   object ManaSymbol {
@@ -56,9 +58,6 @@ object ManaCost {
   final case object Phyrexian extends ManaSymbol
   final case object Colorless extends ManaSymbol
 
-  // TODO: Support for snow mana costs
-
-  // Shorthand for the colored mana symbols.
   val White = Colored(Color.White)
   val Blue = Colored(Color.Blue)
   val Green = Colored(Color.Green)
@@ -72,6 +71,7 @@ object ManaCost {
   val B = Black
   val P = Phyrexian
   val C = Colorless
+  val X = VariableGeneric
 
   // As with the symbols printed on cards, here the zero mana cost is
   // represented as a {0} mana symbol, not an empty list of symbols.
@@ -85,6 +85,11 @@ object ManaCost {
     ManaCostImpl(NonEmptyList
       .fromList(symbols)
       .getOrElse(NonEmptyList.of(FixedGeneric(0))))
+
+  // For, e.g., ManaCost(4, G, G)
+  def apply(genericCost: Int, symbols: ManaSymbol*): ManaCost =
+    ManaCostImpl(NonEmptyList(
+      FixedGeneric(genericCost), symbols.toList))
 
   // The zero mana cost.
   val Zero: ManaCost = ManaCost()
