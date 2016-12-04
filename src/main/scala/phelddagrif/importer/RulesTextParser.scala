@@ -14,7 +14,7 @@ object ParsedRulesText {
 object ParsedKeywordAbility {
   // Map from name to keyword abilities for keywords that have
   // no modifiers.
-  def nullaryKeywordAbilities = Map[String, KeywordAbility](
+  val nullaryKeywordAbilities = Map[String, KeywordAbility](
       "Deathtouch" -> Deathtouch,
       "Defender" -> Defender,
       "Double Strike" -> DoubleStrike,
