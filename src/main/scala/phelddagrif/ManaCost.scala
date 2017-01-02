@@ -13,7 +13,7 @@ object ManaCost {
   sealed trait ManaSymbol { self =>
     def colors: Set[Color] = this match {
       case FixedGeneric(_) => Set.empty
-      case VariableGeneric => Set.empty
+      case VariableGeneric(_) => Set.empty
       case Colored(c) => Set(c)
       case Hybrid(l, r) => l.colors union r.colors
       case Phyrexian => Set.empty
@@ -27,9 +27,11 @@ object ManaCost {
 
   object ManaSymbol {
     val fixedGenericParser =
-      mkParser(CharIn('0' to '9').rep(1).!).map(num => FixedGeneric(num.toInt))
+        mkParser(CharIn('0' to '9').rep(1).!)
+            .map(num => FixedGeneric(num.toInt))
     val coloredParser = Color.parser.map(Colored(_))
-    val variableGenericParser = mkParser("X").map(_ => VariableGeneric)
+    val variableGenericParser =
+        mkParser("X" | "Y" | "Z").!.map(name => VariableGeneric(name))
     val phyrexianParser = mkParser("P").map(_ => Phyrexian)
     val colorlessParser = mkParser("C").map(_ => Colorless)
 
@@ -51,7 +53,8 @@ object ManaCost {
   }
 
   final case class FixedGeneric(amount: Int) extends ManaSymbol
-  final case object VariableGeneric extends ManaSymbol
+  final case class VariableGeneric(name: String /* usually "X" */)
+      extends ManaSymbol
   final case class Colored(color: Color) extends ManaSymbol
   final case class Hybrid(left: ManaSymbol, right: ManaSymbol)
       extends ManaSymbol
@@ -71,7 +74,6 @@ object ManaCost {
   val B = Black
   val P = Phyrexian
   val C = Colorless
-  val X = VariableGeneric
 
   // As with the symbols printed on cards, here the zero mana cost is
   // represented as a {0} mana symbol, not an empty list of symbols.

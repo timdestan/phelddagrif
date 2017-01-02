@@ -128,7 +128,7 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
           "Abandon Hope",
           Vector(CardType.Sorcery),
           Vector(),
-          ManaCost(VariableGeneric,
+          ManaCost(VariableGeneric("X"),
                    FixedGeneric(1),
                    B),
           Vector()

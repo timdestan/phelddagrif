@@ -10,7 +10,7 @@ class ManaCostSpec extends FreeSpec with Matchers {
       }
       "Generic costs should be no color" in {
         ManaCost(7).colors shouldBe empty
-        ManaCost(X).colors shouldBe empty
+        ManaCost(VariableGeneric("X")).colors shouldBe empty
       }
       "Single mana costs should be their own color" in {
         ManaCost(W).colors should be(Set(Color.White))
