@@ -1,6 +1,9 @@
 package phelddagrif
 package importer
 
+import cats._
+import cats.data._
+import cats.implicits._
 import fastparse.all._
 import java.io.File
 import io.circe.generic.auto._
@@ -57,20 +60,17 @@ object MtgJsonImporter {
         val source = Source.fromFile(path)
         val text = source.getLines.mkString
         source.close()
-        (path, text, importCard(text))
-    }.partition { case (path, text, parsed) => parsed.isLeft }
+        importCard(text).left.map { _.mapReason { reason =>
+          s"$path\n$text\n$reason"
+        }}
+    }.toList.separate
 
     println(s"Finished parsing ${errors.length + successes.length} files.")
     println(s"  Successfully parsed: ${successes.length} files.")
     if (!errors.isEmpty) {
       println(s"  Failed: ${errors.length} files.")
       println("Example failures:")
-      errors.take(20).foreach {
-        case (path, text, Left(error)) => {
-          println(s"$path:\n$text")
-          println(s"Error:\n${error.reason}\n")
-        }
-      }
+      errors.take(20).map(_.reason).foreach(println)
     }
   }
 }
