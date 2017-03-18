@@ -56,12 +56,12 @@ object MtgJsonImporter {
 
   def main(args: Array[String]): Unit = {
     val (errors, successes) = new File("resources/mtgjson").listFiles.map {
-      path =>
-        val source = Source.fromFile(path)
+      file =>
+        val source = Source.fromFile(file)
         val text = source.getLines.mkString
         source.close()
         importCard(text).left.map { _.mapReason { reason =>
-          s"$path\n$text\n$reason"
+          s"${file}\n$text\n$reason"
         }}
     }.toList.separate
 
