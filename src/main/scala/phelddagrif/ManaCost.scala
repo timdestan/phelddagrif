@@ -3,6 +3,7 @@ package phelddagrif
 import cats.data.NonEmptyList
 import fastparse.all._
 import fastparse.all.{P => mkParser}
+import phelddagrif.parsing.NaturalNumber
 
 sealed trait ManaCost {
   def colors: Set[Color]
@@ -26,9 +27,7 @@ object ManaCost {
   }
 
   object ManaSymbol {
-    val fixedGenericParser =
-        mkParser(CharIn('0' to '9').rep(1).!)
-            .map(num => FixedGeneric(num.toInt))
+    val fixedGenericParser = NaturalNumber.parser.map(FixedGeneric(_))
     val coloredParser = Color.parser.map(Colored(_))
     val variableGenericParser =
         mkParser("X" | "Y" | "Z").!.map(name => VariableGeneric(name))

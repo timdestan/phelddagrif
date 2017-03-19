@@ -18,7 +18,9 @@ object MtgJson {
       types: Option[Vector[String]],
       subtypes: Option[Vector[String]],
       supertypes: Option[Vector[String]],
-      text: Option[String]
+      text: Option[String],
+      power: Option[String],
+      toughness: Option[String]
   )
 
   case class Set(
@@ -29,9 +31,10 @@ object MtgJson {
   type AllSets = Map[String, Set]
 }
 
-
 // Importer to read in Magic card data in the format provided by mtgjson.com
 object MtgJsonImporter {
+  type Result[A] = Either[Error, A]
+
   lazy val parser = new JawnParser()
 
   // Decode helper that maps errors to our Error type.
@@ -54,6 +57,15 @@ object MtgJsonImporter {
   def importCard(text: String): Either[Error, Card] =
     decode[MtgJson.Card](text).flatMap(parseCardParts(_))
 
+  implicit class EnrichedParser[A](underlying: Parser[A]) {
+    private val fullParser = P(underlying ~ End)
+    def parseFull(input: String) : Either[Error, A] =
+      fullParser.parse(input) match {
+        case Parsed.Success(v, _) => Right(v)
+        case failure => Left(Error(failure.toString))
+      }
+  }
+
   def parseCardParts(json: MtgJson.Card): Either[Error, Card] = {
     val types = json.types.getOrElse(Vector()).map { 
       CardTypeParser.tryParse(_)
@@ -64,21 +76,33 @@ object MtgJsonImporter {
     val rulesText =
       json.text.map(RulesTextParser.parse(_)).getOrElse(ParsedRulesText.empty)
 
-    val parser = ManaCost.parser.map { manaCost =>
-      Card(
+    // Ugh
+    def combine3[A,B,C](ra: Result[A],
+                        rb: Result[B],
+                        rc: Result[C]): Result[(A,B,C)] =
+      for {
+        a <- ra
+        b <- rb
+        c <- rc
+      } yield (a,b,c)
+
+    val manaCost = ManaCost.parser.parseFull(json.manaCost.getOrElse(""))
+    var power = json.power.traverseU(PowerToughness.parser.parseFull(_))
+    var toughness = json.toughness.traverseU(PowerToughness.parser.parseFull(_))
+
+    combine3(manaCost, power, toughness).map {
+      case (manaCost, power, toughness) =>
+        Card(
           json.name,
           types,
           subtypes,
           manaCost,
-          rulesText.keywordAbilities
-      )
+          rulesText.keywordAbilities,
+          power,
+          toughness
+        )
+      }
     }
-
-    P(parser ~ End).parse(json.manaCost.getOrElse("")) match {
-      case Parsed.Success(v, _) => Right(v)
-      case failure => Left(Error(failure.toString))
-    }
-  }
 
   def main(args: Array[String]): Unit = {
     import scala.collection.JavaConverters._

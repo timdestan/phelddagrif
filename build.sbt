@@ -5,6 +5,7 @@ version := "0.1"
 scalaVersion := "2.12.0"
 
 scalacOptions += "-feature"
+scalacOptions += "-language:higherKinds"
 
 val circeVersion = "0.7.0"
 

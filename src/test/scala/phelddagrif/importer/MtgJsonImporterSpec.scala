@@ -1,3 +1,4 @@
+import cats.implicits._
 import org.scalatest._
 import phelddagrif._
 import phelddagrif.ManaCost._
@@ -36,7 +37,9 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
           Vector(CardType.Creature),
           Vector(CreatureType.Elemental),
           ManaCost(FixedGeneric(3), U, U),
-          Vector(Flying)
+          Vector(Flying),
+          PowerToughness(4).some,
+          PowerToughness(4).some
         ))
       )
     }
@@ -98,7 +101,9 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
           Vector(CardType.Land),
           Vector(LandType.Mountain, LandType.Plains),
           ManaCost.Zero,
-          Vector()
+          Vector(),
+          power = None,
+          toughness = None
         ))
       )
     }
@@ -131,7 +136,9 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
           ManaCost(VariableGeneric("X"),
                    FixedGeneric(1),
                    B),
-          Vector()
+          Vector(),
+          power = None,
+          toughness = None
         ))
       )
     }
@@ -164,7 +171,9 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
           Vector(CardType.Instant),
           Vector(),
           ManaCost(FixedGeneric(2), R / W),
-          Vector()
+          Vector(),
+          power = None,
+          toughness = None
         ))
       )
     }
@@ -202,7 +211,9 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
           Vector(CardType.Creature),
           Vector(CreatureType.Wurm),
           ManaCost(FixedGeneric(10), G, G, G, W, W),
-          Vector(Convoke)
+          Vector(Convoke),
+          power = PowerToughness(9).some,
+          toughness = PowerToughness(14).some
         ))
       )
     }
@@ -233,7 +244,9 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
           Vector(CardType.Instant),
           Vector.empty,
           ManaCost(FixedGeneric(3), R / P, R / P),
-          Vector.empty
+          Vector.empty,
+          power = None,
+          toughness = None
         ))
       )
     }
@@ -263,7 +276,9 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
           Vector(CardType.Creature),
           Vector(CreatureType.Eldrazi),
           ManaCost(FixedGeneric(6), C),
-          Vector.empty
+          Vector.empty,
+          power = PowerToughness(8).some,
+          toughness = PowerToughness(8).some
         ))
       )
     }

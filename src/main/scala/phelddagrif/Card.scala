@@ -5,5 +5,7 @@ case class Card(
     cardType: Vector[CardType],
     subtypes: Vector[Subtype],
     manaCost: ManaCost,
-    abilities: Vector[KeywordAbility]
+    abilities: Vector[KeywordAbility],
+    power: Option[PowerToughness],
+    toughness: Option[PowerToughness]
 )
