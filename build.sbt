@@ -6,7 +6,7 @@ scalaVersion := "2.12.0"
 
 scalacOptions += "-feature"
 
-val circeVersion = "0.6.0"
+val circeVersion = "0.7.0"
 
 libraryDependencies ++= Seq(
   "com.lihaoyi" %% "fastparse" % "0.4.2",
@@ -14,7 +14,7 @@ libraryDependencies ++= Seq(
   "io.circe" %% "circe-core" % circeVersion,
   "io.circe" %% "circe-generic" % circeVersion,
   "io.circe" %% "circe-parser" % circeVersion,
-  "org.typelevel" %% "cats" % "0.8.1",
+  "org.typelevel" %% "cats" % "0.9.0",
 
   "org.scalatest" %% "scalatest" % "3.0.0" % "test"
 )
