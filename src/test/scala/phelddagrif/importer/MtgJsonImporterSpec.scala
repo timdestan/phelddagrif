@@ -44,37 +44,6 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
       )
     }
 
-    "should fail on bad mana color in mana cost" in {
-      MtgJsonImporter.importCard("""
-{
-  "layout": "normal",
-  "name": "Bob Dole",
-  "manaCost": "{3}{U}{Q}",
-  "cmc": 5,
-  "colors": [
-    "Blue"
-  ],
-  "type": "Creature â€” Elemental",
-  "types": [
-    "Creature"
-  ],
-  "subtypes": [
-    "Elemental"
-  ],
-  "text": "Flying",
-  "power": "4",
-  "toughness": "4",
-  "imageName": "air elemental",
-  "colorIdentity": [
-    "U"
-  ]
-}
-""") should be(
-        Left(Error("Failure(End:1:7 ...\"{Q}\")"))
-        // TODO : Error message is crap.
-      )
-    }
-
     "should be able to import a land" in {
       MtgJsonImporter.importCard("""
 {

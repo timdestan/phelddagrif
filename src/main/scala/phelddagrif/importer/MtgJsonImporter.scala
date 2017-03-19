@@ -102,7 +102,8 @@ object MtgJsonImporter {
           toughness
         )
       }
-    }
+    }.left.map(_.mapReason(
+        reason => s"Failed to parse ${json}\nReason: $reason"))
 
   def main(args: Array[String]): Unit = {
     import scala.collection.JavaConverters._

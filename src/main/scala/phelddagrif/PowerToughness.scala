@@ -1,7 +1,7 @@
 package phelddagrif
 
 import fastparse.all._
-import phelddagrif.parsing.NaturalNumber
+import phelddagrif.parsing.Integer
 
 // A Power or Toughness
 abstract sealed trait PowerToughness
@@ -12,8 +12,22 @@ object PowerToughness {
   case object Star extends PowerToughness
   case class Add(lhs: PowerToughness, rhs: PowerToughness)
       extends PowerToughness
+  case class Subtract(lhs: PowerToughness, rhs: PowerToughness)
+      extends PowerToughness
 
   def apply(number: Int): PowerToughness = Fixed(number)
 
-  val parser = NaturalNumber.parser.map(Fixed(_))
+  // Can be negative: Some creatures have negative power.
+  val fixedParser = Integer.parser.map(Fixed(_))
+  var starParser = P("*").map(_ => Star)
+  val simpleParser = P(fixedParser | starParser)
+
+  val addParser = P(simpleParser ~ "+" ~ simpleParser).map {
+    case (l, r) => Add(l, r)
+  }
+  val subtractParser = P(simpleParser ~ "-" ~ simpleParser).map {
+    case (l, r) => Subtract(l, r)
+  }
+
+  val parser = P(addParser | subtractParser | simpleParser)
 }
