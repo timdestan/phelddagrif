@@ -8,7 +8,6 @@ abstract sealed trait PowerToughness
 
 object PowerToughness {
   case class Fixed(number: Int) extends PowerToughness
-  case class Var(name: String) extends PowerToughness
   case object Star extends PowerToughness
   case class Add(lhs: PowerToughness, rhs: PowerToughness)
       extends PowerToughness
