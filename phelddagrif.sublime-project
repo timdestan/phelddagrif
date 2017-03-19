@@ -3,7 +3,7 @@
   [
     {
       "path": ".",
-      "folder_exclude_patterns": ["project", "target"]
+      "folder_exclude_patterns": ["project", "target", "resources"]
     }
   ]
 }
