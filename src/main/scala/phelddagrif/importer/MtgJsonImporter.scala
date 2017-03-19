@@ -27,7 +27,7 @@ object MtgJson {
       `type`: String,
       cards: Vector[Card]
   )
-  
+
   type AllSets = Map[String, Set]
 }
 
@@ -67,7 +67,7 @@ object MtgJsonImporter {
   }
 
   def parseCardParts(json: MtgJson.Card): Either[Error, Card] = {
-    val types = json.types.getOrElse(Vector()).map { 
+    val types = json.types.getOrElse(Vector()).map {
       CardTypeParser.tryParse(_)
     }.flatten.toVector
     val subtypeStrings = json.subtypes.getOrElse(Vector())
@@ -110,10 +110,11 @@ object MtgJsonImporter {
     val allSetsRawJson =
       root.entries.asScala
         .map(entry => {
-          var source = Source.fromInputStream(root.getInputStream(entry))
+          var source =
+            Source.fromInputStream(root.getInputStream(entry))("UTF-8")
           val contents = source.getLines.mkString
           source.close()
-          contents          
+          contents
         })
         .toList.head
 
