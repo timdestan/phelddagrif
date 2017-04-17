@@ -76,34 +76,26 @@ object MtgJsonImporter {
     val rulesText =
       json.text.map(RulesTextParser.parse(_)).getOrElse(ParsedRulesText.empty)
 
-    // Ugh
-    def combine3[A,B,C](ra: Result[A],
-                        rb: Result[B],
-                        rc: Result[C]): Result[(A,B,C)] =
-      for {
-        a <- ra
-        b <- rb
-        c <- rc
-      } yield (a,b,c)
-
     val manaCost = ManaCost.parser.parseFull(json.manaCost.getOrElse(""))
     var power = json.power.traverseU(PowerToughness.parser.parseFull(_))
     var toughness = json.toughness.traverseU(PowerToughness.parser.parseFull(_))
 
-    combine3(manaCost, power, toughness).map {
-      case (manaCost, power, toughness) =>
-        Card(
+    var card : Result[Card] = for {
+      manaCost <- manaCost
+      power <- power
+      toughness <- toughness
+    } yield Card(
           json.name,
           types,
           subtypes,
           manaCost,
           rulesText.keywordAbilities,
           power,
-          toughness
-        )
-      }
-    }.left.map(_.mapReason(
+          toughness)
+
+    card.left.map(_.mapReason(
         reason => s"Failed to parse ${json}\nReason: $reason"))
+  }
 
   def main(args: Array[String]): Unit = {
     import scala.collection.JavaConverters._
