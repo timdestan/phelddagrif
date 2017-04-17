@@ -39,10 +39,10 @@ object MtgJsonImporter {
 
   // Decode helper that maps errors to our Error type.
   def decode[T](text: String)
-               (implicit decoder: io.circe.Decoder[T]): Either[Error, T] =
+               (implicit decoder: io.circe.Decoder[T]): Result[T] =
     parser.decode[T](text)(decoder).left.map(Error.fromThrowable(_))
 
-  def importAllSets(allSetsRawJson: String): Either[Error, Vector[Card]] = {
+  def importAllSets(allSetsRawJson: String): Result[Vector[Card]] = {
     decode[MtgJson.AllSets](allSetsRawJson)
       .map(allSets =>
         allSets.values
@@ -54,19 +54,19 @@ object MtgJsonImporter {
   }
 
   // All the tests are still written against this interface :(
-  def importCard(text: String): Either[Error, Card] =
+  def importCard(text: String): Result[Card] =
     decode[MtgJson.Card](text).flatMap(parseCardParts(_))
 
   implicit class EnrichedParser[A](underlying: Parser[A]) {
     private val fullParser = P(underlying ~ End)
-    def parseFull(input: String) : Either[Error, A] =
+    def parseFull(input: String) : Result[A] =
       fullParser.parse(input) match {
         case Parsed.Success(v, _) => Right(v)
         case failure => Left(Error(failure.toString))
       }
   }
 
-  def parseCardParts(json: MtgJson.Card): Either[Error, Card] = {
+  def parseCardParts(json: MtgJson.Card): Result[Card] = {
     val types = json.types.getOrElse(Vector()).map {
       CardTypeParser.tryParse(_)
     }.flatten.toVector
