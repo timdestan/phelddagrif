@@ -97,7 +97,10 @@ object MtgJsonImporter {
         reason => s"Failed to parse ${json}\nReason: $reason"))
   }
 
-  def main(args: Array[String]): Unit = {
+  val allSetsJsonPath = "resources/mtgjson/AllSets.json.zip"
+
+  def allCardsFromZipPath(
+      path: String = allSetsJsonPath): Result[Vector[Card]] = {
     import scala.collection.JavaConverters._
     val root = new ZipFile("resources/mtgjson/AllSets.json.zip")
     val allSetsRawJson =
@@ -110,10 +113,17 @@ object MtgJsonImporter {
           contents
         })
         .toList.head
+    importAllSets(allSetsRawJson)
+  }
 
-    importAllSets(allSetsRawJson) match {
+  def main(args: Array[String]): Unit = {
+    allCardsFromZipPath() match {
       case Left(error) => println(s"Parse failed with $error")
-      case Right(cards) => println(s"Successfully parsed ${cards.size} cards.")
+      case Right(cards) => {
+        val universe = new Universe(cards)
+        println(s"Successfully parsed ${cards.size} cards.")
+        println(universe.countDist)
+      } 
     }
   }
 }
