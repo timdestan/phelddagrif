@@ -7,17 +7,20 @@ scalaVersion := "2.12.0"
 scalacOptions += "-feature"
 scalacOptions += "-language:higherKinds"
 
+val catsVersion = "0.9.0"
 val circeVersion = "0.7.0"
+val fastparseVersion = "0.4.2"
+
+val scalatestVersion = "3.0.0"
 
 libraryDependencies ++= Seq(
-  "com.lihaoyi" %% "fastparse" % "0.4.2",
-
+  "com.lihaoyi" %% "fastparse" % fastparseVersion,
   "io.circe" %% "circe-core" % circeVersion,
   "io.circe" %% "circe-generic" % circeVersion,
   "io.circe" %% "circe-parser" % circeVersion,
-  "org.typelevel" %% "cats" % "0.9.0",
+  "org.typelevel" %% "cats" % catsVersion,
 
-  "org.scalatest" %% "scalatest" % "3.0.0" % "test"
+  "org.scalatest" %% "scalatest" % scalatestVersion % "test"
 )
 
-mainClass in (Compile, run) := Some("phelddagrif.importer.MtgJsonImporter")
+mainClass in (Compile, run) := Some("phelddagrif.importer.DecksImporter")

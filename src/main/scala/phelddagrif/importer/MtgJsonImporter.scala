@@ -33,8 +33,6 @@ object MtgJson {
 
 // Importer to read in Magic card data in the format provided by mtgjson.com
 object MtgJsonImporter {
-  type Result[A] = Either[Error, A]
-
   lazy val parser = new JawnParser()
 
   // Decode helper that maps errors to our Error type.
@@ -59,11 +57,7 @@ object MtgJsonImporter {
 
   implicit class EnrichedParser[A](underlying: Parser[A]) {
     private val fullParser = P(underlying ~ End)
-    def parseFull(input: String) : Result[A] =
-      fullParser.parse(input) match {
-        case Parsed.Success(v, _) => Right(v)
-        case failure => Left(Error(failure.toString))
-      }
+    def parseFull(input: String) = fullParser.parse(input).toResult
   }
 
   def parseCardParts(json: MtgJson.Card): Result[Card] = {
@@ -120,7 +114,7 @@ object MtgJsonImporter {
     allCardsFromZipPath() match {
       case Left(error) => println(s"Parse failed with $error")
       case Right(cards) => {
-        val universe = new Universe(cards)
+        val universe = Universe(cards)
         println(s"Successfully parsed ${cards.size} cards.")
         println(universe.countDist)
       } 
