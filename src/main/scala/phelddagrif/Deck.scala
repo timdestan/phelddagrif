@@ -7,18 +7,18 @@ case class DecklistEntry(count: Int, name: String) {
   override def toString = s"$count $name"
 }
 
-case class Decklist(main: Seq[DecklistEntry],
-                    sideboard: Seq[DecklistEntry]) {
+case class Decklist(main: Vector[DecklistEntry],
+                    sideboard: Vector[DecklistEntry]) {
   /**
    * Attempt to resolve the decklist to a deck using cards from universe.
    */
   def toDeck(universe: Universe): Result[Deck] = {
-    def resolve(entries: Seq[DecklistEntry]): Result[Seq[Card]] =
+    def resolve(entries: Vector[DecklistEntry]): Result[Vector[Card]] =
       entries.flatMap {
-        case DecklistEntry(count, name) => List.fill(count)(name)
+        case DecklistEntry(count, name) => List.fill(count)(name).toVector
       }.map { name =>
         universe.resolve(name)
-      }.toVector.sequenceU
+      }.toVector.sequence
     for {
       main <- resolve(main)
       sideboard <- resolve(sideboard)
@@ -30,10 +30,10 @@ case class Decklist(main: Seq[DecklistEntry],
    * is as compact as possible.
    */
   def simplify(): Decklist = {
-    def combine(entries: Seq[DecklistEntry]): Seq[DecklistEntry] =
-      entries.groupBy(_.name).toSeq.map {
+    def combine(entries: Vector[DecklistEntry]): Vector[DecklistEntry] =
+      entries.groupBy(_.name).map {
         case (name, entries) => DecklistEntry(entries.map(_.count).sum, name)
-      }
+      }.toVector
     Decklist(combine(main), combine(sideboard))
   }
 }
@@ -59,7 +59,7 @@ object TxtFormat extends ParserPrinter {
       wsParser.?).map {
       case (count, name) => DecklistEntry(count, name)
     }
-  val entriesParser = entryParser.rep
+  val entriesParser = entryParser.rep.map(_.toVector)
   val decklistParser: Parser[Decklist] =
       P(entriesParser
         ~ wsParser.?

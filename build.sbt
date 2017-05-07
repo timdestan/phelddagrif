@@ -2,10 +2,14 @@ name := """Phelddagrif"""
 
 version := "0.1"
 
-scalaVersion := "2.12.0"
+scalaVersion := "2.12.1"
 
-scalacOptions += "-feature"
-scalacOptions += "-language:higherKinds"
+scalacOptions ++= Seq(
+  "-feature",
+  "-language:_",
+  "-deprecation",
+  "-Ypartial-unification"
+)
 
 val catsVersion = "0.9.0"
 val circeVersion = "0.7.0"
@@ -23,4 +27,6 @@ libraryDependencies ++= Seq(
   "org.scalatest" %% "scalatest" % scalatestVersion % "test"
 )
 
+// TODO: Is it possible to have multiple runnable targets? It must be...
 mainClass in (Compile, run) := Some("phelddagrif.importer.DecksImporter")
+// mainClass in (Compile, run) := Some("phelddagrif.importer.MtgJsonImporter")

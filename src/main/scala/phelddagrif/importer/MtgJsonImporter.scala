@@ -47,7 +47,7 @@ object MtgJsonImporter {
                .filter(set => set.`type` != "un") // Exclude the un sets.
                .flatMap(set => set.cards.map(parseCardParts(_)))
                .toVector
-               .sequenceU)
+               .sequence)
       .flatten // Flatten the 2 Eithers to 1 Either.
   }
 
@@ -71,8 +71,8 @@ object MtgJsonImporter {
       json.text.map(RulesTextParser.parse(_)).getOrElse(ParsedRulesText.empty)
 
     val manaCost = ManaCost.parser.parseFull(json.manaCost.getOrElse(""))
-    var power = json.power.traverseU(PowerToughness.parser.parseFull(_))
-    var toughness = json.toughness.traverseU(PowerToughness.parser.parseFull(_))
+    var power = json.power.traverse(PowerToughness.parser.parseFull(_))
+    var toughness = json.toughness.traverse(PowerToughness.parser.parseFull(_))
 
     var card : Result[Card] = for {
       manaCost <- manaCost
@@ -117,7 +117,7 @@ object MtgJsonImporter {
         val universe = Universe(cards)
         println(s"Successfully parsed ${cards.size} cards.")
         println(universe.countDist)
-      } 
+      }
     }
   }
 }
