@@ -2,7 +2,9 @@ package phelddagrif
 
 import fastparse.all._
 
-sealed class Color(val symbol: String)
+sealed class Color(val symbol: String) {
+  override def toString = symbol
+}
 
 object Color {
   case object White extends Color("W")

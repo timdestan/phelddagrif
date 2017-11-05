@@ -4,7 +4,16 @@ import fastparse.all._
 import phelddagrif.parsing.Integer
 
 // A Power or Toughness
-abstract sealed trait PowerToughness
+abstract sealed trait PowerToughness {
+  import PowerToughness._
+
+  override def toString = this match {
+    case Fixed(n) => n.toString
+    case Star => "*"
+    case Add(n, m) => s"${n}+${m}"
+    case Subtract(n, m) => s"${n}-${m}"
+  }
+}
 
 object PowerToughness {
   case class Fixed(number: Int) extends PowerToughness

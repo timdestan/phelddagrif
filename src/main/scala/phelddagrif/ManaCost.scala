@@ -24,6 +24,15 @@ object ManaCost {
     def /(other: ManaSymbol): ManaSymbol = Hybrid(self, other)
     def /(genericCost: Int): ManaSymbol =
         Hybrid(self, FixedGeneric(genericCost))
+
+    override def toString = this match {
+      case FixedGeneric(n) => n.toString
+      case VariableGeneric(sym) => sym
+      case Colored(c) => c.toString
+      case Hybrid(l, r) => s"${l}/${r}"
+      case Phyrexian => "P"
+      case Colorless => "C"
+    }
   }
 
   object ManaSymbol {
@@ -79,6 +88,8 @@ object ManaCost {
   private case class ManaCostImpl(symbols: NonEmptyList[ManaCost.ManaSymbol])
       extends ManaCost {
     def colors: Set[Color] = symbols.map { _.colors }.reduceLeft(_ ++ _)
+
+    override def toString = symbols.toList.mkString("")
   }
 
   def apply(symbols: ManaSymbol*): ManaCost = apply(symbols.toList)

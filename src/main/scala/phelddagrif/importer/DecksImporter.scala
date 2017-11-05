@@ -20,7 +20,7 @@ object DecksImporter {
 
     weissmanDeck match {
       case Left(error) => println(s"Failed with $error")
-      case Right(deck) => println("Success! Maybe!")
+      case Right(deck) => println(deck)
     }
   }
 }

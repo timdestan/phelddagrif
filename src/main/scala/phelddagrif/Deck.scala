@@ -24,21 +24,19 @@ case class Decklist(main: Vector[DecklistEntry],
       sideboard <- resolve(sideboard)
     } yield Deck(main, sideboard)
   }
-
-  /**
-   * Combines like card names (adding the counts) so that the decklist
-   * is as compact as possible.
-   */
-  def simplify(): Decklist = {
-    def combine(entries: Vector[DecklistEntry]): Vector[DecklistEntry] =
-      entries.groupBy(_.name).map {
-        case (name, entries) => DecklistEntry(entries.map(_.count).sum, name)
-      }.toVector
-    Decklist(combine(main), combine(sideboard))
-  }
 }
 
-case class Deck(main: Seq[Card], sideboard: Seq[Card])
+case class Deck(main: Vector[Card], sideboard: Vector[Card]) {
+  override def toString = {
+    def condense(cards: Vector[Card]): Vector[String] =
+      cards.groupBy(_.name).toVector.map {
+        case (name, cards) => s"${cards.size} ${cards.head}"
+      }.toVector
+
+    condense(main).mkString("\n") + "\nSideboard\n" +
+      condense(sideboard).mkString("\n")
+  }
+}
 
 trait ParserPrinter {
   def parse(text: String): Result[Decklist]

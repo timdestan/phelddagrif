@@ -26,7 +26,3 @@ libraryDependencies ++= Seq(
 
   "org.scalatest" %% "scalatest" % scalatestVersion % "test"
 )
-
-// TODO: Is it possible to have multiple runnable targets? It must be...
-mainClass in (Compile, run) := Some("phelddagrif.importer.DecksImporter")
-// mainClass in (Compile, run) := Some("phelddagrif.importer.MtgJsonImporter")
