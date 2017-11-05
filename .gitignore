@@ -16,6 +16,7 @@ project/plugins/project/
 .scala_dependencies
 .worksheet
 .ensime
+.ensime_cache/
 *~
 
 *.sublime-workspace
