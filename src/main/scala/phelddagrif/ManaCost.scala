@@ -66,6 +66,8 @@ object ManaCost {
   final case class Colored(color: Color) extends ManaSymbol
   final case class Hybrid(left: ManaSymbol, right: ManaSymbol)
       extends ManaSymbol
+  // Note that the colored phyrexian mana symbols (e.g. {R/P}) are implemented
+  // as a hybrid cost of either {P} or the appropriate color symbol.
   final case object Phyrexian extends ManaSymbol
   final case object Colorless extends ManaSymbol
 
@@ -89,7 +91,9 @@ object ManaCost {
       extends ManaCost {
     def colors: Set[Color] = symbols.map { _.colors }.reduceLeft(_ ++ _)
 
-    override def toString = symbols.toList.mkString("")
+    override def toString = symbols.map(sym => "{" + sym.toString + "}")
+                                   .toList
+                                   .mkString("")
   }
 
   def apply(symbols: ManaSymbol*): ManaCost = apply(symbols.toList)
