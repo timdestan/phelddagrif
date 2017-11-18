@@ -2,8 +2,8 @@ import org.scalatest._
 import phelddagrif._
 
 class GameSpec extends FreeSpec with Matchers {
-  "PlayerState" -> {
-    "when created" -> {
+  "PlayerState" - {
+    "when created" - {
       val newState = PlayerState.of(Player("Alice"), Deck.empty)
 
       "should start with empty mana pool" in {
@@ -18,8 +18,8 @@ class GameSpec extends FreeSpec with Matchers {
     }
   }
 
-  "GameState" -> {
-    "build" -> {
+  "GameState" - {
+    "build" - {
       "turnCycle" in {
         val bob   = Player("Bob")
         val alice = Player("Alice")
