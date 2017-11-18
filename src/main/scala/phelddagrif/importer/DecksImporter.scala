@@ -6,10 +6,8 @@ import cats.syntax._
 import scala.io.Source
 
 object DecksImporter {
-  def parseWeismannTxt: Result[Decklist] = {
-    val textDecklist = Source.fromFile("resources/decks/weissman.txt").mkString
-    TxtFormat.parse(textDecklist)
-  }
+  def parseWeismannTxt: Result[Decklist] =
+    Decklist.parse(Source.fromFile("resources/decks/weissman.txt").mkString)
 
   def main(args: Array[String]): Unit = {
     val universe         = MtgJsonImporter.allCardsFromZipPath().map(Universe(_))
