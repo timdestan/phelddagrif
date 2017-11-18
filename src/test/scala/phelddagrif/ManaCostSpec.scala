@@ -16,9 +16,8 @@ class ManaCostSpec extends FreeSpec with Matchers {
         ManaCost(W).colors should be(Set(Color.White))
       }
       "Mana costs with multiple colors should be all those colors" in {
-        ManaCost(1, W, G, U).colors should be(Set(Color.White,
-                                                  Color.Green,
-                                                  Color.Blue))
+        ManaCost(1, W, G, U).colors should be(
+          Set(Color.White, Color.Green, Color.Blue))
       }
       "Hybrid costs should be all their colors" in {
         ManaCost(B / U).colors should be(Set(Color.Blue, Color.Black))

@@ -6,9 +6,12 @@ case class ManaPool(mana: Set[Mana]) {
     ManaPool(mana + Mana(number, manaType))
 
   def simplify: ManaPool = ManaPool(
-      mana.groupBy { _.manaType }.map {
+    mana
+      .groupBy { _.manaType }
+      .map {
         case (typ, counts) => Mana(counts.map(_.amount).sum, typ)
-      }.toSet
+      }
+      .toSet
   )
 }
 

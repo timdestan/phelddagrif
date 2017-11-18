@@ -36,18 +36,19 @@ object MtgJsonImporter {
   lazy val parser = new JawnParser()
 
   // Decode helper that maps errors to our Error type.
-  def decode[T](text: String)
-               (implicit decoder: io.circe.Decoder[T]): Result[T] =
+  def decode[T](text: String)(
+      implicit decoder: io.circe.Decoder[T]): Result[T] =
     parser.decode[T](text)(decoder).left.map(Error.fromThrowable(_))
 
   def importAllSets(allSetsRawJson: String): Result[Vector[Card]] = {
     decode[MtgJson.AllSets](allSetsRawJson)
-      .map(allSets =>
-        allSets.values
-               .filter(set => set.`type` != "un") // Exclude the un sets.
-               .flatMap(set => set.cards.map(parseCardParts(_)))
-               .toVector
-               .sequence)
+      .map(
+        allSets =>
+          allSets.values
+            .filter(set => set.`type` != "un") // Exclude the un sets.
+            .flatMap(set => set.cards.map(parseCardParts(_)))
+            .toVector
+            .sequence)
       .flatten // Flatten the 2 Eithers to 1 Either.
   }
 
@@ -56,39 +57,43 @@ object MtgJsonImporter {
     decode[MtgJson.Card](text).flatMap(parseCardParts(_))
 
   implicit class EnrichedParser[A](underlying: Parser[A]) {
-    private val fullParser = P(underlying ~ End)
+    private val fullParser       = P(underlying ~ End)
     def parseFull(input: String) = fullParser.parse(input).toResult
   }
 
   def parseCardParts(json: MtgJson.Card): Result[Card] = {
-    val types = json.types.getOrElse(Vector()).map {
-      CardTypeParser.tryParse(_)
-    }.flatten.toVector
+    val types = json.types
+      .getOrElse(Vector())
+      .map {
+        CardTypeParser.tryParse(_)
+      }
+      .flatten
+      .toVector
     val subtypeStrings = json.subtypes.getOrElse(Vector())
     val subtypes =
       subtypeStrings.map(CardSubtypeParser.tryParse(_)).flatten.toVector
     val rulesText =
       json.text.map(RulesTextParser.parse(_)).getOrElse(ParsedRulesText.empty)
 
-    val manaCost = ManaCost.parser.parseFull(json.manaCost.getOrElse(""))
-    var power = json.power.traverse(PowerToughness.parser.parseFull(_))
+    val manaCost  = ManaCost.parser.parseFull(json.manaCost.getOrElse(""))
+    var power     = json.power.traverse(PowerToughness.parser.parseFull(_))
     var toughness = json.toughness.traverse(PowerToughness.parser.parseFull(_))
 
-    var card : Result[Card] = for {
-      manaCost <- manaCost
-      power <- power
+    var card: Result[Card] = for {
+      manaCost  <- manaCost
+      power     <- power
       toughness <- toughness
-    } yield Card(
-          json.name,
-          types,
-          subtypes,
-          manaCost,
-          rulesText.keywordAbilities,
-          power,
-          toughness)
+    } yield
+      Card(json.name,
+           types,
+           subtypes,
+           manaCost,
+           rulesText.keywordAbilities,
+           power,
+           toughness)
 
-    card.left.map(_.mapReason(
-        reason => s"Failed to parse ${json}\nReason: $reason"))
+    card.left.map(_.mapReason(reason =>
+      s"Failed to parse ${json}\nReason: $reason"))
   }
 
   val allSetsJsonPath = "resources/mtgjson/AllSets.json.zip"
@@ -106,7 +111,8 @@ object MtgJsonImporter {
           source.close()
           contents
         })
-        .toList.head
+        .toList
+        .head
     importAllSets(allSetsRawJson)
   }
 

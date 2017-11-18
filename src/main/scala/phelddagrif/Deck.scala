@@ -9,18 +9,23 @@ case class DecklistEntry(count: Int, name: String) {
 
 case class Decklist(main: Vector[DecklistEntry],
                     sideboard: Vector[DecklistEntry]) {
+
   /**
-   * Attempt to resolve the decklist to a deck using cards from universe.
-   */
+    * Attempt to resolve the decklist to a deck using cards from universe.
+    */
   def toDeck(universe: Universe): Result[Deck] = {
     def resolve(entries: Vector[DecklistEntry]): Result[Vector[Card]] =
-      entries.flatMap {
-        case DecklistEntry(count, name) => List.fill(count)(name).toVector
-      }.map { name =>
-        universe.resolve(name)
-      }.toVector.sequence
+      entries
+        .flatMap {
+          case DecklistEntry(count, name) => List.fill(count)(name).toVector
+        }
+        .map { name =>
+          universe.resolve(name)
+        }
+        .toVector
+        .sequence
     for {
-      main <- resolve(main)
+      main      <- resolve(main)
       sideboard <- resolve(sideboard)
     } yield Deck(main, sideboard)
   }
@@ -29,9 +34,13 @@ case class Decklist(main: Vector[DecklistEntry],
 case class Deck(main: Vector[Card], sideboard: Vector[Card]) {
   override def toString = {
     def condense(cards: Vector[Card]): Vector[String] =
-      cards.groupBy(_.name).toVector.map {
-        case (name, cards) => s"${cards.size} ${cards.head}"
-      }.toVector
+      cards
+        .groupBy(_.name)
+        .toVector
+        .map {
+          case (name, cards) => s"${cards.size} ${cards.head}"
+        }
+        .toVector
 
     condense(main).mkString("\n") + "\nSideboard\n" +
       condense(sideboard).mkString("\n")
@@ -48,29 +57,31 @@ object TxtFormat extends ParserPrinter {
 
   val wsParser = P(CharsWhile(" \r\n".toSet))
   val cardNameParser: Parser[String] =
-      P(CharsWhile(x => x != '\n' && x != '\r', min = 1).!)
+    P(CharsWhile(x => x != '\n' && x != '\r', min = 1).!)
   val entryParser: Parser[DecklistEntry] =
-    P(wsParser.? ~
-      NaturalNumber.parser ~
+    P(
       wsParser.? ~
-      cardNameParser ~
-      wsParser.?).map {
+        NaturalNumber.parser ~
+        wsParser.? ~
+        cardNameParser ~
+        wsParser.?).map {
       case (count, name) => DecklistEntry(count, name)
     }
   val entriesParser = entryParser.rep.map(_.toVector)
   val decklistParser: Parser[Decklist] =
-      P(entriesParser
+    P(
+      entriesParser
         ~ wsParser.?
         ~ "Sideboard"
         ~ wsParser.?
         ~ entriesParser).map {
-        case (main, sideboard) => Decklist(main, sideboard)
-      }
+      case (main, sideboard) => Decklist(main, sideboard)
+    }
 
   def parse(text: String) = P(decklistParser ~ End).parse(text).toResult
 
   def print(decklist: Decklist) =
     (decklist.main.map(_.toString)
-       ++ "Sideboard"
-       ++ decklist.sideboard.map(_.toString)).mkString("\n")
+      ++ "Sideboard"
+      ++ decklist.sideboard.map(_.toString)).mkString("\n")
 }
