@@ -13,7 +13,17 @@ object PlayerState {
 
 case class Player(name: String)
 
-sealed trait Phase
+sealed trait Phase {
+  import Phase._
+
+  def next: Phase = this match {
+    case Begin          => PreCombatMain
+    case PreCombatMain  => Combat
+    case Combat         => PostCombatMain
+    case PostCombatMain => End
+    case End            => Begin
+  }
+}
 
 object Phase {
   object Begin          extends Phase
@@ -22,13 +32,27 @@ object Phase {
   object PostCombatMain extends Phase
   object End            extends Phase
 
-  def cycle(): Stream[Phase] =
-    Stream(Begin, PreCombatMain, Combat, PostCombatMain, End).append(cycle)
+  val order: List[Phase] =
+    List(Begin, PreCombatMain, Combat, PostCombatMain, End)
 }
 
-case class GameState(activePlayer: Player,
-                     playerStates: Map[Player, PlayerState],
-                     turnCycle: Stream[Player]) {}
+// Turn cycle and phase cycle both must be infinite streams, and playerStates
+// must contain all players that appear in turn cycle.
+case class GameState(turnCycle: Stream[Player],
+                     phaseCycle: Stream[Phase],
+                     playerStates: Map[Player, PlayerState]) {
+  val activePlayer = turnCycle.head
+  val currentPhase = phaseCycle.head
+
+  def stream: Stream[GameState] = this #:: nextPhase.stream
+
+  def nextPhaseChangesTurn = currentPhase == Phase.End
+
+  def nextPhase: GameState = {
+    val nextTurnCycle = if (nextPhaseChangesTurn) turnCycle.tail else turnCycle
+    GameState(nextTurnCycle, phaseCycle.tail, playerStates)
+  }
+}
 
 object Game {
 
@@ -46,16 +70,17 @@ object Game {
           case PlayerAndDeck(player, deck) => PlayerState.of(player, deck)
         }
     }
-    val players                       = playerStates.map(_.player)
-    def playersStream: Stream[Player] = players.toStream.append(playersStream)
+    val players = playerStates.map(_.player)
     // For now, turn cycle is the order the players were provided.
-    GameState(players.head,
+    def turnCycle: Stream[Player] = players.toStream.append(turnCycle)
+    def phaseCycle: Stream[Phase] = Phase.order.toStream.append(phaseCycle)
+    GameState(turnCycle,
+              phaseCycle,
               playerStates
                 .groupBy(_.player)
                 .map {
                   case (p, states) => (p, states.head)
-                },
-              playersStream)
+                })
   }
 
   case class PlayerAndDeck(player: Player, deck: Deck)
