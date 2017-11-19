@@ -76,10 +76,10 @@ object MtgJsonImporter {
       json.text.map(RulesTextParser.parse(_)).getOrElse(ParsedRulesText.empty)
 
     val manaCost  = ManaCost.parser.parseFull(json.manaCost.getOrElse(""))
-    var power     = json.power.traverse(PowerToughness.parser.parseFull(_))
-    var toughness = json.toughness.traverse(PowerToughness.parser.parseFull(_))
+    val power     = json.power.traverse(PowerToughness.parser.parseFull(_))
+    val toughness = json.toughness.traverse(PowerToughness.parser.parseFull(_))
 
-    var card: Result[Card] = for {
+    val card: Result[Card] = for {
       manaCost  <- manaCost
       power     <- power
       toughness <- toughness
