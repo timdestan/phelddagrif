@@ -87,15 +87,16 @@ object ManaCost {
 
   val White = Colored(Color.White)
   val Blue  = Colored(Color.Blue)
-  val Green = Colored(Color.Green)
-  val Red   = Colored(Color.Red)
   val Black = Colored(Color.Black)
+  val Red   = Colored(Color.Red)
+  val Green = Colored(Color.Green)
 
   val W = White
   val U = Blue
-  val G = Green
-  val R = Red
   val B = Black
+  val R = Red
+  val G = Green
+
   val P = Phyrexian
   val C = Colorless
 
