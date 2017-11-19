@@ -3,7 +3,6 @@ package phelddagrif
 import cats.data.NonEmptyList
 import fastparse.all._
 import fastparse.all.{P => mkParser}
-import phelddagrif.parsing.NaturalNumber
 
 sealed trait ManaType
 
@@ -50,7 +49,7 @@ object ManaCost {
   }
 
   object ManaSymbol {
-    val fixedGenericParser = NaturalNumber.parser.map(FixedGeneric(_))
+    val fixedGenericParser = NumberParsers.natural.map(FixedGeneric(_))
     val coloredParser      = Color.parser.map(Colored(_))
     val variableGenericParser =
       mkParser("X" | "Y" | "Z").!.map(name => VariableGeneric(name))

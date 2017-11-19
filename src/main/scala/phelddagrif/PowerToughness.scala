@@ -1,7 +1,6 @@
 package phelddagrif
 
 import fastparse.all._
-import phelddagrif.parsing.Integer
 
 // A Power or Toughness
 abstract sealed trait PowerToughness {
@@ -26,7 +25,7 @@ object PowerToughness {
   def apply(number: Int): PowerToughness = Fixed(number)
 
   // Can be negative: Some creatures have negative power.
-  val fixedParser  = Integer.parser.map(Fixed(_))
+  val fixedParser  = NumberParsers.integer.map(Fixed(_))
   var starParser   = P("*").map(_ => Star)
   val simpleParser = P(fixedParser | starParser)
 

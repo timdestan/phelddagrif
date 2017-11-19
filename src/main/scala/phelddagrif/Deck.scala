@@ -1,7 +1,6 @@
 package phelddagrif
 
 import cats.implicits._
-import phelddagrif.parsing.NaturalNumber
 
 case class DecklistEntry(count: Int, name: String) {
   override def toString = s"$count $name"
@@ -46,7 +45,7 @@ object Decklist {
     val entryParser: Parser[DecklistEntry] =
       P(
         wsParser.? ~
-          NaturalNumber.parser ~
+          NumberParsers.natural ~
           wsParser.? ~
           cardNameParser ~
           wsParser.?).map {
