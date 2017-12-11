@@ -1,7 +1,7 @@
 import phelddagrif._
 import utest._
 
-object GameSpec extends TestSuite {
+object GameTest extends TestSuite {
   val tests = Tests {
     "PlayerState" - {
       "when created" - {

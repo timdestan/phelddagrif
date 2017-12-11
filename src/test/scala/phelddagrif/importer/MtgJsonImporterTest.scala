@@ -4,7 +4,7 @@ import phelddagrif.ManaCost._
 import phelddagrif.importer._
 import utest._
 
-object MtgJsonImporterSpec extends TestSuite {
+object MtgJsonImporterTest extends TestSuite {
   val tests = Tests {
     "MtgJsonImporter.importCard" - {
       "should be able to import a card" - {

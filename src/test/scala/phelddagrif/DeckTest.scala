@@ -6,7 +6,7 @@ import phelddagrif.importer._
 import scala.io.Source
 import utest._
 
-object DeckSpec extends TestSuite {
+object DeckTest extends TestSuite {
   val tests = Tests {
     "Decklist.parse" - {
       "parses weissman deck" - {

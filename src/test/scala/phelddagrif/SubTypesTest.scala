@@ -1,7 +1,7 @@
 import phelddagrif._
 import utest._
 
-object SubTypesSpec extends TestSuite {
+object SubTypesTest extends TestSuite {
   val tests = Tests {
     "LandType" - {
       import phelddagrif.LandType._

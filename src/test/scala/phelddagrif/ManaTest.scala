@@ -1,7 +1,7 @@
 import phelddagrif._
 import utest._
 
-object ManaSpec extends TestSuite {
+object ManaTest extends TestSuite {
   val tests = Tests {
     "ManaPool" - {
       import phelddagrif.ManaType._

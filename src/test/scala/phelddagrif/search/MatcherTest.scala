@@ -6,7 +6,7 @@ object Galactica extends Battlestar
 object Pegasus   extends Battlestar
 object Columbia  extends Battlestar
 
-object MatcherSpec extends TestSuite {
+object MatcherTest extends TestSuite {
   val tests = Tests {
     "Matcher.find" - {
       "empty input" - {
