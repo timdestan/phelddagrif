@@ -1,27 +1,29 @@
-import org.scalatest._
 import phelddagrif._
+import utest._
 
-class SubTypesSpec extends FreeSpec with Matchers {
-  "LandType" - {
-    import phelddagrif.LandType._
+object SubTypesSpec extends TestSuite {
+  val tests = Tests {
+    "LandType" - {
+      import phelddagrif.LandType._
 
-    "isBasic" - {
-      "should return whether type is a basic land type" in {
-        Mountain.isBasic should be(true)
-        Plains.isBasic should be(true)
-        Urzas.isBasic should be(false)
-      }
-    }
-
-    "color" - {
-      "should return corresponding color for basic lands" in {
-        Plains.color should be(Some(Color.White))
-        Forest.color should be(Some(Color.Green))
+      "isBasic" - {
+        "should return whether type is a basic land type" - {
+          assert(Mountain.isBasic)
+          assert(Plains.isBasic)
+          assert(!Urzas.isBasic)
+        }
       }
 
-      "should return no color for non-basic land types" in {
-        Locus.color should be(None)
-        PowerPlant.color should be(None)
+      "color" - {
+        "should return corresponding color for basic lands" - {
+          assert(Plains.color == Some(Color.White))
+          assert(Forest.color == Some(Color.Green))
+        }
+
+        "should return no color for non-basic land types" - {
+          assert(Locus.color == None)
+          assert(PowerPlant.color == None)
+        }
       }
     }
   }

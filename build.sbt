@@ -1,27 +1,20 @@
-name := """Phelddagrif"""
-
-version := "0.1"
-
-scalaVersion := "2.12.1"
-
-scalacOptions ++= Seq(
-  "-feature",
-  "-language:_",
-  "-deprecation",
-  "-Ypartial-unification"
-)
-
-val catsVersion      = "0.9.0"
-val circeVersion     = "0.7.0"
-val fastparseVersion = "0.4.2"
-
-val scalatestVersion = "3.0.0"
-
-libraryDependencies ++= Seq(
-  "com.lihaoyi"   %% "fastparse"     % fastparseVersion,
-  "io.circe"      %% "circe-core"    % circeVersion,
-  "io.circe"      %% "circe-generic" % circeVersion,
-  "io.circe"      %% "circe-parser"  % circeVersion,
-  "org.typelevel" %% "cats"          % catsVersion,
-  "org.scalatest" %% "scalatest"     % scalatestVersion % "test"
+lazy val phelddagrif = (project in file(".")).settings(
+  name := """Phelddagrif""",
+  version := "0.1",
+  scalaVersion := "2.12.1",
+  scalacOptions ++= Seq(
+    "-feature",
+    "-language:_",
+    "-deprecation",
+    "-Ypartial-unification"
+  ),
+  libraryDependencies ++= Seq(
+    "com.lihaoyi"   %% "fastparse"     % "0.4.2",
+    "io.circe"      %% "circe-core"    % "0.7.0",
+    "io.circe"      %% "circe-generic" % "0.7.0",
+    "io.circe"      %% "circe-parser"  % "0.7.0",
+    "org.typelevel" %% "cats"          % "0.9.0",
+    "com.lihaoyi"   %% "utest"         % "0.6.0" % "test"
+  ),
+  testFrameworks := Seq(new TestFramework("utest.runner.Framework"))
 )

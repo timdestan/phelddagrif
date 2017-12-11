@@ -1,65 +1,69 @@
-import org.scalatest._
 import phelddagrif._
+import utest._
 
-class ManaSpec extends FreeSpec with Matchers {
-  "ManaPool" - {
-    import phelddagrif.ManaType._
+object ManaSpec extends TestSuite {
+  val tests = Tests {
+    "ManaPool" - {
+      import phelddagrif.ManaType._
 
-    "empty mana pool should not contain any mana" in {
-      ManaPool.empty.mana.isEmpty should be(true)
+      "empty mana pool should not contain any mana" - {
+        assert(ManaPool.empty.mana.isEmpty)
+      }
+
+      "simplify should combine like mana types" - {
+        assert(
+          ManaPool
+            .of(
+              (1, Green),
+              (2, Green),
+              (3, Blue),
+              (5, Red),
+              (2, Blue)
+            )
+            .simplify ==
+            ManaPool.of(
+              (3, Green),
+              (5, Blue),
+              (5, Red)
+            ))
+      }
     }
 
-    "simplify should combine like mana types" in {
-      ManaPool
-        .of(
-          (1, Green),
-          (2, Green),
-          (3, Blue),
-          (5, Red),
-          (2, Blue)
-        )
-        .simplify should be(
-        ManaPool.of(
-          (3, Green),
-          (5, Blue),
-          (5, Red)
-        ))
-    }
-  }
+    "ManaCost" - {
+      import phelddagrif.ManaCost._
 
-  "ManaCost" - {
-    import phelddagrif.ManaCost._
-
-    "colors" - {
-      "{0} should be no colors" in {
-        ManaCost.Zero.colors shouldBe empty
+      "colors" - {
+        "{0} should be no colors" - {
+          assert(ManaCost.Zero.colors.isEmpty)
+        }
+        "Generic costs should be no color" - {
+          assert(ManaCost(7).colors.isEmpty)
+          assert(ManaCost(VariableGeneric("X")).colors.isEmpty)
+        }
+        "Single mana costs should be their own color" - {
+          assert(ManaCost(W).colors == Set(Color.White))
+        }
+        "Mana costs with multiple colors should be all those colors" - {
+          assert(
+            ManaCost(1, W, G, U).colors ==
+              Set(Color.White, Color.Green, Color.Blue))
+        }
+        "Hybrid costs should be all their colors" - {
+          assert(ManaCost(B / U).colors == Set(Color.Blue, Color.Black))
+          assert(ManaCost(R / 2).colors == Set(Color.Red))
+          // Can't do ManaCost(2 / R) right now.
+        }
+        "Phyrexian costs should be colorless" - {
+          assert(ManaCost(P).colors.isEmpty)
+        }
       }
-      "Generic costs should be no color" in {
-        ManaCost(7).colors shouldBe empty
-        ManaCost(VariableGeneric("X")).colors shouldBe empty
-      }
-      "Single mana costs should be their own color" in {
-        ManaCost(W).colors should be(Set(Color.White))
-      }
-      "Mana costs with multiple colors should be all those colors" in {
-        ManaCost(1, W, G, U).colors should be(
-          Set(Color.White, Color.Green, Color.Blue))
-      }
-      "Hybrid costs should be all their colors" in {
-        ManaCost(B / U).colors should be(Set(Color.Blue, Color.Black))
-        ManaCost(R / 2).colors should be(Set(Color.Red))
-        // Can't do ManaCost(2 / R) right now.
-      }
-      "Phyrexian costs should be colorless" in {
-        ManaCost(P).colors should be(Set.empty)
-      }
-    }
-    "Zero" - {
-      "Empty list of symbols should equal zero" in {
-        ManaCost() should be(ManaCost.Zero)
-      }
-      "Single {0} should equal zero" in {
-        ManaCost(0) should be(ManaCost.Zero)
+      "Zero" - {
+        "Empty list of symbols should equal zero" - {
+          assert(ManaCost() == ManaCost.Zero)
+        }
+        "Single {0} should equal zero" - {
+          assert(ManaCost(0) == ManaCost.Zero)
+        }
       }
     }
   }

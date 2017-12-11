@@ -1,79 +1,83 @@
-import org.scalatest._
 import phelddagrif.search._
+import utest._
 
 sealed trait Battlestar
 object Galactica extends Battlestar
 object Pegasus   extends Battlestar
 object Columbia  extends Battlestar
 
-class MatcherSpec extends FreeSpec with Matchers {
-  "Matcher.find" - {
-    "empty input" in {
-      Matcher(Pattern("a", Galactica)).find("") should equal(Nil)
-    }
+object MatcherSpec extends TestSuite {
+  val tests = Tests {
+    "Matcher.find" - {
+      "empty input" - {
+        assert(Matcher(Pattern("a", Galactica)).find("") == Nil)
+      }
 
-    "empty pattern" in {
-      val m = Matcher(Pattern("", Galactica))
-      m.find("abc").toSet should equal(
-        Set(
-          Match(Galactica, 0),
-          Match(Galactica, 1),
-          Match(Galactica, 2),
-          Match(Galactica, 3)
-        ))
-      m.find("") should equal(List(Match(Galactica, 0)))
-    }
+      "empty pattern" - {
+        val m = Matcher(Pattern("", Galactica))
+        assert(
+          m.find("abc").toSet ==
+            Set(
+              Match(Galactica, 0),
+              Match(Galactica, 1),
+              Match(Galactica, 2),
+              Match(Galactica, 3)
+            ))
+        assert(m.find("") == List(Match(Galactica, 0)))
+      }
 
-    "simple matches" in {
-      val m = Matcher(Pattern("aa", Galactica))
-      m.find("aa") should equal(List(Match(Galactica, 0)))
-      m.find("baa") should equal(List(Match(Galactica, 1)))
-      m.find("a") should equal(Nil)
-    }
+      "simple matches" - {
+        val m = Matcher(Pattern("aa", Galactica))
+        assert(m.find("aa") == List(Match(Galactica, 0)))
+        assert(m.find("baa") == List(Match(Galactica, 1)))
+        assert(m.find("a") == Nil)
+      }
 
-    "multiple matches from same pattern" in {
-      val m = Matcher(
-        Pattern("a", Galactica),
-        Pattern("aa", Pegasus)
-      )
-      m.find("aaa").toSet should equal(
-        Set(
-          Match(Galactica, 0),
-          Match(Galactica, 1),
-          Match(Galactica, 2),
-          Match(Pegasus, 0),
-          Match(Pegasus, 1)
+      "multiple matches from same pattern" - {
+        val m = Matcher(
+          Pattern("a", Galactica),
+          Pattern("aa", Pegasus)
         )
-      )
-    }
+        assert(
+          m.find("aaa").toSet ==
+            Set(
+              Match(Galactica, 0),
+              Match(Galactica, 1),
+              Match(Galactica, 2),
+              Match(Pegasus, 0),
+              Match(Pegasus, 1)
+            ))
+      }
 
-    "more overlapping patterns" in {
-      val m = Matcher(Pattern("nana", Galactica))
-      m.find("nananananananana batman").toSet should equal(
-        Set(
-          Match(Galactica, 0),
-          Match(Galactica, 2),
-          Match(Galactica, 4),
-          Match(Galactica, 6),
-          Match(Galactica, 8),
-          Match(Galactica, 10),
-          Match(Galactica, 12)
+      "more overlapping patterns" - {
+        val m = Matcher(Pattern("nana", Galactica))
+        assert(
+          m.find("nananananananana batman").toSet ==
+            Set(
+              Match(Galactica, 0),
+              Match(Galactica, 2),
+              Match(Galactica, 4),
+              Match(Galactica, 6),
+              Match(Galactica, 8),
+              Match(Galactica, 10),
+              Match(Galactica, 12)
+            ))
+      }
+
+      "conflicting matches" - {
+        val m = Matcher(
+          Pattern("a", Pegasus),
+          Pattern("a", Galactica)
         )
-      )
-    }
-
-    "conflicting matches" in {
-      val m = Matcher(
-        Pattern("a", Pegasus),
-        Pattern("a", Galactica)
-      )
-      m.find("aa").toSet should equal(
-        Set(
-          Match(Galactica, 0),
-          Match(Galactica, 1),
-          Match(Pegasus, 0),
-          Match(Pegasus, 1)
-        ))
+        assert(
+          m.find("aa").toSet ==
+            Set(
+              Match(Galactica, 0),
+              Match(Galactica, 1),
+              Match(Pegasus, 0),
+              Match(Pegasus, 1)
+            ))
+      }
     }
   }
 }

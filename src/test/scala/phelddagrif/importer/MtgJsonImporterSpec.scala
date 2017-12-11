@@ -1,13 +1,15 @@
 import cats.implicits._
-import org.scalatest._
 import phelddagrif._
 import phelddagrif.ManaCost._
 import phelddagrif.importer._
+import utest._
 
-class MtgJsonImporterSpec extends FreeSpec with Matchers {
-  "MtgJsonImporter.importCard" - {
-    "should be able to import a card" in {
-      MtgJsonImporter.importCard("""
+object MtgJsonImporterSpec extends TestSuite {
+  val tests = Tests {
+    "MtgJsonImporter.importCard" - {
+      "should be able to import a card" - {
+        assert(
+          MtgJsonImporter.importCard("""
 {
   "layout": "normal",
   "name": "Air Elemental",
@@ -31,9 +33,7 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
     "U"
   ]
 }
-""") should be(
-        Right(
-          Card(
+""") == Right(Card(
             "Air Elemental",
             Vector(CardType.Creature),
             Vector(CreatureType.Elemental),
@@ -41,13 +41,13 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
             Vector(Flying),
             PowerToughness(4).some,
             PowerToughness(4).some
-          ))
-      )
-    }
+          )))
+      }
 
-    "should be able to import a land" in {
-      MtgJsonImporter.importCard(
-        """
+      "should be able to import a land" - {
+        assert(
+          MtgJsonImporter.importCard(
+            """
 {
   "layout": "normal",
   "name": "Plateau",
@@ -66,23 +66,21 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
     "W"
   ]
 }
-""") should be(
-        Right(
-          Card(
-            "Plateau",
-            Vector(CardType.Land),
-            Vector(LandType.Mountain, LandType.Plains),
-            ManaCost.Zero,
-            Vector(),
-            power = None,
-            toughness = None
-          ))
-      )
-    }
+""") ==
+            Right(
+              Card("Plateau",
+                   Vector(CardType.Land),
+                   Vector(LandType.Mountain, LandType.Plains),
+                   ManaCost.Zero,
+                   Vector(),
+                   power = None,
+                   toughness = None)))
+      }
 
-    "should be able to parse variable generic mana cost" in {
-      MtgJsonImporter.importCard(
-        """
+      "should be able to parse variable generic mana cost" - {
+        assert(
+          MtgJsonImporter.importCard(
+            """
 {
   "layout": "normal",
   "name": "Abandon Hope",
@@ -101,23 +99,21 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
     "B"
   ]
 }
-""") should be(
-        Right(
-          Card(
-            "Abandon Hope",
-            Vector(CardType.Sorcery),
-            Vector(),
-            ManaCost(VariableGeneric("X"), FixedGeneric(1), B),
-            Vector(),
-            power = None,
-            toughness = None
-          ))
-      )
-    }
+""") ==
+            Right(
+              Card("Abandon Hope",
+                   Vector(CardType.Sorcery),
+                   Vector(),
+                   ManaCost(VariableGeneric("X"), FixedGeneric(1), B),
+                   Vector(),
+                   power = None,
+                   toughness = None)))
+      }
 
-    "should be able to parse hybrid mana costs" in {
-      MtgJsonImporter.importCard(
-        """
+      "should be able to parse hybrid mana costs" - {
+        assert(
+          MtgJsonImporter.importCard(
+            """
 {
   "layout": "normal",
   "name": "Arrows of Justice",
@@ -138,23 +134,21 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
     "R"
   ]
 }
-      """) should be(
-        Right(
-          Card(
-            "Arrows of Justice",
-            Vector(CardType.Instant),
-            Vector(),
-            ManaCost(FixedGeneric(2), R / W),
-            Vector(),
-            power = None,
-            toughness = None
-          ))
-      )
-    }
+      """) ==
+            Right(
+              Card("Arrows of Justice",
+                   Vector(CardType.Instant),
+                   Vector(),
+                   ManaCost(FixedGeneric(2), R / W),
+                   Vector(),
+                   power = None,
+                   toughness = None)))
+      }
 
-    "should be able to parse double digit mana costs" in {
-      MtgJsonImporter.importCard(
-        """
+      "should be able to parse double digit mana costs" - {
+        assert(
+          MtgJsonImporter.importCard(
+            """
 {
   "layout": "normal",
   "name": "Autochthon Wurm",
@@ -180,23 +174,22 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
     "G"
   ]
 }
-      """) should be(
-        Right(
-          Card(
-            "Autochthon Wurm",
-            Vector(CardType.Creature),
-            Vector(CreatureType.Wurm),
-            ManaCost(FixedGeneric(10), G, G, G, W, W),
-            Vector(Convoke),
-            power = PowerToughness(9).some,
-            toughness = PowerToughness(14).some
-          ))
-      )
-    }
+      """) ==
+            Right(Card(
+              "Autochthon Wurm",
+              Vector(CardType.Creature),
+              Vector(CreatureType.Wurm),
+              ManaCost(FixedGeneric(10), G, G, G, W, W),
+              Vector(Convoke),
+              power = PowerToughness(9).some,
+              toughness = PowerToughness(14).some
+            )))
+      }
 
-    "should be able to parse Phyrexian mana costs" in {
-      MtgJsonImporter.importCard(
-        """
+      "should be able to parse Phyrexian mana costs" - {
+        assert(
+          MtgJsonImporter.importCard(
+            """
 {
   "layout": "normal",
   "name": "Act of Aggression",
@@ -215,23 +208,21 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
     "R"
   ]
 }
-      """) should be(
-        Right(
-          Card(
-            "Act of Aggression",
-            Vector(CardType.Instant),
-            Vector.empty,
-            ManaCost(FixedGeneric(3), R / P, R / P),
-            Vector.empty,
-            power = None,
-            toughness = None
-          ))
-      )
-    }
+      """) ==
+            Right(
+              Card("Act of Aggression",
+                   Vector(CardType.Instant),
+                   Vector.empty,
+                   ManaCost(FixedGeneric(3), R / P, R / P),
+                   Vector.empty,
+                   power = None,
+                   toughness = None)))
+      }
 
-    "should be able to parse colorless mana costs" in {
-      MtgJsonImporter.importCard(
-        """
+      "should be able to parse colorless mana costs" - {
+        assert(
+          MtgJsonImporter.importCard(
+            """
 {
   "layout": "normal",
   "name": "Deceiver of Form",
@@ -249,18 +240,17 @@ class MtgJsonImporterSpec extends FreeSpec with Matchers {
   "toughness": "8",
   "imageName": "deceiver of form"
 }
-      """) should be(
-        Right(
-          Card(
-            "Deceiver of Form",
-            Vector(CardType.Creature),
-            Vector(CreatureType.Eldrazi),
-            ManaCost(FixedGeneric(6), C),
-            Vector.empty,
-            power = PowerToughness(8).some,
-            toughness = PowerToughness(8).some
-          ))
-      )
+      """) ==
+            Right(Card(
+              "Deceiver of Form",
+              Vector(CardType.Creature),
+              Vector(CreatureType.Eldrazi),
+              ManaCost(FixedGeneric(6), C),
+              Vector.empty,
+              power = PowerToughness(8).some,
+              toughness = PowerToughness(8).some
+            )))
+      }
     }
   }
 }
