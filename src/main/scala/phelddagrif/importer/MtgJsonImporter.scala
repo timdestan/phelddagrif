@@ -90,7 +90,8 @@ object MtgJsonImporter {
            manaCost,
            rulesText.keywordAbilities,
            power,
-           toughness)
+           toughness,
+           json.text.getOrElse(""))
 
     card.left.map(_.mapReason(reason =>
       s"Failed to parse ${json}\nReason: $reason"))

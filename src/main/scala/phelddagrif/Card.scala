@@ -6,7 +6,8 @@ case class Card(name: String,
                 manaCost: ManaCost,
                 abilities: Vector[KeywordAbility],
                 power: Option[PowerToughness],
-                toughness: Option[PowerToughness]) {
+                toughness: Option[PowerToughness],
+                rulesText: String) {
   def isLand = cardTypes.contains(CardType.Land)
 
   override def toString: String = {

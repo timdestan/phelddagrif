@@ -6,10 +6,9 @@ import utest._
 
 object MtgJsonImporterTest extends TestSuite {
   val tests = Tests {
-    "MtgJsonImporter.importCard" - {
-      "should be able to import a card" - {
-        assert(
-          MtgJsonImporter.importCard("""
+    "simple creature" - {
+      assert(
+        MtgJsonImporter.importCard("""
 {
   "layout": "normal",
   "name": "Air Elemental",
@@ -34,20 +33,21 @@ object MtgJsonImporterTest extends TestSuite {
   ]
 }
 """) == Right(Card(
-            "Air Elemental",
-            Vector(CardType.Creature),
-            Vector(CreatureType.Elemental),
-            ManaCost(FixedGeneric(3), U, U),
-            Vector(Flying),
-            PowerToughness(4).some,
-            PowerToughness(4).some
-          )))
-      }
+          "Air Elemental",
+          Vector(CardType.Creature),
+          Vector(CreatureType.Elemental),
+          ManaCost(FixedGeneric(3), U, U),
+          Vector(Flying),
+          PowerToughness(4).some,
+          PowerToughness(4).some,
+          "Flying"
+        )))
+    }
 
-      "should be able to import a land" - {
-        assert(
-          MtgJsonImporter.importCard(
-            """
+    "simple land" - {
+      assert(
+        MtgJsonImporter.importCard(
+          """
 {
   "layout": "normal",
   "name": "Plateau",
@@ -67,20 +67,22 @@ object MtgJsonImporterTest extends TestSuite {
   ]
 }
 """) ==
-            Right(
-              Card("Plateau",
-                   Vector(CardType.Land),
-                   Vector(LandType.Mountain, LandType.Plains),
-                   ManaCost.Zero,
-                   Vector(),
-                   power = None,
-                   toughness = None)))
-      }
+          Right(Card(
+            "Plateau",
+            Vector(CardType.Land),
+            Vector(LandType.Mountain, LandType.Plains),
+            ManaCost.Zero,
+            Vector(),
+            power = None,
+            toughness = None,
+            "({T}: Add {R} or {W} to your mana pool.)"
+          )))
+    }
 
-      "should be able to parse variable generic mana cost" - {
-        assert(
-          MtgJsonImporter.importCard(
-            """
+    "variable generic mana cost" - {
+      assert(
+        MtgJsonImporter.importCard(
+          """
 {
   "layout": "normal",
   "name": "Abandon Hope",
@@ -100,20 +102,22 @@ object MtgJsonImporterTest extends TestSuite {
   ]
 }
 """) ==
-            Right(
-              Card("Abandon Hope",
-                   Vector(CardType.Sorcery),
-                   Vector(),
-                   ManaCost(VariableGeneric("X"), FixedGeneric(1), B),
-                   Vector(),
-                   power = None,
-                   toughness = None)))
-      }
+          Right(Card(
+            "Abandon Hope",
+            Vector(CardType.Sorcery),
+            Vector(),
+            ManaCost(VariableGeneric("X"), FixedGeneric(1), B),
+            Vector(),
+            power = None,
+            toughness = None,
+            "As an additional cost to cast Abandon Hope, discard X cards.\nLook at target opponent's hand and choose X cards from it. That player discards those cards."
+          )))
+    }
 
-      "should be able to parse hybrid mana costs" - {
-        assert(
-          MtgJsonImporter.importCard(
-            """
+    "hybrid mana cost" - {
+      assert(
+        MtgJsonImporter.importCard(
+          """
 {
   "layout": "normal",
   "name": "Arrows of Justice",
@@ -135,20 +139,22 @@ object MtgJsonImporterTest extends TestSuite {
   ]
 }
       """) ==
-            Right(
-              Card("Arrows of Justice",
-                   Vector(CardType.Instant),
-                   Vector(),
-                   ManaCost(FixedGeneric(2), R / W),
-                   Vector(),
-                   power = None,
-                   toughness = None)))
-      }
+          Right(Card(
+            "Arrows of Justice",
+            Vector(CardType.Instant),
+            Vector(),
+            ManaCost(FixedGeneric(2), R / W),
+            Vector(),
+            power = None,
+            toughness = None,
+            "Arrows of Justice deals 4 damage to target attacking or blocking creature."
+          )))
+    }
 
-      "should be able to parse double digit mana costs" - {
-        assert(
-          MtgJsonImporter.importCard(
-            """
+    "double digit mana cost" - {
+      assert(
+        MtgJsonImporter.importCard(
+          """
 {
   "layout": "normal",
   "name": "Autochthon Wurm",
@@ -175,21 +181,22 @@ object MtgJsonImporterTest extends TestSuite {
   ]
 }
       """) ==
-            Right(Card(
-              "Autochthon Wurm",
-              Vector(CardType.Creature),
-              Vector(CreatureType.Wurm),
-              ManaCost(FixedGeneric(10), G, G, G, W, W),
-              Vector(Convoke),
-              power = PowerToughness(9).some,
-              toughness = PowerToughness(14).some
-            )))
-      }
+          Right(Card(
+            "Autochthon Wurm",
+            Vector(CardType.Creature),
+            Vector(CreatureType.Wurm),
+            ManaCost(FixedGeneric(10), G, G, G, W, W),
+            Vector(Convoke),
+            power = PowerToughness(9).some,
+            toughness = PowerToughness(14).some,
+            "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nTrample"
+          )))
+    }
 
-      "should be able to parse Phyrexian mana costs" - {
-        assert(
-          MtgJsonImporter.importCard(
-            """
+    "Phyrexian mana cost" - {
+      assert(
+        MtgJsonImporter.importCard(
+          """
 {
   "layout": "normal",
   "name": "Act of Aggression",
@@ -209,20 +216,22 @@ object MtgJsonImporterTest extends TestSuite {
   ]
 }
       """) ==
-            Right(
-              Card("Act of Aggression",
-                   Vector(CardType.Instant),
-                   Vector.empty,
-                   ManaCost(FixedGeneric(3), R / P, R / P),
-                   Vector.empty,
-                   power = None,
-                   toughness = None)))
-      }
+          Right(Card(
+            "Act of Aggression",
+            Vector(CardType.Instant),
+            Vector.empty,
+            ManaCost(FixedGeneric(3), R / P, R / P),
+            Vector.empty,
+            power = None,
+            toughness = None,
+            "({R/P} can be paid with either {R} or 2 life.)\nGain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn."
+          )))
+    }
 
-      "should be able to parse colorless mana costs" - {
-        assert(
-          MtgJsonImporter.importCard(
-            """
+    "colorless mana cost" - {
+      assert(
+        MtgJsonImporter.importCard(
+          """
 {
   "layout": "normal",
   "name": "Deceiver of Form",
@@ -241,16 +250,16 @@ object MtgJsonImporterTest extends TestSuite {
   "imageName": "deceiver of form"
 }
       """) ==
-            Right(Card(
-              "Deceiver of Form",
-              Vector(CardType.Creature),
-              Vector(CreatureType.Eldrazi),
-              ManaCost(FixedGeneric(6), C),
-              Vector.empty,
-              power = PowerToughness(8).some,
-              toughness = PowerToughness(8).some
-            )))
-      }
+          Right(Card(
+            "Deceiver of Form",
+            Vector(CardType.Creature),
+            Vector(CreatureType.Eldrazi),
+            ManaCost(FixedGeneric(6), C),
+            Vector.empty,
+            power = PowerToughness(8).some,
+            toughness = PowerToughness(8).some,
+            "({C} represents colorless mana.)\nAt the beginning of combat on your turn, reveal the top card of your library. If a creature card is revealed this way, you may have creatures you control other than Deceiver of Form become copies of that card until end of turn. You may put that card on the bottom of your library."
+          )))
     }
   }
 }
