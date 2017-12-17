@@ -10,7 +10,7 @@ object DecksImporter {
     Decklist.parse(Source.fromFile("resources/decks/weissman.txt").mkString)
 
   def main(args: Array[String]): Unit = {
-    val universe         = MtgJsonImporter.allCardsFromZipPath().map(Universe(_))
+    val universe         = MtgJsonImporter.importAllSets.map(Universe(_))
     val weissmanDecklist = parseWeismannTxt
     val weissmanDeck = (universe |@| weissmanDecklist).map {
       case (universe, decklist) => decklist.toDeck(universe)

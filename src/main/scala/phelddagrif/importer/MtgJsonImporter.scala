@@ -8,7 +8,6 @@ import fastparse.all._
 import java.io.File
 import java.util.zip.ZipFile
 import io.circe.generic.auto._
-import io.circe.jawn.JawnParser
 import scala.io.Source
 
 object MtgJson {
@@ -31,30 +30,49 @@ object MtgJson {
   type AllSets = Map[String, Set]
 }
 
+case class MtgJsonData(sets: Map[String, MtgJson.Set]) {
+  lazy val cardsByName = sets.values
+    .flatMap(_.cards)
+    .groupBy(_.name)
+    .mapValues(_.head)
+}
+
+object MtgJsonData {
+  def fromBundledZip(): Result[MtgJsonData] = {
+    import scala.collection.JavaConverters._
+    val root = new ZipFile("resources/mtgjson/AllSets.json.zip")
+
+    val json = root.entries.asScala
+      .map(entry => {
+        val source =
+          Source.fromInputStream(root.getInputStream(entry))("UTF-8")
+        val contents = source.getLines.mkString
+        source.close()
+        contents
+      })
+      .toList
+      .head
+
+    JsonParser.decode[MtgJson.AllSets](json).map(MtgJsonData(_))
+  }
+}
+
 // Importer to read in Magic card data in the format provided by mtgjson.com
 object MtgJsonImporter {
-  lazy val parser = new JawnParser()
-
-  // Decode helper that maps errors to our Error type.
-  def decode[T](text: String)(
-      implicit decoder: io.circe.Decoder[T]): Result[T] =
-    parser.decode[T](text)(decoder).left.map(Error.fromThrowable(_))
-
-  def importAllSets(allSetsRawJson: String): Result[Vector[Card]] = {
-    decode[MtgJson.AllSets](allSetsRawJson)
-      .map(
-        allSets =>
-          allSets.values
+  def importAllSets: Result[Vector[Card]] = {
+    MtgJsonData.fromBundledZip.map(
+        jsonData =>
+          jsonData.sets.values
             .filter(set => set.`type` != "un") // Exclude the un sets.
             .flatMap(set => set.cards.map(parseCardParts(_)))
             .toVector
             .sequence)
-      .flatten // Flatten the 2 Eithers to 1 Either.
+      .flatten
   }
 
   // All the tests are still written against this interface :(
   def importCard(text: String): Result[Card] =
-    decode[MtgJson.Card](text).flatMap(parseCardParts(_))
+    JsonParser.decode[MtgJson.Card](text).flatMap(parseCardParts(_))
 
   implicit class EnrichedParser[A](underlying: Parser[A]) {
     private val fullParser       = P(underlying ~ End)
@@ -98,31 +116,8 @@ object MtgJsonImporter {
       s"Failed to parse ${json}\nReason: $reason"))
   }
 
-  val allSetsJsonPath = "resources/mtgjson/AllSets.json.zip"
-
-  def allSetsRawJson(path: String = allSetsJsonPath): String = {
-    import scala.collection.JavaConverters._
-    val root = new ZipFile("resources/mtgjson/AllSets.json.zip")
-
-    root.entries.asScala
-      .map(entry => {
-        val source =
-          Source.fromInputStream(root.getInputStream(entry))("UTF-8")
-        val contents = source.getLines.mkString
-        source.close()
-        contents
-      })
-      .toList
-      .head
-  }
-
-  def allCardsFromZipPath(
-      path: String = allSetsJsonPath): Result[Vector[Card]] = {
-    importAllSets(allSetsRawJson(path))
-  }
-
   def main(args: Array[String]): Unit = {
-    allCardsFromZipPath() match {
+    importAllSets match {
       case Left(error) => println(s"Parse failed with $error")
       case Right(cards) => {
         val universe = Universe(cards)
