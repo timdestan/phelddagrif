@@ -99,7 +99,7 @@ object RulesText {
 
     object Parsers {
       // Some of these are non-ascii. TODO: Normalize.
-      val punctStr = "\",.:{}/+-—•−"
+      val punctStr   = "\",.:{}/+-—•−"
       val nonWordStr = punctStr + " \n()"
 
       val word  = CharsWhile(!nonWordStr.contains(_)).rep(min = 1).!.map(Word(_))

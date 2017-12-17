@@ -20,6 +20,7 @@ object RulesTextParserTest extends TestSuite {
                        Punctuation(","),
                        Word("Trample"),
                        Punctuation(".")))
+    }
     "reminder text" - {
       checkTokens(
         "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nTrample",
