@@ -1,15 +1,9 @@
 package phelddagrif
 package importer
 
-// For now we only look for keyword abilities.
-case class ParsedRulesText(
-    keywordAbilities: Vector[KeywordAbility]
-)
-
-object ParsedRulesText {
-  // Empty card text.
-  lazy val empty = new ParsedRulesText(Vector())
-}
+import cats._
+import cats.data._
+import cats.implicits._
 
 object ParsedKeywordAbility {
   // Map from name to keyword abilities for keywords that have
@@ -73,21 +67,66 @@ object ParsedKeywordAbility {
     nullaryKeywordAbilities.get(text)
 }
 
-object RulesTextTokenizer {
-  // Too dumb to work generally, but passes all current test cases.
-  def tokens(text: String): Seq[String] =
-    for {
-      token <- text.split(" +")
-    } yield token.trim
-}
+case class RulesText(
+    keywordAbilities: Vector[KeywordAbility]
+)
 
-object RulesTextParser {
-  def parse(text: String): ParsedRulesText = {
-    val parsedKeywords = RulesTextTokenizer
-      .tokens(text)
-      .map { ParsedKeywordAbility.tryParse(_) }
-      .flatten
-      .toVector
-    new ParsedRulesText(parsedKeywords)
+object RulesText {
+  val empty = RulesText(Vector())
+
+  sealed trait Token {
+    import Token._
+
+    override def toString = this match {
+      case Word(w)         => s"w(${w})"
+      case Punctuation(p)  => s"punct(${p})"
+      case ReminderText(r) => s"rem(${r})"
+    }
+  }
+
+  object Token {
+    case class Word(text: String)          extends Token
+    case class Punctuation(symbol: String) extends Token
+    case class ReminderText(text: String)  extends Token
+
+    val Whitespace = fastparse.WhitespaceApi.Wrapper {
+      import fastparse.all._
+      NoTrace(CharIn(" \n").rep)
+    }
+
+    import fastparse.noApi._
+    import Whitespace._
+
+    object Parsers {
+      // Some of these are non-ascii. TODO: Normalize.
+      val punctStr = "\",.:{}/+-—•−"
+      val nonWordStr = punctStr + " \n()"
+
+      val word  = CharsWhile(!nonWordStr.contains(_)).rep(min = 1).!.map(Word(_))
+      val punct = CharIn(punctStr).!.map(Punctuation(_))
+      val reminderText =
+        P("(" ~/ CharsWhile(_ != ')').! ~ ")").map(ReminderText(_))
+      val tokens: Parser[Vector[Token]] =
+        (reminderText | word | punct).rep.map(_.toVector)
+    }
+    val parser = P(Parsers.tokens ~ End)
+  }
+
+  def tokenize(text: String): Result[Vector[Token]] =
+    Token.parser.parse(text).toResult
+
+  object Parser {
+    import Token._
+
+    def parse(text: String): Result[RulesText] =
+      tokenize(text)
+        .map { tokens =>
+          tokens.map {
+            case Word(w)         => ParsedKeywordAbility.tryParse(w)
+            case ReminderText(_) => None
+            case Punctuation(p)  => None
+          }.toVector
+        }
+        .map(ts => RulesText(ts.flatten))
   }
 }

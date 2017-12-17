@@ -78,7 +78,7 @@ case class Deck(main: Vector[Card], sideboard: Vector[Card]) {
         .groupBy(_.name)
         .toVector
         .map {
-          case (name, cards) => s"${cards.size} ${cards.head}"
+          case (name, cards) => s"${cards.size} ${cards.head.compactStr}"
         }
         .toVector
 

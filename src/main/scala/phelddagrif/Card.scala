@@ -10,7 +10,7 @@ case class Card(name: String,
                 rulesText: String) {
   def isLand = cardTypes.contains(CardType.Land)
 
-  override def toString: String = {
+  def compactStr: String = {
     val typeInfo = if (isLand) Nil else List(manaCost.toString)
     val powerToughnessInfo = for {
       p <- power

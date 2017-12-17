@@ -72,8 +72,8 @@ object MtgJsonImporter {
     val subtypeStrings = json.subtypes.getOrElse(Vector())
     val subtypes =
       subtypeStrings.map(CardSubtypeParser.tryParse(_)).flatten.toVector
-    val rulesText =
-      json.text.map(RulesTextParser.parse(_)).getOrElse(ParsedRulesText.empty)
+    val rulesText: Result[RulesText] =
+      json.text.map(RulesText.Parser.parse(_)).getOrElse(Right(RulesText.empty))
 
     val manaCost  = ManaCost.parser.parseFull(json.manaCost.getOrElse(""))
     val power     = json.power.traverse(PowerToughness.parser.parseFull(_))
@@ -81,6 +81,7 @@ object MtgJsonImporter {
 
     val card: Result[Card] = for {
       manaCost  <- manaCost
+      rulesText <- rulesText
       power     <- power
       toughness <- toughness
     } yield
@@ -99,22 +100,25 @@ object MtgJsonImporter {
 
   val allSetsJsonPath = "resources/mtgjson/AllSets.json.zip"
 
-  def allCardsFromZipPath(
-      path: String = allSetsJsonPath): Result[Vector[Card]] = {
+  def allSetsRawJson(path: String = allSetsJsonPath): String = {
     import scala.collection.JavaConverters._
     val root = new ZipFile("resources/mtgjson/AllSets.json.zip")
-    val allSetsRawJson =
-      root.entries.asScala
-        .map(entry => {
-          var source =
-            Source.fromInputStream(root.getInputStream(entry))("UTF-8")
-          val contents = source.getLines.mkString
-          source.close()
-          contents
-        })
-        .toList
-        .head
-    importAllSets(allSetsRawJson)
+
+    root.entries.asScala
+      .map(entry => {
+        val source =
+          Source.fromInputStream(root.getInputStream(entry))("UTF-8")
+        val contents = source.getLines.mkString
+        source.close()
+        contents
+      })
+      .toList
+      .head
+  }
+
+  def allCardsFromZipPath(
+      path: String = allSetsJsonPath): Result[Vector[Card]] = {
+    importAllSets(allSetsRawJson(path))
   }
 
   def main(args: Array[String]): Unit = {
