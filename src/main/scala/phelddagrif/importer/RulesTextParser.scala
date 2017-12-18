@@ -79,17 +79,17 @@ object RulesText {
 
     override def toString = this match {
       case Word(w)         => s"w(${w})"
-      case Punctuation(p)  => s"p(${p})"
+      case Punct(p)        => s"p(${p})"
       case ReminderText(r) => s"r(${r})"
-      case Ws(ws) => "<ws>"
+      case Ws(ws)          => "<ws>"
     }
   }
 
   object Token {
-    case class Word(text: String)          extends Token
-    case class Punctuation(symbol: String) extends Token
-    case class ReminderText(text: String)  extends Token
-    case class Ws(ws: String)              extends Token
+    case class Word(text: String)         extends Token
+    case class Punct(symbol: String)      extends Token
+    case class ReminderText(text: String) extends Token
+    case class Ws(ws: String)             extends Token
 
     import fastparse.all._
 
@@ -98,9 +98,9 @@ object RulesText {
       val punctStr   = "\",.:{}/+-—•−"
       val nonWordStr = punctStr + " \n()"
 
-      val ws = CharIn(" \n").!.map(Ws(_))
+      val ws    = CharIn(" \n").!.map(Ws(_))
       val word  = CharsWhile(!nonWordStr.contains(_)).rep(min = 1).!.map(Word(_))
-      val punct = CharIn(punctStr).!.map(Punctuation(_))
+      val punct = CharIn(punctStr).!.map(Punct(_))
       val reminderText =
         P("(" ~/ CharsWhile(_ != ')').! ~ ")").map(ReminderText(_))
       val tokens: Parser[Vector[Token]] =
@@ -121,8 +121,8 @@ object RulesText {
           tokens.map {
             case Word(w)         => ParsedKeywordAbility.tryParse(w)
             case ReminderText(_) => None
-            case Punctuation(_)  => None
-            case Ws(_) => None
+            case Punct(_)        => None
+            case Ws(_)           => None
           }.toVector
         }
         .map(ts => RulesText(ts.flatten))

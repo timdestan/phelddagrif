@@ -12,19 +12,16 @@ object RulesTextParserTest extends TestSuite {
   val tests = Tests {
     import RulesText.Token._
 
-    val space = Ws(" ")
+    val space   = Ws(" ")
     val newline = Ws("\n")
 
     "empty" - {
       checkTokens("", List())
     }
     "keywords" - {
-      checkTokens("Flying, Trample.",
-                  List(Word("Flying"),
-                       Punctuation(","),
-                       space,
-                       Word("Trample"),
-                       Punctuation(".")))
+      checkTokens(
+        "Flying, Trample.",
+        List(Word("Flying"), Punct(","), space, Word("Trample"), Punct(".")))
     }
     "reminder text" - {
       checkTokens(
@@ -43,16 +40,16 @@ object RulesTextParserTest extends TestSuite {
       checkTokens(
         "{T}: Add {G} to your mana pool.",
         List(
-          Punctuation("{"),
+          Punct("{"),
           Word("T"),
-          Punctuation("}"),
-          Punctuation(":"),
+          Punct("}"),
+          Punct(":"),
           space,
           Word("Add"),
           space,
-          Punctuation("{"),
+          Punct("{"),
           Word("G"),
-          Punctuation("}"),
+          Punct("}"),
           space,
           Word("to"),
           space,
@@ -61,7 +58,7 @@ object RulesTextParserTest extends TestSuite {
           Word("mana"),
           space,
           Word("pool"),
-          Punctuation(".")
+          Punct(".")
         )
       )
     }

@@ -6,7 +6,7 @@ package object phelddagrif {
 
   implicit class EnrichedEither[E, A](self: Either[E, A]) {
     def orDie: A = {
-      val Right(v) = self  // MatchError if self is Left.
+      val Right(v) = self // MatchError if self is Left.
       v
     }
   }

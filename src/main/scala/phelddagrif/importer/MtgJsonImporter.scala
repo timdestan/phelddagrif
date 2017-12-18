@@ -60,7 +60,8 @@ object MtgJsonData {
 // Importer to read in Magic card data in the format provided by mtgjson.com
 object MtgJsonImporter {
   def importAllSets: Result[Vector[Card]] = {
-    MtgJsonData.fromBundledZip.map(
+    MtgJsonData.fromBundledZip
+      .map(
         jsonData =>
           jsonData.sets.values
             .filter(set => set.`type` != "un") // Exclude the un sets.
